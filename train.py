@@ -3,14 +3,18 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
-stoi = { ch:i for i,ch in enumerate(string.printable) }
-itos = { i:ch for i,ch in enumerate(string.printable) }
+with open('input.txt', 'r') as f:
+    text = f.read()
+
+chars = list(set(text))
+vocab_size = len(chars)
+stoi = { ch:i for i,ch in enumerate(chars) }
+itos = { i:ch for i,ch in enumerate(chars) }
+
 def encode(s):
     return [stoi[ch] for ch in s]
 def decode(x):
     return ''.join([itos[i] for i in x])
-with open('input.txt', 'r') as f:
-    text = f.read()
 
 encoded = encode(text)
 data = torch.tensor(encoded, dtype=torch.long)
@@ -56,7 +60,6 @@ class BigramLanguageModel(nn.Module):
         return logits
     
 
-vocab_size = len(stoi)
 print (vocab_size)
 m = BigramLanguageModel(vocab_size)
 out = m(xb, yb)
