@@ -1,5 +1,7 @@
 import string
 import torch
+import torch.nn as nn
+from torch.nn import functional as F
 
 stoi = { ch:i for i,ch in enumerate(string.printable) }
 itos = { i:ch for i,ch in enumerate(string.printable) }
@@ -42,3 +44,20 @@ for b in range(batch_size):
         context = xb[b,:t+1]
         target = yb[b,t]
         print(f"t={t} context={decode(context.tolist())} target={decode([target.item()])}")
+
+
+class BigramLanguageModel(nn.Module):
+    def __init__(self, vocab_size):
+        super().__init__()
+        self.token_embedding_table = nn.Embedding(vocab_size, vocab_size)
+
+    def forward(self, idx, targets):
+        logits = self.token_embedding_table(idx)
+        return logits
+    
+
+vocab_size = len(stoi)
+print (vocab_size)
+m = BigramLanguageModel(vocab_size)
+out = m(xb, yb)
+print (out.shape)
