@@ -36,3 +36,9 @@ xb, yb = get_batch()
 print(xb.shape, yb.shape)
 print(xb[0])
 print(yb[0])
+
+for b in range(batch_size):
+    for t in range(block_size): 
+        context = xb[b,:t+1]
+        target = yb[b,t]
+        print(f"t={t} context={decode(context.tolist())} target={decode([target.item()])}")
