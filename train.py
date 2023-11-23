@@ -7,7 +7,6 @@ def encode(s):
     return [stoi[ch] for ch in s]
 def decode(x):
     return ''.join([itos[i] for i in x])
-
 with open('input.txt', 'r') as f:
     text = f.read()
 
@@ -18,4 +17,15 @@ first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
-print(train_data.shape, val_data.shape)
+block_size = 8
+
+x = train_data[:block_size]
+y = train_data[1:block_size+1]
+
+print (x)
+print (y)
+
+for t in range(block_size): 
+    context = x[:t+1]
+    target = y[t]
+    print(f"t={t} context={decode(context.tolist())} target={decode([target.item()])}")
