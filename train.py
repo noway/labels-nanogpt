@@ -23,17 +23,16 @@ block_size = 8
 x = train_data[:block_size]
 y = train_data[1:block_size+1]
 
-# print (x)
-# print (y)
-
-# for t in range(block_size): 
-#     context = x[:t+1]
-#     target = y[t]
-#     print(f"t={t} context={decode(context.tolist())} target={decode([target.item()])}")
 
 def get_batch():
     data = train_data
     ix = torch.randint(len(data) - block_size, (batch_size,))
-    print (ix)
+    x = torch.stack([data[i:i+block_size] for i in ix])
+    y = torch.stack([data[i+1:i+block_size+1] for i in ix])
+    return x, y
 
-get_batch()
+xb, yb = get_batch()
+
+print(xb.shape, yb.shape)
+print(xb[0])
+print(yb[0])
