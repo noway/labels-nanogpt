@@ -16,13 +16,6 @@ def encode(s):
 def decode(x):
     return ''.join([itos[i] for i in x])
 
-encoded = encode(text)
-data = torch.tensor(encoded, dtype=torch.long)
-
-first_90_percent = int(len(data) * 0.9)
-train_data = data[:first_90_percent]
-val_data = data[first_90_percent:]
-
 batch_size = 32
 block_size = 8
 num_embeddings = 32
@@ -32,6 +25,15 @@ eval_iters = 25
 n_layer = 4
 n_head = 4
 dropout = 0.2
+
+
+encoded = encode(text)
+data = torch.tensor(encoded, dtype=torch.long)
+data = data.to(device)
+
+first_90_percent = int(len(data) * 0.9)
+train_data = data[:first_90_percent]
+val_data = data[first_90_percent:]
 
 x = train_data[:block_size]
 y = train_data[1:block_size+1]
@@ -176,6 +178,7 @@ class Head(nn.Module):
 
 print (vocab_size)
 m = BigramLanguageModel()
+m.to(device)
 logits, loss = m(xb, yb)
 
 print(sum(p.numel() for p in m.parameters() if p.requires_grad)/1e6, "M parameters")
@@ -197,5 +200,6 @@ for steps in range(10000):
 print(loss.item())
 
 idx = torch.zeros(1, 1, dtype=torch.long)
+idx = idx.to(device)
 print(idx.shape)
 print(decode(m.generate(idx, 1000)[0].tolist()))
