@@ -55,11 +55,11 @@ def get_batch_val():
 
 xb, yb = get_batch()
 
-for b in range(batch_size):
-    for t in range(block_size): 
-        context = xb[b,:t+1]
-        target = yb[b,t]
-        print(f"t={t} context={decode(context.tolist())} target={decode([target.item()])}")
+# for b in range(batch_size):
+#     for t in range(block_size): 
+#         context = xb[b,:t+1]
+#         target = yb[b,t]
+#         print(f"t={t} context={decode(context.tolist())} target={decode([target.item()])}")
 
 class MultiHeadAttention(nn.Module):
     """ multiple heads of self-attention in parallel """
