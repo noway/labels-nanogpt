@@ -179,7 +179,6 @@ class Head(nn.Module):
 print (vocab_size)
 m = BigramLanguageModel()
 m.to(device)
-logits, loss = m(xb, yb)
 
 print(sum(p.numel() for p in m.parameters() if p.requires_grad)/1e6, "M parameters")
 optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
