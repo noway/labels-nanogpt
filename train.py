@@ -25,6 +25,7 @@ val_data = data[first_90_percent:]
 
 batch_size = 32
 block_size = 8
+num_embeddings = 32
 
 x = train_data[:block_size]
 y = train_data[1:block_size+1]
@@ -53,7 +54,7 @@ for b in range(batch_size):
 class BigramLanguageModel(nn.Module):
     def __init__(self):
         super().__init__()
-        self.token_embedding_table = nn.Embedding(vocab_size, vocab_size)
+        self.token_embedding_table = nn.Embedding(vocab_size, num_embeddings)
 
     def forward(self, idx, targets=None):
 
