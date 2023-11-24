@@ -41,10 +41,6 @@ def get_batch():
 
 xb, yb = get_batch()
 
-# print(xb.shape, yb.shape)
-# print(xb[0])
-# print(yb[0])
-
 for b in range(batch_size):
     for t in range(block_size): 
         context = xb[b,:t+1]
@@ -105,8 +101,6 @@ class BigramLanguageModel(nn.Module):
             Block(num_embeddings, 4),
             nn.LayerNorm(num_embeddings)
         )
-        # self.sa_heads = MultiHeadAttention(4, num_embeddings // 4)
-        # self.ffwd = FeedForward(num_embeddings)
         self.lm_head = nn.Linear(num_embeddings, vocab_size)
 
     def forward(self, idx, targets=None):
@@ -116,8 +110,6 @@ class BigramLanguageModel(nn.Module):
         tok_emb = self.token_embedding_table(idx) # B x T x C
         pos_emb = self.position_embedding_table(torch.arange(T, device=device)) # T x C
         x = tok_emb + pos_emb # B x T x C
-        # x = self.sa_heads(x) # B x T x C
-        # x = self.ffwd(x) # B x T x C
         x = self.blocks(x)
         logits = self.lm_head(x) # B x T x vocab_size
 
@@ -171,9 +163,6 @@ class Head(nn.Module):
 print (vocab_size)
 m = BigramLanguageModel()
 logits, loss = m(xb, yb)
-# print (logits.shape)
-# print (loss)
-
 
 optimizer = torch.optim.Adam(m.parameters(), lr=1e-3)
 
