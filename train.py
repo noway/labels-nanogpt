@@ -51,7 +51,7 @@ for b in range(batch_size):
 
 
 class BigramLanguageModel(nn.Module):
-    def __init__(self, vocab_size):
+    def __init__(self):
         super().__init__()
         self.token_embedding_table = nn.Embedding(vocab_size, vocab_size)
 
@@ -80,7 +80,7 @@ class BigramLanguageModel(nn.Module):
     
 
 print (vocab_size)
-m = BigramLanguageModel(vocab_size)
+m = BigramLanguageModel()
 logits, loss = m(xb, yb)
 # print (logits.shape)
 # print (loss)
