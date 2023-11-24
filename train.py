@@ -23,7 +23,7 @@ first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
-batch_size = 4
+batch_size = 32
 block_size = 8
 
 x = train_data[:block_size]
@@ -86,4 +86,18 @@ logits, loss = m(xb, yb)
 # print (loss)
 
 idx = torch.zeros(1, 1, dtype=torch.long)
+
+optimizer = torch.optim.Adam(m.parameters(), lr=1e-3)
+
+for steps in range(10000):
+    xb, yb = get_batch()
+    logits, loss = m(xb, yb)
+    optimizer.zero_grad(set_to_none=True)
+    loss.backward()
+    optimizer.step()
+    if steps % 100 == 0:
+        print(loss.item())
+
+print(loss.item())
+
 print(decode(m.generate(idx, 100)[0].tolist()))
