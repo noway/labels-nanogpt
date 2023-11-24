@@ -18,6 +18,7 @@ def decode(x):
 
 batch_size = 64
 block_size = 256
+max_iters = 5000
 num_embeddings = 384
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 learning_rate = 3e-4
@@ -183,7 +184,7 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad)/1e6, "M parameters")
 optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
 
-for steps in range(10000):
+for steps in range(max_iters):
     xb, yb = get_batch()
     logits, loss = m(xb, yb)
     optimizer.zero_grad(set_to_none=True)
