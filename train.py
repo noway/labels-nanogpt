@@ -26,6 +26,7 @@ val_data = data[first_90_percent:]
 batch_size = 32
 block_size = 8
 num_embeddings = 32
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 x = train_data[:block_size]
 y = train_data[1:block_size+1]
@@ -55,12 +56,17 @@ class BigramLanguageModel(nn.Module):
     def __init__(self):
         super().__init__()
         self.token_embedding_table = nn.Embedding(vocab_size, num_embeddings)
+        self.position_embedding_table = nn.Embedding(block_size, num_embeddings)
         self.lm_head = nn.Linear(num_embeddings, vocab_size)
 
     def forward(self, idx, targets=None):
 
+        B, T = idx.shape
+        # idx and targets are both B x T
         tok_emb = self.token_embedding_table(idx) # B x T x C
-        logits = self.lm_head(tok_emb) # B x T x vocab_size
+        pos_emb = self.position_embedding_table(torch.arange(T, device=device)) # T x C
+        x = tok_emb + pos_emb # B x T x C
+        logits = self.lm_head(x) # B x T x vocab_size
 
         if targets is None:
             loss = None
@@ -72,13 +78,20 @@ class BigramLanguageModel(nn.Module):
         return logits, loss
 
     def generate(self, idx, max_new_tokens):
+        # this is an array for the generated tokens
+        # we'll keep appending to it as we generate more tokens
+        # we'll stop when we reach max_new_tokens
+        idx_result = idx.clone().detach()
         for _ in range(max_new_tokens):
             logits, loss = self(idx)
             logits = logits[:, -1, :]
             probs = F.softmax(logits, dim=-1)
             idx_next = torch.multinomial(probs, num_samples=1)
+            idx_result = torch.cat([idx_result, idx_next], dim=-1)
             idx = torch.cat([idx, idx_next], dim=-1)
-        return idx
+            # clip idx to block_size so that we're not feeding the model tokens past it's context window
+            idx = idx[:, -block_size:]
+        return idx_result
 
     
 
@@ -88,7 +101,6 @@ logits, loss = m(xb, yb)
 # print (logits.shape)
 # print (loss)
 
-idx = torch.zeros(1, 1, dtype=torch.long)
 
 optimizer = torch.optim.Adam(m.parameters(), lr=1e-3)
 
@@ -103,4 +115,6 @@ for steps in range(10000):
 
 print(loss.item())
 
+idx = torch.zeros(1, 1, dtype=torch.long)
+print(idx.shape)
 print(decode(m.generate(idx, 100)[0].tolist()))
