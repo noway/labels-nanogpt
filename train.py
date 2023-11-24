@@ -158,9 +158,9 @@ class Head(nn.Module):
 
     def __init__(self, head_size):
         super().__init__()
-        self.key = nn.Linear(num_embeddings, head_size)
-        self.query = nn.Linear(num_embeddings, head_size)
-        self.value = nn.Linear(num_embeddings, head_size)
+        self.key = nn.Linear(num_embeddings, head_size, bias=False)
+        self.query = nn.Linear(num_embeddings, head_size, bias=False)
+        self.value = nn.Linear(num_embeddings, head_size, bias=False)
         self.register_buffer("tril", torch.tril(torch.ones(block_size, block_size)))
 
         self.dropout = nn.Dropout(dropout)
