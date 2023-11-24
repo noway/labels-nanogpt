@@ -24,11 +24,13 @@ train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
 batch_size = 32
-block_size = 8
-num_embeddings = 32
+block_size = 64
+num_embeddings = 192
+eval_iters = 25
+learning_rate = 6e-4
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-n_layer = 4
-n_head = 4
+n_layer = 6
+n_head = 6
 dropout = 0.2
 
 x = train_data[:block_size]
@@ -176,7 +178,8 @@ print (vocab_size)
 m = BigramLanguageModel()
 logits, loss = m(xb, yb)
 
-optimizer = torch.optim.Adam(m.parameters(), lr=1e-3)
+print(sum(p.numel() for p in m.parameters() if p.requires_grad)/1e6, "M parameters")
+optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
 
 for steps in range(10000):
     xb, yb = get_batch()
@@ -184,7 +187,7 @@ for steps in range(10000):
     optimizer.zero_grad(set_to_none=True)
     loss.backward()
     optimizer.step()
-    if steps % 100 == 0:
+    if steps % eval_iters == 0:
         training_data_loss = loss.item()
         validation_batch = get_batch_val()
         logits, loss = m(*validation_batch)
