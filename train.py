@@ -42,6 +42,13 @@ def get_batch():
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
     return x, y
 
+def get_batch_val():
+    data = val_data
+    ix = torch.randint(len(data) - block_size, (batch_size,))
+    x = torch.stack([data[i:i+block_size] for i in ix])
+    y = torch.stack([data[i+1:i+block_size+1] for i in ix])
+    return x, y
+
 xb, yb = get_batch()
 
 for b in range(batch_size):
@@ -178,7 +185,11 @@ for steps in range(10000):
     loss.backward()
     optimizer.step()
     if steps % 100 == 0:
-        print(loss.item())
+        training_data_loss = loss.item()
+        validation_batch = get_batch_val()
+        logits, loss = m(*validation_batch)
+        val_loss = loss.item()
+        print(f"steps={steps} training_data_loss={training_data_loss} val_loss={val_loss}")
 
 print(loss.item())
 
