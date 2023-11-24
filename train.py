@@ -16,14 +16,14 @@ def encode(s):
 def decode(x):
     return ''.join([itos[i] for i in x])
 
-batch_size = 32
-block_size = 8
-num_embeddings = 32
+batch_size = 64
+block_size = 256
+num_embeddings = 384
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-learning_rate = 6e-4
+learning_rate = 3e-4
 eval_iters = 25
-n_layer = 4
-n_head = 4
+n_layer = 6
+n_head = 6
 dropout = 0.2
 
 
