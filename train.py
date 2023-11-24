@@ -195,4 +195,4 @@ print(loss.item())
 
 idx = torch.zeros(1, 1, dtype=torch.long)
 print(idx.shape)
-print(decode(m.generate(idx, 100)[0].tolist()))
+print(decode(m.generate(idx, 1000)[0].tolist()))
