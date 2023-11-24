@@ -51,13 +51,22 @@ for b in range(batch_size):
         target = yb[b,t]
         print(f"t={t} context={decode(context.tolist())} target={decode([target.item()])}")
 
+class MultiHeadAttention(nn.Module):
+    """ multiple heads of self-attention in parallel """
+
+    def __init__(self, head_size, num_heads):
+        super().__init__()
+        self.heads = nn.ModuleList([Head(head_size) for _ in range(num_heads)])
+
+    def forward(self, x):
+        return torch.cat([h(x) for h in self.heads], dim=-1)
 
 class BigramLanguageModel(nn.Module):
     def __init__(self):
         super().__init__()
         self.token_embedding_table = nn.Embedding(vocab_size, num_embeddings)
         self.position_embedding_table = nn.Embedding(block_size, num_embeddings)
-        self.sa_head = Head(num_embeddings)
+        self.sa_heads = MultiHeadAttention(4, num_embeddings // 4)
         self.lm_head = nn.Linear(num_embeddings, vocab_size)
 
     def forward(self, idx, targets=None):
@@ -67,7 +76,7 @@ class BigramLanguageModel(nn.Module):
         tok_emb = self.token_embedding_table(idx) # B x T x C
         pos_emb = self.position_embedding_table(torch.arange(T, device=device)) # T x C
         x = tok_emb + pos_emb # B x T x C
-        x = self.sa_head(x) # B x T x C
+        x = self.sa_heads(x) # B x T x C
         logits = self.lm_head(x) # B x T x vocab_size
 
         if targets is None:
