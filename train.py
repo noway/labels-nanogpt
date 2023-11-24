@@ -24,13 +24,13 @@ train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
 batch_size = 32
-block_size = 64
-num_embeddings = 192
-eval_iters = 25
-learning_rate = 6e-4
+block_size = 8
+num_embeddings = 32
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-n_layer = 6
-n_head = 6
+learning_rate = 6e-4
+eval_iters = 25
+n_layer = 4
+n_head = 4
 dropout = 0.2
 
 x = train_data[:block_size]
