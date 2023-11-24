@@ -65,10 +65,10 @@ xb, yb = get_batch()
 class MultiHeadAttention(nn.Module):
     """ multiple heads of self-attention in parallel """
 
-    def __init__(self, head_size, num_heads):
+    def __init__(self, num_heads, head_size):
         super().__init__()
         self.heads = nn.ModuleList([Head(head_size) for _ in range(num_heads)])
-        self.proj = nn.Linear(num_embeddings, num_embeddings)
+        self.proj = nn.Linear(head_size * num_heads, num_embeddings)
         self.dropout = nn.Dropout(dropout)
 
     def forward(self, x):
@@ -97,7 +97,7 @@ class Block(nn.Module):
     def __init__(self, num_embeddings, n_head):
         super().__init__()
         head_size = num_embeddings // n_head
-        self.sa = MultiHeadAttention(head_size, n_head)
+        self.sa = MultiHeadAttention(n_head, head_size)
         self.ffwd = FeedForward(num_embeddings)
         self.ln1 = nn.LayerNorm(num_embeddings)
         self.ln2 = nn.LayerNorm(num_embeddings)
@@ -169,7 +169,7 @@ class Head(nn.Module):
         B, T, C = x.shape
         k = self.key(x)
         q = self.query(x)
-        wei = q @ k.transpose(-2, -1) / C**-0.5
+        wei = q @ k.transpose(-2, -1) * k.shape[-1]**-0.5
         wei = wei.masked_fill(self.tril[:T, :T] == 0, float("-inf"))
         wei = F.softmax(wei, dim=-1)
         wei = self.dropout(wei)
