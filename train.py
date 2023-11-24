@@ -57,6 +57,7 @@ class BigramLanguageModel(nn.Module):
         super().__init__()
         self.token_embedding_table = nn.Embedding(vocab_size, num_embeddings)
         self.position_embedding_table = nn.Embedding(block_size, num_embeddings)
+        self.sa_head = Head(num_embeddings)
         self.lm_head = nn.Linear(num_embeddings, vocab_size)
 
     def forward(self, idx, targets=None):
@@ -66,6 +67,7 @@ class BigramLanguageModel(nn.Module):
         tok_emb = self.token_embedding_table(idx) # B x T x C
         pos_emb = self.position_embedding_table(torch.arange(T, device=device)) # T x C
         x = tok_emb + pos_emb # B x T x C
+        x = self.sa_head(x) # B x T x C
         logits = self.lm_head(x) # B x T x vocab_size
 
         if targets is None:
@@ -94,6 +96,26 @@ class BigramLanguageModel(nn.Module):
         return idx_result
 
     
+class Head(nn.Module):
+    """ the head of self-attention """
+
+    def __init__(self, head_size):
+        super().__init__()
+        self.key = nn.Linear(num_embeddings, head_size)
+        self.query = nn.Linear(num_embeddings, head_size)
+        self.value = nn.Linear(num_embeddings, head_size)
+        self.register_buffer("tril", torch.tril(torch.ones(block_size, block_size)))
+
+    def forward(self, x):
+        B, T, C = x.shape
+        k = self.key(x)
+        q = self.query(x)
+        wei = q @ k.transpose(-2, -1) / C**-0.5
+        wei = wei.masked_fill(self.tril[:T, :T] == 0, float("-inf"))
+        wei = F.softmax(wei, dim=-1)
+        v = self.value(x)
+        out = wei @ v
+        return out
 
 print (vocab_size)
 m = BigramLanguageModel()
