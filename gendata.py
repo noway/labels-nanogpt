@@ -42,10 +42,13 @@ def level_codename_to_level(level_codename):
     elif level_codename == 'grade_4':
         return '4th Grade'
 
-level_codename = sys.argv[1]
-with open(f'{level_codename}_toc.json') as f:
-    data = json.load(f)
-    level = level_codename_to_level(level_codename)
-    for chapter in data:
-        for section in data[chapter]:
-            generate_and_save_section_of_a_chapter(level, chapter, section)
+def generate_textbooks(): 
+    level_codename = sys.argv[1]
+    with open(f'{level_codename}_toc.json') as f:
+        data = json.load(f)
+        level = level_codename_to_level(level_codename)
+        for chapter in data:
+            for section in data[chapter]:
+                generate_and_save_section_of_a_chapter(level, chapter, section)
+
+generate_textbooks()
