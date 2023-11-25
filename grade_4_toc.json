@@ -1,47 +1,54 @@
 {
     "Introduction to Numbers": [
-        "Counting from 1 to 10",
-        "Recognizing Numbers",
-        "Number Songs and Games"
+        "Understanding Place Values",
+        "Comparing and Ordering Numbers",
+        "Rounding Numbers"
     ],
-    "Shapes Around Us": [
-        "Identifying Basic Shapes",
-        "Shape Hunts: Finding Shapes in the Classroom",
-        "Creating Shapes with Art"
+    "Operations with Numbers": [
+        "Addition and Subtraction",
+        "Multiplication Concepts and Facts",
+        "Division Concepts and Facts",
+        "Solving Word Problems"
     ],
-    "Colors and Numbers": [
-        "Counting with Colors",
-        "Sorting by Color and Shape",
-        "Colorful Patterns"
+    "Fractions": [
+        "Introduction to Fractions",
+        "Comparing and Ordering Fractions",
+        "Equivalent Fractions",
+        "Adding and Subtracting Fractions"
     ],
-    "Size and Measurement": [
-        "Big and Small: Understanding Size",
-        "Introduction to Measuring",
-        "Comparing Lengths"
+    "Decimals": [
+        "Understanding Decimals",
+        "Comparing and Ordering Decimals",
+        "Adding and Subtracting Decimals"
     ],
-    "Numbers in Our World": [
-        "Counting Objects in Our Surroundings",
-        "Numbers in Stories",
-        "Using Numbers in Daily Routines"
+    "Measurement": [
+        "Units of Length",
+        "Units of Weight and Volume",
+        "Time and Calendar",
+        "Area and Perimeter"
     ],
-    "Basic Addition and Subtraction": [
-        "Introduction to Addition",
-        "Introduction to Subtraction",
-        "Simple Addition and Subtraction Games"
+    "Geometry": [
+        "Basic Shapes and Properties",
+        "Symmetry and Transformations",
+        "Introduction to Angles"
     ],
-    "Time and Seasons": [
-        "Understanding Days and Weeks",
-        "Introduction to Seasons",
-        "Simple Calendar Activities"
+    "Data and Probability": [
+        "Reading and Creating Graphs",
+        "Mean, Median, Mode",
+        "Basic Probability Concepts"
     ],
-    "Fun with Math": [
-        "Math Puzzles and Games",
-        "Storytime with Math",
-        "Creative Math Projects"
+    "Problem Solving and Critical Thinking": [
+        "Strategies for Problem Solving",
+        "Logical Reasoning",
+        "Applying Math in Everyday Life"
     ],
-    "Review and Activities": [
-        "Reviewing Key Concepts",
-        "Interactive Math Activities",
-        "Preparing for First Grade Math"
+    "Review and Assessments": [
+        "Chapter Reviews",
+        "Practice Tests",
+        "Fun Math Puzzles and Activities"
+    ],
+    "Appendices": [
+        "Mathematical Terms Glossary",
+        "Additional Resources for Further Learning"
     ]
 }

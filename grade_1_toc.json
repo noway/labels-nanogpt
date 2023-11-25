@@ -1,47 +1,54 @@
 {
-    "Introduction to Numbers": [
-        "Counting from 1 to 10",
-        "Recognizing Numbers",
-        "Number Songs and Games"
+    "Welcome to Math!": [
+        "Introduction to Numbers",
+        "Counting Fun"
     ],
-    "Shapes Around Us": [
-        "Identifying Basic Shapes",
-        "Shape Hunts: Finding Shapes in the Classroom",
-        "Creating Shapes with Art"
+    "Understanding Numbers": [
+        "Learning Numbers 1-10",
+        "Counting to 20",
+        "Number Shapes and Patterns"
+    ],
+    "Addition Adventures": [
+        "Introduction to Addition",
+        "Adding with Objects",
+        "Adding Numbers up to 10"
+    ],
+    "Subtraction Stories": [
+        "What is Subtraction?",
+        "Subtracting with Pictures",
+        "Subtracting Numbers up to 10"
+    ],
+    "Shapes and Sizes": [
+        "Exploring Shapes",
+        "Size Comparison",
+        "Shape Patterns"
     ],
     "Colors and Numbers": [
         "Counting with Colors",
-        "Sorting by Color and Shape",
-        "Colorful Patterns"
+        "Colorful Shapes"
     ],
-    "Size and Measurement": [
-        "Big and Small: Understanding Size",
-        "Introduction to Measuring",
-        "Comparing Lengths"
+    "Me and My Math": [
+        "Everyday Math",
+        "Using Math at Home"
     ],
-    "Numbers in Our World": [
-        "Counting Objects in Our Surroundings",
-        "Numbers in Stories",
-        "Using Numbers in Daily Routines"
+    "Time for Time": [
+        "Learning about Hours",
+        "Days of the Week"
     ],
-    "Basic Addition and Subtraction": [
-        "Introduction to Addition",
-        "Introduction to Subtraction",
-        "Simple Addition and Subtraction Games"
+    "Money Matters": [
+        "Identifying Coins",
+        "Simple Buying and Selling Concepts"
     ],
-    "Time and Seasons": [
-        "Understanding Days and Weeks",
-        "Introduction to Seasons",
-        "Simple Calendar Activities"
+    "Fun with Measurement": [
+        "Long and Short",
+        "Light and Heavy"
     ],
-    "Fun with Math": [
-        "Math Puzzles and Games",
-        "Storytime with Math",
-        "Creative Math Projects"
+    "Math Games and Activities": [
+        "Math Puzzles",
+        "Fun Math Projects"
     ],
-    "Review and Activities": [
-        "Reviewing Key Concepts",
-        "Interactive Math Activities",
-        "Preparing for First Grade Math"
+    "Review and Recap": [
+        "Reviewing What We Learned",
+        "Ready for 2nd Grade Math!"
     ]
 }

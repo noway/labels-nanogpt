@@ -1,47 +1,58 @@
 {
-    "Introduction to Numbers": [
-        "Counting from 1 to 10",
-        "Recognizing Numbers",
-        "Number Songs and Games"
+    "Welcome to Math Adventures!": [
+        "Introduction to Math",
+        "How to Use This Book"
     ],
-    "Shapes Around Us": [
-        "Identifying Basic Shapes",
-        "Shape Hunts: Finding Shapes in the Classroom",
-        "Creating Shapes with Art"
-    ],
-    "Colors and Numbers": [
-        "Counting with Colors",
-        "Sorting by Color and Shape",
-        "Colorful Patterns"
-    ],
-    "Size and Measurement": [
-        "Big and Small: Understanding Size",
-        "Introduction to Measuring",
-        "Comparing Lengths"
-    ],
-    "Numbers in Our World": [
-        "Counting Objects in Our Surroundings",
-        "Numbers in Stories",
-        "Using Numbers in Daily Routines"
+    "Understanding Numbers": [
+        "Counting 1 to 100",
+        "Even and Odd Numbers",
+        "Comparing Numbers (Greater Than, Less Than)"
     ],
     "Basic Addition and Subtraction": [
-        "Introduction to Addition",
-        "Introduction to Subtraction",
-        "Simple Addition and Subtraction Games"
+        "Simple Addition (1-20)",
+        "Simple Subtraction (1-20)",
+        "Word Problems in Addition and Subtraction"
     ],
-    "Time and Seasons": [
-        "Understanding Days and Weeks",
-        "Introduction to Seasons",
-        "Simple Calendar Activities"
+    "Introduction to Multiplication": [
+        "Concept of Multiplication",
+        "Multiplying Numbers up to 5"
     ],
-    "Fun with Math": [
-        "Math Puzzles and Games",
-        "Storytime with Math",
-        "Creative Math Projects"
+    "Fun with Shapes": [
+        "Recognizing and Drawing Shapes",
+        "Counting Sides and Corners",
+        "Introduction to 3D Shapes"
     ],
-    "Review and Activities": [
-        "Reviewing Key Concepts",
-        "Interactive Math Activities",
-        "Preparing for First Grade Math"
+    "Measuring Up": [
+        "Introduction to Length and Height",
+        "Using Rulers",
+        "Comparing Lengths"
+    ],
+    "Telling Time": [
+        "Reading Clocks",
+        "Understanding Hours and Minutes",
+        "Days of the Week and Months of the Year"
+    ],
+    "Money Matters": [
+        "Identifying Coins and Bills",
+        "Simple Addition and Subtraction with Money"
+    ],
+    "Data and Graphs": [
+        "Collecting Data",
+        "Creating and Reading Simple Graphs"
+    ],
+    "Math in Our World": [
+        "Applying Math in Daily Life",
+        "Fun Math Activities and Projects"
+    ],
+    "Review and Practice": [
+        "Chapter Review Exercises",
+        "Extra Practice Problems"
+    ],
+    "Math Games and Puzzles": [
+        "Engaging Games to Strengthen Math Skills",
+        "Brain Teasers and Math Puzzles"
+    ],
+    "Glossary": [
+        "Definitions of Key Math Terms"
     ]
 }
