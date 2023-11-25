@@ -53,8 +53,6 @@ Rectangle | Green | _(d) Dart Board_
 - Triangle - Yellow - _(a) Lemon_
 - Rectangle - Green - _(c) Balloon_
 
-(Note: These combinations are made up for the exercise, and in reality, these objects can be in different shapes and colors.)
-
 **Exercise 2: Find and color the shapes with the correct color.**
 
 1. Color the circle blue.
