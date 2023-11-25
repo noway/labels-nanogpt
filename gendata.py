@@ -1,5 +1,6 @@
 import json
 from openai import OpenAI
+import sys
 import os
 from dotenv import load_dotenv
 load_dotenv()
@@ -29,4 +30,22 @@ def generate_and_save_section_of_a_chapter(level, chapter, section):
     with open(filename, 'w') as f:
         f.write(text)
 
-generate_and_save_section_of_a_chapter('Kindergarten', 'Counting from 1 to 10', 'Introduction to Numbers')
+def level_codename_to_level(level_codename):
+    if level_codename == 'grade_0':
+        return 'Kindergarten'
+    elif level_codename == 'grade_1':
+        return '1st Grade'
+    elif level_codename == 'grade_2':
+        return '2nd Grade'
+    elif level_codename == 'grade_3':
+        return '3rd Grade'
+    elif level_codename == 'grade_4':
+        return '4th Grade'
+
+level_codename = sys.argv[1]
+with open(f'{level_codename}_toc.json') as f:
+    data = json.load(f)
+    level = level_codename_to_level(level_codename)
+    for chapter in data:
+        for section in data[chapter]:
+            generate_and_save_section_of_a_chapter(level, chapter, section)
