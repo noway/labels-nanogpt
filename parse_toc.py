@@ -2,7 +2,7 @@ import json
 section_count = 0
 def parse_toc(filename): 
     global section_count
-    with open('grade_0_toc.txt', 'r') as f:
+    with open(filename, 'r') as f:
         text = f.read()
 
     lines = text.strip().split('\n')
