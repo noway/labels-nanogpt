@@ -6,7 +6,7 @@ Mathematics isn't just something you learn in school for the sake of passing tes
 **Exercise 1: Budgeting Your Allowance**
 You have an allowance of $50 per month. You want to spend money on games ($20), books ($15), and save the rest. How much money will you save every month?
 
-**Student's answer:** $15
+**Answer:** $15
 
 *Explanation:*
 $50 (Total Allowance) - $20 (Games) - $15 (Books) = $15 (Savings)
@@ -17,7 +17,7 @@ In this problem, you used subtraction to allocate your monthly allowance. Learni
 **Exercise 2: Planning a Family Trip**
 Your family is planning a four-hour road trip to visit a science museum. If the museum is 240 miles away, what average speed must your car maintain to reach there in four hours?
 
-**Student's answer:** 60 miles per hour
+**Answer:** 60 miles per hour
 
 *Explanation:*
 240 miles ÷ 4 hours = 60 miles per hour
@@ -28,7 +28,7 @@ In this exercise, you used division to calculate the average speed required for 
 **Exercise 3: Multiplying for a Recipe**
 You are helping your guardians to bake cookies. The recipe is for 24 cookies, but you want to make 72 cookies. How many times do you need to multiply the recipe ingredients?
 
-**Student's answer:** by 3 times
+**Answer:** by 3 times
 
 *Explanation:*
 72 cookies ÷ 24 cookies = 3 times
@@ -39,7 +39,7 @@ Understanding multiplication helps you adjust recipes to make more or fewer item
 **Exercise 4: Comparing Prices**
 You are at the store and see two deals for a pack of pencils. One pack has 10 pencils for $5, and another has 15 pencils for $6. Which pack gives you a better price per pencil?
 
-**Student's answer:** 15 pencils for $6
+**Answer:** 15 pencils for $6
 
 *Explanation:*
 $5 ÷ 10 pencils = $0.50 per pencil
@@ -52,7 +52,7 @@ You've applied division to find the unit price, which helps determine the better
 **Exercise 5: Time Management**
 You have 2 hours of free time before your next activity. You want to play video games for some time and read for the remaining time. If you spend triple the time playing video games as you spend on reading, how much time will you spend on each activity?
 
-**Student's answer:** 90 minutes on video games, 30 minutes on reading
+**Answer:** 90 minutes on video games, 30 minutes on reading
 
 *Explanation:*
 Let the time spent reading be x minutes. Then, the time spent on video games is 3x minutes. We know that x + 3x = 120 minutes (2 hours).
