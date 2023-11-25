@@ -53,7 +53,7 @@ Look at the clocks shown below and write the time. (Show pictures of clocks with
 
 ### Answers to Exercise 2:
 
-(Provide answers based on the pictures of the clocks that are shown in the exercise)
+<|unsolvedproblem|>
 
 Great job! Now you know how to read hours and minutes on the clock. Keep practicing, and soon you'll be a time-telling expert!
 

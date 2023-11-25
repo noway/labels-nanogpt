@@ -126,10 +126,10 @@ Answer:
 ```
   You would draw a line from the three apples to the number 3.
 ```
-Your Turn: (Provide similar sets of images and numbers for the students to match)
+Your Turn: <|unsolvedproblem|>
 
 Answers:
-(Provide a completed example with lines drawn to illustrate the correct match-ups)
+<|unsolvedproblem|>
 
 ### Wrap-Up
 

@@ -40,7 +40,7 @@ You've learned to identify and describe common shapes such as circles, squares, 
 **Example Exercise:**
 Draw a triangle below a rectangle.
 
-(Provide space for the student to draw the shapes accordingly.)
+______________
 
 #### 5. Measurement and Length
 You have gained an understanding of measurement using nonstandard units like paper clips or blocks, and you know how to compare the length of different objects.
