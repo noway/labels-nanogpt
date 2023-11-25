@@ -31,8 +31,13 @@ res_2 = parse_toc('grade_2_toc.txt')
 res_3 = parse_toc('grade_3_toc.txt')
 res_4 = parse_toc('grade_4_toc.txt')
 
-print(json.dumps(res_0, indent=4))
-print(json.dumps(res_1, indent=4))
-print(json.dumps(res_2, indent=4))
-print(json.dumps(res_3, indent=4))
-print(json.dumps(res_4, indent=4))
+with open('grade_0_toc.json', 'w') as f:
+    json.dump(res_0, f, indent=4)
+with open('grade_1_toc.json', 'w') as f:
+    json.dump(res_1, f, indent=4)
+with open('grade_2_toc.json', 'w') as f:
+    json.dump(res_2, f, indent=4)
+with open('grade_3_toc.json', 'w') as f:
+    json.dump(res_3, f, indent=4)
+with open('grade_4_toc.json', 'w') as f:
+    json.dump(res_4, f, indent=4)
