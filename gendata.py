@@ -19,7 +19,7 @@ def ask_gpt4_chat(question):
         return str(e)
 
 def generate_section_of_a_chapter(level, chapter, section):
-    question = f'You\'re writing a math textbook for {level} level K-12. Write the "{section}" section of the "{chapter}" chapter. Make sure the section is thorough and complete, including example excercises and answeres. Don\'t use emojis.'
+    question = f'You\'re writing a math textbook for {level} level K-12. Write the "{section}" section of the "{chapter}" chapter. Make sure the section is thorough and complete, including example excercises and answeres.'
     answer = ask_gpt4_chat(question)
     return answer
 
