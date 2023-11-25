@@ -108,8 +108,6 @@ Using the data from Problem 1, create a bar graph to show the students' favorite
 | Thursday  | 65               |
 | Friday    | 68               |
 
-*Note: There can't actually be a graph here, but we’ll pretend there is one, illustrated by the table.*
-
 Answer the following:
 a) What was the highest temperature and on which day was it?
 b) Did the temperature rise or fall between Tuesday and Wednesday?

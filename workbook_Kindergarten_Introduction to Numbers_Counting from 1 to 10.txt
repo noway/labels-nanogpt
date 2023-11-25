@@ -65,7 +65,3 @@ Now it's time for you to practice on your own. Look around you. Pick anything yo
 Remember, every number is special and has its own place in the line. When you can count from 1 to 10 easily, you will be ready to learn even bigger numbers!
 
 Keep practicing and soon you will be a counting star! Have fun, and I'll see you in our next adventure with numbers.
-
----
-
-**Note**: In the actual workbook, instead of placeholder links (e.g., `link_to_cats_image`), there would be images of cats, apples, cars, balls, and a house for children to count.

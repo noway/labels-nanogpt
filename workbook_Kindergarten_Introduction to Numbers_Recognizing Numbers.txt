@@ -82,6 +82,3 @@ It's important to not only recognize numbers but also be able to write them. Tra
 ---
 
 Congratulations on completing the "Recognizing Numbers" section! By now, you should be comfortable with identifying and writing numbers 0 through 10. Keep practicing, and you'll be a numbers expert in no time! Remember, practice makes perfect. Great job today!
-
-**Note to educators/parents:**
-Answers provided are based on the assumption that students have completed the exercises correctly. It is important to check each student's work for accuracy and to provide additional practice where needed.

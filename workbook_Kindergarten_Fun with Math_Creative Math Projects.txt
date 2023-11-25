@@ -111,7 +111,3 @@ Welcome to the "Creative Math Projects" section, little mathematicians! We know 
 The highest column is blue (8 blocks), showing that there are more blue blocks than any other color.
 
 Congratulations on completing your Creative Math Projects! You have practiced counting, categorizing, identifying shapes, using money, and even making graphs. Great job!
-
---- 
-
-*Note to educators: Depending on the student's completion of the exercises, the sample answers should reflect the objects and quantities they used. Encourage students to come up with their own numbers to personalize their learning experience.*

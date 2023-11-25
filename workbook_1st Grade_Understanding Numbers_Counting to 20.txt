@@ -74,6 +74,3 @@ _Answers:_
 - Twenty - **20**
 
 Well done! You've completed the "Counting to 20" section. Keep practicing, and you will become even better at counting. Numbers are all around us, and knowing how to count them is a very useful skill!
-
----
-*Note: As this is text-based, actual images and links are not included. To use this in a workbook, you would need to replace `(image link)` with appropriate images for the exercises. Also, visual activities should be designed to facilitate drawing lines for matches and providing boxes for written answers.*
