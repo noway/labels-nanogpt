@@ -98,4 +98,4 @@ Imagine you have conducted your survey in the class. Here’s the data as if the
 
 ### Conclusion of Collecting Data
 
-Great work collecting and analyzing the data on favorite fruits! Remember, collecting data is the first step in learning how to understand and interpret information. It's important to ask the right questions and record the answers accurately. In the next section, we will learn how to display this data on different types of graphs. Keep up the good work!
+Great work collecting and analyzing the data on favorite fruits! Remember, collecting data is the first step in learning how to understand and interpret information. It's important to ask the right questions and record the answers accurately. Keep up the good work!
