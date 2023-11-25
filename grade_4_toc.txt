@@ -51,5 +51,3 @@ Table of Contents
 10. Appendices
 10.1. Mathematical Terms Glossary
 10.2. Additional Resources for Further Learning
-
-11. Index

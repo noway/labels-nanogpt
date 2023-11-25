@@ -46,5 +46,3 @@ Table of Contents
 10. Glossary
 10.1. Definitions of Key Math Terms
 
-11. Index
-
