@@ -28,6 +28,11 @@ def generate_section_of_a_chapter_workbook(level, chapter, section):
     answer = ask_gpt4_chat(question)
     return answer
 
+def generate_section_of_a_chapter_practicebook(level, chapter, section):
+    question = f'You\'re generating a math practice book for {level} level K-12. Write the "{section}" section of the "{chapter}" chapter. Make sure the section is thorough and complete. Include answers as if the student has already completed the excercises as this will be used for training a language model.'
+    answer = ask_gpt4_chat(question)
+    return answer
+
 def generate_and_save_section_of_a_chapter(level, chapter, section):
     text = generate_section_of_a_chapter(level, chapter, section)
     print(text)
@@ -39,6 +44,13 @@ def generate_and_save_section_of_a_chapter_workbook(level, chapter, section):
     text = generate_section_of_a_chapter_workbook(level, chapter, section)
     print(text)
     filename = f'workbook_{level}_{chapter}_{section}.txt'
+    with open(filename, 'w') as f:
+        f.write(text)
+
+def generate_and_save_section_of_a_chapter_practicebook(level, chapter, section):
+    text = generate_section_of_a_chapter_practicebook(level, chapter, section)
+    print(text)
+    filename = f'practicebook_{level}_{chapter}_{section}.txt'
     with open(filename, 'w') as f:
         f.write(text)
 
@@ -72,4 +84,13 @@ def generate_workbooks():
             for section in data[chapter]:
                 generate_and_save_section_of_a_chapter_workbook(level, chapter, section)
 
-generate_workbooks()
+def generate_practicebooks(): 
+    level_codename = sys.argv[1]
+    with open(f'{level_codename}_toc.json') as f:
+        data = json.load(f)
+        level = level_codename_to_level(level_codename)
+        for chapter in data:
+            for section in data[chapter]:
+                generate_and_save_section_of_a_chapter_practicebook(level, chapter, section)
+
+generate_practicebooks()
