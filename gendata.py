@@ -22,11 +22,11 @@ def generate_section_of_a_chapter(level, chapter, section):
     answer = ask_gpt4_chat(question)
     return answer
 
-level = 'Kindergarten'
-chapter = 'Counting from 1 to 10'
-section = 'Introduction to Numbers'
-text = generate_section_of_a_chapter('Kindergarten', 'Counting from 1 to 10', 'Introduction to Numbers')
-print(text)
-filename = f'{level}_{chapter}_{section}.txt'
-with open(filename, 'w') as f:
-    f.write(text)
+def generate_and_save_section_of_a_chapter(level, chapter, section):
+    text = generate_section_of_a_chapter(level, chapter, section)
+    print(text)
+    filename = f'{level}_{chapter}_{section}.txt'
+    with open(filename, 'w') as f:
+        f.write(text)
+
+generate_and_save_section_of_a_chapter('Kindergarten', 'Counting from 1 to 10', 'Introduction to Numbers')
