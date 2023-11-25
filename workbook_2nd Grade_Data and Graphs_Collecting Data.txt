@@ -68,7 +68,7 @@ We can also collect data by counting things. Let's count the number of different
 
 Now that you have collected data in different ways, think about what we can do with this information. We can use it to learn new things, like what the most popular fruit is or what the most common car color is on the road. We can also use the data to make graphs, which we will learn about soon!
 
-Congratulations on completing the Collecting Data section of the Data and Graphs chapter! You're now ready to move on to the next section, where we will learn how to organize and display data in different types of graphs. Keep up the great work!
+Congratulations on completing the Collecting Data section of the Data and Graphs chapter! Keep up the great work!
 
 --- 
 
