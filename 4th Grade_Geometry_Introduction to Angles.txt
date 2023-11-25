@@ -45,7 +45,7 @@ d. An angle that measures 180°.
 
 Measure the angles using a protractor:
 
-[Insert image of four different angles for students to measure]
+<|image|>
 
 Don't forget to write down the angle type (acute, right, obtuse, straight, reflex, or full) after measuring.
 

@@ -14,21 +14,21 @@ Look at the pictures below. Each picture has a certain number of colorful items.
 
 1. **Red Apples:** Color each of the apples red. How many apples are there?
 
-   ![Red Apples](#) (Image would display 3 apples)
+   [3 Red Apples]
 
    - _Coloring Instruction:_ Red
    - _Count:_ 3 ✔️
 
 2. **Blue Balls:** Color each of the balls blue. How many balls do you see?
 
-   ![Blue Balls](#) (Image would display 5 balls)
+   [5 Blue Balls]
 
    - _Coloring Instruction:_ Blue
    - _Count:_ 5 ✔️
 
 3. **Yellow Suns:** Color each of the suns yellow. How many suns are there?
 
-   ![Yellow Suns](#) (Image would display 2 suns)
+   [2 Yellow Suns]
 
    - _Coloring Instruction:_ Yellow
    - _Count:_ 2 ✔️
@@ -41,21 +41,21 @@ Here you will color groups of items based on how many there are.
 
 1. There are 4 flowers. Color them purple.
 
-   ![Flowers](#) (Image would display 4 flowers)
+   [4 Flowers]
 
    - _Number to Color:_ 4
    - _Color Used:_ Purple ✔️
 
 2. There are 6 stars. Color them orange.
 
-   ![Stars](#) (Image would display 6 stars)
+   [6 Stars]
 
    - _Number to Color:_ 6
    - _Color Used:_ Orange ✔️
 
 3. There are 7 hearts. Color them pink.
 
-   ![Hearts](#) (Image would display 7 hearts)
+   [7 Hearts]
 
    - _Number to Color:_ 7
    - _Color Used:_ Pink ✔️
@@ -68,14 +68,14 @@ In this exercise, you will see groups of items with two different colors. Count 
 
 1. There are cars. Some are red and some are green. Color the cars and write how many cars there are in total.
 
-   ![Cars](#) (Image would display 2 red cars and 3 green cars)
+   [2 red cars and 3 green cars]
 
    - _Coloring Instruction:_ Red, Green
    - _Count:_ 5 ✔️ (2 Red, 3 Green)
 
 2. There are fish. Some are orange and some are yellow. Color the fish and write how many fish there are in total.
 
-   ![Fish](#) (Image would display 4 orange fish and 1 yellow fish)
+   [4 orange fish and 1 yellow fish]
 
    - _Coloring Instruction:_ Orange, Yellow
    - _Count:_ 5 ✔️ (4 Orange, 1 Yellow)

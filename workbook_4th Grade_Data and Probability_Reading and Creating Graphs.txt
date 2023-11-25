@@ -116,9 +116,9 @@ b) Did the temperature rise or fall between Tuesday and Wednesday?
 
 **Answers:**
 
-Problem 1: [A picture graph needs to be drawn.]
+Problem 1: A picture graph needs to be drawn.
 
-Problem 2: [A bar graph needs to be drawn.]
+Problem 2: A bar graph needs to be drawn.
 
 Problem 3: 
 a) The highest temperature was 75°F on Tuesday.

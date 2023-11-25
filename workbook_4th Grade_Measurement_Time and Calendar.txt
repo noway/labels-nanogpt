@@ -12,10 +12,10 @@ When telling time, we look at clocks. Clocks can be digital, which display numbe
 
 Look at the analog clock faces below and write down the time they are showing.
 
-1. ![Clock showing 3:00](image URL)
-2. ![Clock showing 7:45](image URL)
-3. ![Clock showing 12:30](image URL)
-4. ![Clock showing 9:15](image URL)
+1. [Clock showing 3:00]
+2. [Clock showing 7:45]
+3. [Clock showing 12:30]
+4. [Clock showing 9:15]
 
 **Answer Key:**
 

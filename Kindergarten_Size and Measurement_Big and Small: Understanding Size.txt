@@ -19,7 +19,7 @@ To compare sizes, we look at two or more objects, and we decide which one is big
 
 ### Exercise 1: Circle the Bigger Object
 
-[Insert Images of Pairs of Objects with Different Sizes]
+<|image|>
 
 1. (Picture of a large tree and a small tree) Circle the bigger tree.
 2. (Image of a big fish and a little fish) Circle the bigger fish.
@@ -33,7 +33,7 @@ To compare sizes, we look at two or more objects, and we decide which one is big
 
 ### Exercise 2: Circle the Smaller Object
 
-[Insert Images of Pairs of Objects with Different Sizes]
+<|image|>
 
 1. (Picture of a big apple and a small apple) Circle the smaller apple.
 2. (Image of a tall giraffe and a short giraffe) Circle the smaller giraffe.

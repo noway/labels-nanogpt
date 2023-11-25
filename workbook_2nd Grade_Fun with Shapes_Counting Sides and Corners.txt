@@ -8,27 +8,27 @@ Hello young mathematicians! Today we're going to have some geometric fun by expl
 Look at each shape below, count the number of sides it has, and write your answer in the space provided.
 
 1. Square
-     ![Square](https://placekitten.com/50/50) 
+     <|image|>
 
      Number of sides: ____
 
 2. Triangle
-     ![Triangle](https://placekitten.com/50/50)
+     <|image|>
 
      Number of sides: ____
 
 3. Rectangle
-     ![Rectangle](https://placekitten.com/50/50)
+     <|image|>
 
      Number of sides: ____
 
 4. Hexagon
-     ![Hexagon](https://placekitten.com/50/50)
+     <|image|>
 
      Number of sides: ____
 
 5. Pentagon
-     ![Pentagon](https://placekitten.com/50/50)
+     <|image|>
 
      Number of sides: ____
 
@@ -44,27 +44,27 @@ Look at each shape below, count the number of sides it has, and write your answe
 Now, it's time to count the corners or vertices. Look at each shape and count the number of corners. Write your answer in the space provided.
 
 1. Square
-     ![Square](https://placekitten.com/50/50) 
+     <|image|>
 
      Number of corners: ____
 
 2. Triangle
-     ![Triangle](https://placekitten.com/50/50)
+     <|image|>
 
      Number of corners: ____
 
 3. Rectangle
-     ![Rectangle](https://placekitten.com/50/50)
+     <|image|>
 
      Number of corners: ____
 
 4. Hexagon
-     ![Hexagon](https://placekitten.com/50/50)
+     <|image|>
 
      Number of corners: ____
 
 5. Pentagon
-     ![Pentagon](https://placekitten.com/50/50)
+     <|image|>
 
      Number of corners: ____
 

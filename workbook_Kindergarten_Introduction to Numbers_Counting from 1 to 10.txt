@@ -24,23 +24,23 @@ Counting is just like a fun game. When we count, we start from the number 1 and 
 
 Now it's your turn to try! Below are some pictures with different objects. Let’s count how many there are in each picture. Write the number in the box provided.
 
-1. ![Image of 3 cats](link_to_cats_image) 
+1. [Image of 3 cats] 
    
    The number of cats is: ____
 
-2. ![Image of 7 apples](link_to_apples_image) 
+2. [Image of 7 apples] 
 
    The number of apples is: ____
 
-3. ![Image of 5 cars](link_to_cars_image) 
+3. [Image of 5 cars] 
 
    The number of cars is: ____
 
-4. ![Image of 10 balls](link_to_balls_image) 
+4. [Image of 10 balls] 
 
    The number of balls is: ____
 
-5. ![Image of 1 house](link_to_house_image) 
+5. [Image of 1 house] 
 
    The number of houses is: ____
 

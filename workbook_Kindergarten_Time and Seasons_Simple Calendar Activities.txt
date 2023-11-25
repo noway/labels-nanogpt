@@ -10,7 +10,7 @@
 
 * Draw a calendar week and label the days from Sunday to Saturday.
 
-  [Your drawn week here]
+  <|image|>
 
   *Answers*: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 
@@ -48,7 +48,7 @@
 
 * Directions: Look at the calendar and answer the questions below.
 
-    [Use a simple calendar with one month visible, for example, the current month.]
+    <|image|>
 
   1. If today is Wednesday the 15th, what day was yesterday?
   2. If today is Wednesday the 15th, what day is tomorrow?
@@ -67,7 +67,7 @@
 2. Underline all the Fridays in this month's calendar.
 3. Mark an "X" on August 15th.
 
-[Provide a simple calendar for the current year and month, including August for the third question.]
+<|image|>
 
 *Answers*:
 <|unsolvedproblem|>
