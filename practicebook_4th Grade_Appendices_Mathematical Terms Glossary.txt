@@ -117,12 +117,3 @@ Below you will find a list of commonly used mathematical terms for the 4th Grade
 57. **Zero Property of Multiplication**: The rule that states any number multiplied by zero equals zero.
 
 Remember, this glossary is intended to help you refresh your memory on important mathematical concepts. Don't hesitate to refer back to it whenever you need a quick review!
-
-Answers to Exercises (hypothetical for language model purpose):
-- Addends Added: 3 + 7 = 10
-- Area Found: Area of a 4x6 rectangle= 24 square units
-- Product of Multiplication: 5 x 7 = 35
-- Equivalent Fractions Written: 1/2 = 2/4
-- Number Line Used: -9 to 9, with integers marked
-- Median of Numbers Found: Median of 4, 8, 12 is 8
-- Volume Calculated: Volume of a 2x2x2 cube = 8 cubic units

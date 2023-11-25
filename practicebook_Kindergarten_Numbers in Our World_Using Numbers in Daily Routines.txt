@@ -55,6 +55,3 @@ Example Answer:
 Perhaps you get up to 5 scoops of bubbles.
 
 By practicing these exercises, you are becoming a real numbers expert, even in your daily routine! Numbers are truly a fun and essential part of every day. Keep counting and noticing numbers all around you!
-
----
-This section of the practice book would include blank space for students to write their answers, and these example answers serve as a guidance for the language model training to know what type of responses are expected from students at a Kindergarten level.

@@ -86,5 +86,3 @@ Dividing by a fraction is the same as multiplying by its reciprocal. The recipro
 **Answer**: 3/5 ÷ 2/3 = 9/10
 
 Now that we have covered the basic operations with fractions, it is time for you to practice. Remember, the key to mastering fractions is practice and understanding how to manipulate the numerators and denominators. Keep working at it, and you will become a fraction expert in no time!
-
-**Note**: Since this book section is designed for training purposes, the answers provided are based on the assumption that hypothetical students have already completed these exercises and these are the correct solutions.
