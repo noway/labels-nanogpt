@@ -9,11 +9,12 @@ generate advanced problem sets
 consistent formatting in textbooks/workbooks/etc
 actually review textbooks/worksbooks/etc
 make sure textbook answer key is ALWAYS provided
-render md -> html -> elinks
+render md -> html -> elinks (would this work for highlighting bold?) (maybe convert terminal seqs back to md-light?)
 render latex somehow?
 start token for every section/chapter
 remove encourangements
 - look for "the actual" and "will vary" or "depend" - replace them with an "unsolved problem" or something [done]
+- :apple: - might need to replace with proper emoji? [done]
 - look for "next exciting chapter" strings somehow [done]
 - look for "(Note" (case insensitive) [done]
 - "Extra Challenge" is not a thing (it actually is) [done]
