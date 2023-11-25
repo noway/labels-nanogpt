@@ -1,0 +1,69 @@
+# "Understanding Hours and Minutes" 
+
+## What Are Hours and Minutes?
+
+Time is a way to measure how long something takes or how long between one event and another. In our daily lives, we use hours and minutes to do this. 
+
+### Hours:
+An hour is a longer unit of time. When you are at school, you might have an hour-long class, or you might sleep for about 8 hours each night. There are 24 hours in a day. The day is split into two parts: from midnight to noon (12:00 AM to 11:59 AM) is called "AM," and from noon to midnight (12:00 PM to 11:59 PM) is known as "PM."
+
+### Minutes:
+A minute is a shorter unit of time. There are 60 minutes in an hour. If you are counting how long you play a game or wait for lunch, you might measure that time in minutes.
+
+## How to Read a Clock
+
+A clock has numbers from 1 to 12, a short hand (the hour hand), and a longer hand (the minute hand). Sometimes there is also a very thin hand that moves quickly called the second hand, but we will focus on hours and minutes for now.
+
+When the long hand points to 12, we say it is something o'clock. This is when a new hour starts!
+
+### Exercise 1: What Time Is It?
+
+Look at the clock drawings below and write down the time.
+
+1. The short hand is on the 3, and the long hand is on the 12.
+2. The short hand is just past the 9, and the long hand is on the 6.
+3. The short hand is between the 6 and the 7, and the long hand is on the 3.
+
+#### Answers:
+
+1. 3:00 (3 o'clock)
+2. 9:30 (half past nine)
+3. 6:15 (quarter past six)
+
+### Exercise 2: Hours and Minutes
+
+Fill in the blanks with the correct time.
+
+1. It is _____ hours and _____ minutes when the short hand is on the 10 and the long hand is on the 6.
+2. It is _____ hours and _____ minutes when the short hand is pointing between the 2 and the 3, and the long hand is on the 9.
+
+#### Answers:
+
+1. It is 10 hours and 30 minutes (10:30 or half past ten).
+2. It is 2 hours and 45 minutes (2:45 or quarter to three).
+
+### Exercise 3: Drawing the Time
+
+Draw the hands on the clock to show these times:
+
+1. 7:00 (7 o'clock)
+2. 5:15 (quarter after five)
+3. 8:45 (quarter to nine)
+
+#### Answers:
+
+1. Draw the short hand on the 7 and the long hand on the 12.
+2. Draw the short hand slightly past the 5 and the long hand on the 3.
+3. Draw the short hand between the 8 and the 9 and the long hand on the 9.
+
+## Remember:
+
+- The short hand shows the hour and moves slowly.
+- The long hand shows the minutes and moves faster – it goes all the way around the clock every hour.
+- Every time the long hand goes around from 12 back to 12, the hour hand moves to the next number.
+- When the long hand points to 12, we are at the start of an hour.
+- When the long hand points to 6, it is half past the hour.
+- When the long hand points to 3, it is a quarter past the hour.
+- When the long hand points to 9, it is a quarter to the next hour.
+
+Practice makes perfect! Keep working on these exercises, and you’ll be telling time like a pro in no time!

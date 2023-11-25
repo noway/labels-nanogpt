@@ -1,0 +1,100 @@
+---
+
+# Understanding Time (Clocks and Calendars)
+
+Welcome to the exciting world of understanding time! Time helps us organize our day, remember important events, and plan for the future. In this section, we will learn how to read clocks and understand calendars. Let's get started!
+
+## Reading Clocks
+
+There are two main types of clocks that we usually see: analog clocks, which have hands that move, and digital clocks, which show numbers.
+
+### Analog Clocks
+
+An analog clock has three hands:
+- The **hour hand** is shorter and tells us the hour.
+- The **minute hand** is longer and tells us the minutes.
+- Some clocks have a **second hand** that is very thin and tells us the seconds.
+
+### Exercise 1: Reading Analog Clocks
+Look at the clock and write down the time it is showing.
+
+1. The hour hand is pointing to 3, and the minute hand is pointing to 12.
+**Answer:** It is 3 o'clock.
+
+2. The hour hand is halfway between 10 and 11, and the minute hand is on 6.
+**Answer:** It is 10:30.
+
+3. The hour hand is on 7, and the minute hand is on 9.
+**Answer:** It is 7:45.
+
+4. The hour hand is just after 1, and the minute hand is on 2.
+**Answer:** It is 1:10.
+
+5. The hour hand is just before 12, and the minute hand is on 6.
+**Answer:** It is 11:30.
+
+### Exercise 2: Drawing Times on an Analog Clock
+Draw the hands on the clock to match the time given.
+
+1. Draw the clock at 8:00.
+**Answer:** The hour hand points at 8, and the minute hand points at 12.
+
+2. Draw the clock at 5:15.
+**Answer:** The hour hand points just after 5, and the minute hand points at 3.
+
+3. Draw the clock at 12:30.
+**Answer:** The hour hand points halfway between 12 and 1, and the minute hand points at 6.
+
+4. Draw the clock at 2:45.
+**Answer:** The hour hand is three-quarters past 2, and the minute hand points at 9.
+
+5. Draw the clock at 9:10.
+**Answer:** The hour hand is slightly past 9, and the minute hand points at 2.
+
+### Digital Clocks
+
+A digital clock shows the time with numbers. The first two numbers are the hour, and the last two numbers are the minutes. If the clock shows the seconds, they come after another colon.
+
+### Exercise 3: Converting Analog to Digital
+Write the digital time for each analog clock shown. (Assume it is A.M.)
+
+1. The hour hand is pointing to 4, and the minute hand is pointing to 12.
+**Answer:** 4:00 A.M.
+
+2. The hour hand is halfway between 7 and 8, and the minute hand is on 6.
+**Answer:** 7:30 A.M.
+
+3. The hour hand is just after 11, and the minute hand is on 1.
+**Answer:** 11:05 A.M.
+
+## Understanding Calendars
+
+A calendar helps us keep track of the days, weeks, months, and years.
+
+### Exercise 4: Days and Weeks
+Answer the following questions based on the calendar provided (use a September 2023 calendar for reference).
+
+1. What day of the week is September 10th?
+**Answer:** Sunday.
+
+2. How many Tuesdays are there in September 2023?
+**Answer:** There are 5 Tuesdays.
+
+3. How many days are there in the second week of September?
+**Answer:** There are 7 days.
+
+### Exercise 5: Months and Years
+Answer the questions based on what you know about months and years.
+
+1. How many months are in a year?
+**Answer:** There are 12 months in a year.
+
+2. Which month is the 8th month of the year?
+**Answer:** August.
+
+3. How many days are there in February during a leap year?
+**Answer:** 29 days.
+
+Remember, learning to tell time and understanding calendars is a valuable skill that you will use every day. Keep practicing, and you will master time in no time!
+
+---

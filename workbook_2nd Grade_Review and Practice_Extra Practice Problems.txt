@@ -1,0 +1,115 @@
+# Extra Practice Problems
+
+## Review and Practice
+
+Welcome to the Extra Practice Problems section! These additional exercises will help you practice the math concepts we've learned in this chapter. Take your time, and remember that practice makes perfect. Once you've attempted the problems, check your answers at the end of the section to see how you did. Don't worry if you make mistakes; they are great opportunities to learn! Good luck!
+
+### Addition Practice
+
+1. \( 23 + 15 = ? \)
+   
+2. \( 37 + 44 = ? \)
+
+3. \( 18 + 29 = ? \)
+
+4. \( 52 + 26 = ? \)
+
+5. \( 41 + 47 = ? \)
+
+### Subtraction Practice
+
+6. \( 64 - 27 = ? \)
+   
+7. \( 55 - 18 = ? \)
+
+8. \( 90 - 36 = ? \)
+
+9. \( 73 - 47 = ? \)
+
+10. \( 81 - 19 = ? \)
+
+### Word Problems
+
+11. Amy had 24 apples in her basket. She bought 32 more at the store. How many apples does Amy have now?
+
+12. Jack had 78 stickers. He gave 25 stickers to his friend. How many stickers does Jack have left?
+
+### Telling Time
+
+13. What time will it be 30 minutes after 11:00 A.M.?
+
+14. If the clock shows 2:45 P.M., what time was it 15 minutes ago?
+
+### Counting Money
+
+15. You have 3 quarters, 2 dimes, and 1 nickel. How much money do you have in total?
+
+16. If an eraser costs 50 cents and you have 1 dollar, how much change should you get back after buying the eraser?
+
+### Measurements
+
+17. If 1 pencil is 7 inches long, how long are 4 pencils placed end to end?
+
+18. A piece of string is 24 inches long. If it's cut into 6 equal pieces, how long is each piece?
+
+### Geometry
+
+19. How many corners does a rectangle have?
+
+20. If a circle has a diameter of 8 inches, what is its radius?
+
+## Answers
+
+### Addition Practice
+
+1. \( 23 + 15 = 38 \)
+
+2. \( 37 + 44 = 81 \)
+
+3. \( 18 + 29 = 47 \)
+
+4. \( 52 + 26 = 78 \)
+
+5. \( 41 + 47 = 88 \)
+
+### Subtraction Practice
+
+6. \( 64 - 27 = 37 \)
+   
+7. \( 55 - 18 = 37 \)
+
+8. \( 90 - 36 = 54 \)
+
+9. \( 73 - 47 = 26 \)
+
+10. \( 81 - 19 = 62 \)
+
+### Word Problems
+
+11. 24 apples + 32 apples = 56 apples. Amy has 56 apples now.
+
+12. 78 stickers - 25 stickers = 53 stickers. Jack has 53 stickers left.
+
+### Telling Time
+
+13. 11:00 A.M. + 30 minutes = 11:30 A.M.
+
+14. 2:45 P.M. - 15 minutes = 2:30 P.M.
+
+### Counting Money
+
+15. 3 quarters ($0.75) + 2 dimes ($0.20) + 1 nickel ($0.05) = $1.00
+
+16. $1.00 - $0.50 = $0.50 change
+
+### Measurements
+
+17. 7 inches/pencil × 4 pencils = 28 inches
+
+18. 24 inches ÷ 6 pieces = 4 inches per piece
+
+### Geometry
+
+19. A rectangle has 4 corners.
+
+20. The radius is half of the diameter, so the radius is 8 inches ÷ 2 = 4 inches.

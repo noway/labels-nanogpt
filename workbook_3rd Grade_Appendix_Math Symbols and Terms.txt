@@ -1,0 +1,124 @@
+## Appendix
+
+### Math Symbols and Terms for 3rd Grade
+
+#### Numerals and Number Words
+
+0 - zero
+1 - one
+2 - two
+3 - three
+4 - four
+5 - five
+6 - six
+7 - seven
+8 - eight
+9 - nine
+10 - ten
+
+#### Basic Math Symbols
+
+**Addition (+)**  
+The symbol that represents adding two numbers together.  
+Example: 3 + 2 = 5  
+
+**Subtraction (-)**  
+The symbol that represents taking one number away from another.  
+Example: 5 - 1 = 4  
+
+**Multiplication (× or *)**  
+The symbol that represents the combining of equal groups.  
+Example: 4 × 3 = 12  
+
+**Division (÷ or /)**  
+The symbol that represents splitting into equal parts or groups.  
+Example: 12 ÷ 3 = 4  
+
+**Equals (=)**  
+The symbol that shows two values are the same.  
+Example: 7 + 1 = 8  
+
+**Not Equal (≠)**  
+A symbol to represent that two values are not the same.  
+Example: 4 + 1 ≠ 6  
+
+**Greater Than (>)**  
+A symbol to indicate a number is larger than another number.  
+Example: 9 > 7  
+
+**Less Than (<)**  
+A symbol to show a number is smaller than another number.  
+Example: 5 < 8  
+
+**Greater Than or Equal To (≥)**  
+A symbol to indicate a number is greater than or equal to another number.  
+Example: 7 ≥ 7  
+
+**Less Than or Equal To (≤)**  
+A symbol to indicate a number is less than or equal to another number.  
+Example: 4 ≤ 5  
+
+#### Parentheses ()
+
+Used in math to show which operation to do first.  
+Example: (3 + 4) × 2 = 14  
+
+#### Basic Math Terms
+
+**Sum**  
+The result of adding two or more numbers.  
+Example: The sum of 6 and 2 is 8.
+
+**Difference**  
+The result of subtracting one number from another.  
+Example: The difference between 9 and 6 is 3.
+
+**Product**  
+The result of multiplying two or more numbers.  
+Example: The product of 7 and 5 is 35.
+
+**Quotient**  
+The result of dividing one number by another.  
+Example: The quotient of 12 divided by 4 is 3.
+
+**Even Numbers**  
+Numbers that can be divided by 2 without a remainder.  
+Examples: 2, 4, 6, 8, 10  
+
+**Odd Numbers**  
+Numbers that cannot be evenly divided by 2.  
+Examples: 1, 3, 5, 7, 9  
+
+**Place Value**  
+The value of where the digit is in the number, such as ones, tens, hundreds, etc.  
+Example: In 234, the place value of 4 is ones, 3 is tens, and 2 is hundreds.
+
+**Fraction**  
+A way to represent parts of a whole. It has a numerator (top number) and a denominator (bottom number).  
+Example: ½, ¾
+
+**Decimal**  
+A number with a decimal point, which denotes values less than one.  
+Example: 0.25, 3.14  
+
+**Rounding**  
+A method to approximate a number to its nearest place value.  
+Example: Rounding 347 to the nearest ten gives us 350.
+
+#### Exercise Answers
+
+Please note that the specific answers would depend on the exercises given in the workbook itself. Since we do not have the actual exercises, below are just a couple of examples of how the appendix terms could be applied:
+
+1. Add the numbers 4 + 7.  
+Sum: 11
+
+2. Subtract the numbers 9 - 5.  
+Difference: 4
+
+3. Multiply the numbers 6 × 6.  
+Product: 36
+
+4. Divide the numbers 18 ÷ 2.  
+Quotient: 9
+
+I hope this section will help students to reference the math symbols and terms they will encounter in their 3rd-grade math journey. Remember, practice makes perfect, so keep working through your math problems, and you will become a math whiz in no time!

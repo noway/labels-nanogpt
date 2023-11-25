@@ -1,0 +1,35 @@
+**Definitions of Key Math Terms**
+
+1. **Addition (+):** The math operation of finding the total or sum by combining two or more numbers. Example: 2 + 3 = 5.
+
+2. **Subtraction (−):** The math operation of finding the difference when one number is taken away from another. Example: 6 − 4 = 2.
+
+3. **Multiplication (×):** The math operation of combining equal groups to find the total number of items. This is often described as repeated addition. Example: 3 × 4 means 3 groups of 4, which equals 12.
+
+4. **Division (÷):** The math operation of splitting into equal parts or groups. It is the result of "fair sharing". Example: 8 ÷ 2 means splitting 8 into 2 equal groups, which equals 4.
+
+5. **Equal (=):** A symbol indicating that the quantities on either side of it are the same. Example: 7 + 1 = 8.
+
+6. **Fraction:** A way to represent a part of a whole or a part of a set by using two numbers. The top number, called the numerator, signifies how many parts you have. The bottom number, called the denominator, signifies how many equal parts the whole is divided into. Example: 1/4 means one part out of four equal parts.
+
+7. **Decimal:** A number that includes a decimal point to represent a whole number plus a fraction of a whole number (tenths, hundredths, thousandths, etc.). Example: 0.75 represents 75 hundredths.
+
+8. **Place Value:** The value that a digit has by virtue of its position in a number. Example: In the number 345, the place value of 5 is ‘5’, of 4 is ‘40’, and of 3 is ‘300’.
+
+9. **Greater Than (>):** A symbol used to compare two numbers when the first is larger than the second. Example: 7 > 5.
+
+10. **Less Than (<):** A symbol used to compare two numbers when the first is smaller than the second. Example: 2 < 6.
+
+11. **Equal To (=):** A symbol indicating that two quantities are the same. Example: 3 + 4 is equal to 7.
+
+12. **Perimeter:** The distance around the outside of a shape. To find the perimeter, add up the length of all the sides. Example: The perimeter of a rectangle with sides 3 cm and 5 cm is 3 + 3 + 5 + 5 = 16 cm.
+
+13. **Area:** The amount of space inside a flat surface (2D shape). It is measured in square units. Example: The area of a rectangle that is 3 cm long and 4 cm wide is 3 × 4 = 12 cm².
+
+14. **Volume:** The amount of space inside a three-dimensional (3D) object. Measured in cubic units. Example: The volume of a cube with edges of length 2 cm is 2 × 2 × 2 = 8 cm³.
+
+15. **Rounding:** The process of adjusting the digits of a number to make it simpler to work with while keeping its value close to what it was. Example: Rounding 76 to the nearest ten gives 80.
+
+16. **Array:** A way of displaying objects in rows and columns to show a number in terms of multiplication. Example: An array with 3 rows and 2 columns represents the multiplication fact 3 × 2=6.
+
+The examples given here are to help you understand what these terms mean and how to use them. Remember, practicing these concepts will help you master them! Keep up the good work!

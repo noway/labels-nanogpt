@@ -1,0 +1,79 @@
+# Units of Weight and Volume
+
+## Section 1: Introduction to Weight
+
+Welcome to the "Units of Weight and Volume" section of our "Measurement" chapter! In this part, you will learn how to measure and compare the weight and volume of different objects which is an essential skill not only in math but also in real life.
+
+**Weight** is how heavy something is. The main units of weight we use in the United States are pounds (lb) and ounces (oz), while the rest of the world mainly uses kilograms (kg) and grams (g) as part of the metric system. 
+
+1 pound (lb) = 16 ounces (oz)
+1 kilogram (kg) = 1,000 grams (g)
+
+Let's start with some practice problems involving weight!
+
+### Exercise 1: Converting Units of Weight
+
+1. **Convert 32 ounces to pounds.**
+   32 ounces ÷ 16 ounces/pound = 2 pounds
+
+2. **Convert 5 pounds to ounces.**
+   5 pounds × 16 ounces/pound = 80 ounces
+
+3. **Convert 3 kilograms to grams.**
+   3 kilograms × 1,000 grams/kilogram = 3,000 grams
+
+4. **How many kilograms are in 4,500 grams?**
+   4,500 grams ÷ 1,000 grams/kilogram = 4.5 kilograms 
+
+## Section 2: Introduction to Volume
+
+**Volume** is the amount of space an object or substance occupies. In the U.S., we typically use gallons (gal), quarts (qt), pints (pt), cups (c), and fluid ounces (fl oz) to measure volume. The metric system primarily uses liters (L) and milliliters (mL).
+
+1 gallon (gal) = 4 quarts (qt)
+1 quart (qt) = 2 pints (pt)
+1 pint (pt) = 2 cups (c)
+1 cup (c) = 8 fluid ounces (fl oz)
+1 liter (L) = 1,000 milliliters (mL)
+
+Let's apply what you've learned with some volume exercises!
+
+### Exercise 2: Converting Units of Volume
+
+1. **Convert 16 cups to gallons.**
+   16 cups ÷ 16 cups/gallon = 1 gallon
+
+2. **Convert 6 quarts to pints.**
+   6 quarts × 2 pints/quart = 12 pints
+
+3. **How many cups are in 3 pints?**
+   3 pints × 2 cups/pint = 6 cups
+
+4. **Change 2.5 liters into milliliters.**
+   2.5 liters × 1,000 milliliters/liter = 2,500 milliliters
+
+## Section 3: Comparing and Estimating Weight and Volume
+
+Being able to compare and estimate the weight and volume of different items is a useful skill.
+
+### Exercise 3: 
+
+1. **Which is heavier, 1 pound of feathers or 1 pound of rocks?**
+   They weigh the same. 1 pound of feathers = 1 pound of rocks.
+
+2. **If you have 2 bottles of water, one holding 500 milliliters and the other 1 liter, which one holds more water?**
+   The bottle with 1 liter holds more water, as 1 liter = 1,000 milliliters.
+
+3. **If a recipe calls for 4 cups of flour, how many pints would that be?**
+   4 cups ÷ 2 cups/pint = 2 pints of flour.
+
+4. **Estimate which would have more volume, a gallon of milk or a liter of soda?**
+   A gallon of milk has more volume since 1 gallon > 3.78 liters (1 gallon = 3.78 liters).
+
+## Review
+
+In this section, you have learned to:
+
+- Understand and convert units of weight and volume.
+- Compare and estimate weight and volume in practical situations.
+
+Great job! Always remember to practice these conversions, as they're very handy for solving real-world problems. Keep up the good work and make sure to review if you feel unsure about any of the material covered here.

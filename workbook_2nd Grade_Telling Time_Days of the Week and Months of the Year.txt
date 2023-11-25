@@ -1,0 +1,91 @@
+# Telling Time: Days of the Week and Months of the Year
+
+## Days of the Week
+
+There are seven days in a week. They help us to know what day it is today, what day it was yesterday, and what day it will be tomorrow. It's important to remember the name of each day and their order.
+
+**Exercise 1**: Fill in the blanks with the correct days of the week.
+
+1. Monday, __________, Wednesday, __________, Friday, __________, Sunday.
+
+Answers:
+1. Monday, _Tuesday_, Wednesday, _Thursday_, Friday, _Saturday_, Sunday.
+
+**Exercise 2**: What day comes after the following days?
+
+1. Tuesday: __________
+2. Sunday: __________
+3. Friday: __________
+
+Answers:
+1. Tuesday: _Wednesday_
+2. Sunday: _Monday_
+3. Friday: _Saturday_
+
+**Exercise 3**: Circle the day that is the middle of the week.
+
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+
+Answer: _Wednesday_
+
+## Months of the Year
+
+The year is divided into twelve months. Each month can have 28, 30, or 31 days, except for February which can have 29 days during a leap year. Knowing the months of the year and the order they go in is very helpful for planning and understanding calendars.
+
+**Exercise 4**: Put the months in the correct order by writing the number next to the month name. For example, for January write 1.
+
+( ) March  
+( ) October  
+( ) January  
+( ) July  
+( ) May  
+( ) December  
+( ) August  
+( ) April  
+( ) November  
+( ) February  
+( ) June  
+( ) September  
+
+Answers:
+(3) _March_  
+(10) _October_  
+(1) _January_  
+(7) _July_   
+(5) _May_  
+(12) _December_  
+(8) _August_  
+(4) _April_  
+(11) _November_  
+(2) _February_  
+(6) _June_  
+(9) _September_
+
+**Exercise 5**: Name the month that comes before and after the following months.
+
+1. April: Before __________, After __________
+2. September: Before __________, After __________
+3. January: Before __________, After __________
+
+Answers:
+1. April: Before _March_, After _May_
+2. September: Before _August_, After _October_
+3. January: Before _December_, After _February_
+
+**Exercise 6**: How many months have 31 days? List them.
+
+Answer: _Seven months_ have 31 days. They are January, March, May, July, August, October, and December.
+
+**Exercise 7**: Which month has fewer days than the others? How many days does it have in a leap year?
+
+Answer: _February_ has fewer days than the others, with 28 days in a regular year and _29 days_ in a leap year.
+
+## Knowing Days and Months
+
+Understanding the days of the week and months of the year are important for many reasons, from knowing when your birthday is to planning for holidays and events. Practice makes perfect, so keep reviewing these exercises until you remember them well!
+
+Keep learning and have fun with time!

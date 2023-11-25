@@ -1,0 +1,117 @@
+# Appendices
+## Mathematical Terms Glossary
+
+**Addend**: A number that is added to another number. For example, in the sum 3 + 4 = 7, both 3 and 4 are addends.
+
+**Angle**: The space (measured in degrees) between two intersecting lines or surfaces at the point where they meet.
+
+**Area**: The amount of space inside the boundary of a flat (2-dimensional) object such as a triangle or rectangle. For instance, the area of a rectangle is calculated as length × width.
+
+**Array**: A set of numbers or objects that follow a specific pattern, often arranged in rows and columns to show multiplication concepts.
+
+**Average (Mean)**: A number that represents the central or typical value in a set of data. It is calculated by adding all the numbers together and then dividing by the count of numbers.
+
+**Bar Graph**: A chart with bars whose lengths are proportional to quantities. It is used for comparing different values or categories.
+
+**Base (of a power)**: The number that is going to be raised to a power. For example, in 2^3, the base is 2.
+
+**Circumference**: The distance around the edge of a circle. It is calculated as π (pi) times the diameter of the circle (C = πd).
+
+**Common Denominator**: A common multiple of the denominators of two or more fractions. It is used to compare or add fractions that have different denominators.
+
+**Composite Number**: A whole number that has more than two factors. For example, 8 is a composite number because its factors are 1, 2, 4, and 8.
+
+**Coordinate Plane (Cartesian Plane)**: A plane with a horizontal number line (x-axis) and a vertical number line (y-axis) used to locate points.
+
+**Denominator**: The number below the line in a fraction, which indicates the total number of equal parts the whole is divided into.
+
+**Difference**: The result of subtracting one number from another. How much one number differs from another.
+
+**Division**: An operation that determines how many times one number contains another. It is the opposite of multiplication.
+
+**Equation**: A mathematical sentence that shows that two expressions are equal. It contains an equal sign (=).
+
+**Exponent (power)**: A number that indicates how many times the base is multiplied by itself. For example, in 2^3, the number 3 is the exponent.
+
+**Factor**: A whole number that divides evenly into another number. For example, the factors of 6 are 1, 2, 3, and 6.
+
+**Fraction**: A way to describe a part of a whole or a part of a group by using two numbers, the numerator over the denominator.
+
+**Function**: A relation between a set of inputs and a set of permissible outputs where each input is related to exactly one output.
+
+**Geometry**: A branch of mathematics that deals with the properties, measurement, and relationships of points, lines, angles, surfaces, and solids.
+
+**Greater Than (>)/ Less Than (<)**: Symbols used to compare two numbers or expressions. > means the first number is larger; < means the first number is smaller.
+
+**Improper Fraction**: A fraction whose numerator is larger than or equal to its denominator, such as 7/4.
+
+**Intercept**: The point where a line crosses the x-axis or y-axis on a coordinate plane.
+
+**Interval**: The difference between two numbers on the scale of a graph or the distance between two points.
+
+**Line Graph**: A type of chart used to show information that changes over time.
+
+**Median**: The middle number in a set of numbers arranged in order.
+
+**Mixed Number**: A whole number and a fraction combined into one "mixed" number, such as 1 3/4.
+
+**Mode**: The number that occurs most frequently in a given set of numbers.
+
+**Multiple**: A number that can be divided by another number without leaving a remainder. For example, 15 is a multiple of 5.
+
+**Numerator**: The number above the line in a fraction that indicates how many parts of the whole are being considered.
+
+**Operation**: A mathematical process such as addition, subtraction, multiplication, or division.
+
+**Order of Operations**: A set of rules that dictates the sequence in which operations should be performed to correctly solve an expression (PEMDAS/BODMAS).
+
+**Parallel**: Lines in the same plane that do not intersect, no matter how far they are extended.
+
+**Percent**: A ratio that compares a number to 100, symbolized by the % sign.
+
+**Perimeter**: The distance around the outside of a polygon. This is the sum of the lengths of all the sides.
+
+**Perpendicular**: Lines that intersect to form a right angle (90 degrees).
+
+**Pi (π)**: An irrational number approximately equal to 3.14159 used to calculate the circumference and area of circles.
+
+**Place Value**: The value of the place, or position, that a digit holds in a number.
+
+**Prime Number**: A whole number greater than 1 that has exactly two factors, 1 and itself.
+
+**Product**: The result of multiplying two or more numbers.
+
+**Proportion**: An equation stating that two ratios are equal.
+
+**Quadrilateral**: A polygon with four sides.
+
+**Quotient**: The result of division.
+
+**Range**: The difference between the highest and lowest values in a set of numbers.
+
+**Ratio**: A comparison of two quantities by division.
+
+**Rectangle**: A quadrilateral with four right angles.
+
+**Rounding**: Reducing a number to a shorter or simpler number that is approximately equal to the original number.
+
+**Square**: A rectangle with all four sides of equal length.
+
+**Sum**: The result of adding two or more numbers.
+
+**Symmetry**: When two parts of a whole are identical or similar in shape and size.
+
+**Variable**: A symbol, usually a letter, used to represent a number in mathematical expressions or equations.
+
+**Vertex (Vertices)**: The corner point of a polygon or angle where two or more lines meet.
+
+**Volume**: The amount of space a 3-dimensional object occupies. For example, the volume of a rectangular prism is calculated as length × width × height.
+
+**Whole Number**: The set of numbers that include zero and all positive numbers without fractions or decimals.
+
+**X-axis**: The horizontal number line in a coordinate plane.
+
+**Y-axis**: The vertical number line in a coordinate plane.
+
+Answers:
+- The answers will vary depending on the specific exercises completed in the workbook. However, once the exercises are done, you can use this glossary to help check and correct your answers by referencing the correct mathematical concepts and operations involved.

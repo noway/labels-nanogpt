@@ -1,0 +1,79 @@
+# Money Matters: Chapter 3
+
+## Simple Addition and Subtraction with Money
+
+Welcome to the exciting world of money, young mathematicians! Today we're going to learn about simple addition and subtraction using cents and dollars. It's just like adding and subtracting any numbers – but this time, we're dealing with money, so we'll be using dollar signs ($) and cents (¢). Before we start, remember that 100 cents make a dollar ($1.00).
+
+### Let's Get Started: Learning the Basics
+
+Every time we add money, we combine amounts to find out how much we have in total. When we subtract money, we find out how much is left over after we spend or take away an amount. Let's make sure we know our coins and how much they are worth:
+
+- Penny = 1¢
+- Nickel = 5¢
+- Dime = 10¢
+- Quarter = 25¢
+
+And don't forget our bills:
+- $1 bill = 100¢
+- $5 bill = 500¢
+- $10 bill = 1,000¢
+
+### Exercise 1: Addition of Coins
+
+Let's try to add these coins together to find out how much money we have.
+
+1. 1 quarter + 2 dimes + 3 nickels = 25¢ + 20¢ + 15¢ = 60¢
+2. 4 dimes + 5 pennies = 40¢ + 5¢ = 45¢
+3. 2 quarters + 3 dimes + 4 cents = 50¢ + 30¢ + 4¢ = 84¢
+4. 3 nickels + 6 pennies = 15¢ + 6¢ = 21¢
+
+### Exercise 2: Adding Dollar Bills and Coins
+
+Now, let's practice adding dollar bills with coins.
+
+1. $1 bill + 1 quarter + 2 dimes = $1.00 + 25¢ + 20¢ = $1.45
+2. $5 bill + 3 quarters = $5.00 + 75¢ = $5.75
+3. $2 bills + 4 dimes + 5 pennies = $2.00 + 40¢ + 5¢ = $2.45
+4. $10 bill + 1 nickel + 5 pennies = $10.00 + 5¢ + 5¢ = $10.10
+
+### Exercise 3: Subtraction with Coins
+
+If we spend some money or give some away, we need to subtract to find out how much we have left.
+
+1. 50¢ - 1 dime = 50¢ - 10¢ = 40¢
+2. 75¢ - 2 quarters = 75¢ - 50¢ = 25¢
+3. $1.00 - 3 dimes = 100¢ - 30¢ = 70¢
+4. 90¢ - 1 nickel - 4 pennies = 90¢ - 5¢ - 4¢ = 81¢
+
+### Exercise 4: Subtracting Dollar Bills and Coins
+
+Sometimes we'll need to subtract using dollar bills and coins together.
+
+1. $5.00 - $1 bill - 1 quarter = $4.00 - 25¢ = $3.75
+2. $10.00 - $2 bills - 3 dimes = $8.00 - 30¢ = $7.70
+3. $20.00 - $10 bill - 1 quarter - 2 pennies = $10.00 - 25¢ - 2¢ = $9.73
+4. $3.00 - 4 quarters = $3.00 - $1.00 = $2.00
+
+### Practice Problems
+
+Now it's your turn to try! Solve the following problems, then check your answers below.
+
+A. 1 quarter + 1 dime + 2 nickels + 7 pennies = ?
+
+B. $2 bill + 2 quarters + 3 dimes + 4 pennies = ?
+
+C. 90¢ - 1 quarter = ?
+
+D. $5.00 - $1 bill - 3 dimes - 7 pennies = ?
+
+### Answers to Practice Problems
+
+A. 1 quarter (25¢) + 1 dime (10¢) + 2 nickels (10¢) + 7 pennies (7¢) = 52¢
+
+B. $2 bill ($2.00) + 2 quarters (50¢) + 3 dimes (30¢) + 4 pennies (4¢) = $2.84
+
+C. 90¢ - 1 quarter (25¢) = 65¢
+
+D. $5.00 - $1 bill ($1.00) - 3 dimes (30¢) - 7 pennies (7¢) = $3.63
+
+Great job! Keep practicing, and you'll become a money math whiz in no time. Remember, carefully count each coin and bill, write down your work, and check your answers carefully. Money matters are important, and you're on your way to mastering them. Keep up the good work!

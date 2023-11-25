@@ -1,0 +1,123 @@
+# Time and Calendar
+
+## Understanding Time
+
+Time is an important part of our daily lives. We use it to schedule our days, plan events, and keep track of activities. There are 24 hours in a day, 60 minutes in an hour, and 60 seconds in a minute. Let's learn about telling time and understanding the calendar.
+
+### Telling Time
+
+When telling time, we look at clocks. Clocks can be digital, which display numbers, or analog, which have hands. The shorthand points to the hours and the long hand points to the minutes.
+
+#### Exercise 1: Reading Analog Clocks
+
+Look at the analog clock faces below and write down the time they are showing.
+
+1. ![Clock showing 3:00](image URL)
+2. ![Clock showing 7:45](image URL)
+3. ![Clock showing 12:30](image URL)
+4. ![Clock showing 9:15](image URL)
+
+**Answer Key:**
+
+1. 3:00 (It's 3 o'clock)
+2. 7:45 (It's a quarter to eight)
+3. 12:30 (It's half-past twelve)
+4. 9:15 (It's a quarter past nine)
+
+#### Exercise 2: Drawing Times on Clocks
+
+Draw the hands on an empty clock face to show the following times:
+
+1. 6:00
+2. 8:30
+3. 1:45
+4. 10:15
+
+**Answer Key:**
+
+1. Short hand at 6, long hand at 12
+2. Short hand halfway between 8 and 9, long hand at 6
+3. Short hand between 1 and 2, long hand at 9
+4. Short hand at 10, long hand at 3
+
+### A.M. and P.M.
+
+The day is divided into two 12-hour periods: from midnight to noon (A.M.) and from noon to midnight (P.M.).
+
+#### Exercise 3: A.M. or P.M.?
+
+State whether the following events usually happen in A.M. or P.M.:
+
+1. Eating breakfast
+2. Going to school
+3. Having dinner
+4. Sleeping at night
+
+**Answer Key:**
+
+1. A.M.
+2. A.M.
+3. P.M.
+4. P.M.
+
+## Understanding the Calendar
+
+### Days, Weeks, and Months
+
+There are 7 days in a week and generally 30 or 31 days in a month, except for February which has 28 days, and 29 days during a leap year which occurs every four years.
+
+#### Exercise 4: Days in a Month
+
+Memorize how many days are in each month with this rhyme: "Thirty days hath September, April, June, and November, all the rest have thirty-one, except February alone, which has twenty-eight days clear, and twenty-nine in each leap year."
+
+#### Exercise 5: Identifying Months and Days
+
+Identify the months which have 30 days and list them:
+
+**Answer Key:**
+
+September, April, June, and November.
+
+### Years and Leap Years
+
+One year is the time it takes for the Earth to orbit the Sun and is made up of 12 months. Every four years, an extra day is added to February to keep our calendar in alignment with the Earth's orbit. This year is called a leap year.
+
+#### Exercise 6: Leap Years
+
+Is the year 2028 a leap year? Explain your answer.
+
+**Answer Key:**
+
+Yes, 2028 is a leap year. It can be evenly divided by 4.
+
+## Using the Calendar
+
+A calendar helps us track days, plan for future events and remember past occasions.
+
+#### Exercise 7: Reading a Calendar
+
+Given a calendar page for the month of July, answer the following questions:
+
+1. If July 1st is on a Wednesday, what day of the week will be July 31st?
+2. If your birthday is July 22nd, what day of the week will you celebrate?
+
+**Answer Key:**
+
+1. Friday (because July has 31 days, and 30 days from Wednesday is a Tuesday plus one more day is a Friday)
+2. It depends on the year given. For instance, if July 1st is a Wednesday, then July 22nd would be on a Wednesday.
+
+## Practice Problems
+
+Now it’s your turn to practice what you have learned about time and calendars. Be sure to show your work, and when you are done, check your answers against the answer key.
+
+### Exercise 8: Planning an Event
+
+Your family is planning a picnic on the fourth Saturday of June. If June 1st is on a Tuesday, on what date will the picnic be?
+
+**Answer Key:**
+
+June 26th. Start by finding the first Saturday in June, which is the 5th. Counting each Saturday (12th, 19th), the fourth Saturday will be on the 26th.
+
+---
+
+Note: When creating an actual workbook, you would provide images of clocks and calendars as visual aids for the exercises, which here are just described.

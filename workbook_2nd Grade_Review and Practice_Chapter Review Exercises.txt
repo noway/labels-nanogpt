@@ -1,0 +1,111 @@
+## Chapter Review Exercises
+
+**Instructions:** Answer each question to the best of your ability. Remember to show all your work for each problem. Use this practice review to test your understanding of all the topics we've covered. When you're done, check your answers with the solutions provided at the end but try to solve them on your own first!
+
+### Numbers and Operations
+
+1. **Counting Challenge:** Count by 2s from 4 to 20.
+
+2. **Addition Fun:** Solve the following addition problems.
+   
+    a. \(5 + 3 = \)  
+    b. \(9 + 6 = \)  
+    c. \(12 + 7 = \)
+
+3. **Subtraction Time:** Solve the following subtraction problems.
+   
+    a. \(8 - 5 = \)  
+    b. \(15 - 4 = \)  
+    c. \(20 - 9 = \)
+
+4. **Missing Numbers:** Fill in the missing number in each equation.
+
+    a. \( 2 + \_\_ = 7 \)  
+    b. \( \_\_ - 3 = 10 \)  
+    c. \( 5 + \_\_ = 14 \)
+
+5. **Word Problems:** Solve these word problems.
+
+    a. Emma has 3 apples. She buys 5 more. How many apples does she have now?  
+    b. Alex had 10 candies. He gave some to his friend, and now he has 4 left. How many candies did he give to his friend?
+
+### Geometry and Measurement
+
+6. **Shapes and Names:** Name the following shapes.
+   
+    a. A shape with 3 sides.  
+    b. A shape with 4 equal sides and all right angles.
+
+7. **Sizing Up:** Measure the following lines to the nearest inch.
+
+    a. Line A: \_\_\_ inches long. (Show a line that is approximately 3 inches long)  
+    b. Line B: \_\_\_ inches long. (Show a line that is approximately 5 inches long)
+
+8. **Time Challenge:** What time do the following clocks show?
+   
+    a. (Show a clock set to 3:00)  
+    b. (Show a clock set to 7:45)
+
+### Data and Probability
+
+9. **Graphs Galore:** Look at the bar graph showing the number of pets in our class. 
+
+   - How many more fish are there than birds?
+    
+   (Draw a simple bar graph with "Pets" on the x-axis with "Fish" at 5 units and "Birds" at 2 units)
+
+10. **Probability Play:** If there are 3 red balls, 5 blue balls, and 2 green balls in a bag, what color is most likely to be picked?
+
+---
+
+### Answers
+
+### Numbers and Operations
+
+1. Counting by 2s: 4, 6, 8, 10, 12, 14, 16, 18, 20.
+
+2. Addition Fun: 
+   
+    a. \(5 + 3 = 8\)  
+    b. \(9 + 6 = 15\)  
+    c. \(12 + 7 = 19\)
+
+3. Subtraction Time:
+   
+    a. \(8 - 5 = 3\)  
+    b. \(15 - 4 = 11\)  
+    c. \(20 - 9 = 11\)
+
+4. Missing Numbers:
+   
+    a. \(2 + 5 = 7\)  
+    b. \(13 - 3 = 10\)  
+    c. \(5 + 9 = 14\)
+
+5. Word Problems:
+   
+    a. Emma has \(3 + 5 = 8\) apples.  
+    b. Alex gave away \(10 - 4 = 6\) candies to his friend.
+
+### Geometry and Measurement
+
+6. Shapes and Names:
+   
+    a. Triangle.  
+    b. Square.
+
+7. Sizing Up:
+   
+    a. Line A: 3 inches long.  
+    b. Line B: 5 inches long.
+
+8. Time Challenge:
+   
+    a. 3:00.
+    b. 7:45.
+
+### Data and Probability
+
+9. Bar graph: There are \(5 - 2 = 3\) more fish than birds.
+
+10. Probability Play: Blue is most likely to be picked because there are more blue balls than any other color.

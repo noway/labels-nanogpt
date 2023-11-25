@@ -1,0 +1,73 @@
+# Problem Solving: Word Problems (Addition, Subtraction, Multiplication)
+
+In this section, we will practice solving word problems using addition, subtraction, and multiplication. Word problems require you to read a story or situation and then use math to solve a problem presented within the story. Make sure you read each problem carefully, decide which operation to use, and apply it correctly. Let's get started!
+
+---
+
+## Addition
+
+**Problem 1:** Jenny had 15 apples in a basket. Her mother gave her 8 more apples to add to the basket. How many apples does Jenny have now?
+
+*Solution to Problem 1:*  
+15 apples + 8 apples = 23 apples  
+Jenny has 23 apples now.
+
+**Problem 2:** There are 12 boys and 14 girls in a classroom. How many children are there in total?
+
+*Solution to Problem 2:*  
+12 boys + 14 girls = 26 children  
+There are 26 children in total in the classroom.
+
+**Problem 3:** A farmer has 7 chickens, 9 ducks, and 3 turkeys. How many birds does the farmer have?
+
+*Solution to Problem 3:*  
+7 chickens + 9 ducks + 3 turkeys = 19 birds  
+The farmer has 19 birds.
+
+---
+
+## Subtraction
+
+**Problem 4:** Sarah had 24 candies. She gave 6 candies to her friend. How many candies does Sarah have left?
+
+*Solution to Problem 4:*  
+24 candies - 6 candies = 18 candies  
+Sarah has 18 candies left.
+
+**Problem 5:** Mike collected 45 seashells from the beach, but he lost 12 of them on his way home. How many seashells does Mike have now?
+
+*Solution to Problem 5:*  
+45 seashells - 12 seashells = 33 seashells  
+Mike has 33 seashells now.
+
+**Problem 6:** There were 50 books on a shelf. After some books were borrowed, there were only 22 books left. How many books were borrowed?
+
+*Solution to Problem 6:*  
+50 books - 22 books = 28 books  
+28 books were borrowed.
+
+---
+
+## Multiplication
+
+**Problem 7:** A pack of crayons contains 8 different colors. If Tim buys 3 packs, how many crayons does he have in total?
+
+*Solution to Problem 7:*  
+3 packs × 8 crayons/pack = 24 crayons  
+Tim has 24 crayons in total.
+
+**Problem 8:** Emma has 4 rows of flowers with 7 flowers in each row. How many flowers does she have in total?
+
+*Solution to Problem 8:*  
+4 rows × 7 flowers/row = 28 flowers  
+Emma has 28 flowers in total.
+
+**Problem 9:** There are 6 cupcakes in each box. If there are 5 boxes, how many cupcakes are there altogether?
+
+*Solution to Problem 9:*  
+6 cupcakes/box × 5 boxes = 30 cupcakes  
+There are 30 cupcakes altogether.
+
+---
+
+Now that you have completed the word problems above, make sure you understand how to determine which mathematical operation to use and how to apply it correctly. Being able to solve word problems is a valuable skill not just for math class, but for everyday life! Keep practicing and you'll become a pro at problem-solving.

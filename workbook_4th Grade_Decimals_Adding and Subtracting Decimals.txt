@@ -1,0 +1,105 @@
+# Decimals Chapter - Adding and Subtracting Decimals
+
+Welcome to the section of our workbook that focuses on "Adding and Subtracting Decimals." As you continue your journey in understanding math, getting comfortable with decimals is very important. Decimals are used in many areas of life, including money, measurements, and many scientific fields. In this section, we’ll learn how to properly add and subtract them.
+
+Before we begin, remember that a decimal number consists of two parts: the whole number part and the decimal part, separated by a decimal point. The decimal part is a fraction of a whole number. 
+
+## Adding Decimals
+
+To add decimals properly, follow these steps:
+
+### Step 1: Write down the numbers, one below the other, with the decimal points lined up.
+### Step 2: If the numbers have a different number of digits after the decimal point, add zeros to the ends of some numbers so that all numbers have the same number of digits after the decimal point.
+### Step 3: Add the numbers as if they were whole numbers.
+### Step 4: Put the decimal point in the answer directly below the other decimal points.
+
+Let's practice with some examples. 
+
+### Example 1:
+Add 3.25 and 2.1.
+
+3.25
++2.10 (we add a zero to make the decimal places equal)
+------
+5.35
+
+### Example 2:
+Add 12.3, 5.678, and 0.9.
+
+12.300 (adding two zeros to make the decimal places equal)
++5.678
++0.900 (adding a zero)
+-----------
+18.878
+
+Excellent! Now onto the exercises:
+
+#### Exercise 1:
+Add 4.56 and 3.789.
+
+Your Answer:  
+4.560  
++3.789  
+\-------  
+8.349
+
+#### Exercise 2:
+Add 15.25, 0.75, and 2.005.
+
+Your Answer:  
+15.250  
++0.750  
++2.005  
+\-------  
+18.005
+
+Good work! Now, let's move to subtracting decimals.
+
+## Subtracting Decimals
+
+Subtracting decimals is similar to adding decimals. Follow these steps:
+
+### Step 1: Write down the numbers, one below the other, with the decimal points lined up.
+### Step 2: Just like with addition, if the numbers have a different number of digits after the decimal point, add zeros to the ends of the numbers so that both numbers have the same number of digits after the decimal point.
+### Step 3: Subtract the numbers as if they were whole numbers.
+### Step 4: Place the decimal point in the answer directly below the other decimal points.
+
+Let's look at some examples before doing the exercises.
+
+### Example 1:
+Subtract 6.4 from 10.5.
+
+10.5  
+-6.4 (we can add a zero to make the decimal places equal)  
+\-----  
+4.1
+
+### Example 2:
+Subtract 2.356 from 8.4.
+
+8.400 (adding two zeros to make the decimal places equal)  
+-2.356  
+\-------  
+6.044
+
+Now it's your turn again:
+
+#### Exercise 1:
+Subtract 1.789 from 7.6.
+
+Your Answer:  
+7.600  
+-1.789  
+\-------  
+5.811
+
+#### Exercise 2:
+Subtract 3.75 from 20.005.
+
+Your Answer:  
+20.005  
+-3.750  
+\-------  
+16.255
+
+That’s great! Remember, the key to adding and subtracting decimals is lining up the decimal points and making sure the number of digits after the decimal point is the same. Always double-check that the decimal point in your answer is in the correct place, directly under the other decimal points in the problem. Keep practicing, and you'll become a pro at adding and subtracting decimals in no time!

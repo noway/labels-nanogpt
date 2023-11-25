@@ -1,0 +1,57 @@
+# Measurement: Units of Length
+
+Welcome to the "Units of Length" section of our Measurement chapter! In this section, you'll learn about different ways to measure how long or tall something is. Length is a measurement that tells us the distance from one end of an object to the other.
+
+## Understanding Units of Length
+
+There are two main systems for measuring length: the Metric System and the U.S. Customary System. It's important to know both systems, as some countries like the United States often use the U.S. Customary units, while most of the world uses the Metric units.
+
+### Metric System Units:
+- **Millimeter (mm):** A millimeter is very small, about as wide as the thickness of a plastic ID card.
+- **Centimeter (cm):** A centimeter is about the width of your pinky finger. There are 10 millimeters in a centimeter.
+- **Meter (m):** A meter is a bit longer than a yard (which we'll talk about in a bit). One meter is the same as 100 centimeters or 1,000 millimeters.
+
+### U.S. Customary System Units:
+- **Inch (in):** An inch can be roughly estimated by the width of an adult's thumb. There are 12 inches in a foot.
+- **Foot (ft):** A foot is the size of a standard ruler and a little bit longer than a large shoe. There are 3 feet in a yard.
+- **Yard (yd):** A yard is about the length of a standard guitar. And, there are 1760 yards in a mile.
+
+### Activity 1: Convert the Units!
+
+Convert the following measurements to the units specified. Use the provided reference table to help you.
+
+1. 3 feet = ___ inches
+2. 2 yards = ___ feet
+3. 500 millimeters = ___ centimeters
+4. 1.5 meters = ___ centimeters
+5. 7 inches = ___ feet
+
+### Answers to Activity 1:
+
+1. 3 feet = **36 inches** (since 1 foot = 12 inches, multiply 3 by 12)
+2. 2 yards = **6 feet** (since 1 yard = 3 feet, multiply 2 by 3)
+3. 500 millimeters = **50 centimeters** (since 1 centimeter = 10 millimeters, divide 500 by 10)
+4. 1.5 meters = **150 centimeters** (since 1 meter = 100 centimeters, multiply 1.5 by 100)
+5. 7 inches = **0.583 feet** (since 1 foot = 12 inches, divide 7 by 12)
+
+### Activity 2: Estimate and Measure!
+
+Use your ruler to measure the length of objects around you. If you have a tape measure, you can use that for longer objects. Record your measurements in both Metric and U.S. Customary units.
+
+1. Length of your math workbook.
+2. Height of your desk.
+3. Distance from your door to your bed.
+
+*Since the actual measurements will vary, here we’ll list hypothetical answers.*
+
+### Answers to Activity 2:
+
+1. Length of your math workbook = **27.5 cm** or **10.8 inches**
+2. Height of your desk = **75 cm** or **29.5 inches**
+3. Distance from your door to your bed = **2 meters** or **2.19 yards**
+
+### Did you know?
+
+The tallest tree in the world is a coast redwood named Hyperion. Its height has been measured at over 379 feet tall. That's well over 100 meters!
+
+Now that you're familiar with units of length, continue practicing measuring objects around you and converting between units. Soon you'll be a pro at estimating and accurately measuring lengths in both metric and U.S. customary units! Keep up the good work, and have fun measuring!

@@ -1,0 +1,107 @@
+### Subtraction with Borrowing
+
+Hello young mathematicians! Today we are going to learn about an important skill called "Subtraction with Borrowing." Sometimes, when we subtract one number from another, the top number isn't large enough to subtract the bottom number in one of the columns. This is where borrowing comes in! Let's dive in and master this skill together.
+
+#### What is Borrowing?
+
+Borrowing is a way of reorganizing numbers so you can subtract when the top digit is smaller than the bottom digit in a column. When you borrow, you take a ten from the next column to the left and give it to the smaller number. This makes subtraction possible!
+
+#### Step-by-Step Process for Subtracting with Borrowing:
+
+**Step 1: Write the larger number above the smaller number, making sure to line up the place values (ones, tens, hundreds, etc.).**
+
+**Step 2: Starting from the right, look at the top number in the column. If it's smaller than the bottom number, you need to borrow.**
+
+**Step 3: Go to the column directly to the left. This is where you'll borrow from. Reduce that number by 1 (subtract 1), even if this number is a 0.**
+
+**Step 4: Add 10 to the number you were initially trying to subtract from. Now you have enough to subtract!**
+
+**Step 5: Perform the subtraction in the column you borrowed for.**
+
+**Step 6: Continue to the left, borrowing as needed, until you've subtracted each column.**
+
+#### Let's Practice!
+
+Here are some problems which have been solved using subtraction with borrowing.
+
+1. Subtract: 452 – 168
+
+```
+   Start:      After Borrowing:     Result:
+    452            442 + 12           284 
+  - 168          - 168
+  ______          ______
+```
+
+Answer: 284
+
+#### Explanation:
+
+In the first problem, we look at the ones place: 2 is less than 8, so we need to borrow. We go to the tens place, where we have a 5. After borrowing, the 5 becomes a 4, and we add 10 to the 2 to make it 12. Now we can subtract:
+
+12 (ones) - 8 (ones) = 4 (ones)
+
+4 (tens) - 6 (tens) = We need to borrow again!
+
+We look to our hundreds. 4 (hundreds) becomes 3 (hundreds), and we add 10 to the 4 (tens) to make it 14 (tens). Now we can subtract:
+
+14 (tens) - 6 (tens) = 8 (tens)
+
+Finally, we subtract our hundreds place:
+
+3 (hundreds) - 1 (hundred) = 2 (hundred)
+
+Combine the numbers we got to find the solution: 284.
+
+2. Subtract: 607 – 389
+
+```
+   Start:     After Borrowing:     Result:
+    607           597  17            218
+  - 389         - 389
+  ______         ______
+```
+
+Answer: 218
+
+#### Explanation:
+
+In the second problem, we start on the right. 7 is less than 9, so we borrow. We take 1 from the tens place (0), which becomes 10 and we add it to 7 to make 17.
+
+17 (ones) - 9 (ones) = 8 (ones)
+
+Since we can't subtract 9 from 0, we must borrow from the hundreds place, which becomes 5 and adds 10 to the tens, making it 10.
+
+10 (tens) - 8 (tens) = 2 (tens)
+
+Finally, we just subtract the hundreds:
+
+5 (hundreds) - 3 (hundreds) = 2 (hundreds)
+
+Putting it all together, we get 218.
+
+Now that you have learned about subtraction with borrowing and practiced with examples, it's your turn. Try the following problems on your own.
+
+**Practice Problems:**
+
+A. 735 – 489 =
+
+B. 806 – 575 =
+
+C. 919 – 643 =
+
+D. 1000 – 347 =
+
+When you're done, you can check your work with the answers below.
+
+**Answers to Practice Problems:**
+
+A. 735 – 489 = 246
+
+B. 806 – 575 = 231
+
+C. 919 – 643 = 276
+
+D. 1000 – 347 = 653
+
+Remember, subtraction with borrowing may seem tricky at first, but with practice, you'll become a subtraction superstar! Keep practicing, and soon it will be second nature.

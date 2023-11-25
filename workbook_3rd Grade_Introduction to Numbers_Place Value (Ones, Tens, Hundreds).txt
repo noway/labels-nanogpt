@@ -1,0 +1,67 @@
+**Introduction to Numbers: Place Value (Ones, Tens, Hundreds)**
+
+Welcome to the exciting world of numbers! Understanding place value is like discovering the secret code that makes numbers work. It helps you see how numbers are built and how their value can change depending on their position. Let’s dive in!
+
+---
+
+**What is Place Value?**
+
+Place value is the value of each digit in a number based on its position. In a number, each place has a value that is ten times more than the place to its right.
+
+For example, in the number 435:
+
+- The '5' is in the Ones place and means just 5.
+- The '3' is in the Tens place and means 3 tens, which is the same as \(3 \times 10 = 30\).
+- The '4' is in the Hundreds place and means 4 hundreds, which is the same as \(4 \times 100 = 400\).
+
+---
+
+**The Place Value Chart**
+
+A place value chart helps us understand the position of each digit in a number. Here's what it looks like:
+
+| Hundreds | Tens | Ones |
+|----------|------|------|
+|     4    |   3  |   5  |
+
+---
+
+**Let's Practice Place Value!**
+
+Exercise 1: Write the value of the underlined digit.
+1. \( \underline{6}42 \) - The underlined digit is in the Hundreds place. Its value is 600.
+2. 3\underline{5}7 - The underlined digit is in the Tens place. Its value is 50.
+3. 28\underline{9} - The underlined digit is in the Ones place. Its value is 9.
+
+Exercise 2: What is the place value of the bold digit?
+1. \( 1\mathbf{7}3 \) - The bold digit is in the Tens place. Its place value is Tens.
+2. \( \mathbf{2}65 \) - The bold digit is in the Hundreds place. Its place value is Hundreds.
+3. \( 480\mathbf{1} \) - The bold digit is in the Ones place. Its place value is Ones.
+
+Exercise 3: Use a place value chart to show the number 726.
+
+| Hundreds | Tens | Ones |
+|----------|------|------|
+|     7    |   2  |   6  |
+
+726 has 7 Hundreds (700), 2 Tens (20), and 6 Ones (6).
+
+Exercise 4: Write the number for the given place values.
+
+1. 5 Hundreds, 0 Tens, 3 Ones - The number is \( 5 \times 100 + 0 \times 10 + 3 \times 1 = \) **503**.
+2. 8 Hundreds, 2 Tens, 7 Ones - The number is \( 8 \times 100 + 2 \times 10 + 7 \times 1 = \) **827**.
+3. 1 Hundred, 9 Tens, 4 Ones - The number is \( 1 \times 100 + 9 \times 10 + 4 \times 1 = \) **194**.
+
+Exercise 5: For the number 381, identify the Hundreds, Tens, and Ones.
+
+- Hundreds: The '3' means 3 Hundreds (300).
+- Tens: The '8' means 8 Tens (80).
+- Ones: The '1' means 1 One (1).
+
+Great job! Now you understand how place value works for Ones, Tens, and Hundreds. Remember that place value is like the building blocks of numbers. When you know the value of each block, you can build any number you want!
+
+We've covered the basics of place value for the Ones, Tens, and Hundreds places. As you continue to learn about numbers, you'll discover that this pattern continues with larger numbers, too! Keep practicing, and you'll be a place value pro in no time!
+
+---
+
+That's the end of our Place Value (Ones, Tens, Hundreds) section! If you completed the exercises, check your answers with the ones provided. If you got some wrong, don't worry! Go through them again, and remember that practice makes perfect. Good luck, and have fun with numbers!

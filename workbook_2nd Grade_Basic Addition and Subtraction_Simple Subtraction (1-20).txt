@@ -1,0 +1,89 @@
+## Simple Subtraction (1-20)
+
+In this section, we are going to practice subtracting numbers from 1 to 20. Subtraction is taking one number away from another. It is the opposite of addition. When we subtract, the number we start with is called the "minuend" and the number we take away is the "subtrahend." The answer we get is the "difference." Let’s get started with some examples!
+
+---
+
+### Practice Problems
+
+**1.** 10 – 3 = __7__  
+Let's take away 3 from 10. That leaves us with 7.
+
+**2.** 15 – 6 = __9__  
+When we subtract 6 from 15, we get 9.
+
+**3.** 9 – 4 = __5__  
+Four less than 9 is 5.
+
+**4.** 18 – 9 = __9__   
+Take away 9 from 18, and you are left with 9.
+
+**5.** 5 – 2 = __3__  
+Two less than 5 makes 3.
+
+**6.** 14 – 8 = __6__  
+Subtract 8 from 14, and the result is 6.
+
+**7.** 13 – 5 = __8__  
+Thirteen take away 5 equals 8.
+
+**8.** 7 – 0 = __7__  
+If you subtract 0 from 7, the answer is still 7.
+
+**9.** 20 – 20 = __0__  
+When you take 20 from 20, you are left with nothing, or 0.
+
+**10.** 6 – 1 = __5__  
+Taking 1 away from 6 gives us 5.
+
+---
+
+### Let's Subtract More!
+
+**11.** 8 – 7 = __1__  
+If we have 8 and subtract 7, we have 1 left.
+
+**12.** 17 – 3 = __14__  
+Starting with 17, if we take away 3, we end up with 14.
+
+**13.** 11 – 11 = __0__   
+Taking 11 from 11 leaves us with 0.
+
+**14.** 12 – 8 = __4__  
+Twelve take away 8 equals 4.
+
+**15.** 19 – 10 = __9__  
+Nineteen minus ten is nine.
+
+**16.** 16 – 4 = __12__  
+Subtract 4 from 16, and you're left with 12.
+
+**17.** 4 – 3 = __1__  
+Four take away 3 leaves us with 1.
+
+**18.** 14 – 7 = __7__  
+When you subtract 7 from 14, the number that remains is 7.
+
+**19.** 10 – 10 = __0__  
+Ten minus ten gives us 0.
+
+**20.** 20 – 8 = __12__  
+If you take 8 from 20, you'll have 12 left.
+
+---
+
+### Subtraction Word Problems
+
+**Problem 1:** There are 16 apples in the basket, and Jack eats 5 of them. How many apples are left in the basket?  
+**Answer:** 16 – 5 = __11__  
+There are 11 apples left in the basket.
+
+**Problem 2:** Maria has 12 crayons, and she gives 7 to her friend. How many crayons does Maria have now?  
+**Answer:** 12 – 7 = __5__  
+Maria now has 5 crayons.
+
+**Problem 3:** A bakery has 18 cupcakes. If 4 cupcakes are sold, how many are still available in the bakery?  
+**Answer:** 18 – 4 = __14__  
+There are 14 cupcakes still available in the bakery.
+
+Remember that practice makes perfect! Keep revisiting these problems until you feel comfortable with them. Soon, subtracting numbers will be a piece of cake for you!

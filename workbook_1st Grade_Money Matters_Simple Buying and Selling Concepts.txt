@@ -1,0 +1,73 @@
+# Money Matters
+
+## Simple Buying and Selling Concepts
+
+Welcome to the world of money, where we learn about buying and selling! When we buy something, we exchange money for goods or services. When we sell something, we give goods or services to get money. It's like a trade! Today, we're going to learn about how this works with simple math.
+
+### Exercise 1: Understanding Money Values
+
+Before we start buying and selling, we need to understand how much money is worth. Look at the coins and bills below and learn their values:
+
+1. Penny - 1 cent
+2. Nickel - 5 cents
+3. Dime - 10 cents
+4. Quarter - 25 cents
+5. Dollar bill - 100 cents or $1
+
+Great job! Now, let's see how they add up.
+
+**Question 1:** If you have 3 dimes, 4 pennies, and 1 nickel, how much money do you have in total?
+
+**Answer:** 3 dimes = 3 x 10 cents = 30 cents
+4 pennies = 4 x 1 cent = 4 cents
+1 nickel = 5 cents
+Total = 30 cents + 4 cents + 5 cents = 39 cents.
+
+**Question 2:** If you have 2 quarters and 1 dime, how much money is that?
+
+**Answer:** 2 quarters = 2 x 25 cents = 50 cents
+1 dime = 10 cents
+Total = 50 cents + 10 cents = 60 cents.
+
+### Exercise 2: Making a Purchase
+
+Now that you know how to count money let's buy something at the store!
+
+**Question 3:** You want to buy a toy car for 75 cents. You have a dollar bill. How much change should you get back after buying the car?
+
+**Answer:** The toy car costs 75 cents. You're paying with a dollar, which is 100 cents.
+Change = 100 cents - 75 cents = 25 cents back.
+
+**Question 4:** You are buying a pencil for 15 cents and you give the cashier one quarter. Calculate your change.
+
+**Answer:** You give 25 cents, and the pencil costs 15 cents.
+Change = 25 cents - 15 cents = 10 cents back.
+
+### Exercise 3: Earning Money
+
+Selling is the opposite of buying. You can sell something you made or a service you provide to earn money.
+
+**Question 5:** You sell lemonade for 50 cents per cup. If you sell 4 cups, how much money do you make?
+
+**Answer:** 4 cups x 50 cents = 200 cents or $2.00.
+
+**Question 6:** You help your neighbor wash their car, and they give you 3 dollar bills. How much money did you earn?
+
+**Answer:** 3 dollar bills = 3 x $1 = $3.00.
+
+### Exercise 4: Putting it all Together – Buying and Selling
+
+It’s time to combine what we have learned! You will use buying and selling together in these problems.
+
+**Question 7:** You have $5.00. You buy a book for $3.00 and sell some toys for $2.50. How much money do you have now?
+
+**Answer:** You start with $5.00.
+You spend $3.00 on a book, so you have $5.00 - $3.00 = $2.00 left.
+Then you sell toys and get $2.50, so you have $2.00 + $2.50 = $4.50.
+
+**Question 8:** You make bracelets and sell them for a dollar each. You sell 6 bracelets and then buy a snack for $2.00. How much are you left with?
+
+**Answer:** Selling bracelets: 6 x $1.00 = $6.00 earned.
+Buying a snack: $6.00 - $2.00 = $4.00 left.
+
+Congratulations on completing the Simple Buying and Selling Concepts section of the Money Matters chapter! You now understand how to count money, make purchases, and earn money through selling. Keep practicing, and soon you'll be a money matters expert!

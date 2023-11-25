@@ -1,0 +1,86 @@
+# Fractions
+
+## Introduction to Fractions
+
+Welcome to the exciting world of fractions! You might have heard about, seen, or even used fractions in your daily life without even knowing it. Have you ever shared a pizza with friends or poured half a glass of water? If so, then you've already encountered fractions!
+
+### What Is a Fraction?
+
+A fraction represents a part of a whole. It's like breaking something into equal pieces and talking about how many pieces you have. The fraction itself consists of two important parts: the numerator and the denominator.
+
+- **Numerator**: This is the top number in a fraction. It tells you how many parts you have.
+- **Denominator**: This is the bottom number. It tells you into how many equal parts the whole has been divided.
+
+For example, in the fraction 3/4, the numerator is 3, and the denominator is 4. This means we have a whole that is divided into 4 equal parts, and we are concerned with 3 of those parts.
+
+### Types of Fractions
+
+1. **Proper Fractions**: These are where the numerator is less than the denominator (like 1/2 or 3/7). It means the part we have is less than a whole.
+
+2. **Improper Fractions**: These are where the numerator is greater than the denominator (like 5/3 or 9/4). This means we have more than a whole.
+
+3. **Mixed Numbers**: An improper fraction can also be written as a mixed number, which includes a whole number and a proper fraction (like 1 2/3 or 2 1/4).
+
+4. **Equivalent Fractions**: Different fractions can represent the same value. For example, 1/2 is equal to 2/4 or 4/8. They are all the same size, just divided up differently.
+
+### Visualizing Fractions
+
+One of the best ways to understand fractions is to visualize them. Imagine a pie cut into equal slices. If you cut a pie into 4 pieces and take 3, using the fraction 3/4 we understand how much pie you have.
+
+### Exercises
+
+Let's practice with some exercises to see if you've understood the concept of fractions.
+
+#### Exercise 1: Identify the Numerator and Denominator
+
+Look at the following fractions and identify the numerator and the denominator:
+
+A) 5/8
+B) 2/3
+C) 7/9
+
+#### Answers:
+
+A) Numerator: 5, Denominator: 8
+B) Numerator: 2, Denominator: 3
+C) Numerator: 7, Denominator: 9
+
+#### Exercise 2: Classify the Fractions
+
+Write whether each fraction is a proper fraction or an improper fraction:
+
+A) 4/5
+B) 8/6
+C) 7/7
+
+#### Answers:
+
+A) 4/5 is a proper fraction (Numerator < Denominator).
+B) 8/6 is an improper fraction (Numerator > Denominator).
+C) 7/7 is an improper fraction (Numerator = Denominator).
+
+#### Exercise 3: Draw the Fractions
+
+Draw a rectangle and divide it into equal parts, then shade the part of the rectangle that corresponds to the fraction given:
+
+A) 1/4
+B) 3/5
+
+#### Answers:
+
+A) The rectangle should be divided into 4 parts, with one part shaded.
+B) The rectangle should be divided into 5 parts, with three parts shaded.
+
+#### Exercise 4: Equivalent Fractions
+
+Write the two fractions given below as equivalent fractions with a denominator of 12:
+
+A) 1/3
+B) 3/4
+
+#### Answers:
+
+A) 1/3 is equivalent to 4/12 (Because 1×4 = 4 and 3×4 = 12).
+B) 3/4 is equivalent to 9/12 (Because 3×3 = 9 and 4×3 = 12).
+
+Great job on completing the introduction to fractions! Remember that practicing these concepts will help you to understand and use fractions confidently. Keep up the good work!

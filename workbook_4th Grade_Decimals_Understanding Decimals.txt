@@ -1,0 +1,56 @@
+---
+**Understanding Decimals**
+
+Welcome to the section on Understanding Decimals! Decimals are a way to show parts of a whole number, similar to fractions. They are very useful, especially when you want to be precise, such as when dealing with money.
+
+**What is a Decimal?**
+
+A decimal number can be seen as a whole number plus a fraction of a whole number. The numbers to the left of the decimal point represent whole numbers, just like the numbers you are used to working with. The numbers to the right of the decimal point represent a fraction of a whole number.
+
+**Decimal Place Values**
+
+Just like whole numbers have place values like ones, tens, and hundreds, decimal numbers have place values, too. The first place to the right of the decimal point is called the tenths place, the next is the hundredths place, and so on. Here’s how it looks:
+
+- Ones (1), Tens (10), Hundreds (100), etc.
+- Tenths (0.1), Hundredths (0.01), Thousandths (0.001), etc.
+
+**Reading Decimals**
+
+To read a decimal, start by reading the whole number part. Then say "and" for the decimal point, and read the decimal part as a whole number followed by its place value.
+
+For example:
+
+- 4.5 is read as "four and five-tenths."
+- 3.16 is read as "three and sixteen-hundredths."
+
+**Writing Decimals**
+
+When you write decimals, never forget the decimal point - it's very important! The decimal point goes directly to the right of the ones place.
+
+**Comparing Decimals**
+
+When comparing two decimals, start by comparing the whole number part. If they are different, the larger whole number will have the larger decimal. If the whole numbers are the same, then compare the digits from left to right after the decimal point.
+
+**Rounding Decimals**
+
+Rounding decimals works much like rounding whole numbers. You look at the number in the place value you're rounding to. If the number to the right of it is 5 or greater, you round up. If not, you round down.
+
+**Exercises:**
+
+Now, let’s try some exercises to practice what you’ve learned about decimals.
+
+1. Write the decimal 0.7 in words.
+2. Compare the decimals: Which is greater? 0.3 or 0.45
+3. Round the decimal 4.856 to the nearest tenth.
+
+**Answers:**
+
+1. Zero point seven or "seven-tenths."
+2. 0.45 is greater than 0.3 because 45 hundredths are more than 30 hundredths.
+3. 4.856 rounded to the nearest tenth is 4.9 because the hundredths place is 5, which tells us to round up the tenths place.
+
+Great job! Now that you understand the basics of decimals, let's move on to adding, subtracting, multiplying, and dividing with decimals! 
+
+---
+
+Remember, practice makes perfect! Go ahead and try more problems with decimals and ask for help if you need it. Understanding decimals is a big step in math, and you're doing great!

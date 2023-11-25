@@ -1,0 +1,110 @@
+## Definitions of Key Math Terms
+
+### Addition
+Addition is the process of combining two or more numbers to find their total amount. The symbol for addition is +. For example, 3 + 2 = 5.
+
+### Sum
+The sum is the answer you get when you add two or more numbers together. For example, when we add 4 + 3, the sum is 7.
+
+### Subtraction
+Subtraction is the process of taking one number away from another to find out how much more one is than the other. The symbol for subtraction is −. For example, 5 − 2 = 3.
+
+### Difference
+The difference is the answer you get when you subtract one number from another. For example, if we subtract 6 from 9, the difference is 3.
+
+### Multiplication
+Multiplication is a way of adding the same number several times. The symbol for multiplication is × or a dot (•). For instance, 4 × 2 means add 4 two times, which equals 8.
+
+### Product
+The product is the answer to a multiplication problem. When we multiply 3 times 5, the product is 15.
+
+### Division
+Division is the process of splitting a number into equal parts. The symbol for division is ÷ or a slash (/). For example, 8 ÷ 2 means dividing 8 into 2 equal parts, which equals 4.
+
+### Quotient
+The quotient is the answer to a division problem. If 20 is divided by 5, the quotient is 4.
+
+### Remainder
+A remainder is the amount left over in a division problem when the numbers do not divide evenly. For example, when 10 is divided by 3, the quotient is 3, and the remainder is 1.
+
+### Equal
+Equal means the same in value or amount. The symbol for equal is =. If 2 + 3 = 5, then 2 + 3 is equal to 5.
+
+### Even Number
+An even number is a whole number that can be divided by 2 without a remainder. Examples include 2, 4, 6, and 8.
+
+### Odd Number
+An odd number is a whole number that cannot be divided by 2 without a remainder. Examples include 1, 3, 5, and 7.
+
+### Place Value
+Place value is the value of where a digit is in a number. In the number 123, the 2 is in the "tens" place, which means it actually represents 20.
+
+### Digit
+A digit is any one of the numerical symbols 0 through 9 that we use to write numbers.
+
+### Number Line
+A number line is a straight line with numbers placed at even intervals along the length. It can be used to represent numbers and their relationships to each other.
+
+### Greater Than
+The symbol ">" means greater than and is used to compare two numbers, where the first number is larger than the second. For example, 8 > 5.
+
+### Less Than
+The symbol "<" means less than and is used to compare two numbers, where the first number is smaller than the second. For example, 3 < 6.
+
+### Fraction
+A fraction represents a part of a whole or a division of a quantity into equal parts. It has a top number (numerator) and a bottom number (denominator), like 1/2 or 3/4.
+
+### Numerator
+The numerator is the top number of a fraction that tells how many parts of the whole or group are being considered.
+
+### Denominator
+The denominator is the bottom number of a fraction that shows the total number of equal parts the whole is divided into.
+
+### Geometry
+Geometry is a branch of mathematics that studies the sizes, shapes, positions, and dimensions of things. It involves understanding and using different shapes and the relationships between them.
+
+### Shape
+A shape is the form of an object, such as a square, triangle, or circle, each of which has specific properties.
+
+### Pattern
+A pattern is a repeated decorative design or a sequence that shows some form of regularity. In math, patterns are often series of numbers that follow a rule.
+
+### Measurement
+Measurement is the process of determining the size, length, or amount of something. In math, common measurements include length, weight, and volume.
+
+### Data
+Data are pieces of information collected by observation or research that can be used for analysis or calculation.
+
+### Graph
+A graph is a visual representation of data that shows the relationships between different sets of information.
+
+---
+
+**Answers to Common Exercises:**
+
+1. Addition Problem: 3 + 2
+   Answer: 5
+
+2. Subtraction Problem: 6 − 4
+   Answer: 2
+
+3. Multiplication Problem: 7 × 3
+   Answer: 21
+
+4. Division Problem: 10 ÷ 5
+   Answer: 2
+
+5. Even Number Example: Is 8 an even number?
+   Answer: Yes, because 8 divided by 2 equals 4, with no remainder.
+
+6. Odd Number Example: Is 7 an odd number?
+   Answer: Yes, because 7 divided by 2 equals 3 with a remainder of 1.
+
+7. Place Value Example: In the number 456, what is the place value of 5?
+   Answer: The place value of 5 is the tens place, which represents 50.
+
+8. Comparing Numbers: Which is greater, 7 or 4?
+   Answer: 7 is greater than 4, so we write 7 > 4.
+
+9. Fraction Example: What fraction represents half of a cake?
+   Answer: 1/2 represents half of a cake.

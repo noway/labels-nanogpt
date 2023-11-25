@@ -1,0 +1,89 @@
+**Data and Probability - Chapter 3: Mean, Median, Mode**
+
+Understanding how to analyze data is an essential skill. In this chapter, we will learn about three basic statistical concepts that will help us describe and interpret data: Mean, Median, and Mode.
+
+**Section 3.1: Mean**
+
+The mean, often referred to as the average, is a value that is calculated by adding up all the numbers in a set of data and then dividing the sum by the count of numbers.
+
+**Activity 3.1A: Calculating the Mean**
+
+1. Find the mean of the following numbers: 5, 8, 12, 7, 10.
+
+Step 1: Add the numbers together. 5 + 8 + 12 + 7 + 10 = 42
+
+Step 2: Count how many numbers there are. There are 5 numbers.
+
+Step 3: Divide the total sum by the count of numbers. 42 ÷ 5 = 8.4
+
+Answer: The mean is 8.4.
+
+2. Calculate the mean of these numbers: 4, 9, 3, 6, 11.
+
+Answer: Add the numbers (4 + 9 + 3 + 6 + 11 = 33), count the numbers (there are 5 numbers), and divide the sum by the count of numbers (33 ÷ 5 = 6.6). The mean is 6.6.
+
+**Section 3.2: Median**
+
+The median is the middle value in a set of numbers arranged in ascending order. If there is an even number of values, the median is the average of the two middle numbers.
+
+**Activity 3.2A: Finding the Median**
+
+1. Find the median of the following numbers: 16, 9, 22, 13, 7.
+
+Step 1: Arrange the numbers in ascending order: 7, 9, 13, 16, 22.
+
+Step 2: Find the middle number (since there are 5 numbers, the middle one is the third number).
+
+Answer: The median is 13.
+
+2. Determine the median of these numbers: 18, 14, 11, 20, 15, 12.
+
+Answer: Arrange the numbers (11, 12, 14, 15, 18, 20). Since there are 6 numbers, the median will be the average of the 3rd and 4th numbers: (14 + 15) ÷ 2 = 29 ÷ 2 = 14.5. The median is 14.5.
+
+**Section 3.3: Mode**
+
+The mode is the number that appears most frequently in a set of data. There can be more than one mode if multiple numbers appear with the same highest frequency.
+
+**Activity 3.3A: Identifying the Mode**
+
+1. Find the mode of these numbers: 21, 24, 21, 19, 24, 21, 18.
+
+Answer: The number 21 appears most frequently (3 times). Thus, the mode is 21.
+
+2. Determine the mode of these numbers: 30, 25, 32, 25, 30, 25, 32.
+
+Answer: The number 25 appears the most frequently (3 times). The other numbers appear less often. Therefore, the mode is 25.
+
+**Review Questions**
+
+1. Calculate the mean of the following set of numbers: 3, 5, 9, 12, 12, 3.
+
+Answer: The sum is 3 + 5 + 9 + 12 + 12 + 3 = 44. There are 6 numbers. The mean is 44 ÷ 6 = 7.333 (rounded to 7.33).
+
+2. Find the median of these numbers: 8, 3, 7, 12, 6.
+
+Answer: In order, they are 3, 6, 7, 8, 12. With 5 numbers, the median is the 3rd value: 7.
+
+3. Determine the mode of this data set: 2, 7, 2, 9, 7, 2.
+
+Answer: The number 2 appears the most frequently (3 times), so the mode is 2.
+
+**Practice Problems**
+
+Complete the following problems on a separate sheet of paper.
+
+1. Find the mean, median, and mode for this set of data: 4, 8, 6, 4, 5.
+
+2. Kenzie scores the following points in her basketball games: 12, 15, 18, 18, 20. What is the mean, median, and mode of her scores?
+
+3. A set of numbers is given as follows: 10, 20, 30, 40, 50. What are the mean and median? Is there a mode?
+
+**Answers to Practice Problems**
+
+1. Mean: Add the numbers (4 + 8 + 6 + 4 + 5 = 27), count them (there are 5), so the mean is 27 ÷ 5 = 5.4. Median: Arrange them (4, 4, 5, 6, 8) so the median is 5. Mode: The number 4 appears most frequently, so the mode is 4.
+
+2. Mean: Add Kenzie’s scores (12 + 15 + 18 + 18 + 20 = 83), count them (5 games), so the mean is 83 ÷ 5 = 16.6. Median: In order they are 12, 15, 18, 18, 20, so the median is 18. Mode: The score 18 appears most often, so the mode is 18.
+
+3. Mean: Add the numbers (10 + 20 + 30 + 40 + 50 = 150), count them (5 numbers), so the mean is 150 ÷ 5 = 30. Median: In order they are 10, 20, 30, 40, 50, so the median is 30. Mode: There is no mode because each number appears exactly once.
+
+Remember to check your work carefully, and if you have any questions, feel free to ask your teacher or a classmate!

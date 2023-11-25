@@ -1,0 +1,104 @@
+## Comparing and Ordering Fractions
+
+Welcome to the section on Comparing and Ordering Fractions! Fractions can sometimes be tricky, but with a little practice, you’ll be a pro in no time. Let's get started and make sure to follow along with each example and try the exercises yourself!
+
+### What is a Fraction?
+
+Before we begin, let’s remember that a fraction represents a part of a whole. It has two parts: a numerator (the top number) and a denominator (the bottom number). The numerator tells us how many parts we have, and the denominator tells us into how many parts the whole is divided.
+
+### Comparing Fractions
+
+To compare fractions means to determine which fraction is larger or if they are equal. There are several ways to compare fractions:
+
+#### Same Denominators
+
+When fractions have the same denominator, we only need to look at the numerators. The fraction with the larger numerator is the larger fraction.
+
+**Example:**
+Compare 3/8 and 5/8.
+
+*Solution*: They have the same denominator. Since 5 is greater than 3, 5/8 is larger than 3/8.
+
+#### Same Numerators
+
+When fractions have the same numerator, the fraction with the smaller denominator is the larger fraction.
+
+**Example:**
+Compare 4/5 and 4/7.
+
+*Solution*: They have the same numerator. Since 5 is less than 7, 4/5 is larger than 4/7.
+
+#### Different Numerators and Denominators
+
+When fractions have different numerators and denominators, we need a common denominator to compare them.
+
+**Example:**
+Compare 2/3 and 3/4.
+
+*Solution*: Find a common denominator, which in this case is 12. Convert each fraction.
+
+2/3 = 8/12 (because 2 × 4 = 8 and 3 × 4 = 12)
+3/4 = 9/12 (because 3 × 3 = 9 and 4 × 3 = 12)
+
+Since 9/12 is greater than 8/12, 3/4 is larger than 2/3.
+
+### Exercises: Comparing Fractions
+
+1. Compare 5/6 and 2/6.
+2. Compare 3/9 and 3/7.
+3. Compare 4/7 and 6/8.
+
+**Answers:**
+
+1. 5/6 is larger than 2/6.
+2. 3/7 is larger than 3/9.
+3. To compare 4/7 and 6/8, find a common denominator:  
+4/7 = 32/56 (because 4 × 8 = 32 and 7 × 8 = 56)  
+6/8 = 42/56 (because 6 × 7 = 42 and 8 × 7 = 56)  
+Since 42/56 is greater than 32/56, 6/8 is larger than 4/7.
+
+### Ordering Fractions
+
+Ordering fractions involves arranging them from smallest to largest (or largest to smallest). We use the same strategies we used for comparing fractions to put them in order.
+
+#### Example:
+
+Order the fractions from smallest to largest: 1/3, 4/6, and 2/5.
+
+1. Find a common denominator. Let's use 30, as it's a multiple of 3, 6, and 5.
+2. Convert each fraction:
+
+1/3 = 10/30 (because 1 × 10 = 10 and 3 × 10 = 30)  
+4/6 = 20/30 (because 4 × 5 = 20 and 6 × 5 = 30)  
+2/5 = 12/30 (because 2 × 6 = 12 and 5 × 6 = 30)
+
+3. Order the converted fractions:
+
+10/30, 12/30, 20/30
+
+4. Translate back to the original fractions:
+
+1/3, 2/5, 4/6
+
+So, the order from smallest to largest is: 1/3, 2/5, 4/6.
+
+### Exercises: Ordering Fractions
+
+1. Order the fractions from largest to smallest: 2/3, 1/4, and 5/6.
+2. Order the fractions from smallest to largest: 3/8, 1/2, and 2/3.
+
+**Answers:**
+
+1. The common denominator for 2/3, 1/4, and 5/6 is 12.  
+2/3 = 8/12  
+1/4 = 3/12  
+5/6 = 10/12  
+So the order from largest to smallest is: 5/6, 2/3, 1/4.
+
+2. The common denominator for 3/8, 1/2, and 2/3 is 24.  
+3/8 = 9/24  
+1/2 = 12/24  
+2/3 = 16/24  
+So the order from smallest to largest is: 3/8, 1/2, 2/3.
+
+Great job! Remember, practice makes perfect. Keep working on comparing and ordering fractions and you’ll soon be doing it like a pro!

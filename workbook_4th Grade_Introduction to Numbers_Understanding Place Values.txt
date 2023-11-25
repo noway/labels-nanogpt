@@ -1,0 +1,78 @@
+# Understanding Place Values
+
+Welcome to the section on "Understanding Place Values" in our "Introduction to Numbers" chapter. This is where we take a big leap in our math journey to understand how numbers are made up and how each digit in a number has a different value depending on its position. Let's start!
+
+## What Is Place Value?
+
+Place value is a way to find out the value of a digit based on its position in a number. It is the cornerstone of our number system, which is a base-ten system, also known as the decimal system. This means that every time you move one place to the left, the value of that place is ten times greater. 
+
+To practice with place values, we'll look at the number 3,527. 
+
+```
+Thousands | Hundreds | Tens | Ones 
+    3     |     5    |  2   |  7   
+```
+
+Here’s what each digit means in this number:
+
+- 3 is in the thousands place, so it stands for 3 thousands, or 3,000.
+- 5 is in the hundreds place, so it stands for 5 hundreds, or 500.
+- 2 is in the tens place, so it stands for 2 tens, or 20.
+- 7 is in the ones place, so it just stands for 7 ones, or 7.
+
+So, 3,527 is made up of 3,000 + 500 + 20 + 7.
+
+## Place Value Chart
+
+A place value chart can help you see the value of each digit in a number. Let's make one together:
+
+```
+Ten Thousands | Thousands | Hundreds | Tens | Ones 
+      0       |     3     |     5    |  2   |  7   
+```
+
+For the number 3,527, we put a 0 in the ten thousands place because there is no digit there in our number.
+
+## Exercise: Identifying Place Values
+
+Now it's your turn to try. What is the value of each underlined digit in the numbers given below?
+
+1. 4,8_2_1 (Underlined digit is 2)
+2. _9_65 (Underlined digit is 9)
+3. 3,_1_09 (Underlined digit is 1)
+
+### Answers:
+1. The underlined number 2 is in the tens place. So its value is 20.
+2. The underlined number 9 is in the thousands place. So its value is 9,000.
+3. The underlined number 1 is in the hundreds place. So its value is 100.
+
+Great job! Understanding the value of each digit is the first step in many math operations, including addition, subtraction, multiplication, and division. Keep practicing, and place value will soon become second nature to you.
+
+## Expanded Form
+
+Another way to understand place value is to write the number in what is called its expanded form, which breaks down the number to show the value of each digit.
+
+For example, for the number 3,527:
+
+3,527 in expanded form is 3,000 + 500 + 20 + 7.
+
+## Exercise: Writing in Expanded Form
+
+Write the following numbers in expanded form:
+
+1. 6,413
+2. 2,085
+3. 7,090
+
+### Answers:
+1. 6,413 in expanded form is 6,000 + 400 + 10 + 3.
+2. 2,085 in expanded form is 2,000 + 80 + 5.
+3. 7,090 in expanded form is 7,000 + 90.
+
+Doing this helps to clarify the value of each digit by placing them into understandable parts that together add up to the original number.
+
+## Conclusion
+
+Remember, the place value system lets us write and understand numbers of any size. Whether we are counting pennies or measuring the distance to distant stars, place values allow us to be very precise. Now that you know the basics, you can build your skills and confidently work with even bigger numbers.
+
+Keep up the good work!

@@ -1,0 +1,60 @@
+## Creating and Reading Simple Graphs
+
+### Introduction:
+
+Graphs are a way to show data so it is easy for people to understand. Just like when you draw a picture to tell a story, graphs tell the story of numbers. You might have seen different kinds of graphs before, like line graphs, bar graphs, and pie charts.
+
+Today, we are going to practice making and reading bar graphs because they are a good place to start when learning about graphs.
+
+### Creating Bar Graphs:
+
+Let's make a bar graph together!
+
+**Step 1: Collect Data**
+First, we need some information to put on our graph. Let's say we asked our friends about their favorite fruit. Here is what they said:
+- 4 friends like apples
+- 2 friends like bananas
+- 3 friends like cherries
+- 1 friend likes dates
+
+**Step 2: Draw the Graph**
+Next, we'll need a piece of graph paper. We're going to draw two lines that make an "L" shape. The horizontal line on the bottom is called the x-axis, and the vertical line on the side is called the y-axis.
+
+**Step 3: Label the Graph**
+Now let's write "Number of Friends" along the y-axis and "Type of Fruit" along the x-axis. Also, give your graph a title at the top. We can call this one "Favorite Fruits".
+
+**Step 4: Choose a Scale**
+On the y-axis, we have to decide what numbers to put. Since we have at most 4 friends who chose one type of fruit, we can count by ones: 1, 2, 3, 4. Write those numbers going up the y-axis.
+
+**Step 5: Draw the Bars**
+Finally, let's draw bars for each type of fruit on the x-axis. We'll draw a bar over "Apples" that goes up to number 4 since 4 friends said apples were their favorite. Then we draw a bar over "Bananas" that goes up to 2, over "Cherries" it will go up to 3, and over "Dates" it will just go up to 1.
+
+Great! You've just made a bar graph!
+
+### Reading Bar Graphs:
+
+**Exercise 1:**
+
+Look at the bar graph you made for the favorite fruits. Can you tell which fruit is the least favorite? How many friends chose that fruit?
+
+**Answer:** Dates are the least favorite fruit since only 1 friend chose them.
+
+**Exercise 2:**
+
+Which fruit is the most popular among friends?
+
+**Answer:** Apples are the most popular since 4 friends chose them as their favorite.
+
+**Exercise 3:**
+
+How many more friends like apples than cherries?
+
+**Answer:** 4 friends like apples, and 3 like cherries. So, 4 - 3 = 1. One more friend likes apples than cherries.
+
+**Exercise 4:**
+
+Can you add up the number of friends to tell how many friends were asked about their favorite fruit?
+
+**Answer:** There were 4 friends who like apples, 2 who like bananas, 3 who like cherries, and 1 who likes dates. If we add those numbers together (4 + 2 + 3 + 1), we get 10 friends in total.
+
+Well done! You now know how to create and read simple bar graphs. Remember, graphs are just pictures of data that help us understand the numbers more easily. Keep practicing by collecting your own data and turning it into graphs.

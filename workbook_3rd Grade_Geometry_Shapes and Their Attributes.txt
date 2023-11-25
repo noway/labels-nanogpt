@@ -1,0 +1,136 @@
+# Geometry
+
+## Shapes and Their Attributes
+
+### Understanding Basic Shapes
+
+Welcome to the world of shapes! In this section, we will explore the properties of different geometric shapes that you see around you every day.
+
+Before we start, remember that attributes are qualities or features of a shape. Let's look at some basic shapes and their attributes.
+
+**1. Circle**
+
+A circle is round, with no corners or edges. A key attribute of a circle is its radius, which is the distance from the center of the circle to any point on its edge. Another important attribute is the diameter, which is the distance across the circle through the center; it's twice the length of the radius.
+
+_Try This: Draw a circle and label its radius. Is the diameter twice as long as the radius?_
+
+**Answer:** Yes, the diameter is twice the length of the radius.
+
+**2. Triangle**
+
+A triangle has three sides and three corners, which we call vertices. Triangles can be classified by their sides:
+- An equilateral triangle has three equal sides and three equal angles.
+- An isosceles triangle has two sides of the same length and two angles that are the same.
+- A scalene triangle has all sides and angles of different lengths and degrees. 
+
+_Try This: Draw one of each type of triangle and label their sides._
+
+**Answer:** [Students' drawings will vary]
+
+**3. Square**
+
+A square has four equal sides and four equal angles, each measuring 90 degrees. Because its sides are equal and angles are right angles, a square is also a rectangle.
+
+_Try This: Draw a square and write down the length of each side._
+
+**Answer:** [Students' drawings will vary, but the length of each side should be the same]
+
+**4. Rectangle**
+
+A rectangle is similar to a square in that it has four sides and four right angles. However, the sides are not all the same length; opposite sides are equal.
+
+_Try This: Draw a rectangle and label the longer sides as the "length" and the shorter sides as the "width."_
+
+**Answer:** [Students' drawings will vary, with two pairs of equal sides, the longer ones labeled as "length" and the shorter as "width"]
+
+**5. Pentagon**
+
+A pentagon is a five-sided shape with five angles. A regular pentagon has all sides and all angles equal.
+
+_Try This: Draw a pentagon and count the sides and angles._
+
+**Answer:** [Students' drawings will vary; there should be five sides and five angles]
+
+### Exploring Properties
+
+Now that you know basic shapes, let's learn more about the properties of these shapes.
+
+**Sides and Vertices**
+
+The number of sides a shape has will tell you how many vertices (corners) it has. Sides are straight lines that connect to form the shape's boundary.
+
+**Activity: Count the Sides and Vertices**
+
+Draw each shape and count the sides and vertices:
+- Circle
+- Triangle
+- Square
+- Rectangle
+- Pentagon
+
+**Answers:**
+
+Circle: 0 sides, 0 vertices
+
+Triangle: 3 sides, 3 vertices
+
+Square: 4 sides, 4 vertices
+
+Rectangle: 4 sides, 4 vertices
+
+Pentagon: 5 sides, 5 vertices
+
+**Angles**
+
+An angle is formed where two sides meet. Right angles are exactly 90 degrees.
+
+**Activity: Identifying Angles**
+
+Identify the types of angles in the following shapes:
+- Triangle (scalene)
+- Square
+- Rectangle
+
+**Answers:**
+
+Triangle: 3 angles, and they may vary in size
+
+Square: 4 right angles (90 degrees each)
+
+Rectangle: 4 right angles (90 degrees each)
+
+**Symmetry**
+
+A shape is symmetrical if it can be divided into two identical parts. The line that divides the shape is called the line of symmetry.
+
+**Activity: Fold and Find the Symmetry**
+
+Fold paper cut-outs of a square, a rectangle, and a triangle to find their lines of symmetry. How many lines of symmetry does each shape have?
+
+**Answers:**
+
+Square: 4 lines of symmetry
+
+Rectangle: 2 lines of symmetry
+
+Triangle (equilateral): 3 lines of symmetry
+
+**Perimeter**
+
+The perimeter of a shape is the total distance around the outside. To find it, you just need to add up the lengths of all the sides.
+
+**Activity: Calculate the Perimeter**
+
+Calculate the perimeter of these shapes (Use 1 unit as the length for each side):
+- Square with 4 equal sides
+- Rectangle with length 3 units and width 2 units
+
+**Answers:**
+
+Square: Perimeter = 4 units + 4 units + 4 units + 4 units = 16 units
+
+Rectangle: Perimeter = 3 units + 3 units + 2 units + 2 units = 10 units
+
+**Conclusion**
+
+Great job exploring shapes and their attributes! By understanding these properties, you can identify, compare, and analyze different shapes. The world is full of shapes, so keep observing, and you'll notice them everywhere you go!

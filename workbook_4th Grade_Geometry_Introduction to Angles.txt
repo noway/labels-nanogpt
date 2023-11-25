@@ -1,0 +1,51 @@
+**Introduction to Angles**
+
+Welcome, young mathematicians, to the amazing world of angles! As you begin your journey into the Geometry chapter of your math workbook, we are going to explore what angles are, the different types of angles, and how we can identify and measure them. Get your protractors ready, as we're about to dive into the realm of lines and measurements that shape the world around us!
+
+**What is an Angle?**
+
+An angle is created when two rays (or lines) meet at a common endpoint. This endpoint is called the vertex, and the rays are the sides of the angle. Think of it like opening a book—the spine is the vertex, and each cover represents a side of the angle.
+
+**Units for Measuring Angles**
+
+We measure angles in units called degrees (°). A full circle has 360°, which means that if you started at one point and went all the way around back to the start, you'd move through 360 degrees. A half-circle is 180°, and a quarter-circle, which looks like a corner or a right angle, is 90°.
+
+**Types of Angles**
+
+Angles come in several types, which are defined by the amount of turn between the two rays.
+
+1. **Acute Angle**: This is an angle that measures less than 90°. It's sharp and small, like the tip of a pencil.
+
+2. **Right Angle**: An angle that measures exactly 90°. It looks like a corner of a textbook or a square. We often mark a right angle with a little square in the corner.
+
+3. **Obtuse Angle**: This type of angle measures more than 90° but less than 180°. It's like a wide, open gate.
+
+4. **Straight Angle**: A straight angle is a straight line, which measures exactly 180°. Imagine a line that's been opened up so flat it doesn't have any bend at all.
+
+5. **Reflex Angle**: A Reflex angle is more than 180° but less than 360°. Think of it as a bigger version of an obtuse angle, wrapping around further.
+
+**Naming Angles**
+
+Angles are usually named by three points. The middle letter represents the vertex, and it's flanked by the other two points on the rays. For example, angle ABC would have the vertex at point B.
+
+**Measuring Angles**
+
+To measure an angle in degrees, we use a protractor. You line up the baseline of the protractor with one side of the angle, making sure that the center or the midpoint of the protractor is exactly over the vertex. Then you read the measurement on the protractor where the other ray of the angle meets the scale.
+
+**Exercises**
+
+Let's put your angle knowledge to the test! Below are a few exercises to practice identifying and measuring angles. Use a protractor to measure the angles and classify them as acute, right, obtuse, straight, or reflex. 
+
+1. Measure the angle formed by a clock's hands when it shows 3:00 PM.
+2. What kind of angle is created by the hands of a clock at 4:45 PM?
+3. If you open a book and it creates an angle of exactly 90°, what type of angle is this?
+4. Measure the angle of the tip of a slice of pizza that is cut to have an angle measuring less than 90°.
+
+**Answers** (Assuming you've completed the exercises)
+
+1. At 3:00 PM, the clock's hands form a right angle, which is 90 degrees.
+2. At 4:45 PM, the hands of a clock form an obtuse angle, measuring roughly 135 degrees.
+3. An angle of exactly 90° is a right angle.
+4. The angle of the tip of the pizza slice is an acute angle since it measures less than 90 degrees. The exact measurement will vary depending on how the pizza is sliced.
+
+And there you have it! You're well on your way to understanding all about angles. Keep practicing, and you'll soon be an angle expert. Good luck!

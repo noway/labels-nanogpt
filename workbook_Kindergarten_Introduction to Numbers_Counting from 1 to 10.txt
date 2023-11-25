@@ -1,0 +1,71 @@
+---
+
+# Introduction to Numbers
+## Counting from 1 to 10
+
+Hello young learner! Today we are going to embark on a wonderful journey into the world of numbers. Numbers are like little friends who will help you count all sorts of things, like your toys, the number of apples in a basket, and even the stars in the sky. Let's begin our adventure by getting familiar with the numbers from 1 to 10.
+
+### Let's Learn to Count!
+
+Counting is just like a fun game. When we count, we start from the number 1 and then go up one number at a time. Let's practice by counting together:
+
+**1** - Say "one."
+**2** - Now say "two."
+**3** - After two comes "three."
+**4** - Then we say "four."
+**5** - Halfway there with "five."
+**6** - Next is "six."
+**7** - Lucky number "seven."
+**8** - Don't be late to say "eight."
+**9** - Almost there with "nine."
+**10** - Great job! You've reached "ten."
+
+### Practice Exercise: Count the Objects
+
+Now it's your turn to try! Below are some pictures with different objects. Let’s count how many there are in each picture. Write the number in the box provided.
+
+1. ![Image of 3 cats](link_to_cats_image) 
+   
+   The number of cats is: ____
+
+2. ![Image of 7 apples](link_to_apples_image) 
+
+   The number of apples is: ____
+
+3. ![Image of 5 cars](link_to_cars_image) 
+
+   The number of cars is: ____
+
+4. ![Image of 10 balls](link_to_balls_image) 
+
+   The number of balls is: ____
+
+5. ![Image of 1 house](link_to_house_image) 
+
+   The number of houses is: ____
+
+### Answers to Practice Exercise
+
+Here are the numbers you should have written down for each picture. Check your answers to see how well you did!
+
+1. The number of cats is: **3**
+   
+2. The number of apples is: **7**
+
+3. The number of cars is: **5**
+
+4. The number of balls is: **10**
+
+5. The number of houses is: **1**
+
+### Can You Try?
+
+Now it's time for you to practice on your own. Look around you. Pick anything you see, maybe your crayons, and count them aloud from 1 to 10. Remember, numbers are super helpful in knowing how many things there are, so the more you practice, the better!
+
+Remember, every number is special and has its own place in the line. When you can count from 1 to 10 easily, you will be ready to learn even bigger numbers!
+
+Keep practicing and soon you will be a counting star! Have fun, and I'll see you in our next adventure with numbers.
+
+---
+
+**Note**: In the actual workbook, instead of placeholder links (e.g., `link_to_cats_image`), there would be images of cats, apples, cars, balls, and a house for children to count.

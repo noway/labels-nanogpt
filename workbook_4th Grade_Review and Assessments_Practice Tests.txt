@@ -1,0 +1,100 @@
+**Practice Test 1**
+
+*Instructions: For each question, choose the best answer from the options provided. Work carefully and show your work for full credit.*
+
+1. What is the value of the expression 9 × 6 + 3?
+   - A) 54
+   - B) 57
+   - C) 63
+   - D) 45
+   
+   Answer: B) 57 (Work: 9 × 6 = 54, 54 + 3 = 57)
+
+2. Solve for x: 36 ÷ x = 6
+   - A) 4
+   - B) 5
+   - C) 6
+   - D) 12
+   
+   Answer: C) 6 (Work: x = 36 ÷ 6, so x = 6)
+
+3. What is 8,372 rounded to the nearest hundred?
+   - A) 8,300
+   - B) 8,370
+   - C) 8,400
+   - D) 8,000
+   
+   Answer: C) 8,400
+
+4. What is the total length if 3 pieces of string measure 18 cm, 25 cm, and 30 cm respectively?
+   - A) 73 cm 
+   - B) 75 cm
+   - C) 67 cm
+   - D) 70 cm
+   
+   Answer: A) 73 cm (Work: 18 cm + 25 cm + 30 cm = 73 cm)
+
+5. Convert 7/10 to a percentage.
+   - A) 0.7%
+   - B) 7%
+   - C) 70%
+   - D) 700%
+   
+   Answer: C) 70% (Work: 7/10 = 0.7, 0.7 × 100 = 70%)
+
+6. What is the largest prime number less than 20?
+   - A) 17
+   - B) 19
+   - C) 13
+   - D) 11
+   
+   Answer: B) 19
+
+7. Emma is thinking of a number. When she multiplies it by 4 and then subtracts 3, she gets 21. What is her number?
+   - A) 5
+   - B) 6
+   - C) 7
+   - D) 8
+   
+   Answer: B) 6 (Work: 4 × number - 3 = 21; 4 × number = 24; number = 24 ÷ 4, so number = 6)
+
+8. If a rectangle's length is twice its width and its perimeter is 36 cm, what is the area of the rectangle?
+   - A) 54 cm²
+   - B) 64 cm²
+   - C) 72 cm²
+   - D) 48 cm²
+   
+   Answer: B) 64 cm² (Work: Let width = w, so length = 2w; Perimeter = 2(length + width) = 36 cm ⇒ 2(2w + w) = 36 cm ⇒ 6w = 36 cm ⇒ w = 6 cm, length = 12 cm; Area = length × width = 12 cm × 6 cm = 72 cm²)
+
+9. Solve the following pattern: 2, 4, 8, 16, ____. What is the next number?
+   - A) 18
+   - B) 20
+   - C) 32
+   - D) 34
+   
+   Answer: C) 32 (Work: The pattern is doubling each number, so 16 × 2 = 32)
+
+10. There are 14 red pens and 10 blue pens in a box. What fraction of the pens are blue? Simplify your answer if possible.
+    - A) 10/24
+    - B) 5/12
+    - C) 14/24
+    - D) 7/12
+    
+    Answer: B) 5/12 (Work: There are 24 pens in total. The fraction of blue pens is 10/24, which simplifies to 5/12)
+
+*End of Practice Test 1*
+
+**Practice Test 1 Answers**
+
+1. B)
+2. C)
+3. C)
+4. A)
+5. C)
+6. B)
+7. B)
+8. B)
+9. C)
+10. B)
+
+For teachers or parents who are providing feedback, ensure the student provides work for each problem, even if the answer is correct, to confirm understanding of the material presented. If necessary, go over any incorrect or skipped questions with the student to help them understand where they went wrong and how to arrive at the correct answer.

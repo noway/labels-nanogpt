@@ -1,0 +1,54 @@
+---
+# Math in Our World
+
+## Applying Math in Daily Life
+
+Math is all around us! It helps us understand and manage our daily life activities. Here's how you can see math in action every day:
+
+### Knowing the Time
+
+**Example:** You have soccer practice at 4:30 PM, and it's 3:50 PM right now. How much time do you have before practice starts?
+
+**Exercise 1:** If it takes you 15 minutes to get ready and 20 minutes to walk to the soccer field, will you be on time for practice?
+
+_Answer:_ You have 40 minutes until practice. Getting ready and walking takes 15 + 20 = 35 minutes. Yes, you will be on time because you have 5 minutes to spare (40 minutes - 35 minutes = 5 minutes).
+
+### Money Management
+
+**Example:** You have 3 dollars, and you want to buy a toy that costs 1 dollar and 50 cents. How much money will you have left after buying the toy?
+
+**Exercise 2:** If you also want to buy a small snack that costs 75 cents, can you afford it with the remaining money?
+
+_Answer:_ After buying the toy, you have 3 dollars - 1 dollar 50 cents = 1 dollar 50 cents. Yes, you can afford the snack because it costs less than 1 dollar 50 cents you have left.
+
+### Cooking and Baking
+
+**Example:** A recipe says you need 4 cups of flour to make cookies. If you want to make half the amount of cookies, how many cups of flour do you need?
+
+**Exercise 3:** If you made 12 cookies with the full recipe, how many cookies will you make with half the amount of flour?
+
+_Answer:_ You need 4 cups / 2 = 2 cups of flour for half the amount of cookies. You will make 12 cookies / 2 = 6 cookies with half.
+
+### Shopping and Discounts
+
+**Example:** A toy costs $10, but it's on sale for 20% off. How much does the toy cost now?
+
+**Exercise 4:** If your mom gives you a $5 coupon for the toy, how much will you pay after the discount and the coupon?
+
+_Answer:_ 20% of $10 is 0.20 x 10 = $2. The toy now costs $10 - $2 = $8. With the $5 coupon, the toy will cost $8 - $5 = $3.
+
+### Comparing and Measuring
+
+**Example:** Your fish tank is 12 inches long and 10 inches wide. What is its perimeter?
+
+**Exercise 5:** If your friend's fish tank is 14 inches long and 9 inches wide, whose fish tank has a larger perimeter?
+
+_Answer:_ Your fish tank's perimeter is 2 x (12 inches + 10 inches) = 44 inches. Your friend's fish tank's perimeter is 2 x (14 inches + 9 inches) = 46 inches. Your friend's fish tank has a larger perimeter.
+
+Math helps you make decisions, save time, and even have fun with your friends and family. Whether you're playing games, planning an outing, or saving money for a special toy, math is your helpful tool every step of the way.
+
+Remember to practice these examples in your daily life, and you'll see how math can be not only useful but also enjoyable!
+
+---
+
+Remember to congratulate students on their effort and encourage them to keep looking for math in everyday situations outside of these exercises.

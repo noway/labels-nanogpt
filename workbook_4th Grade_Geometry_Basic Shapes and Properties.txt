@@ -1,0 +1,109 @@
+# Geometry
+
+## Basic Shapes and Properties
+
+Welcome to the section on Basic Shapes and Properties! In this section, we will explore the world of simple geometric shapes. You will learn about different kinds of shapes that you see around you every day and understand what makes each shape unique.
+
+Before we dive into specific exercises, let's review the basic shapes and their properties.
+
+### **CIRCLE**
+
+A circle is a round shape with no corners or edges. It is defined as the set of all points in a plane that are at a constant distance from a center point.
+
+**Properties:**
+- **Circumference:** The distance around the circle.
+- **Radius:** The distance from the center to any point on the circle. Every radius in the same circle is equal.
+- **Diameter:** The distance across the circle, passing through the center. It is twice the radius.
+
+### **SQUARE**
+
+A square is a shape with four equal sides and four right angles (90 degrees).
+
+**Properties:**
+- **Sides:** Four sides of equal length.
+- **Angles:** Four right angles.
+- **Diagonals:** The diagonals of a square are equal in length and bisect each other at right angles.
+
+### **RECTANGLE**
+
+A rectangle is similar to a square but typically has two long sides and two short sides.
+
+**Properties:**
+- **Sides:** Opposite sides have equal length.
+- **Angles:** Four right angles.
+- **Diagonals:** The diagonals of a rectangle are equal in length and bisect each other, but are not necessarily at right angles.
+
+### **TRIANGLE**
+
+A triangle has three sides and three angles. The sum of the angles in any triangle is always 180 degrees.
+
+**Properties:**
+- **Sides:** Can be of varying lengths.
+- **Angles:** Can also vary in measure, but their sum is always 180 degrees.
+- **Types:** Based on sides (equilateral, isosceles, scalene) or angles (acute, right, obtuse).
+
+### **PENTAGON**
+
+A pentagon is a shape with five sides and five angles.
+
+**Properties:**
+- **Sides:** Can be of equal or varying lengths.
+- **Angles:** The sum of the interior angles is always 540 degrees.
+
+### **HEXAGON**
+
+A hexagon is a shape with six sides and six angles.
+
+**Properties:**
+- **Sides:** Can be of equal or varying lengths.
+- **Angles:** The sum of the interior angles is always 720 degrees.
+
+### Exercises
+
+#### Exercise 1: Identifying Shapes
+Look at the following list of shapes and write down how many sides and how many angles each shape has.
+
+1. Circle:
+2. Square:
+3. Rectangle:
+4. Triangle:
+5. Pentagon:
+6. Hexagon:
+
+**Answers:**
+
+1. Circle: A circle has 0 sides and 0 angles.
+2. Square: A square has 4 sides and 4 angles.
+3. Rectangle: A rectangle has 4 sides and 4 angles.
+4. Triangle: A triangle has 3 sides and 3 angles.
+5. Pentagon: A pentagon has 5 sides and 5 angles.
+6. Hexagon: A hexagon has 6 sides and 6 angles.
+
+#### Exercise 2: Matching Properties
+
+Match each shape with its correct property from the list below.
+
+A. Four equal sides and four right angles.  
+B. Set of all points in a plane equidistant from a center point.  
+C. Five sides and sum of interior angles is 540 degrees.  
+D. Six sides and sum of interior angles is 720 degrees.  
+E. Three sides and angles add up to 180 degrees.  
+F. Opposite sides have equal length and all angles are right angles.
+
+1. Circle:
+2. Square:
+3. Rectangle:
+4. Triangle:
+5. Pentagon:
+6. Hexagon:
+
+**Answers:**
+
+1. Circle: B. Set of all points in a plane equidistant from a center point.
+2. Square: A. Four equal sides and four right angles.
+3. Rectangle: F. Opposite sides have equal length and all angles are right angles.
+4. Triangle: E. Three sides and angles add up to 180 degrees.
+5. Pentagon: C. Five sides and sum of interior angles is 540 degrees.
+6. Hexagon: D. Six sides and sum of interior angles is 720 degrees.
+
+Remember, it is important to not only be able to name these shapes but also to recognize them in the world around you. Keep practicing, and soon you will be a geometry expert!

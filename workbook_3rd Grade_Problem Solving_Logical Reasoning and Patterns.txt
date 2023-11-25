@@ -1,0 +1,95 @@
+# Problem Solving: Logical Reasoning and Patterns
+
+Hello young mathematicians! Welcome to the section on _Logical Reasoning and Patterns_. In this section, we are going to sharpen your thinking skills and have fun with patterns. So let's get started!
+
+### What is Logical Reasoning?
+
+Logical reasoning uses consistent rules to solve a problem or arrive at a conclusion. It is a way of thinking that helps us understand the world around us. When we use logical reasoning, we look for patterns, sequences, or connections that can help us make sense of things and solve problems.
+
+### What are Patterns?
+
+Patterns are things that repeat in a predictable way. They can be numbers, shapes, objects, or even actions. Recognizing and understanding patterns helps us to make predictions and solve problems more easily.
+
+---
+
+## Exercise 1: Number Patterns
+
+Look at the following sequences. Write the next two numbers in each pattern.
+
+1. 2, 4, 6, 8, ___ , ___
+   
+   **Answer:** 10, 12
+   
+2. 5, 10, 15, 20, ___ , ___
+
+   **Answer:** 25, 30
+
+3. 12, 15, 18, 21, ___ , ___
+
+   **Answer:** 24, 27
+
+### Exercise 1 Reflection:
+
+Notice how each sequence had a rule. For the first one, the rule was to add 2 each time; for the second one, it was to add 5. Understanding the rule of the pattern allowed us to predict the next numbers.
+
+---
+
+## Exercise 2: Shape Patterns
+
+Determine what shape comes next in the pattern.
+
+1. Circle, Square, Triangle, Circle, Square, ___
+
+   **Answer:** Triangle
+
+2. Rectangle, Rectangle, Circle, Circle, Rectangle, Rectangle, ___
+
+   **Answer:** Circle
+
+### Exercise 2 Reflection:
+
+Did you notice the shapes were repeating in a certain order? That's how you find the pattern! If it helps, you can write down the order to see the pattern more clearly.
+
+---
+
+## Exercise 3: Logical Reasoning
+
+Answer each question by finding a pattern or using logic.
+
+1. Sarah has three apples. If she eats one each day, how many days will her apples last?
+
+   **Answer:** 3 days
+
+2. Joe has the following fruit in his basket: Banana, Orange, Banana, Orange, Banana. What fruit is likely to be picked next if the pattern continues?
+
+   **Answer:** Orange
+
+3. Ava needs to put her books in order by size. The first book is the largest; the second one is smaller than the first but bigger than the third. How should Ava arrange her books?
+
+   **Answer:** From largest to smallest.
+
+### Exercise 3 Reflection:
+
+In these problems, you had to think about the situation and use what you know to find the answer. That's logical reasoning! Each problem had a different pattern to recognize.
+
+---
+
+## Exercise 4: Making Predictions
+
+Use the patterns to predict what should come next.
+
+1. If Lisa practices piano every other day and she practiced on Monday, what will be the next two days she practices?
+
+   **Answer:** Wednesday, Friday
+
+2. The Smith family eat pizza every Friday night. What will be the next three dates they eat pizza if today is the first Friday of the month?
+
+   **Answer:** The answers will depend on the month and the current year. Remember, there can be four or five Fridays in a month!
+
+### Exercise 4 Reflection:
+
+Making predictions is a lot like solving puzzles. By figuring out the pattern or rule, you can guess what will happen next. Practicing this skill will help you with more complicated problems in the future.
+
+---
+
+Remember, logical reasoning and understanding patterns are not just for math; they help us in everyday life, too! Keep practicing, and you'll become a pattern pro and a logical reasoning expert. Good job today!

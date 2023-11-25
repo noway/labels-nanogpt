@@ -1,0 +1,56 @@
+Basic Probability Concepts
+
+Welcome, young mathematicians, to the fascinating world of probability! Probability helps us figure out the likelihood, or chance, of something happening. It's like predicting what might happen when we roll a dice, flip a coin, or pick a card from a deck. Let's dive into some of the basic concepts you need to understand probability.
+
+1. What is Probability?
+Probability is a way to measure how likely it is that an event will occur. This likelihood is often expressed as a number between 0 and 1. An event that is impossible has a probability of 0, and an event that is certain to happen has a probability of 1.
+
+2. Outcomes
+An outcome is a possible result of an event. For example, when you flip a coin, there are two possible outcomes: heads or tails.
+
+3. Events
+An event is one or more outcomes that we are interested in. For example, when we roll a six-sided dice, an event could be rolling a number greater than 4, which includes the outcomes of 5 and 6.
+
+Exercises:
+A. A die (a single dice) has been rolled. List all the possible outcomes.
+B. Consider these events:
+   i. Rolling an even number
+   ii. Rolling a number less than 3
+What are the outcomes for each event?
+
+Answers:
+A. The possible outcomes when you roll a die are: 1, 2, 3, 4, 5, and 6.
+B. i. The outcomes for rolling an even number are: 2, 4, and 6.
+   ii. The outcomes for rolling a number less than 3 are: 1 and 2.
+
+4. Probability of an Event
+To find the probability of an event, we use the following formula:
+Probability of an Event = (Number of favorable outcomes) / (Total number of possible outcomes)
+
+Exercises:
+C. What is the probability of rolling an even number on a six-sided die?
+D. What is the probability of rolling a number less than 3?
+
+Answers:
+C. There are three favorable outcomes (2, 4, and 6) and six possible outcomes in total. So the probability is 3/6, which simplifies to 1/2 or 0.5.
+D. There are two favorable outcomes (1 and 2) and six possible outcomes in total. So the probability is 2/6, which simplifies to 1/3, or approximately 0.33.
+
+5. Theoretical vs. Experimental Probability
+Theoretical Probability is what we expect to happen based on our understanding of probability, like the calculations we just did. Experimental Probability is based on actual experiments and what actually happens when you try something out, like flipping a coin many times and recording the results.
+
+Exercise:
+E. If you flip a coin 100 times, and it lands on heads 55 times, what is the experimental probability of getting heads?
+
+Answer:
+E. The experimental probability of getting heads is 55/100, which simplifies to 11/20 or 0.55.
+
+6. Complementary Events
+The complement of an event is what's left over when you take away the event from the set of all possible outcomes. Together, an event and its complement make up all possible outcomes. The probability of an event and its complement always adds up to 1.
+
+Exercise:
+F. What is the complementary event of rolling a number more than 3 on a six-sided die, and what is its probability?
+
+Answer:
+F. The complementary event of rolling a number more than 3 is rolling a number that is 3 or less (1, 2, or 3). There are three favorable outcomes and six possible outcomes, so the probability is 3/6, which simplifies to 1/2 or 0.5.
+
+Remember, probability may seem a bit tricky at first, but with practice, you'll be predicting outcomes like a pro. Keep practicing, and you'll soon grasp these basic probability concepts!

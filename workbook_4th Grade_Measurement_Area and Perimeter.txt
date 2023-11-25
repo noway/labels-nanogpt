@@ -1,0 +1,81 @@
+**Area and Perimeter**
+
+---
+
+**Understanding Area and Perimeter**
+
+Before we start solving exercises, let's make sure we understand what area and perimeter mean.
+
+The **area** of a shape is the amount of space inside that shape. We measure area in square units (like square inches, square feet, or square meters).
+
+The **perimeter** of a shape is the total distance around the edge of the shape. We measure perimeter in linear units (like inches, feet, or meters).
+
+Let's go through how to calculate the area and perimeter for some common shapes:
+
+1. **Rectangle:**
+   Area = length × width
+   Perimeter = 2 × (length + width)
+
+2. **Square:**
+   Area = side × side (or side squared)
+   Perimeter = 4 × side
+
+---
+
+**Practice Exercises**
+
+Now it's time to practice what you've learned. Try to calculate the area and perimeter of the following shapes:
+
+1. Rectangle with a length of 5 units and a width of 3 units.
+   - Area = 5 × 3 = 15 square units
+   - Perimeter = 2 × (5 + 3) = 16 units
+
+2. Square with a side length of 4 units.
+   - Area = 4 × 4 = 16 square units
+   - Perimeter = 4 × 4 = 16 units
+
+For each shape, fill in the blanks with the correct numbers to complete the equations.
+
+---
+
+**Exercises**
+
+*Find the area and perimeter for each shape.*
+
+1. A rectangle with a length of 8 units and a width of 6 units.
+   - Area = ________ square units
+   - Perimeter = ________ units
+
+2. A square with a side length of 7 units.
+   - Area = ________ square units
+   - Perimeter = ________ units
+
+3. A rectangle with a length of 10 units and a width of 2 units.
+   - Area = ________ square units
+   - Perimeter = ________ units
+
+4. Create your own shape, draw it, and then calculate its area and perimeter.
+
+---
+
+**Answers**
+
+*Here are the answers for the exercises you just completed.*
+
+1. A rectangle with a length of 8 units and a width of 6 units.
+   - Area = 8 × 6 = 48 square units
+   - Perimeter = 2 × (8 + 6) = 28 units
+
+2. A square with a side length of 7 units.
+   - Area = 7 × 7 = 49 square units
+   - Perimeter = 4 × 7 = 28 units
+
+3. A rectangle with a length of 10 units and a width of 2 units.
+   - Area = 10 × 2 = 20 square units
+   - Perimeter = 2 × (10 + 2) = 24 units
+
+4. This solution will vary depending on the shape you created. Remember the formulas for area and perimeter for the shape you chose (or combine them if it's a complex shape), and apply them accordingly.
+
+---
+
+By practicing these exercises, you will become more familiar with how to find the area and perimeter of simple two-dimensional shapes. Remember, it's important to work carefully and always double-check your work.

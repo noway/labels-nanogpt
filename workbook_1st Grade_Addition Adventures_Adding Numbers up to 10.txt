@@ -1,0 +1,98 @@
+# Addition Adventures
+
+## Adding Numbers up to 10
+
+Welcome, young mathematicians, to "Addition Adventures!" Today, our journey will take us through the wonderful world of adding numbers that sum up to 10 or less. Are you ready to become an addition expert? Let's dive into our adventure with some exciting exercises!
+
+### Exercise 1: Single-Digit Addition
+In this activity, we are going to add two numbers together. Each of these numbers can be any digit from 0 to 9. Remember, the biggest number you will get is 10.
+
+**1. 2 + 3 = ?**
+	   Answer: 2 + 3 = 5
+
+**2. 4 + 1 = ?**
+	   Answer: 4 + 1 = 5
+
+**3. 5 + 0 = ?**
+	   Answer: 5 + 0 = 5
+
+**4. 7 + 2 = ?**
+	   Answer: 7 + 2 = 9
+
+**5. 6 + 3 = ?**
+	   Answer: 6 + 3 = 9
+
+Fantastic job! Each time you add two numbers, the answer you get is called the sum. The sum is the result of addition.
+
+### Exercise 2: Add and Color
+Add the two numbers and color the correct answer:
+
+(Each sum will be in a different box that the students can color)
+
+**1. 1 + 2 = ?**
+- [ ] 2
+- [x] 3
+- [ ] 4
+
+**2. 3 + 5 = ?**
+- [ ] 7
+- [x] 8
+- [ ] 9
+
+**3. 0 + 4 = ?**
+- [ ] 3
+- [x] 4
+- [ ] 5
+
+**4. 2 + 5 = ?**
+- [ ] 6
+- [x] 7
+- [ ] 8
+
+**5. 1 + 6 = ?**
+- [ ] 6
+- [x] 7
+- [ ] 8
+
+Coloring the correct answer helps us review and remember what we have learned. Great coloring!
+
+### Exercise 3: Addition Maze
+Guide the little bee to the flower by following the path of correct sums.
+
+Start → (1 + 1 = 2) → (2 + 2 = 4) → (3 + 1 = 4) → (2 + 3 = 5) → Flower
+
+Did you help the bee find its way? If you followed the path of correct sums, you sure did!
+
+### Exercise 4: Matching Sums
+Draw a line to match each pair of numbers to their correct sum.
+
+- (8 + 1) → 9
+- (4 + 2) → 6
+- (5 + 4) → 9
+- (7 + 0) → 7
+- (3 + 3) → 6
+
+Matching sums is like finding a friend for each pair of numbers!
+
+### Exercise 5: Fill in the Missing Number
+Some of these sums are missing a number. Can you figure out which number will complete the sum?
+
+**1. 2 + _ = 7**
+	   Answer: 2 + 5 = 7
+
+**2. _ + 6 = 9**
+	   Answer: 3 + 6 = 9
+
+**3. 4 + _ = 8**
+	   Answer: 4 + 4 = 8
+
+**4. _ + 1 = 6**
+	   Answer: 5 + 1 = 6
+
+**5. 0 + _ = 3**
+	   Answer: 0 + 3 = 3
+
+You did it! You completed the missing numbers and finished the sums like a true addition explorer!
+
+### Great Work!
+You've made it through the "Adding Numbers up to 10" section of our "Addition Adventures." Give yourself a pat on the back for all that hard work and practice. Keep these exercises handy, and you can always come back to them for more fun and practice. Next time, we'll embark on another exciting math journey. Until then, keep exploring the world with numbers!

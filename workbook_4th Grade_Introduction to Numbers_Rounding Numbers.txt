@@ -1,0 +1,64 @@
+## Rounding Numbers
+
+Welcome to the "Rounding Numbers" section of the "Introduction to Numbers" chapter. Rounding numbers is a useful math skill that can help you estimate or simplify numbers to make them easier to work with.
+
+### What is Rounding?
+
+Rounding a number means making it simpler but keeping its value close to what it was. It's like finding the nearest number that is easier to work with. When we round numbers, we often round them to the nearest 10, 100, 1000, and so on.
+
+### Why Do We Round Numbers?
+
+We round numbers:
+- To make them easier to understand.
+- To make calculations simpler.
+- To estimate values when exact numbers are not necessary.
+
+### How to Round Numbers
+
+Follow these steps to round a number to the nearest ten, hundred, or thousand:
+
+**Step 1**: Identify the place value you are rounding to. For example, to the nearest ten, hundred, or thousand.
+
+**Step 2**: Look at the digit to the right of that place value. This is the digit that will determine whether the number rounds up or stays the same.
+
+**Step 3**: If the digit is 5 or higher, add one to the place value you are rounding to and change all the digits to the right to zero. If the digit is 4 or lower, keep the place value the same and change all the digits to the right to zero.
+
+### Example Problems
+
+#### Rounding to the Nearest Ten:
+Round 76 to the nearest ten.
+- Step 1: Identify the 'tens' place. The number in the tens place is 7.
+- Step 2: Look to the right. The number to the right is 6.
+- Step 3: Since 6 is 5 or higher, we round up. Add one to 7 to make it 8, and change the 6 to zero.
+- Answer: 80
+
+#### Rounding to the Nearest Hundred:
+Round 328 to the nearest hundred.
+- Step 1: Identify the 'hundreds' place. The number in the hundreds place is 3.
+- Step 2: Look to the right. The number to the right is 2.
+- Step 3: Since 2 is lower than 5, keep the number in the hundreds place the same (3) and change the rest to zeros.
+- Answer: 300
+
+#### Rounding to the Nearest Thousand:
+Round 1,493 to the nearest thousand.
+- Step 1: Identify the 'thousands' place. The number in the thousands place is 1.
+- Step 2: Look to the right. The number to the right is 4.
+- Step 3: Since 4 is lower than 5, keep the number in the thousands place the same (1) and change the rest to zeros.
+- Answer: 1,000
+
+### Practice Problems
+
+Round the following numbers to the nearest ten, hundred, and thousand:
+
+1. Round 453 to the nearest ten.
+   - Answer: 450
+2. Round 689 to the nearest hundred.
+   - Answer: 700
+3. Round 2,345 to the nearest thousand.
+   - Answer: 2,000
+4. Round 1,250 to the nearest ten.
+   - Answer: 1,250
+5. Round 982 to the nearest hundred.
+   - Answer: 1,000
+
+Now that you've learned about rounding numbers, remember to apply these steps whenever you need to estimate or simplify numbers. It's a valuable skill and will be very useful in your mathematical journey! Keep practicing, and in no time, you'll become a rounding expert.

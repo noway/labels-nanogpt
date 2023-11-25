@@ -1,0 +1,75 @@
+---
+# Basic Operations
+
+## Basic Division Concepts
+
+Division is one of the four fundamental operations in mathematics, the other three being addition, subtraction, and multiplication. When we divide, we split a number into equal parts. Think of it as sharing something fairly among friends.
+
+For example, if you have 12 chocolates and you want to share them equally with 3 friends, you would divide the 12 chocolates by the number of friends, which is 3.
+
+The number you want to divide is called the **dividend**, the number you divide by is the **divisor**, and the answer you get is the **quotient**.
+
+### Division Terms
+- **Dividend**: The number that is being divided.
+- **Divisor**: The number that the dividend is divided by.
+- **Quotient**: The result of the division.
+
+In a division equation, it looks like this:
+\[ \text{Dividend} \div \text{Divisor} = \text{Quotient} \]
+
+Or, written another way:
+
+\[
+\begin{array}{r}
+\text{Dividend} \\
+\underline{\div \text{Divisor}\phantom{nd}} \\
+\text{Quotient}
+\end{array}
+\]
+
+### Division Symbol
+The symbol used for division can vary. Sometimes it is a slash ( / ), sometimes it is a horizontal line with dots above and below ( ÷ ), or it can be a line in a fraction (like in a/b).
+
+### Let's Practice!
+Now, let's practice some division problems. Remember, if you can't divide the numbers evenly, the part that you can't divide is called the **remainder**. But for now, we'll focus on examples that divide evenly.
+
+1. **12 ÷ 3 = ?**
+2. **15 ÷ 5 = ?**
+3. **20 ÷ 4 = ?**
+4. **18 ÷ 6 = ?**
+5. **8 ÷ 2 = ?**
+
+**Answers:**
+
+1. When you divide 12 by 3, you split the number 12 into 3 equal parts. \( 12 \div 3 = 4 \). So, 4 is the quotient.
+
+2. If you have 15 apples and want to put them in 5 baskets evenly, each basket gets \( 15 \div 5 = 3 \) apples. 3 is the quotient.
+
+3. Dividing 20 by 4 is the same as asking what number multiplied by 4 gives you 20. \( 20 \div 4 = 5 \). The quotient is 5.
+
+4. If you have 18 stickers and 6 friends, you can give each friend \( 18 \div 6 = 3 \) stickers. 3 is the quotient.
+
+5. We know that 2 times 4 is 8, so if we reverse it, \( 8 \div 2 = 4 \). So, the quotient is 4.
+
+Great job practicing! Remember, division is sharing evenly, and the remainder is what is left over if things don't divide evenly. We will learn about remainders in a later section.
+
+### Check Your Understanding
+
+Let's do some division word problems. Remember to look for the dividend (what you are dividing) and the divisor (what you are dividing by), then find the quotient. Good luck!
+
+1. Tommy has 16 toy cars. He wants to arrange them into 4 even rows. How many toy cars will be in each row?
+2. There are 21 students in a class, and the teacher has 7 awards to give out, one to each student in a group. How many students will be in each group?
+3. A gardener has 24 flowers and wants to plant them in 8 equal sections. How many flowers will go in each section?
+
+**Answers:**
+
+1. Tommy needs to make 4 equal rows with his 16 cars. When you divide 16 by 4, you get \( 16 \div 4 = 4 \). So each row will have 4 toy cars.
+
+2. The teacher needs to divide the 21 students into groups of 7. When we divide 21 by 7, we get \( 21 \div 7 = 3 \). Each group will have 3 students.
+
+3. The gardener needs 8 equal sections to plant his 24 flowers. Dividing 24 by 8 gives us \( 24 \div 8 = 3 \). Each section will have 3 flowers.
+
+You did it! You're understanding the basics of division. Keep practicing, and soon you'll be ready to tackle more complex division problems, including those with remainders.
+
+---
+Remember to practice division with objects like counters or draw pictures to help you understand the concept of sharing equally!

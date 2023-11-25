@@ -1,0 +1,105 @@
+# Basic Operations: Addition with Regrouping
+
+## Understanding Addition with Regrouping
+
+Before we learn how to add bigger numbers, let's start with a quick review:
+
+1. **Simple Addition**  
+This is when we add smaller numbers that don't go over ten. For example, 2 + 3 = 5. This type of addition does not require regrouping.
+
+2. **Place Value**  
+Remember that each digit in a number has a place value. In the number 45, 4 is in the "tens" place, and 5 is in the "ones" place.
+
+Now that we've reviewed, let's dive into addition with regrouping!
+
+When we add numbers, and the sum of the digits in the ones place is more than ten, we need to "regroup" or "carry over" the extra value to the tens place. The same applies when the sum in the tens place is more than ten, and we regroup to the hundreds place.
+
+---
+
+## Let's Try Some Problems!
+
+Remember to line up the numbers by their place value and start adding from the rightmost (ones) column.
+
+### Practice Problem #1: 
+
+Add these two numbers:
+
+  37
++ 28
+____
+
+**Step 1:** Add the ones place.  
+7 (ones) + 8 (ones) = 15 (ones).  
+We write down 5 in the ones place and carry over 1 to the tens place because 15 is more than 10.
+
+**Step 2:** Add the tens place, including the number we carried over.  
+1 (carried over) + 3 (tens) + 2 (tens) = 6 (tens).  
+We write down 6 in the tens place.
+
+So, the answer is 65.
+
+**Answer for Practice Problem #1:**  
+  37  
++ 28  
+____  
+  65  
+
+### Practice Problem #2:
+
+Now try this addition:
+
+  162
++ 249
+_______
+
+**Step 1:** Add the ones column.  
+2 (ones) + 9 (ones) = 11 (ones).  
+Write down 1 in the ones place and carry over 1 to the tens place.
+
+**Step 2:** Add the tens column, including the number carried over.  
+1 (carried over) + 6 (tens) + 4 (tens) = 11 (tens).  
+Write down 1 in the tens place and carry over 1 to the hundreds place.
+
+**Step 3:** Add the hundreds column, including the number carried over.  
+1 (carried over) + 1 (hundred) + 2 (hundreds) = 4 (hundreds).  
+Write down 4 in the hundreds place.
+
+So, the answer is 411.
+
+**Answer for Practice Problem #2:**  
+  162  
++ 249  
+_______  
+  411  
+
+---
+
+## Practice Problems for You to Try
+
+Solve these addition problems and check your answers with those provided below:
+
+### Problem #1:
+  254
++ 378
+_______
+#### Answer: 632
+
+### Problem #2:
+  491
++ 563
+_______
+#### Answer: 1054
+
+### Problem #3:
+  826
++ 179
+_______
+#### Answer: 1005
+
+### Review What You've Learned
+
+Fantastic job working through these addition problems with regrouping! Remember to always start adding from the ones place and move left. Whenever you have a number that is 10 or more, regroup and carry over to the next highest place value. Keep practicing and soon you'll be an addition with regrouping expert!
+
+---
+
+End of "Addition with Regrouping" Section.

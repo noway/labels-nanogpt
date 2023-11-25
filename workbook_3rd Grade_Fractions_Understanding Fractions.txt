@@ -1,0 +1,113 @@
+---
+title: Understanding Fractions
+grade: 3rd Grade
+subject: Mathematics
+chapter: Fractions
+
+---
+
+## Understanding Fractions
+
+Welcome to the world of fractions! Fractions are a way to represent parts of a whole. Just like you can share a pizza with your friends, fractions show how you can divide things into equal parts. Let's explore what fractions are all about.
+
+### What is a Fraction?
+
+A fraction consists of two numbers separated by a horizontal or diagonal line. The number on the top is called the numerator, and it tells us how many parts we have. The number on the bottom is the called the denominator, and it tells us the total number of equal parts the whole is divided into.
+
+For example, the fraction 3/4 tells us that we have three parts out of four equal parts. 
+
+#### Parts of a Fraction
+- **Numerator (Top Number):** The part of the fraction that tells us the number of equal parts we're talking about.
+- **Denominator (Bottom Number):** The part of the fraction that tells us how many equal parts the whole is divided into.
+
+### Visualizing Fractions
+
+One of the best ways to understand fractions is to visualize them. Let's take a look at some shapes divided into equal parts.
+
+#### Exercise 1: Coloring Parts
+Here is a square divided into 4 equal parts.
+
+🟥🟥
+🟥⬜
+
+Color 3 of the 4 parts to show the fraction 3/4.
+
+#### Answer 1:
+You should have colored three parts, leaving one uncolored like this:
+
+🟥🟥
+🟥⬜
+
+This shows 3/4 of the square is colored.
+
+#### Exercise 2: Matching Fractions to Pictures
+Match each fraction to the correct picture.
+
+A) 1/2
+B) 1/4
+C) 3/4
+
+Picture 1: 🟨🟨⬜⬜  | Picture 2: 🟦⬜⬜⬜ | Picture 3: 🟩🟩
+
+#### Answer 2:
+A) 1/2 matches Picture 3 (🟩🟩)
+B) 1/4 matches Picture 2 (🟦⬜⬜⬜)
+C) 3/4 matches Picture 1 (🟨🟨⬜⬜)
+
+### Equivalent Fractions
+
+Sometimes, two fractions can look different but represent the same amount of the whole. These are called equivalent fractions.
+
+#### Exercise 3: Finding Equivalent Fractions
+Fill in the blank with the number that makes the fractions equivalent (equal).
+
+1/2 = _/4
+
+2/3 = _/6
+
+3/4 = _/8
+
+#### Answer 3:
+1/2 = 2/4
+2/3 = 4/6
+3/4 = 6/8
+
+Each of these pairs are equivalent fractions.
+
+### Comparing Fractions
+
+When we have two fractions with the same denominator, we can compare them by looking at their numerators. The larger the numerator, the larger the fraction.
+
+#### Exercise 4: Ordering Fractions
+Put the following fractions in order from smallest to largest.
+
+3/8, 1/8, 2/8, 4/8
+
+#### Answer 4:
+The order from smallest to largest is:
+
+1/8, 2/8, 3/8, 4/8
+
+### Simplifying Fractions
+
+Sometimes, fractions can be simplified to a smaller equivalent fraction. Simplifying means making the numerator and the denominator as small as possible.
+
+#### Exercise 5: Simplify the Fractions
+Simplify the following fractions:
+
+4/8 =
+
+6/9 =
+
+10/15 =
+
+#### Answer 5:
+4/8 = 1/2 (Divide both numerator and denominator by 4)
+
+6/9 = 2/3 (Divide both numerator and denominator by 3)
+
+10/15 = 2/3 (Divide both numerator and denominator by 5)
+
+Well done! You have completed the Understanding Fractions section of the Fractions chapter. Remember, fractions are just parts of a whole, and with practice, you'll become a fractions expert!
+
+---

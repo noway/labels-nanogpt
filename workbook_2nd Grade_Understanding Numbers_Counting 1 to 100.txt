@@ -1,0 +1,91 @@
+## Counting 1 to 100
+
+Welcome to the exciting world of numbers! In this section, we will learn how to count from 1 all the way up to 100. Counting is the foundation of math, and it helps us understand the concept of quantity. Let's get started with our counting adventure!
+
+---
+
+### Step 1: Understanding Number Groups
+
+Before we start counting all the way to 100, let's break down the numbers into smaller groups. We'll start with the basics.
+
+- **Ones**: These are the simplest numbers to count. From 1 to 9, we just say each number out loud: one, two, three, four, five, six, seven, eight, and nine.
+
+- **Tens**: After we pass nine, we get to ten. From there, we count ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, and ninety. These are our 'tens' numbers.
+
+- **Mixed Numbers**: After every ten, we start adding the ones again. So, after ten comes eleven (10+1), then twelve (10+2), all the way up to nineteen (10+9). 
+
+### Step 2: Practice Counting by Ones
+
+Now, it's time to practice counting. Start with 1 and keep going. Don't worry if it takes a bit of time to remember what comes next – that's what practice is for!
+
+Here's the sequence: 
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 
+11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 
+21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 
+31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 
+41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 
+51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 
+61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 
+71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 
+81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 
+91, 92, 93, 94, 95, 96, 97, 98, 99, 100.
+
+### Step 3: Counting in Tens
+
+Next, let's practice counting by tens. This will make counting to 100 faster and easier. Here's how you count by tens:
+
+10, 20, 30, 40, 50, 60, 70, 80, 90, 100.
+
+### Step 4: Exercises
+
+Now, let's try some exercises to test your counting skills!
+
+1. Fill in the missing numbers:
+   ___, 2, ___, 4, 5, ___, 7, ___, 9, ___.
+
+2. What comes after these numbers?
+   
+   a. 15, ____
+   
+   b. 29, ____
+   
+   c. 87, ____
+
+3. Count by tens starting at ten. Fill in the blanks.
+   
+   10, ___, ___, 40, ___, ___, ___, 80, ___, ___.
+
+4. Write the numbers that come right before these numbers:
+   
+   a. ___, 31
+   
+   b. ___, 79
+   
+   c. ___, 100
+
+### Answers
+
+1. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+
+2. 
+   
+   a. 16
+   
+   b. 30
+   
+   c. 88
+
+3. 10, 20, 30, 40, 50, 60, 70, 80, 90, 100.
+
+4. 
+   
+   a. 30, 31
+   
+   b. 78, 79
+   
+   c. 99, 100
+
+---
+
+Great job on practicing counting to 100! Remember, practice makes perfect. The more you count, the better you'll get. Keep practicing counting up and down, and soon counting to 100 will be as easy as pie!

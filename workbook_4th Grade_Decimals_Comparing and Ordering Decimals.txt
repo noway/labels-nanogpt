@@ -1,0 +1,53 @@
+**Comparing and Ordering Decimals**
+
+Welcome to the "Comparing and Ordering Decimals" section of our Decimals chapter! Understanding how to compare and order decimals is a key skill in mathematics, and by the end of this section, you will confidently be able to put any list of decimal numbers in order from smallest to greatest or greatest to smallest.
+
+*Comparing Decimals*
+When comparing two decimal numbers, it is essential to compare their whole number part first and then look at the digit in the tenths place, followed by the hundredths place, and so on, if necessary.
+
+**Example 1: Which is greater, 0.7 or 0.68?**
+- First, compare the whole number part of both decimals. In this case, both numbers are less than 1, so we look at the decimal part.
+- Then compare the digits in the tenths place. The number 0.7 has a 7 in the tenths place, while 0.68 has a 6 in the tenths place.
+- Since 7 is greater than 6, the number 0.7 is greater than 0.68.
+
+*Ordering Decimals*
+To order decimals from least to greatest, start by comparing the whole number part, then the tenths place, then the hundredths, and so forth, until you find a difference.
+
+If there is no difference, that means the numbers are equal. If you're ordering from greatest to least, do the same process but start with the largest values.
+
+**Let's Practice!**
+
+*Exercise 1: Write the following decimals in order from least to greatest.*
+0.8, 0.65, 0.658, 0.7
+
+**Answer:** 0.65, 0.658, 0.7, 0.8
+
+*Exercise 2: Compare the decimals and write <, >, or = in the box.*
+a) 0.45 __ 0.450
+b) 0.8 __ 0.79
+c) 0.37 __ 0.403
+
+**Answers:**
+a) =
+b) >
+c) <
+
+*Exercise 3: Circle the greatest decimal in each set.*
+a) 0.56, 0.563, 0.6
+b) 0.98, 0.978, 0.99
+
+**Answers:**
+a) Circle 0.6
+b) Circle 0.99
+
+*Exercise 4: Write the following decimals in order from greatest to least.*
+0.3, 0.25, 0.305, 0.35
+
+**Answer:** 0.35, 0.3, 0.305, 0.25
+
+Remember, when comparing and ordering decimals:
+- Line up the decimal points vertically.
+- Compare digits starting from the left, moving right.
+- Insert zeros to help compare decimal places when necessary.
+
+Great job on learning how to compare and order decimals! Continue practicing with these strategies, and you will master this skill in no time.

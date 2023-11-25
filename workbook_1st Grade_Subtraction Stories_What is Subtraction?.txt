@@ -1,0 +1,65 @@
+# Subtraction Stories - "What is Subtraction?"
+
+Hello, wonderful young mathematicians! Today we're going to talk about a very important math idea called **subtraction**. Subtraction is one of the four basic operations in mathematics, and it's all about finding out how much less one number is compared to another or how much is left after some is taken away.
+
+## What Is Subtraction?
+
+Imagine you have a bunch of apples in a basket. If you take some apples out of the basket, you have fewer apples than you started with, right? Subtraction is just like taking apples out of your basket. It's the operation that tells us how many apples, or anything else, are left.
+
+In simpler terms, **subtraction means taking away**. When we subtract, we find the difference between two numbers. 
+
+For example:
+If you have 5 apples 🍎🍎🍎🍎🍎 and you eat 2 apples 🍎🍎, then you are left with 3 apples 🍎🍎🍎.
+
+We can write this subtraction as an equation:
+5 apples - 2 apples = 3 apples, or simply, 5 - 2 = 3.
+
+## How to Write a Subtraction Sentence
+
+A subtraction sentence includes at least two numbers and a minus sign (-). The first number is called the **minuend**. It's the number we start with. The second number is the **subtrahend**. It's the amount we are taking away. After the equals sign (=), we get the **difference**. That’s the answer to our subtraction problem.
+
+Let's write a subtraction sentence together using our apple example:
+
+**5 (minuend) - 2 (subtrahend) = 3 (difference)**
+
+Now that we understand what subtraction is and how to write a subtraction sentence, let's look at some subtraction stories!
+
+---
+
+### Subtraction Story 1:
+
+Nina had 8 pieces of candy. She gave 3 pieces to her friend. How many pieces does Nina have now?
+
+8 (minuend) - 3 (subtrahend) = 5 (difference)
+
+### Answer to Subtraction Story 1:
+
+Nina now has 5 pieces of candy.
+
+---
+
+### Subtraction Story 2:
+
+There are 7 birds sitting on a tree. 4 birds fly away. How many birds are left on the tree?
+
+7 (minuend) - 4 (subtrahend) = 3 (difference)
+
+### Answer to Subtraction Story 2:
+
+There are 3 birds left on the tree.
+
+---
+
+### Subtraction Story 3:
+
+Marcus had 10 marbles. He lost 6 marbles. How many marbles does Marcus have now?
+
+10 (minuend) - 6 (subtrahend) = 4 (difference)
+
+### Answer to Subtraction Story 3:
+
+Marcus has 4 marbles now.
+
+---
+
+Wow, you did great work on these subtraction stories! Remember, whenever you are taking away or finding out how much less you have, you are doing subtraction. The key to subtraction is to make sure you line up your numbers correctly and remember that the answer shows how many are left or the difference between the two numbers. Keep practicing, and you'll become a subtraction expert in no time!

@@ -1,0 +1,114 @@
+## Fun with Shapes
+
+### Counting Sides and Corners
+
+Hello young mathematicians! Today we're going to have some geometric fun by exploring different shapes and learning how to count their sides and corners. Remember, the sides of a shape are the straight lines that make up the outline of the shape, and the corners, also known as vertices, are the points where two sides meet.
+
+#### Exercise 1: Counting Sides
+Look at each shape below, count the number of sides it has, and write your answer in the space provided.
+
+1. Square
+     ![Square](https://placekitten.com/50/50) 
+
+     Number of sides: ____
+
+2. Triangle
+     ![Triangle](https://placekitten.com/50/50)
+
+     Number of sides: ____
+
+3. Rectangle
+     ![Rectangle](https://placekitten.com/50/50)
+
+     Number of sides: ____
+
+4. Hexagon
+     ![Hexagon](https://placekitten.com/50/50)
+
+     Number of sides: ____
+
+5. Pentagon
+     ![Pentagon](https://placekitten.com/50/50)
+
+     Number of sides: ____
+
+**Answers:**
+
+1. Square - 4 sides
+2. Triangle - 3 sides
+3. Rectangle - 4 sides
+4. Hexagon - 6 sides
+5. Pentagon - 5 sides
+
+#### Exercise 2: Counting Corners
+Now, it's time to count the corners or vertices. Look at each shape and count the number of corners. Write your answer in the space provided.
+
+1. Square
+     ![Square](https://placekitten.com/50/50) 
+
+     Number of corners: ____
+
+2. Triangle
+     ![Triangle](https://placekitten.com/50/50)
+
+     Number of corners: ____
+
+3. Rectangle
+     ![Rectangle](https://placekitten.com/50/50)
+
+     Number of corners: ____
+
+4. Hexagon
+     ![Hexagon](https://placekitten.com/50/50)
+
+     Number of corners: ____
+
+5. Pentagon
+     ![Pentagon](https://placekitten.com/50/50)
+
+     Number of corners: ____
+
+**Answers:**
+
+1. Square - 4 corners
+2. Triangle - 3 corners
+3. Rectangle - 4 corners
+4. Hexagon - 6 corners
+5. Pentagon - 5 corners
+
+#### Exercise 3: Real-Life Shapes
+Look around your classroom or home. Can you find objects that match the shapes you've learned about? Write down the object and the shape that it resembles.
+
+Example:
+
+Object: Clock
+Shape: Circle
+
+1. Object: ____________
+   Shape: ____________
+
+2. Object: ____________
+   Shape: ____________
+
+3. Object: ____________
+   Shape: ____________
+
+*Now let's see your observations!*
+
+**Answers:**
+
+*Answers will vary based on the student's environment. Make sure each object matches the shape they have identified.*
+
+#### Review Questions
+
+1. What shape has 4 equal sides and 4 equal corners?
+2. How many sides does a hexagon have?
+3. What is special about the sides of a rectangle?
+
+**Answers:**
+
+1. A square has 4 equal sides and 4 equal corners.
+2. A hexagon has 6 sides.
+3. In a rectangle, opposite sides are equal in length.
+
+Great job counting sides and corners! Shapes are all around us, and learning about them can be a lot of fun. Keep practicing, and soon you'll be a shape expert!

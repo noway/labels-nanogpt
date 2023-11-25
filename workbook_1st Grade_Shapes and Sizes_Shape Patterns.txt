@@ -1,0 +1,70 @@
+# Shapes and Sizes
+
+## Shape Patterns
+
+Welcome to the world of shapes! In this section, you will learn about patterns with shapes. A pattern is a design that repeats over and over. By the end of this section, you will be able to recognize, extend, and create your own shape patterns!
+
+### Identifying Shape Patterns
+Let's start by identifying patterns made of shapes. You will see some patterns below. Your job is to look at each pattern and tell which shape comes next.
+
+1. **Example Pattern**: Circle, Square, Circle, Square, Circle, **What comes next?**
+
+   **Answer**: Square. The pattern alternates between a circle and a square, so after the circle, a square comes next.
+
+2. **Example Pattern**: Triangle, Triangle, Square, Triangle, Triangle, Square, Triangle, **What comes next?**
+
+   **Answer**: Triangle. The pattern is two triangles followed by a square.
+
+3. **Example Pattern**: Rectangle, Circle, Rectangle, Circle, Rectangle, **What comes next?**
+
+   **Answer**: Circle. The pattern alternates between a rectangle and a circle.
+
+### Extending Shape Patterns
+Now, let's try to extend given patterns. This means you will write out or draw the shapes that follow the given ones to continue the pattern.
+
+1. **Example Pattern** to Extend: Hexagon, Hexagon, Circle, Hexagon, Hexagon, Circle, Hexagon, **Extend it**!
+
+   **Extended Pattern**: Hexagon, Circle. This pattern is two hexagons followed by one circle.
+
+2. **Example Pattern** to Extend: Square, Triangle, Triangle, Square, Triangle, Triangle, **Extend it**!
+
+   **Extended Pattern**: Square, Triangle, Triangle. This pattern shows one square followed by two triangles.
+
+### Creating Shape Patterns
+Now that you know how to recognize and extend shape patterns, it's time to get creative and make your own! Look at the shapes you have: circle, square, triangle, rectangle, and hexagon. Create a pattern using at least three of these shapes and repeat the pattern two or three times.
+
+1. **Create Your Pattern Example**: Triangle, Square, Circle, Triangle, Square, Circle, Triangle, **Finish the Pattern**!
+
+   **Your Completed Pattern**: Square, Circle. Your pattern shows a triangle, a square, and then a circle, repeated.
+
+### Practice Problems
+
+Now, try these practice problems. The answers are provided below so you can check your work after you're done.
+
+1. What shape comes next in this pattern?
+   
+   Pattern: Square, Circle, Triangle, Square, Circle, **What comes next?**
+
+   **Answer**: Triangle. The pattern repeats every three shapes.
+
+2. Extend this pattern by three more shapes.
+   
+   Pattern: Rectangle, Rectangle, Circle, Rectangle, Rectangle, **Extend it**!
+
+   **Extended Pattern**: Circle, Rectangle, Rectangle. Every two rectangles are followed by a circle.
+
+### Review
+Great job learning about shape patterns! Remember:
+
+- Identifying a pattern means figuring out what comes next.
+- Extending a pattern means continuing the sequence.
+- Creating a pattern means you make up your own repeating sequence of shapes.
+
+Keep practicing, and soon you'll be a shape pattern pro!
+
+### Answers to Practice Problems:
+
+1. Triangle
+2. Circle, Rectangle, Rectangle
+
+Now that you've finished the Shape Patterns section, you're ready to move on to the next lesson. Keep up the good work!

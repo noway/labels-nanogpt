@@ -1,0 +1,99 @@
+# Operations with Numbers – Addition and Subtraction
+
+Welcome to the exciting world of addition and subtraction! Mastering these two operations will help you with everyday math problems. Whether you are counting your allowance or scoring points in a game, addition and subtraction are your trusty tools. Let's dive in and explore these concepts!
+
+## Addition
+
+Addition is simply the process of combining two or more numbers to find their total. The numbers that are added are called addends, and the result is called the sum.
+
+### Key Terms:
+- **Addends:** The numbers you are adding.
+- **Sum:** The result of addition.
+
+### Example:
+- 3 + 5 = 8
+  - 3 and 5 are addends.
+  - 8 is the sum.
+
+### Practice Problems:
+
+1. 7 + 6 = ?
+2. 15 + 9 = ?
+3. 8 + 12 = ?
+4. 25 + 7 = ?
+5. 31 + 19 = ?
+
+#### Answers to Practice Problems:
+
+1. 7 + 6 = 13
+2. 15 + 9 = 24
+3. 8 + 12 = 20
+4. 25 + 7 = 32
+5. 31 + 19 = 50
+
+### Try It Yourself!
+Now that you've practiced a few problems, it's your turn. Solve the problems below:
+
+A. 14 + 27 = ?
+
+B. 56 + 13 = ?
+
+C. 18 + 14 = ?
+
+D. 39 + 22 = ?
+
+E. 7 + 88 = ?
+
+Remember to check your work!
+
+## Subtraction
+
+Subtraction is the process of removing one number from another. It helps us to find differences between numbers. The number you are subtracting from is called the minuend, and the number you are subtracting is called the subtrahend. The result is called the difference.
+
+### Key Terms:
+- **Minuend:** The number from which another number is subtracted.
+- **Subtrahend:** The number that is being subtracted.
+- **Difference:** The result of subtraction.
+
+### Example:
+- 10 - 4 = 6
+  - 10 is the minuend.
+  - 4 is the subtrahend.
+  - 6 is the difference.
+
+### Practice Problems:
+
+1. 18 - 9 = ?
+2. 22 - 13 = ?
+3. 35 - 7 = ?
+4. 60 - 25 = ?
+5. 40 - 16 = ?
+
+#### Answers to Practice Problems:
+
+1. 18 - 9 = 9
+2. 22 - 13 = 9
+3. 35 - 7 = 28
+4. 60 - 25 = 35
+5. 40 - 16 = 24
+
+### Try It Yourself!
+Now it's time to test your skills. Can you solve these subtraction problems?
+
+A. 71 - 26 = ?
+
+B. 83 - 47 = ?
+
+C. 64 - 29 = ?
+
+D. 50 - 8 = ?
+
+E. 92 - 37 = ?
+
+Don’t forget to subtract carefully!
+
+---
+
+Now that you've worked through the addition and subtraction section, reflect on what you've learned. Practice these operations daily, and you'll soon be an addition and subtraction expert!
+
+Congratulations on completing this section! Keep up the great work as you continue to improve your math skills.

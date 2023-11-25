@@ -1,0 +1,103 @@
+# Operations with Numbers - Solving Word Problems
+
+## Understanding Word Problems
+
+Word problems are a way to apply math to real-life situations. Solving them can be fun and interesting! They describe scenarios and ask you to find solutions using math operations like addition, subtraction, multiplication, or division.
+
+### Steps to Solve Word Problems:
+1. **Read the Problem Carefully:** Understand what the problem is asking.
+2. **Identify Key Information:** Look for numbers, units, and the question.
+3. **Choose the Right Operation(s):** Decide if you need to add, subtract, multiply, or divide.
+4. **Write an Equation:** Use symbols and numbers to represent the problem.
+5. **Solve the Equation:** Do the math to find the answer.
+6. **Check Your Work:** Make sure your solution makes sense in the context of the problem.
+7. **Answer the Question:** Write the answer in a complete sentence, if possible.
+
+Let's practice with some exercises. 
+
+---
+
+## Example 1: Addition
+
+**Problem:** Sam has 12 apples. His friend gives him 8 more apples. How many apples does Sam have now?
+
+1. Read the problem.
+2. Information: Sam starts with 12 apples, gets 8 more.
+3. Operation: Addition, because Sam is getting more apples.
+4. Equation: 12 + 8 = ?
+5. Solve: 12 + 8 = 20
+6. Check: If Sam had 12 and got more, he should have a number greater than 12. 20 makes sense.
+7. Answer: Sam has now 20 apples.
+
+**Your Turn:**
+
+Olivia had 7 balloons and bought 9 more at the store. How many balloons does Olivia have now?
+
+**Answer:** Olivia has 16 balloons.
+
+## Example 2: Subtraction
+
+**Problem:** There are 15 cupcakes, and 6 are eaten during the party. How many cupcakes are left?
+
+1. Read the problem.
+2. Information: Started with 15 cupcakes, 6 were eaten.
+3. Operation: Subtraction, because we’re finding out how many are left.
+4. Equation: 15 - 6 = ?
+5. Solve: 15 - 6 = 9
+6. Check: If we take away 6 from 15, we should have less than 15. 9 does make sense.
+7. Answer: There are 9 cupcakes left.
+
+**Your Turn:**
+
+Jacob had 18 stickers. He gave some to his friend and now has 11 stickers left. How many stickers did Jacob give to his friend?
+
+**Answer:** Jacob gave away 7 stickers.
+
+## Example 3: Multiplication
+
+**Problem:** A pack of pencils contains 10 pencils. How many pencils are there in 5 packs?
+
+1. Read the problem.
+2. Information: 1 pack has 10 pencils, 5 packs in total.
+3. Operation: Multiplication, because we’re finding the total in multiple groups.
+4. Equation: 5 x 10 = ?
+5. Solve: 5 x 10 = 50
+6. Check: 10 pencils in each pack times 5 packs should be more than 10. 50 is correct.
+7. Answer: There are 50 pencils in 5 packs.
+
+**Your Turn:**
+
+If a train has 8 cars and each car has 9 seats, how many seats are there in total on the train?
+
+**Answer:** There are 72 seats in total on the train.
+
+## Example 4: Division
+
+**Problem:** 28 students need to be divided into 7 equal groups. How many students will be in each group?
+
+1. Read the problem.
+2. Information: 28 students, 7 groups.
+3. Operation: Division, because we’re dividing students into groups.
+4. Equation: 28 ÷ 7 = ?
+5. Solve: 28 ÷ 7 = 4
+6. Check: If we have 7 groups and 28 students, 28 divided by 7 equals 4, which makes sense.
+7. Answer: There will be 4 students in each group.
+
+**Your Turn:**
+
+Sara has 36 candies to put into bags. If she wants each bag to have 4 candies, how many bags can she fill?
+
+**Answer:** Sara can fill 9 bags with 4 candies each.
+
+---
+
+## Remember:
+
+- Always read the problem carefully.
+- Understand the situation.
+- Write down what you need to find.
+- Think about what you know and what you need to know.
+- Show all your work so you can check it.
+- Answer in complete sentences when you can.
+
+As you practice more word problems, you'll get better at choosing the right operations and solving them accurately. Keep practicing, and you'll be a word problem whiz in no time!

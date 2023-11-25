@@ -1,0 +1,72 @@
+# Introduction to Numbers
+
+## Comparing and Ordering Numbers
+
+Welcome to the wonderful world of numbers! As we dive deeper into our math journey, an important skill to learn is how to compare and order numbers. This allows us to understand the value of numbers and see how they relate to one another. Let's get started with comparing numbers first!
+
+### Comparing Numbers
+
+When we compare numbers, we are looking at two or more numbers to decide if one is larger, smaller, or equal to the other.
+
+#### Symbols Used for Comparing Numbers
+
+- **Greater than (>)** - This symbol means that the number on the left is larger than the number on the right.
+- **Less than (<)** - This symbol indicates the number on the left is smaller than the number on the right.
+- **Equal to (=)** - This symbol shows that the two numbers are the same.
+
+#### How to Compare Numbers
+
+1. **Compare Place Values**: Start comparing from the leftmost digit. If the digits are different, the number with the larger digit is greater. If the digits are the same, move to the next digit to the right.
+   
+2. **Use Symbols**: Once you've decided which number is greater or if they are equal, use the appropriate symbol (> , <, =) to show the relationship between the numbers.
+
+### Practice Comparing Numbers
+
+Let's practice comparing the following sets of numbers. Write the correct symbol between them.
+
+1. 568 ___ 568
+2. 743 ___ 458
+3. 602 ___ 620
+4. 399 ___ 400
+ 
+### Answers:
+
+1. 568 = 568
+2. 743 > 458
+3. 602 < 620
+4. 399 < 400
+
+### Ordering Numbers
+
+Ordering numbers is putting a set of numbers in a sequence based on their value. They can be ordered from smallest to largest (ascending order) or from largest to smallest (descending order).
+
+#### Steps for Ordering Numbers
+
+1. **Identify the Largest or Smallest Values**: Decide if you are ordering the numbers in ascending or descending order. Find the smallest number for ascending order, or the largest for descending order.
+   
+2. **Arrange the Numbers**: Write the identified smallest or largest number, and then compare the remaining numbers again to find the next number in the sequence.
+
+3. **Repeat**: Continue this process until all numbers are ordered correctly.
+
+### Practice Ordering Numbers
+
+For the following sets of numbers, write them in ascending order (smallest to largest) and descending order (largest to smallest).
+
+1. 275, 842, 549, 231
+2. 726, 304, 680, 451
+
+### Answers:
+
+In Ascending Order:
+
+1. 231, 275, 549, 842
+2. 304, 451, 680, 726
+
+In Descending Order:
+
+1. 842, 549, 275, 231
+2. 726, 680, 451, 304
+
+Now that you've learned how to compare and order numbers, you'll be able to understand their values better and see how they fit into the big picture of mathematics. Keep practicing these steps, and soon you'll be a pro!
+
+Remember always to check your work, and don't be afraid to ask questions if you're unsure. Now let's move on to the next section where we'll learn about even and odd numbers!

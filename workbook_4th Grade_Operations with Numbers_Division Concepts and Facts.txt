@@ -1,0 +1,104 @@
+# Operations with Numbers
+## Division Concepts and Facts
+
+Welcome to the Division Concepts and Facts section of the Operations with Numbers chapter. In this section, we will explore the world of division, breaking down the subject so that you can become a division expert! Remember, division is the process of splitting a number into equal parts. Without further ado, let's dive into the concepts!
+
+### Understanding Division
+
+Division is one of the four basic mathematical operations, alongside addition, subtraction, and multiplication. It shows how many times one number is contained within another. When you divide, you are finding the number of equal parts you can make. Division is the opposite of multiplication.
+
+#### Key Terms
+- **Dividend**: The number that is being divided.
+- **Divisor**: The number by which the dividend is being divided.
+- **Quotient**: The result of the division.
+- **Remainder**: The amount left over when the division cannot be done exactly.
+
+### Division Symbols
+- The division symbol (÷) or (/)
+- The fraction bar (which also represents division)
+
+### Division as Sharing
+
+Imagine you have a total of 12 apples and you want to share them equally with 3 friends. When you divide 12 (dividend) by 3 (divisor), you will find out that each friend gets 4 apples (quotient).
+
+### Exercise 1: Basic Division
+
+1. 8 ÷ 2 = ____
+2. 15 ÷ 5 = ____
+3. 20 ÷ 4 = ____
+4. 9 ÷ 3 = ____
+5. 16 ÷ 8 = ____
+
+Answers:
+1. 8 ÷ 2 = 4
+2. 15 ÷ 5 = 3
+3. 20 ÷ 4 = 5
+4. 9 ÷ 3 = 3
+5. 16 ÷ 8 = 2
+
+### Check Yourself Using Multiplication
+
+To check your division answer, you can use multiplication. If you multiply the divisor by the quotient, you should get the dividend.
+
+For example:
+3 x 4 = 12, so 12 ÷ 3 = 4 is correct.
+
+### Exercise 2: Check Yourself
+
+Using the previous division problems, let’s check your answers by multiplying:
+
+1. 2 x __ = 8
+2. 5 x __ = 15
+3. 4 x __ = 20
+4. 3 x __ = 9
+5. 8 x __ = 16
+
+Answers:
+1. 2 x 4 = 8
+2. 5 x 3 = 15
+3. 4 x 5 = 20
+4. 3 x 3 = 9
+5. 8 x 2 = 16
+
+### Division with Remainders
+
+Sometimes, numbers do not divide evenly. When this happens, the division has a remainder.
+
+#### Example:
+If you have 10 cookies and you want to give an equal amount to 3 friends, you can give each friend 3 cookies. There will be 1 cookie left over (the remainder).
+
+### Exercise 3: Division with Remainders
+
+1. 10 ÷ 3 = __ R__
+2. 13 ÷ 4 = __ R__
+3. 18 ÷ 5 = __ R__
+4. 11 ÷ 6 = __ R__
+5. 14 ÷ 4 = __ R__
+
+Answers:
+1. 10 ÷ 3 = 3 R1
+2. 13 ÷ 4 = 3 R1
+3. 18 ÷ 5 = 3 R3
+4. 11 ÷ 6 = 1 R5
+5. 14 ÷ 4 = 3 R2
+
+### Understanding Zero in Division
+
+When the divisor is 0, division is not possible, because you cannot divide a number into zero parts.
+
+If the dividend is 0, the quotient is always 0, since zero divided by any number is 0.
+
+### Exercise 4: Understanding Zero in Division
+
+1. 0 ÷ 6 = __
+2. 13 ÷ 0 = __ (place "undefined" if not possible)
+3. 0 ÷ 15 = __
+4. 0 ÷ 0 = __ (place "undefined" if not possible)
+
+Answers:
+1. 0 ÷ 6 = 0
+2. 13 ÷ 0 = undefined
+3. 0 ÷ 15 = 0
+4. 0 ÷ 0 = undefined
+
+Great job completing the "Division Concepts and Facts" section! You are now more familiar with division and how it works. Keep practicing to become even more comfortable with this operation. Onwards to the next challenge in your math workbook!

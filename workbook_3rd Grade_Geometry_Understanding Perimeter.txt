@@ -1,0 +1,52 @@
+**UNDERSTANDING PERIMETER**
+
+Hello, young mathematicians! Today, we're going to explore the concept of perimeter. Perimeter is a very important part of geometry, which is the area of math dealing with shapes and spaces. But before we dive into finding the perimeter of shapes, let's understand what perimeter really means.
+
+**What is Perimeter?**
+
+The perimeter is the total distance around the edge of a two-dimensional shape. You can think of the perimeter as the distance you would walk if you were to go all the way around a shape once. Whether the shape is a square, rectangle, or any other kind of polygon (a shape with straight sides), you can always walk along its edges to measure the perimeter.
+
+**Measuring Perimeter**
+
+To measure the perimeter of a shape, you simply add up the lengths of all its sides. Let's look at some examples:
+
+Example 1: 
+Imagine you have a square. All four sides of a square are equal. If one side is 4 inches long, the perimeter is 4 inches + 4 inches + 4 inches + 4 inches, which equals 16 inches.
+
+Example 2: 
+Now, let's look at a rectangle. The rectangle has two longer sides and two shorter sides. If the longer sides are each 6 inches and the shorter sides are each 3 inches, the perimeter would be 6 + 6 + 3 + 3, which equals 18 inches.
+
+Now, it's your turn to practice!
+
+**Exercise 1:**
+Find the perimeter of a rectangle with sides measuring 5 inches and 7 inches.
+
+Your Answer: 
+5 + 5 + 7 + 7 = 24 inches. Correct!
+
+**Exercise 2:**
+Find the perimeter of a square with one side measuring 8 feet.
+
+Your Answer: 
+8 + 8 + 8 + 8 = 32 feet. Correct!
+
+**Exercise 3:**
+A regular pentagon (a five-sided shape with all sides equal) has each side measuring 4 cm. What is the perimeter?
+
+Your Answer: 
+4 + 4 + 4 + 4 + 4 = 20 cm. Correct!
+
+**Exercise 4:**
+If a triangle has one side that is 5 meters long, another that is 6 meters long, and the third side is 4 meters long, what is its perimeter?
+
+Your Answer: 
+5 + 6 + 4 = 15 meters. Correct!
+
+**Tips for Remembering Perimeter**
+
+- The word "peri" means "around," and "meter" means "measure." So, perimeter is the measure around a shape.
+- When a shape has sides of equal length, like a square, you can multiply one side by the number of sides to find the perimeter.
+- Use a string or ribbon to help visualize the perimeter of different shapes around you.
+- Always make sure to include the unit of measurement (like inches, feet, or meters) in your answer.
+
+Congratulations on learning how to measure the perimeter! Keep practicing with different shapes to become a perimeter pro. Remember, measure each side carefully, and you'll be able to find the perimeter of any shape you come across in no time!

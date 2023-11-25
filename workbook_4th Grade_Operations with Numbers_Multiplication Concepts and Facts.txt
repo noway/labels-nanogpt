@@ -1,0 +1,87 @@
+# Operations with Numbers
+
+## Multiplication Concepts and Facts
+
+Welcome to the "Multiplication Concepts and Facts" section of your 4th Grade Math Workbook. The journey into the world of multiplication begins with understanding concepts and mastering the basic facts.
+
+### What is Multiplication?
+
+Multiplication is one of the four fundamental operations in arithmetic, along with addition, subtraction, and division. It can be thought of as repeated addition. When we multiply, we are adding a number to itself a certain number of times.
+
+For example, 4 multiplied by 3 (written as 4 x 3) means you add 4 three times:
+4 + 4 + 4 = 12.
+
+### Multiplication Terms
+
+When we multiply, the numbers we are working with are called factors, and the result is known as the product.
+
+- **Factor** - A number that is multiplied by another number to find a product.
+- **Product** - The result of multiplying two or more factors.
+
+In the equation 4 x 3 = 12:
+- 4 and 3 are the factors.
+- 12 is the product.
+
+### Arrays and Multiplication
+
+An array is a way to represent multiplication visually with rows and columns of objects. Each row has the same number of objects, and each column has the same number of objects.
+
+For example, in an array that shows 3 x 4:
+- There are 3 rows.
+- There are 4 columns.
+- There are 12 objects in total.
+
+### Commutative Property of Multiplication
+
+One of the most important facts to remember about multiplication is that the order of the factors does not change the product. This is known as the commutative property of multiplication.
+
+Mathematically: a x b = b x a
+
+For example: 5 x 2 = 2 x 5
+
+Both equations will have the product of 10.
+
+### Exercises
+
+Now, let's move on to some exercises to practice what we've learned above. Complete the following multiplication problems and check your answers with the solutions provided:
+
+1. Find the product of 4 and 7.
+2. Using an array, visualise and solve 5 x 3.
+3. Write a multiplication equation for the following array:
+
+   XXX
+   XXX
+   XXX
+   XXX
+   XXX
+
+4. Apply the commutative property. What is another multiplication equation for problem 3?
+5. Identify the factors and the product: 6 x 9 = 54
+
+### Answers:
+
+1. **4 x 7 =** 28
+   The product of 4 and 7 is 28.
+   
+2. **5 x 3 Array Visualization**
+   XXXXX
+   XXXXX
+   XXXXX
+   
+   The array shows 3 rows of 5, so the product is:
+   **5 x 3 =** 15
+   
+3. **Array Equation**
+   The array from the problem shows 5 rows with 3 in each row:
+   **5 x 3 =** 15
+   
+4. **Commutative Property Application**
+   Using the commutative property from the array in problem 3:
+   **3 x 5 =** 15
+   
+5. **Factors and Product Identification**
+   In the equation 6 x 9 = 54:
+   - The factors are 6 and 9.
+   - The product is 54.
+
+With these exercises and concepts, you've taken great steps in understanding multiplication! Remember to practice regularly to become more confident in your multiplication skills. Keep up the good work!

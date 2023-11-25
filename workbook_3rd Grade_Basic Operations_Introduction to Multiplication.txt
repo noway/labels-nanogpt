@@ -1,0 +1,51 @@
+**Introduction to Multiplication**
+
+Welcome to the exciting world of multiplication! Multiplication is one of the four basic operations in mathematics—along with addition, subtraction, and division. It is a fast and efficient way to add the same number several times. 
+
+Imagine you have 3 baskets, and each basket has 4 apples. You could count all the apples by saying "1, 2, 3, 4, 5, 6…” and so on. But this can take a long time, especially with more apples! Multiplication is like a shortcut for this counting. Instead of adding 4 apples over and over, you can simply multiply 3 (the number of baskets) by 4 (the number of apples in each basket). So, 3 multiplied by 4 is equal to 12. We write this as: 3 x 4 = 12.
+
+In multiplication, we have:
+
+- The "multiplicand" which is the number that is to be multiplied (in our example above, that's 3).
+- The "multiplier," which is the number you multiply by (in our example above, that's 4).
+- The "product," which is the result of the multiplication (in our example above, that's 12).
+
+**Let’s Practice Multiplication!**
+
+Below are a few exercises for you to practice your new skill. On the next page, you'll find the answers to check your work. Try your best and remember, practice makes perfect!
+
+**Exercises:**
+
+1. Multiply 2 x 6
+2. Multiply 5 x 3
+3. Multiply 7 x 4
+4. Multiply 8 x 2
+5. Multiply 9 x 5
+6. Multiply 10 x 3
+7. Multiply 0 x 8
+8. Multiply 4 x 4
+9. Multiply 1 x 7
+10. Multiply 6 x 7
+
+Don't peek at the answers before you try these on your own!
+
+**Answers:**
+
+Great job on doing the exercises! Now let's check your work.
+
+1. 2 x 6 = 12
+2. 5 x 3 = 15
+3. 7 x 4 = 28
+4. 8 x 2 = 16
+5. 9 x 5 = 45
+6. 10 x 3 = 30
+7. 0 x 8 = 0 (Any number multiplied by zero always equals zero!)
+8. 4 x 4 = 16
+9. 1 x 7 = 7 (Any number multiplied by one is always itself!)
+10. 6 x 7 = 42
+
+How did you do? Review any problems that you got wrong and try them again. Remember that the best way to get better at multiplication is through practice and repetition. You’re steadily becoming a multiplication master!
+
+Now that you're familiar with multiplication, let's move on to some more challenging problems in the next section. Keep up the great work!
+
+**End of Introduction to Multiplication**

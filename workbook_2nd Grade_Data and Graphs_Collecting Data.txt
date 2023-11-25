@@ -1,0 +1,75 @@
+---
+
+# Data and Graphs
+
+## Collecting Data
+
+When we want to find out information, we can collect data. Collecting data is a way to gather information that helps us understand the world around us. We can collect data by asking questions, observing, or measuring things.
+
+Let's learn how to collect data by doing some fun activities!
+
+### Activity 1: Favorite Fruits
+
+Imagine we want to know the favorite fruit of students in our class. We can collect this data by asking each student about their favorite fruit.
+
+**Exercise:** Ask 20 students about their favorite fruit and write down their answers in the table below.
+
+| Fruit         | Number of Students |
+|---------------|--------------------|
+| Apple         | 6                  |
+| Banana        | 4                  |
+| Orange        | 3                  |
+| Strawberry    | 5                  |
+| Grape         | 2                  |
+
+*Total number of students asked:* 20
+
+**Answer:** You've asked your classmates and filled in the table. Great job collecting the data!
+
+### Activity 2: Observing Weather
+
+We can also collect data by observing things. Let's observe the weather for a week.
+
+**Exercise:** Look outside every day for a week and record the type of weather you see.
+
+| Day       | Weather  |
+|-----------|----------|
+| Monday    | Sunny    |
+| Tuesday   | Cloudy   |
+| Wednesday | Rainy    |
+| Thursday  | Sunny    |
+| Friday    | Windy    |
+| Saturday  | Sunny    |
+| Sunday    | Cloudy   |
+
+*Total number of days observed:* 7
+
+**Answer:** Well done for tracking the weather each day! Now we have data about the weather for each day of the week.
+
+### Activity 3: Counting Cars
+
+We can also collect data by counting things. Let's count the number of different colored cars that pass by the school playground during recess.
+
+**Exercise:** Count how many cars of each color you see in 15 minutes and write your data in the chart.
+
+| Car Color | Number of Cars |
+|-----------|----------------|
+| Red       | 7              |
+| Blue      | 10             |
+| Green     | 2              |
+| Black     | 6              |
+| White     | 9              |
+
+*Total number of cars counted:* 34
+
+**Answer:** Great observation skills! You’ve successfully counted the number of cars and their colors.
+
+### Reflection:
+
+Now that you have collected data in different ways, think about what we can do with this information. We can use it to learn new things, like what the most popular fruit is or what the most common car color is on the road. We can also use the data to make graphs, which we will learn about soon!
+
+Congratulations on completing the Collecting Data section of the Data and Graphs chapter! You're now ready to move on to the next section, where we will learn how to organize and display data in different types of graphs. Keep up the great work!
+
+--- 
+
+(Note for further clarity: The "Answer" sections provided above are intended to affirm the student's completion of the activities and exercises. In an actual workbook, there would be blank spaces for students to fill in their own collected data.)

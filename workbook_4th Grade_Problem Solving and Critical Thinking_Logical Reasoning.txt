@@ -1,0 +1,147 @@
+# Logical Reasoning
+
+## Introduction
+
+Welcome to the Logical Reasoning section of Problem Solving and Critical Thinking! In this section, we will explore how to use logical reasoning to solve problems. Logical reasoning is the process of using rational, systematic steps to arrive at a conclusion. It helps us make sense of complex issues by examining the relationships between different facts and ideas.
+
+---
+
+## Lesson 1: Understanding Patterns
+
+Patterns are all around us. Discovering the rule or the relationship between the elements in a pattern is a key logical reasoning skill.
+
+### Exercise 1.1: Identify the Pattern
+
+Look at the following sequence of shapes:
+
+⭐✪⭐✪⭐?
+
+What shape comes next in the pattern?
+
+**Answer: ✪**
+
+**Explanation:** The pattern is alternating between a star (⭐) and a circle (✪). Since the last shape we have is a star, the next one should be a circle.
+
+---
+
+## Lesson 2: Logical Sequences
+
+A logical sequence is a series of items, numbers, or events that have a particular order or pattern.
+
+### Exercise 2.1: Number Sequences
+
+What comes next in the following sequence of numbers?
+
+1, 4, 7, 10, ?
+
+**Answer: 13**
+
+**Explanation:** The sequence increases by 3 each time. So, 10 + 3 = 13.
+
+---
+
+## Lesson 3: Cause and Effect
+
+Understanding how one event can cause another is a crucial reasoning skill.
+
+### Exercise 3.1: Cause and Effect Relationships
+
+Read the following statement and answer the question below:
+
+"When it gets cloudy and dark, it usually means that it may rain soon."
+
+What can be a possible effect when it gets cloudy and dark?
+
+**Answer: It may rain.**
+
+**Explanation:** The statement implies that darkness and cloudiness can cause rain to fall.
+
+---
+
+## Lesson 4: Making Predictions
+
+Making predictions involves using the information you have now to guess what will happen in the future.
+
+### Exercise 4.1: Predicting Outcomes
+
+Sarah has 5 red marbles and 2 blue marbles in a bag. She is going to pick one marble without looking.
+
+What color marble is Sarah more likely to pick out of the bag?
+
+**Answer: Red**
+
+**Explanation:** There are more red marbles than blue in the bag, so it is more likely that Sarah will pick a red marble.
+
+---
+
+## Lesson 5: Logical Deduction
+
+Logical deduction is a way of reasoning from two or more statements to reach a logical conclusion.
+
+### Exercise 5.1: Deductive Reasoning
+
+If all squares are rectangles, and all rectangles have 4 sides, how many sides does a square have?
+
+**Answer: 4 sides**
+
+**Explanation:** Since a square is a type of rectangle and all rectangles have 4 sides, squares must also have 4 sides.
+
+---
+
+## Lesson 6: Comparing and Contrasting
+
+Comparing and contrasting is a skill that helps us look at how things are alike and how they are different.
+
+### Exercise 6.1: Similarities and Differences
+
+Compare and contrast a bicycle and a car.
+
+**Answer:**
+
+**Similarities:**
+
+- Both are modes of transportation.
+- Both have wheels.
+
+**Differences:**
+
+- A bicycle is powered by human effort, while a car is powered by an engine.
+- A bicycle has two wheels, while a car typically has four wheels.
+- A car can go much faster and farther on a full tank of gas than a bicycle can with a person pedaling.
+
+---
+
+## Lesson 7: Problem-Solving Steps
+
+Problem-solving involves several logical steps to find a solution.
+
+### Exercise 7.1: Steps in Problem-Solving
+
+List the steps you might take to solve a math problem.
+
+**Answer:**
+
+1. Read and understand the problem.
+2. Identify what is being asked.
+3. Gather relevant information and list what is known.
+4. Plan and choose a strategy to solve the problem.
+5. Apply the strategy and solve the problem.
+6. Check the solution for accuracy and make sure it answers the question.
+
+**Explanation:** These steps help organize thoughts and ensure a thorough approach to solving a problem.
+
+---
+
+**Review: Key Points**
+
+- Recognizing patterns helps to understand sequences and predict the next item.
+- Logical sequences follow a specific order that needs to be identified.
+- Cause and effect reasoning identifies relationships between two or more events.
+- Making predictions involves estimating future outcomes based on current information.
+- Logical deduction is reasoning from known facts to reach conclusions.
+- Comparing and contrasting identify similarities and differences between items.
+- Follow systematic steps to problem-solve effectively.
+
+---
+
+Congratulations on completing the Logical Reasoning section! Now it's time to try out these skills with various exciting and challenging problems throughout the rest of the workbook. Good luck, and remember to think logically!

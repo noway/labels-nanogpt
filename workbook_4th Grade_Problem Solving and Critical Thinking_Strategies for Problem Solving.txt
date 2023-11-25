@@ -1,0 +1,68 @@
+## Strategies for Problem Solving
+
+Welcome to the Strategies for Problem Solving section of your math workbook. Problem-solving is a critical skill that helps you not only in math but in day-to-day activities and future learning. Let’s explore some strategies that you can use when you're faced with a math problem that may seem challenging at first.
+
+### 1. Understand the Problem
+Before you can solve a problem, make sure you know what the problem is asking. Read the question several times and look for key words that tell you what to do. These might be words like "sum," "difference," "product," "total," or "remainder." If there is a story, try to visualize it or draw a picture to make it clearer in your mind.
+
+**Example:**  
+Your teacher asks, "If there are 10 apples in a basket and you eat 2 of them, how many apples are left in the basket?"
+
+**Answer:**  
+10 apples - 2 apples = 8 apples
+You understand the problem is asking for the "remainder" after eating 2 apples.
+
+### 2. Make a Plan
+Once you understand the problem, think about different ways to solve it. You could use addition, subtraction, multiplication, or division. Sometimes, you might need a combination of operations. Make a simple plan on how to approach the problem.
+
+**Example:**  
+You bought 3 packs of stickers. Each pack has 5 stickers. How many stickers do you have in total?
+
+**Plan:**  
+Multiply the number of packs by the number of stickers in each pack.
+
+**Answer:**  
+3 packs x 5 stickers per pack = 15 stickers
+
+### 3. Carry Out the Plan
+Now that you have a plan, it’s time to follow the steps you decided on and solve the problem. Work carefully, and do each step in order. If the problem is long or complicated, it might help to solve it in parts.
+
+**Example:**  
+You need to buy enough pencils for your 4 friends. Pencils come in packs of 2 and each friend needs 3 pencils. How many packs do you need to buy?
+
+**Plan:**  
+First, find out the total number of pencils needed, then divide by the number of pencils in a pack.
+
+**Carry Out:**  
+4 friends x 3 pencils per friend = 12 pencils needed.
+12 pencils ÷ 2 pencils per pack = 6 packs needed.
+
+**Answer:**  
+You need to buy 6 packs of pencils.
+
+### 4. Review the Solution
+After you find an answer, look back at your work. Check each step to make sure you haven’t made a mistake. Also, ask yourself if the answer makes sense. If it doesn’t, try to find out why and redo the problem if needed.
+
+**Example:**  
+You have 16 candies and want to share them with 4 friends so that each person gets an equal amount. How many candies does each person get?
+
+**Review:**  
+16 candies ÷ 4 people = 4 candies per person.
+Does it make sense? If we multiply 4 candies by 4 people, we get 16 candies, so our solution checks out.
+
+**Answer:**  
+Each person gets 4 candies.
+
+### 5. Practice and Application
+Problem-solving skills get better with practice. Try solving different types of problems. Also, apply these strategies to real-life situations. The more diverse the problems, the better you become at choosing and applying the right strategy.
+
+**Example:**  
+You read for 15 minutes every day for a week (7 days). How many minutes did you read in total?
+
+**Practice:**  
+15 minutes/day x 7 days = 105 minutes
+
+**Answer:**  
+You read for a total of 105 minutes.
+
+Remember that these strategies are not just a checklist, but tools to make you a better problem solver. As you work through math problems, you'll find that sometimes you can solve a problem using more than one strategy, and that’s perfectly fine. The key is to find the way that works best for you. Keep practicing these strategies, and you'll see your skills improve over time!

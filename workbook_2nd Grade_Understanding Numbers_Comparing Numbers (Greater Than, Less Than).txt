@@ -1,0 +1,81 @@
+# Understanding Numbers - Comparing Numbers (Greater Than, Less Than)
+
+## Introduction
+
+Hi, young mathematician! Today, we're going to dive into the world of numbers. You already know that numbers are symbols that tell us how many or how much of something we have. But did you know that we can also compare numbers to find out which one is bigger or smaller? That's just like knowing whether your pet is heavier than your friend's pet, or if your building block tower is taller than your sibling's. 
+
+When we compare numbers, we use special symbols to show which number is greater (bigger) or less (smaller). These symbols are called "greater than" (>) and "less than" (<). When a number is just the same as another number, we use the "equals" (=) symbol.
+
+## Greater Than ( > )
+
+Think of the "greater than" symbol as a little arrow that points at the smaller number. The wide open side always faces the bigger number.
+
+**Example:** If we have 5 > 3, we're saying that 5 is greater than 3.
+
+## Less Than ( < )
+
+The "less than" symbol is like a "greater than" symbol but flipped around. It also looks like a little arrow pointing at the smaller number, with the wide open side facing the bigger number.
+
+**Example:** If we have 4 < 7, we're saying that 4 is less than 7.
+
+## Activity Time!
+
+Let’s compare some numbers and decide if we should use >, <, or = between them.
+
+1. 6 _ 3 (Is 6 greater, less, or equal to 3?)
+2. 8 _ 9 (Is 8 greater, less, or equal to 9?)
+3. 2 _ 2 (Is 2 greater, less, or equal to 2?)
+4. 10 _ 5 (Is 10 greater, less, or equal to 5?)
+5. 7 _ 7 (Is 7 greater, less, or equal to 7?)
+6. 1 _ 4 (Is 1 greater, less, or equal to 4?)
+
+**Answers:**
+
+1. 6 > 3 (6 is greater than 3)
+2. 8 < 9 (8 is less than 9)
+3. 2 = 2 (2 is equal to 2)
+4. 10 > 5 (10 is greater than 5)
+5. 7 = 7 (7 is equal to 7)
+6. 1 < 4 (1 is less than 4)
+
+## Practice Problems
+
+Now, let’s try a few more. Fill in the blanks with >, <, or =.
+
+1. 15 _ 11
+2. 9 _ 14
+3. 18 _ 18
+4. 4 _ 6
+5. 20 _ 10
+6. 5 _ 12
+7. 16 _ 16
+8. 3 _ 5
+9. 13 _ 8
+10. 10 _ 10
+
+**Answers:**
+
+1. 15 > 11 (15 is greater than 11)
+2. 9 < 14 (9 is less than 14)
+3. 18 = 18 (18 is equal to 18)
+4. 4 < 6 (4 is less than 6)
+5. 20 > 10 (20 is greater than 10)
+6. 5 < 12 (5 is less than 12)
+7. 16 = 16 (16 is equal to 16)
+8. 3 < 5 (3 is less than 5)
+9. 13 > 8 (13 is greater than 8)
+10. 10 = 10 (10 is equal to 10)
+
+## Fun Fact!
+
+Did you know that another way to remember which symbol to use is to think of the symbols < and > as a crocodile's mouth? The crocodile always wants to eat the bigger number!
+
+## Challenge Yourself!
+
+Can you write two of your own number comparisons? Share them with a friend or family member and see if they can get the correct answers!
+
+Great job on comparing numbers! You're becoming quite the math expert. Keep practicing, and you'll get even better. Happy math adventures!
+
+--- 
+
+Remember to also provide students with opportunities to compare numbers in different contexts (such as word problems) to deepen their understanding!

@@ -1,0 +1,62 @@
+# Telling Time
+## Reading Clocks
+
+### Introduction
+Hello, young learner! Today, we are going to learn about reading clocks. Clocks tell us what time it is, and knowing how to read them is very important. There are two main types of clocks: analog clocks and digital clocks. In this section, we'll focus on understanding how to read analog clocks.
+
+### Parts of an Analog Clock
+An analog clock has three hands:
+
+1. Hour Hand – This is the shortest hand. It points to the hour.
+2. Minute Hand – This is the longer hand. It points to the minutes.
+3. Second Hand – This is the thin hand that moves fast. It shows us the seconds.
+
+It also has numbers from 1 to 12 that go around the clock. These numbers help us tell what hour it is.
+
+### How to Tell Time on an Analog Clock
+
+#### Hours
+- When the hour hand is pointing directly at a number, it's the start of that hour. For example, if the hour hand is on the 3, it is 3 o'clock.
+- As the hour hand moves between two numbers, it is after the first number and before the second. So, if the hour hand is between 3 and 4, it's after 3 o'clock but before 4 o'clock.
+
+#### Minutes
+- There are 60 minutes in an hour. The clock is divided into 5-minute sections. Each number represents 5 minutes.
+- When the minute hand is on the 12, it means o'clock.
+- When the minute hand is on the 3, it means 15 minutes past the hour, or "quarter past."
+- When the minute hand is on the 6, it means 30 minutes past the hour, or "half past."
+- When the minute hand is on the 9, it means 45 minutes past the hour, or "quarter to" the next hour.
+
+#### Putting It All Together
+If the hour hand is between 3 and 4, and the minute hand is on the 9, it means it is 3:45, or "quarter to four."
+
+### Activity Time
+Now it's your turn to practice! Look at the clocks on this page and write down the time each one shows.
+
+#### Exercise 1: Write the time these clocks show.
+
+1. The Hour Hand is on the 7, and the Minute Hand is on the 12.
+2. The Hour Hand is between the 1 and the 2, and the Minute Hand is on the 6.
+3. The Hour Hand is on the 11, and the Minute Hand is on the 3.
+
+#### Answers to Exercise 1:
+
+1. 7:00 or 7 o'clock
+2. 1:30 or "half past one"
+3. 11:15 or "quarter past eleven"
+
+#### Exercise 2: Draw the hands of the clock to match these times.
+
+1. 10:00 or 10 o'clock
+2. 8:15 or "quarter past eight"
+3. 5:30 or "half past five"
+
+#### Answers to Exercise 2:
+For Exercise 2, since you need to draw on the clock, here is where the hands should be positioned for each time:
+
+1. The Hour Hand should be pointing at the 10, and the Minute Hand should be pointing at the 12.
+2. The Hour Hand should be slightly past the 8, and the Minute Hand should be pointing at the 3.
+3. The Hour Hand should be halfway between the 5 and the 6, and the Minute Hand should be pointing at the 6.
+
+Great job learning to read clocks! Practice makes perfect, so keep looking at analog clocks and telling the time.
+
+Remember that time-reading is a skill that will help you in many aspects of life, from knowing when your favorite TV show starts to being on time for a playdate or an appointment. Keep practicing, and you'll be a time-reading expert in no time!
