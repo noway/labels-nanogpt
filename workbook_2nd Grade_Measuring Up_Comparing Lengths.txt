@@ -14,7 +14,7 @@ Before we compare lengths, let's understand what length is. Length measures how 
 2. Use your ruler to measure how long these objects are in inches. Write down the lengths.
 
 *Answers:*
-Your answers might be different depending on the objects you found. A pencil might be about 7 inches long, and a paperclip might be about 1 inch long.
+<|unsolvedproblem|>
 
 ---
 

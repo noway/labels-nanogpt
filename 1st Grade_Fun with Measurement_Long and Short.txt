@@ -28,7 +28,7 @@ We’ll begin by using things you find around you to compare lengths.
 
 **Answers:**
 1. The crayon is short and the marker is long (if the marker is indeed longer!).
-2. The answer depends on your spoon and fork sizes, so compare them to find out!
+2. <|unsolvedproblem|>
 
 ### Exercise 2: Arrange It Right
 
@@ -72,6 +72,6 @@ Take off your shoe and use your foot as a measuring tool. Remember, this is just
 
 **Answers:**
 - Your bed is definitely longer than your foot!
-- Your math book might be shorter or about the same length, depending on the size of the book and your foot.
+- <|unsolvedproblem|>
 
 Remember explorers, practice makes perfect, and the more you compare objects the better you’ll be a detective of long and short things. Keep exploring and have fun measuring the world around you!

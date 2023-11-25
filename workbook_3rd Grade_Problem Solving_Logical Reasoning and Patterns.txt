@@ -84,7 +84,7 @@ Use the patterns to predict what should come next.
 
 2. The Smith family eat pizza every Friday night. What will be the next three dates they eat pizza if today is the first Friday of the month?
 
-   **Answer:** The answers will depend on the month and the current year. Remember, there can be four or five Fridays in a month!
+   **Answer:** <|unsolvedproblem|>
 
 ### Exercise 4 Reflection:
 

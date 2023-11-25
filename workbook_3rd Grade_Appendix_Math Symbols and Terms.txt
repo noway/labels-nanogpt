@@ -107,8 +107,6 @@ Example: Rounding 347 to the nearest ten gives us 350.
 
 #### Exercise Answers
 
-Please note that the specific answers would depend on the exercises given in the workbook itself. Since we do not have the actual exercises, below are just a couple of examples of how the appendix terms could be applied:
-
 1. Add the numbers 4 + 7.  
 Sum: 11
 

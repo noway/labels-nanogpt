@@ -72,7 +72,7 @@ Look at these pairs of objects. Circle "Yes" if they are the same size, or "No" 
 
 **Answers for Challenge Activity:**
 
-1. The answer can vary depending on the picture you have. If they look the same size, circle "Yes"; otherwise, "No".
+1. <|unsolvedproblem|>
 2. Usually, leaves are not the same size, so most likely "No".
 3. If the books look the same height and width, then "Yes"; if one looks bigger, then "No".
 

@@ -32,7 +32,7 @@ When we want to talk about how long things are, we use special words like "longe
 3. Look around your room and find two toys.
    
    - Question: Use your words to compare the two toys. Which is longer and which is shorter?
-   - Answer: [This will depend on the toys the child finds. They should describe one toy as longer or shorter than the other.]
+   - Answer: <|unsolvedproblem|>
 
 ### Section 4: Comparing Lengths with Your Body
 You can also use parts of your body to compare lengths!

@@ -30,14 +30,7 @@ Let's meet some basic 3D shapes and learn how to spot them around us:
 
 Before we start the exercises, let's explore! Look around your room or think of objects you know and write one example of each 3D shape from our list.
 
-(Answers would vary depending on the student's environment or knowledge. Here are some examples that a student might write)
-
-Cube Example: Dice.
-Sphere Example: Basketball.
-Cylinder Example: Soda can.
-Cone Example: Traffic cone.
-Rectangular Prism Example: Cereal box.
-Pyramid Example: A tent.
+<|unsolvedproblem|>
 
 **Identifying 3D Shapes Exercise**
 

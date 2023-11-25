@@ -92,7 +92,7 @@ Words List:
 (The word search grid with the words listed would be here. You can create a grid and place the words in it, then fill the remaining spaces with random letters.)
 
 **Answer:**
-(Provide a grid with the words circled; the actual solution will depend on the initial creation of the word search.)
+<|unsolvedproblem|>
 
 5. **Mystery Numbers**
 

@@ -80,7 +80,7 @@ Create your own Math Bingo sheets with a free space in the middle. Randomly fill
 You will need someone to call out math problems, and you mark the answer if you have it on your sheet. The first to get five in a row horizontally, vertically, or diagonally wins!
 
 #### Completed Exercise:
-- Students will have variations of Math Bingo sheets, and the outcome will depend on the game played among several students, so there is no one fixed answer. Make sure the numbers on the Bingo cards are results from problems appropriate for their level of math knowledge.
+- <|unsolvedproblem|>
 
 ### 5. Measurement Hunt
 

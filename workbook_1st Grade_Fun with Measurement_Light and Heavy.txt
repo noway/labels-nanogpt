@@ -67,7 +67,7 @@ In each row, circle the item that is heavier.
 
 _Answers:_
 **Row 1:** Cup of Jellybeans
-**Row 2:** This one might be tricky as it depends on the size of the kitten and puppy, but typically a Puppy could be heavier.
+**Row 2:** typically a Puppy is heavier.
 **Row 3:** School Bus
 **Row 4:** Basketball
 **Row 5:** Brick
