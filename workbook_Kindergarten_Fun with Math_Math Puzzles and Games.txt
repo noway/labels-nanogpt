@@ -81,7 +81,7 @@ Example Rolls:
 - Roll 3: 6 + 1 = 7
 
 *Solution:*
-Answers will vary depending on the dice roll. Practice adding the numbers each time you play.
+<|unsolvedproblem|>
 
 ---
 

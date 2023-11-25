@@ -74,7 +74,7 @@ Some dates, like holidays or birthdays, might be special to you. We can mark the
 
 *Exercise 6:* Mark your birthday on a calendar, and write down which day of the week it falls on.
 
-*Answer 6:* [This will vary based on the student's birthday.]
+*Answer 6:* <|unsolvedproblem|>
 
 ---
 

@@ -67,10 +67,10 @@ Now that you've learned how to measure length, weight, and volume, let's practic
 ### Practice Exercises:
 
 1. Use a ruler to measure the length of your textbook in centimeters.
-**Answer**: Answers will vary depending on the textbook size. Example: If it lines up with 28 on the ruler, then the textbook is 28 centimeters long.
+**Answer**: <|unsolvedproblem|>
 
 2. Use a kitchen scale to weigh a bag of rice and write down its weight in pounds and ounces.
-**Answer**: Answers will vary. Example: If the scale says 2 lbs and 8 oz, then the bag of rice weighs 2 pounds and 8 ounces.
+**Answer**: <|unsolvedproblem|>
 
 3. Fill a measuring jug with milk until it reaches the 500 milliliters (ml) mark. How many liters of milk do you have?
 **Answer**: Since 1,000 milliliters is equal to 1 liter, if you have 500 milliliters, you have 0.5 liters of milk.

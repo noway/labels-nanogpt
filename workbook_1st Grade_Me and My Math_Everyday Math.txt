@@ -15,7 +15,7 @@ Write down the number next to each of your morning activities.
 4. Eat breakfast - (Student fills in number)
 5. Make bed - (Student fills in number)
 
-**Answers will vary** 
+**<|unsolvedproblem|>** 
 
 **Example Answer:**
 1. Wake up - 1

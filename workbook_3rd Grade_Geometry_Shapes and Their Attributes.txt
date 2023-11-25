@@ -25,7 +25,7 @@ A triangle has three sides and three corners, which we call vertices. Triangles 
 
 _Try This: Draw one of each type of triangle and label their sides._
 
-**Answer:** [Students' drawings will vary]
+**Answer:** <|unsolvedproblem|>
 
 **3. Square**
 
@@ -33,7 +33,7 @@ A square has four equal sides and four equal angles, each measuring 90 degrees. 
 
 _Try This: Draw a square and write down the length of each side._
 
-**Answer:** [Students' drawings will vary, but the length of each side should be the same]
+**Answer:** <|unsolvedproblem|>
 
 **4. Rectangle**
 
@@ -41,7 +41,7 @@ A rectangle is similar to a square in that it has four sides and four right angl
 
 _Try This: Draw a rectangle and label the longer sides as the "length" and the shorter sides as the "width."_
 
-**Answer:** [Students' drawings will vary, with two pairs of equal sides, the longer ones labeled as "length" and the shorter as "width"]
+**Answer:** <|unsolvedproblem|>
 
 **5. Pentagon**
 
@@ -49,7 +49,7 @@ A pentagon is a five-sided shape with five angles. A regular pentagon has all si
 
 _Try This: Draw a pentagon and count the sides and angles._
 
-**Answer:** [Students' drawings will vary; there should be five sides and five angles]
+**Answer:** <|unsolvedproblem|>
 
 ### Exploring Properties
 

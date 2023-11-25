@@ -93,7 +93,7 @@ See who can complete the list first. Be sure to measure accurately!
 Measure the length of a spoon and the width of a textbook.
 
 **Answer:**
-Answers will vary depending on the actual objects measured.
+<|unsolvedproblem|>
 
 ---
 

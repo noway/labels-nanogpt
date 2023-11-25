@@ -75,7 +75,7 @@ Before we begin our shape hunt, let's review the shapes we'll be looking for:
 
 **Answers**:
 
-- Answers will vary but encourage children to express themselves and articulate how they see shapes in different objects. There is no single right answer, as objects can often be broken down into multiple shapes.
+- <|unsolvedproblem|>
 
 ### Conclusion
 

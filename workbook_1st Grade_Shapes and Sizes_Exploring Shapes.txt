@@ -40,7 +40,7 @@ A square has four equal sides and four equal angles. All the corners look the sa
 
 _Example Exercise:_  
 How many squares can you find in your classroom?  
-_Answer:_ Answers will vary.
+_Answer:_ <|unsolvedproblem|>
 
 **Rectangle**  
 A rectangle is similar to a square, but it has two longer sides and two shorter sides.

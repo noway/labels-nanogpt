@@ -43,7 +43,6 @@ You can also compare the lengths of more than two objects.
 2. Measure each object and write their lengths in a list from shortest to longest.
 
 *Answers:*
-Your answers will vary based on the objects you selected. For example:   
 - Spoon: 6 inches
 - Marker: 5 inches
 - Crayon: 4 inches
@@ -81,7 +80,7 @@ Sometimes, you may need to guess the length of something before measuring it. Th
 3. Write down your estimate and the actual length.
 
 *Answers:*
-Your answer will vary depending on the size of your desk. An estimate might be 30 inches, and the actual length might be 32 inches.
+<|unsolvedproblem|>
 
 ---
 

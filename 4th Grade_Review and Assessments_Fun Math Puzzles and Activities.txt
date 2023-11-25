@@ -88,7 +88,7 @@ For this activity, you'll need to find items that match the mathematical clues.
 **Answers**:
 - **Item 1**: A can or a mug is usually in a cylindrical shape.
 - **Item 2**: If there are 12 chairs and 3 tables, then 12 divided by 3 is 4 chairs per table.
-- **Item 3**: Answers will vary based on the actual desk used for measurement. 
+- **Item 3**: <|unsolvedproblem|>
 
 ---
 

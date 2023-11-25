@@ -71,7 +71,7 @@ Remember, knowing about hours and how to tell them apart is very useful. Whether
 
 **Exercise Answers**
 
-**Exercise 1**: Answers will vary depending on the student’s drawings.
+**Exercise 1**: <|unsolvedproblem|>
 
 **Exercise 2**:
 

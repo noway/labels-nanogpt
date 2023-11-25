@@ -7,7 +7,7 @@ Take a walk outside and look for patterns in nature. Can you find shapes, number
 
 **Exercise**: Find 5 natural items, such as leaves, flowers, or pinecones. Draw the shapes you see in them and try to identify them. Can you find any patterns or repeating sequences?
 
-*Answers will vary based on what the student finds. Here are some examples:*
+*Here are some examples:*
 
 1. A leaf could have a symmetrical shape (such as a heart shape).
 2. A flower might show radial symmetry (like a daisy with petals all around the center).
@@ -18,7 +18,7 @@ Visit a grocery store with an adult. Look at the prices and weights of different
 
 **Exercise**: Choose three different fruits or vegetables. Write down their price per pound and estimate the total cost of buying 2 pounds of each.
 
-*Answers will vary based on current prices. Here's an example assuming apples are $1.20 per pound, bananas are $0.60 per pound, and carrots are $0.90 per pound.*
+*Here's an example assuming apples are $1.20 per pound, bananas are $0.60 per pound, and carrots are $0.90 per pound.*
 
 1. Apples: $1.20 per pound x 2 pounds = $2.40
 2. Bananas: $0.60 per pound x 2 pounds = $1.20
@@ -43,7 +43,7 @@ Keeping track of time is a very important skill. Can you be a timekeeper for a d
 
 **Exercise**: Use a clock to record what time you start and finish each of your three favorite activities. How much time did you spend on each activity?
 
-*Answers will vary. Here's an example:*
+*Here's an example:*
 
 1. Reading a book - Start: 3:00 PM, End: 3:30 PM. Total time: 30 minutes.
 2. Playing outside - Start: 4:00 PM, End: 4:45 PM. Total time: 45 minutes.
@@ -54,7 +54,7 @@ Design and create your own board game that includes math challenges. Use additio
 
 **Exercise**: Sketch out your game board and write the rules. Decide what math operations are needed to move forward. Create at least 10 math challenges for players to solve.
 
-*The actual game and rules will be the creation of the student, so answers will vary.*
+*<|unsolvedproblem|>*
 
 ---
 

@@ -22,7 +22,7 @@ To create a bar graph, follow these steps:
 
 **Exercise 1:** Make a bar graph to show how many times you brushed your teeth each day last week.
 
-**Answer Key:** Students' graphs will vary. They should have a graph with seven bars representing each day of the week, and the height of the bars should correspond to the number of times they brushed their teeth on those days. The y-axis should have a scale that fits their highest count of the week.
+**Answer Key:** <|unsolvedproblem|>
 
 ### Reading a Bar Graph
 
@@ -60,7 +60,7 @@ To make a picture graph, follow these steps:
 
 **Exercise 3:** Make a picture graph to show the number of each type of book you read last month.
 
-**Answer Key:** Students' graphs will vary. Their graphs should have pictures representing each type of book they read with the symbols adding up to the total number of books in each category.
+**Answer Key:** <|unsolvedproblem|>
 
 ### Reading a Picture Graph
 

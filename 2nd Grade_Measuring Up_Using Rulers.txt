@@ -37,7 +37,7 @@ Let's say it lines up with the number 7. That means your pencil is 7 inches long
 - Write down your measurements.
 
 **Answers**:
-(Answers will vary based on the actual objects the students measure.)
+<|unsolvedproblem|>
 
 ## Practice Exercise 2 - Measuring in Centimeters
 
@@ -56,7 +56,7 @@ If it reaches 20, your book is 20 centimeters wide.
 - Write down your measurements.
 
 **Answers**:
-(Answers will vary based on the actual objects the students measure.)
+<|unsolvedproblem|>
 
 ## Practice Problems
 

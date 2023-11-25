@@ -54,7 +54,7 @@ Patterns help us understand the world, and shapes are all around you! You see th
 **Exercise 6:** Find and draw different shapes from around your house or classroom. How many rectangles, circles, or triangles can you find?
 
 *Step 1: Look around and count each shape.*
-**Answer:** Answers will vary. You might find 4 rectangles (a book, a laptop, a door, and a picture frame) and 3 circles (a clock, a plate, and a coin).
+**Answer:** <|unsolvedproblem|>
 
 ### Conclusion
 

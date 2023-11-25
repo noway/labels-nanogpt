@@ -46,6 +46,6 @@ Let's put your angle knowledge to the test! Below are a few exercises to practic
 1. At 3:00 PM, the clock's hands form a right angle, which is 90 degrees.
 2. At 4:45 PM, the hands of a clock form an obtuse angle, measuring roughly 135 degrees.
 3. An angle of exactly 90° is a right angle.
-4. The angle of the tip of the pizza slice is an acute angle since it measures less than 90 degrees. The exact measurement will vary depending on how the pizza is sliced.
+4. The angle of the tip of the pizza slice is an acute angle since it measures less than 90 degrees. 
 
 And there you have it! You're well on your way to understanding all about angles. Keep practicing, and you'll soon be an angle expert. Good luck!

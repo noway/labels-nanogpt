@@ -40,7 +40,7 @@ As a kindergartner preparing for first grade, it’s essential to have a good fo
    
     Look around your room and draw a picture of one object for each shape (circle, square, triangle, rectangle).
 
-    _Answers will vary depending on the objects selected by the student._
+    _<|unsolvedproblem|>_
 
 5. **More or Less:**
    

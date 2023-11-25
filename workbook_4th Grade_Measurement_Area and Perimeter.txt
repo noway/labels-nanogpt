@@ -74,7 +74,7 @@ For each shape, fill in the blanks with the correct numbers to complete the equa
    - Area = 10 × 2 = 20 square units
    - Perimeter = 2 × (10 + 2) = 24 units
 
-4. This solution will vary depending on the shape you created. Remember the formulas for area and perimeter for the shape you chose (or combine them if it's a complex shape), and apply them accordingly.
+4. <|unsolvedproblem|>
 
 ---
 

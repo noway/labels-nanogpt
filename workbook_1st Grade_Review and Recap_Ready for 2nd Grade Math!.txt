@@ -60,7 +60,7 @@ Know basic measurement terms such as length, height, and weight. Understand how 
 #### Length
 Exercise: Which is longer, a pencil or a shoe? Draw a picture to compare them.
 
-Answer: Students' drawings will vary, but a shoe is generally longer than a pencil.
+Answer: A shoe is generally longer than a pencil.
 
 ### Geometry
 Recognize and name shapes regardless of their orientations or overall size.
@@ -68,7 +68,7 @@ Recognize and name shapes regardless of their orientations or overall size.
 #### Shapes
 Exercise: Draw a square, a triangle, a rectangle, and a circle.
 
-Answer: Students' drawings will vary - they should have drawn a square with four equal sides, a triangle with three sides, a rectangle with opposite sides equal, and a circle with no corners.
+Answer: <|unsolvedproblem|>
 
 ### Telling Time
 Be able to read clocks and understand the difference between AM and PM.

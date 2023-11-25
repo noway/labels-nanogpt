@@ -84,10 +84,10 @@ The symbol '=' means "equal to." It shows that two values are the same.
 Measurement is the process of finding the length, weight, or volume of an object using units like inches, pounds, or cups.
 **Example:** How many inches long is the pencil?
 **Exercise:** Measure the length of your math book and write it down in inches.
-**Answer:** Answers will vary.
+**Answer:** <|unsolvedproblem|>
 
 ### Data
 Data is information that is gathered and used to find out things or answer questions, often organized in charts or graphs.
 **Example:** How many students in the class like pizza?
 **Exercise:** Make a tally chart to show how many red, blue, and green cars you see.
-**Answer:** Answers will vary.
+**Answer:** <|unsolvedproblem|>

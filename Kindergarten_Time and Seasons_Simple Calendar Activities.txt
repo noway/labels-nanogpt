@@ -62,8 +62,8 @@ Show your child the calendar and ask them to name the current month.
 If their birthday is in 3 weeks, help them count the days on the calendar until their birthday arrives.
 
 Answers:
-1. Answers will vary depending on the actual date.
-2. Answers will vary depending on the current month.
+1. <|unsolvedproblem|>
+2. <|unsolvedproblem|>
 3. Ask your child to start from today and count 21 days forward (assuming there are 7 days in each week).
 
 ---

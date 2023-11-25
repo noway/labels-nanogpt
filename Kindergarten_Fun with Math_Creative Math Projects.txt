@@ -59,7 +59,7 @@ Welcome to the "Creative Math Projects" section of the "Fun with Math" chapter! 
 - Record the lengths and arrange the items based on their size.
 
 **Answers:**
-- Answers will vary depending on the actual objects used. But for example, a pencil might be 7 inches, a shoe might be 9 inches, and a book might be 11 inches. Ordered from shortest to longest, it would be pencil, shoe, book.
+- <|unsolvedproblem|>
 
 ## Project 4: Coin Combinations
 

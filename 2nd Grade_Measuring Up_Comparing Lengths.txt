@@ -71,9 +71,9 @@ Use your ruler to measure the following items and then compare.
 
 ### Answer Key:
 
-**Activity 1**: Answers will vary based on the objects chosen.
+**Activity 1**: <|unsolvedproblem|>
 
-**Activity 2**: Answers will vary. Here's how you could fill in the example:
+**Activity 2**:
 - Pencil: 7 inches
 - Marker: 5 inches
 - Which is longer? Pencil

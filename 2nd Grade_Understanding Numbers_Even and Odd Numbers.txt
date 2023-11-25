@@ -70,6 +70,6 @@ Odd (it ends in 5, which is an odd number).
 No odd numbers while counting by twos, starting from 2 (all are even).
 
 **Exercise 9 Answer:**  
-The answer will vary depending on the count of objects. (Use the even-odd rule to determine the answer).
+<|unsolvedproblem|>
 
 Great job! By practicing these exercises, you're becoming a pro at identifying even and odd numbers. Keep practicing, and you will be able to spot these numbers everywhere!
