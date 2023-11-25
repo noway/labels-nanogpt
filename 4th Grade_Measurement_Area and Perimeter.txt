@@ -1,0 +1,99 @@
+# Measurement
+
+## Area and Perimeter
+
+### Understanding Area
+The area is the size of a surface. It tells us how much space is inside a shape. We measure area in square units, like square inches (in²), square feet (ft²), square centimeters (cm²), or square meters (m²).
+
+### How to Calculate Area
+
+#### Rectangle
+To find the area of a rectangle, you multiply the length by the width.
+
+**Formula: Area = Length × Width**
+
+**Example:** 
+If the length of a rectangle is 4 inches and the width is 3 inches, what is its area?
+Area = 4 in × 3 in = 12 in²
+
+#### Square
+Since all sides of a square are equal, the area of a square is the length of one side squared.
+
+**Formula: Area = Side × Side**
+
+**Example:**
+If one side of a square is 5 inches, what is its area?
+Area = 5 in × 5 in = 25 in²
+
+---
+
+### Understanding Perimeter
+The perimeter is the distance around the outside of a shape.
+
+### How to Calculate Perimeter
+
+#### Rectangle
+To find the perimeter of a rectangle, you add up the lengths of all four sides.
+
+**Formula: Perimeter = (Length + Width) × 2**
+
+**Example:**
+If a rectangle has a length of 6 inches and a width of 2 inches, what is its perimeter?
+Perimeter = (6 in + 2 in) × 2 = 16 in
+
+#### Square
+For a square, you can multiply one side by 4 to get the perimeter.
+
+**Formula: Perimeter = Side × 4**
+
+**Example:**
+If one side of a square is 3 inches, what is its perimeter?
+Perimeter = 3 in × 4 = 12 in
+
+---
+
+### Practice Exercises
+
+#### Exercise 1: Area of a Rectangle
+Find the area of a rectangle with a length of 8 feet and a width of 5 feet.
+
+**Answer:**
+8 ft × 5 ft = 40 ft²
+The area of the rectangle is 40 square feet.
+
+#### Exercise 2: Perimeter of a Rectangle
+What is the perimeter of the same rectangle in Exercise 1?
+
+**Answer:**
+(8 ft + 5 ft) × 2 = 26 ft
+The perimeter of the rectangle is 26 feet.
+
+#### Exercise 3: Area of a Square
+Calculate the area of a square with a side length of 7 centimeters.
+
+**Answer:**
+7 cm × 7 cm = 49 cm²
+The area of the square is 49 square centimeters.
+
+#### Exercise 4: Perimeter of a Square
+Find the perimeter of the same square in Exercise 3.
+
+**Answer:**
+7 cm × 4 = 28 cm
+The perimeter of the square is 28 centimeters.
+
+#### Exercise 5: Composite Shapes
+Patrick's garden has the shape of a large rectangle that is 20 feet long and 10 feet wide, but there is a square sandbox on one end that is 5 feet on each side. What is the area of the garden not including the sandbox?
+
+**Answer:**
+First, find the area of the whole garden:
+Area of the garden = 20 ft × 10 ft = 200 ft²
+Next, find the area of the sandbox:
+Area of the sandbox = 5 ft × 5 ft = 25 ft²
+Now, subtract the sandbox area from the garden area:
+200 ft² - 25 ft² = 175 ft²
+The area of the garden, excluding the sandbox, is 175 square feet.
+
+---
+
+Remember to always include the correct units in your answers, and double-check your calculations to make sure they are accurate!

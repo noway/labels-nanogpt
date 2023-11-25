@@ -1,0 +1,91 @@
+---
+## Chapter: Problem Solving and Critical Thinking
+### Section: Logical Reasoning
+
+Logical reasoning is an essential part of problem-solving and critical thinking. It's like being a detective – you look at the clues (information) you have, and you must figure out what they are telling you. When you think logically, you're making connections between ideas, asking questions, and finding the underlying truth behind a problem or situation.
+
+### Understanding Logic
+
+Logic is all about making sense of things in an orderly and clear way. Imagine you have a big box of colorful building blocks. Each block can only fit with certain other blocks. When you figure out which pieces connect to make a stable structure, you're using logic!
+
+Let's start with some key terms in logical reasoning:
+
+**Statement**: A sentence that can be true or false. E.g., 'All dogs are mammals.'
+
+**Question**: A sentence that asks for information. E.g., 'Are all mammals dogs?'
+
+**Conclusion**: A decision or opinion formed after thinking about the facts. E.g., 'Dogs are a type of mammal, so they can't be the only mammals.'
+
+**Reason**: The explanation for why something is the way it is. E.g., 'Dogs are mammals because they breathe air, give birth to live young, and feed their babies with milk.'
+
+### Types of Logical Reasoning
+
+**Deductive Reasoning**: You start with a general statement and use it to make a conclusion about something specific.
+
+**Inductive Reasoning**: You start with specific observations and try to find a general rule or pattern.
+
+### Deductive Reasoning Example
+
+All squares have four sides. (General statement)
+A rectangle is a square only if it has four equal sides. (Condition)
+
+Your friend shows you a shape with three sides.
+- Can it be a square?
+- Can it be a rectangle?
+
+**Answer**:
+- It cannot be a square because squares have four sides.
+- It cannot be a rectangle because rectangles also have four sides.
+
+### Inductive Reasoning Example
+
+You notice that every time you touch something hot, it feels warm.
+You touch five different hot things, and they all feel warm.
+You conclude that probably all hot things will feel warm when you touch them.
+
+**Exercise**: Which reasoning is being used in the examples above – deductive or inductive?
+
+### Logical Connections
+
+**If-Then Statements**: These show a cause-and-effect relationship between two things.
+E.g., If it is raining (cause), then the ground will be wet (effect).
+
+**True or False Statements**: You must decide whether a statement is correct or incorrect based on what you know.
+E.g.: 'All birds can fly.' Is this true or false?
+
+**Answer**:
+False. Some birds, like penguins and ostriches, cannot fly.
+
+### Practice Problems
+
+1. **If-Then Exercise**
+   
+If a number is divisible by 4, then it is an even number.
+What can we say about the number 8?
+What can we say about the number 11?
+
+**Answers**:
+- The number 8 is an even number because it can be divided by 4.
+- We cannot conclude if the number 11 is even or odd based on the information provided, but since 11 is not divisible by 4, the "if" part does not apply.
+
+2. **True or False Exercise**
+
+Every square is a rectangle. Is this statement true or false?
+
+**Answer**:
+True. All squares are rectangles because they have four sides and every angle is a right angle, which fits the definition of a rectangle.
+
+3. **Logical Conclusion Exercise**
+
+Dave has more marbles than Cathy.
+Cathy has fewer marbles than Bella.
+Who has the most marbles?
+
+**Answer**:
+Bella has the most marbles. If Dave has more than Cathy and Cathy has fewer than Bella, Bella must have more than both Dave and Cathy.
+
+---
+
+As you can see, logical reasoning is like a superpower for your brain that lets you see things clearly and figure out the truth. By practicing these exercises, you'll become a better logical thinker and a great problem-solver!
+
+Remember, the answer is not always obvious. Sometimes you need to be like a detective and look for clues, ask more questions, and carefully think about the information you have! Keep practicing, and you'll be solving even the toughest problems logically and confidently.

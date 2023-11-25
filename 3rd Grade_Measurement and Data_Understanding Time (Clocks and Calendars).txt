@@ -1,0 +1,99 @@
+## Understanding Time (Clocks and Calendars)
+
+### Learning Objectives:
+- Learn to read time on analog and digital clocks 
+- Understand A.M. and P.M. and their relationship with time.
+- Familiarize with the concepts of hours, minutes, and seconds.
+- Learn how to use a calendar, including days, weeks, and months.
+
+---
+
+**Reading Time on Analog Clocks**
+
+An _analog clock_ has a round face with numbers from 1 to 12, three hands – a short one for the hour, a long one for minutes, and sometimes a very thin one for seconds.
+
+**For Example:**
+- When the short (hour) hand is pointing to 3 and the long (minutes) hand is pointing to 12, it is 3:00. 
+- If the hour hand is on the 7 and the minutes hand has moved halfway around the clock to the bottom, it's 7:30.
+
+*Exercise 1:* Draw the time 2:45 on an analog clock.
+
+*Answer 1:* The short hand should be between the 2 and 3, closer to the 3, while the long hand points directly at the 9.
+
+**Understanding A.M. and P.M.**
+
+Time is divided into two segments:
+- A.M. — from Midnight to Noon.
+- P.M. — from Noon to Midnight.
+
+Anything happening before noon (12:00) is in the A.M. hours. Anything happening after noon and until midnight is in the P.M. hours.
+
+*Exercise 2:* Is 6 o'clock in the evening 6:00 A.M. or 6:00 P.M.?
+
+*Answer 2:* 6:00 in the evening is 6:00 P.M.
+
+---
+
+**Hours, Minutes, and Seconds**
+
+There are 24 hours in a day, 60 minutes in an hour, and 60 seconds in a minute.
+
+**Minutes and Hours**
+
+When the long hand completes a full circle, it is 60 minutes or 1 hour.
+
+*Exercise 3:* What time will it be 30 minutes after 11:00 A.M.?
+
+*Answer 3:* It will be 11:30 A.M. 
+
+**Seconds**
+If your clock has a second hand, when it goes around once, 60 seconds have passed, or 1 minute.
+
+*Exercise 4:* How many seconds are there in 2 minutes?
+
+*Answer 4:* There are 120 seconds in 2 minutes because 60 seconds per minute times 2 minutes equals 120 seconds.
+
+---
+
+**Using Calendars**
+
+A calendar shows days, weeks, and months in a year.
+
+**Days and Weeks**
+Each square on a calendar represents one day. There are 7 days in a week: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday.
+
+**Months**
+There are 12 months in a year, and each month has a different number of days (28 to 31 days).
+
+*Exercise 5:* What month comes after March?
+
+*Answer 5:* April comes after March.
+
+**Special Dates**
+Some dates, like holidays or birthdays, might be special to you. We can mark these on the calendar.
+
+*Exercise 6:* Mark your birthday on a calendar, and write down which day of the week it falls on.
+
+*Answer 6:* [This will vary based on the student's birthday.]
+
+---
+
+**Review Questions**
+
+1. Draw the hands on a clock for 9:15 A.M.
+2. How many minutes are there from 1:05 P.M. to 2:05 P.M.?
+3. If you go to bed at 8:00 P.M. and wake up at 7:00 A.M., how many hours did you sleep?
+4. Write down the names of all 12 months in order.
+5. If today is Tuesday, what day will it be in four days?
+
+**Review Answers**
+
+1. The hour hand should be just past the 9, and the minute hand on the 3.
+2. One hour, which is 60 minutes.
+3. 11 hours of sleep.
+4. January, February, March, April, May, June, July, August, September, October, November, December.
+5. If today is Tuesday, in four days it will be Saturday.
+
+---
+
+Remember, practice makes perfect! Use practice clocks and calendars to get better at telling time and understanding dates.

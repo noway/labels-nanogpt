@@ -1,0 +1,99 @@
+# Review and Assessments
+
+## Practice Test 1
+
+### Instructions:
+Solve the following problems. You may use a pencil and paper to help you calculate your answers. Be sure to show your work for each problem. Once you are finished, you can check your answers with the answer key provided at the end of the practice test. Good luck!
+
+### Multiple Choice
+
+**1. What is the value of 7 × 6?**
+   A) 13
+   B) 42
+   C) 52
+   D) 63
+
+**2. If you have 5 apples and you give away 2, how many apples do you have left?**
+   A) 2
+   B) 3
+   C) 5
+   D) 7
+
+**3. What is 48 divided by 8?**
+   A) 4
+   B) 6
+   C) 8
+   D) 40
+
+### True/False
+
+**4. The number 456 is an even number.**
+   - True
+   - False
+
+**5. Every square is a rectangle.**
+   - True
+   - False
+
+### Fill in the Blanks
+
+**6. 1000 - ____ = 750**
+   (Write the number that goes in the blank.)
+
+**7. There are ____ hours in 3 days.**
+   (Write the number of hours.)
+
+### Word Problems
+
+**8. Sarah has 4 packs of crayons, and each pack has 12 crayons. How many crayons does she have in total?**
+   (Show your work.)
+
+**9. Ben rode his bike for 3 days. Each day he rode for 15 kilometers. How many kilometers did Ben ride in total?**
+   (Show your work.)
+
+**10. If one pencil costs 25 cents, how much would 4 pencils cost?**
+   (Show your work. Write your answer in dollars and cents.)
+
+---
+
+## Practice Test 1 - Answer Key
+
+### Multiple Choice
+
+1. **B) 42**  
+   Explanation: 7 × 6 equals 42.
+
+2. **B) 3**  
+   Explanation: If you start with 5 apples and give away 2, you subtract 2 from 5, which leaves you with 3 apples.
+
+3. **B) 6**  
+   Explanation: 48 divided by 8 is 6.
+
+### True/False
+
+4. **True**  
+   Explanation: The number 456 is even because it ends with a 6, which is an even number.
+
+5. **True**  
+   Explanation: A square is a rectangle with all four sides of equal length.
+
+### Fill in the Blanks
+
+6. **250**  
+   Explanation: 1000 - 250 = 750.
+
+7. **72**  
+   Explanation: There are 24 hours in one day. So, 24 × 3 = 72 hours in three days.
+
+### Word Problems
+
+8. **48 crayons**  
+   Explanation: If one pack has 12 crayons and Sarah has 4 packs, multiply 12 × 4 to get 48 crayons.
+
+9. **45 kilometers**  
+   Explanation: If Ben rode 15 kilometers each day for 3 days, multiply 15 × 3 to get 45 kilometers.
+
+10. **$1.00**  
+   Explanation: Each pencil costs $0.25, so 4 pencils would cost 4 × $0.25 = $1.00.
+
+Remember, it is important to practice these types of problems regularly to master the 4th-grade math concepts. Keep up the good work, and don't be afraid to ask for help if you need it!

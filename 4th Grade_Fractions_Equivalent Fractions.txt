@@ -1,0 +1,69 @@
+**Equivalent Fractions**
+
+### Understanding Equivalent Fractions
+
+Fractions may look different but can still represent the same value. These are known as equivalent fractions. Two equivalent fractions are equal to each other because they are simply different ways of expressing the same part of a whole.
+
+### How to Find Equivalent Fractions
+
+To find a fraction equivalent to another, you can either *multiply* or *divide* the numerator (top number) and the denominator (bottom number) by the *same non-zero number*. This is like scaling the fraction up or down without changing its value.
+
+### Multiplying to Find Equivalent Fractions
+
+When we multiply the numerator and the denominator by the same number, we find an equivalent fraction.
+
+**Example:**
+Let's find three fractions equivalent to 1/2 by multiplying by 2, 3, and 4:
+
+1/2 × 2/2 = 2/4
+
+1/2 × 3/3 = 3/6
+
+1/2 × 4/4 = 4/8
+
+These fractions, 2/4, 3/6, and 4/8, are all equivalent to 1/2.
+
+### Dividing to Find Equivalent Fractions
+
+Sometimes we need to reduce a fraction to its simplest form to find an equivalent fraction. We do this by dividing both the numerator and denominator by their greatest common divisor.
+
+**Example:**
+Let's find a fraction equivalent to 4/6 by dividing the numerator and denominator by their greatest common divisor (which is 2 for 4 and 6):
+
+4/6 ÷ 2/2 = 2/3
+
+So, 2/3 is an equivalent fraction to 4/6.
+
+### Visualizing Equivalent Fractions
+
+Equivalent fractions can be visualized by dividing shapes into equal parts. For example, one half of a circle is equivalent to two fourths or three sixths if the circle is divided into four or six equal parts, respectively.
+
+#### Exercises
+
+1. Find three fractions equivalent to 3/4 by multiplying the numerator and denominator by the same number.
+2. Simplify the fraction 5/10 to its lowest terms.
+3. Draw a rectangle divided into eight equal parts. Shade in 1/2 of the rectangle, and then shade in an equivalent fraction.
+
+### Answers
+
+#### Exercise 1
+
+We need to multiply the numerator (3) and denominator (4) by the same number. Let's use 2, 3, and 5:
+
+3/4 × 2/2 = 6/8 (6 out of 8 parts is equivalent to 3 out of 4 parts)
+
+3/4 × 3/3 = 9/12 (9 out of 12 parts is equivalent to 3 out of 4 parts)
+
+3/4 × 5/5 = 15/20 (15 out of 20 parts is equivalent to 3 out of 4 parts)
+
+#### Exercise 2
+
+To simplify 5/10, we need to divide both the numerator and denominator by their greatest common divisor, which is 5:
+
+5/10 ÷ 5/5 = 1/2
+
+Therefore, the simplest form of 5/10 is 1/2.
+
+#### Exercise 3
+
+A visual explanation can be drawn on paper. The rectangle should have 4 out of 8 parts shaded for 1/2. For an equivalent fraction, you can also shade 4 out of 8 parts but group them differently, or shade 2 out of 4 parts if you divide the rectangle into only 4 parts. This shows that 1/2, 4/8, and 2/4 are all equivalent.

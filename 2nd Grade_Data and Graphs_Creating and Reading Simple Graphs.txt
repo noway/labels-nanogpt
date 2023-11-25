@@ -1,0 +1,100 @@
+Creating and Reading Simple Graphs
+-------------------------------
+
+### What is a Graph?
+
+A graph is a picture that shows how much or how many of something. Graphs make it easy to compare information and to see what is the same and what is different.
+
+### Types of Graphs for 2nd Graders
+
+In 2nd grade, you will learn about two main types of graphs:
+
+1. **Pictographs**: These use pictures or symbols to show data. Each picture or symbol represents a number of things.
+2. **Bar Graphs**: These use bars to show how much or how many. The taller the bar, the more there is of something.
+
+Let's learn how to make and read these graphs!
+
+### Pictographs
+
+#### Creating a Pictograph
+
+1. **Ask a Question**: What do you want to find out? For example, "What is the favorite fruit in our class?"
+   
+2. **Collect Data**: Ask your friends and write down their answers.
+   
+3. **Choose a Symbol**: Pick a picture or symbol for your data. If your question is about fruit, you might draw small apples or bananas.
+   
+4. **Draw the Graph**:
+    - Make a title for your graph that tells what it is about.
+    - Draw a grid.
+    - List the items on the left side (like types of fruit).
+    - Draw your symbols next to each item to show how many people chose each one.
+
+#### Example Exercise
+
+Let's say you asked your 10 friends to pick their favorite fruit from apples, bananas, and oranges. You got this data:
+
+- Apples: 4 friends
+- Bananas: 3 friends
+- Oranges: 3 friends
+
+Choose a symbol for each fruit (🍎 for apples, 🍌 for bananas, 🍊 for oranges). Now make a pictograph!
+
+**Favorite Fruit Pictograph**
+
+| Fruit    | Number of Friends |
+|----------|-------------------|
+| Apples   | 🍎🍎🍎🍎            |
+| Bananas  | 🍌🍌🍌            |
+| Oranges  | 🍊🍊🍊            |
+
+### Bar Graphs
+
+#### Creating a Bar Graph
+
+1. **Choose Categories**: These are what you are comparing. For our fruit example, the categories are apples, bananas, and oranges.
+   
+2. **Collect Data**: You already did this step when you made the pictograph.
+   
+3. **Draw the Graph**:
+    - Make a title for your graph.
+    - Draw two lines perpendicular to each other. The horizontal line is the x-axis, and the vertical line is the y-axis.
+    - Write your categories (fruits) along the x-axis.
+    - Write numbers along the y-axis to show how many or how much. Make sure the numbers go up by the same amount, like by 1s, 2s, or 5s.
+    - Draw a bar above each category. The height of the bar shows how many friends chose that fruit.
+
+#### Example Exercise
+
+Make a bar graph with the same favorite fruit data we used before.
+
+**Favorite Fruit Bar Graph**
+
+         Number of Friends
+           ^
+           |     ____
+         4 |     |🍎|
+           |     |🍎|
+         3 |_____|🍎|____
+           |     |🍎|  |🍌|
+         2 |     |  |  |🍌|  ____
+           |     |  |  |🍌| |🍊|
+         1 |     |  |  |  | |🍊|
+           |_____|__|__|__|_|🍊|_______>
+                  Apples Bananas Oranges
+
+### Reading a Graph
+
+To read a graph, look at the title first to understand what information the graph is showing. Then look at the labels on the sides and bottom to see what they represent. If you are looking at a bar graph, check the height of the bars to find out how much or how many. If it's a pictograph, count the symbols.
+
+#### Practice Problems
+
+1. Using the pictograph above, which fruit is the most popular in the class?
+   - **Answer:** Apples are the most popular because they have the most symbols.
+
+2. How many more friends chose apples over bananas according to the bar graph?
+   - **Answer:** 1 more friend chose apples (4-3=1).
+
+3. If you wanted to add another fruit like grapes to the bar graph, how would you do it?
+   - **Answer:** You would ask your friends, collect the data on grapes, and then draw another bar above the "Grapes" category on the x-axis.
+
+Remember, graphs are a fun way to see what's happening with the numbers and compare different things. Keep practicing creating your own pictographs and bar graphs, and you'll be a data expert in no time!

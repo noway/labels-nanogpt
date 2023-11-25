@@ -1,0 +1,106 @@
+# Fun Math Puzzles and Activities
+
+Welcome to our "Fun Math Puzzles and Activities" section! This is a place where you can apply what you've learned in a fun and engaging way. These puzzles and activities will test your knowledge and help you review important math concepts. So, get your pencils ready, and let's dive into the fun!
+
+---
+
+## Activity 1: Number Riddles
+
+**Riddle 1**: I am an even number. When you divide me by 2, the answer is an odd number. What number am I?
+
+**Riddle 2**: I am a three-digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?
+
+**Riddle 3**: If you add me to myself and then multiply by 4, you get the number 48. What number am I?
+
+**Answers**:
+- **Riddle 1**: The number is 10. (10 / 2 = 5, which is odd)
+- **Riddle 2**: The number is 193. (Tens digit, 9; Ones digit, 4; Hundreds digit, 1)
+- **Riddle 3**: The number is 6. (6 + 6 = 12, 12 x 4 = 48)
+
+---
+
+## Activity 2: Magic Square
+
+Fill in the grid so that every row, column, and diagonal sums up to the magic number.
+
+```
+| 8  | __ | __ |
+| __ | 5  | __ |
+| __ | __ | 2  |
+```
+**Magic Number**: 15
+
+**Answer**:
+
+```
+| 8  | 1  | 6  |
+| 3  | 5  | 7  |
+| 4  | 9  | 2  |
+```
+
+---
+
+## Activity 3: Math Crossword
+Fill in the crossword with numbers that fit the clues below.
+
+Across:
+1. Double this number to get 14.
+2. The number of sides on a triangle.
+3. A prime number between 20 and 30.
+
+Down:
+A. The largest single-digit odd number.
+B. The product of 2 x 4.
+C. The square root of 36.
+
+**Answer**:
+
+```
+  1  2  3
+A 9  -  -
+B 8  -  5
+C 6  -  -
+```
+(A1: 9, B1: 8, C1: 6, 1Across: 7, 2Across: 3, 3Across: 23)
+
+---
+
+## Activity 4: Fraction Fun
+
+Cut out paper circles and color different fractions of each circle. Then label each fraction.
+
+Example:
+- Color one-half of a circle red and write 1/2.
+- Color one-third of another circle blue and write 1/3.
+
+**Answer**: This is a hands-on activity, so there's no fixed answer. Children will have different colored circles with fractions labeled, like half (1/2), one third (1/3), one quarter (1/4), etc.
+
+---
+
+## Activity 5: Math Scavenger Hunt
+
+For this activity, you'll need to find items that match the mathematical clues.
+
+1. Find something in the shape of a cylinder.
+2. Count the number of chairs and divide by the number of tables in a room.
+3. Measure the length of your desk in centimeters.
+
+**Answers**:
+- **Item 1**: A can or a mug is usually in a cylindrical shape.
+- **Item 2**: If there are 12 chairs and 3 tables, then 12 divided by 3 is 4 chairs per table.
+- **Item 3**: Answers will vary based on the actual desk used for measurement. 
+
+---
+
+## Activity 6: Pictorial Fractions
+
+Draw items and divide them into parts to represent fractions. Then write a sentence using that fraction.
+
+Example:
+- Draw a pizza and divide it into 4 equal parts. Shade in 3 parts. "Three-fourths of the pizza has been eaten."
+
+**Answer**: This is an illustrative task, so students create their own examples depicting different fractions such as 1/2, 3/4, 2/3, etc.
+
+---
+
+After you complete these activities, compare your answers with the ones provided and celebrate your accomplishments. The more you practice, the better you will get! Remember, math is not just about numbers; it’s about thinking creatively and having fun with the puzzles it presents!

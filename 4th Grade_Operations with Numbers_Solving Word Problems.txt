@@ -1,0 +1,79 @@
+# Operations with Numbers
+
+## Solving Word Problems
+
+Solving word problems is like being a detective. You need to figure out what the question is, identify what information you have, and then use the right operations to find the answer. To solve these math mysteries, we’re going to use addition, subtraction, multiplication, and division.
+
+### Step 1: Read the Problem Carefully
+The first step in solving any word problem is to read the problem very carefully. You should understand what is being asked.
+
+### Step 2: Find the Clues
+After reading the problem, identify all the important information given to you. Look for numbers, keywords, and what the problem is asking you to find out.
+
+### Step 3: Decide on the Operation
+Determine what operation you need to use to solve the problem. Ask yourself if you're putting things together (addition), taking things apart (subtraction), grouping items (multiplication), or sharing them evenly (division).
+
+### Step 4: Write Down the Equation
+Now it’s time to take the numbers you found and put them in an equation. An equation is a math sentence that shows how two things are equal.
+
+### Step 5: Solve the Equation
+Carefully calculate the answer using the right operation. This might involve multiple steps.
+
+### Step 6: Check Your Answer
+Always check your work to see if your answer makes sense in the context of the problem.
+
+### Example Exercises:
+
+#### Example 1: Addition
+**Problem:** Sofia has 15 apples. Her friend James gives her 9 more apples. How many apples does Sofia have now?
+
+**Solution Steps:**
+- Step 1: We read the problem.
+- Step 2: Sofia starts with 15 apples and gets 9 more.
+- Step 3: We are adding the apples together.
+- Step 4: The equation is 15 + 9.
+- Step 5: We solve the equation. 15 + 9 = 24.
+- Step 6: We check our answer. It makes sense that Sofia has more apples now.
+
+**Answer:** Sofia has 24 apples.
+
+#### Example 2: Subtraction
+**Problem:** There are 24 bananas in a basket. After the picnic, there are only 8 bananas left. How many bananas were eaten at the picnic?
+
+**Solution Steps:**
+- Step 1: Read the problem.
+- Step 2: There were originally 24 bananas, and then there were 8.
+- Step 3: We are finding the difference, so we use subtraction.
+- Step 4: The equation is 24 - 8.
+- Step 5: Solve the equation. 24 - 8 = 16.
+- Step 6: Check the answer. It makes sense that 16 bananas were eaten.
+
+**Answer:** 16 bananas were eaten at the picnic.
+
+#### Example 3: Multiplication
+**Problem:** A pack of stickers contains 8 stickers. How many stickers are there in 5 packs?
+
+**Solution Steps:**
+- Step 1: Read the problem.
+- Step 2: One pack has 8 stickers; there are 5 packs.
+- Step 3: We need to find out the total number of stickers, so we use multiplication.
+- Step 4: The equation is 8 x 5.
+- Step 5: Solve the equation. 8 x 5 = 40.
+- Step 6: Check the answer. If one pack has 8, it makes sense that 5 packs have 40.
+
+**Answer:** There are 40 stickers in 5 packs.
+
+#### Example 4: Division
+**Problem:** There are 32 students in the school choir. They are arranged equally in 4 rows. How many students are in each row?
+
+**Solution Steps:**
+- Step 1: Read the problem.
+- Step 2: We have 32 students and 4 rows.
+- Step 3: To find out how many students per row, we divide.
+- Step 4: The equation is 32 ÷ 4.
+- Step 5: Solve the equation. 32 ÷ 4 = 8.
+- Step 6: Check the answer. It makes sense that there are 8 students in each row.
+
+**Answer:** There are 8 students in each row.
+
+Practice these steps with more word problems to become an expert at solving them. Have fun, and remember to check your work!

@@ -1,0 +1,104 @@
+# Fractions Chapter
+
+## Comparing and Ordering Fractions
+
+### Understanding Fractions
+
+Before we start comparing and ordering fractions, remember that a fraction represents a part of a whole. It consists of a numerator (the top number), which tells us how many parts we have, and a denominator (the bottom number), which tells us how many equal parts the whole is divided into.
+
+### Comparing Fractions
+
+Comparing fractions means determining which fraction is greater or if the fractions are equal. Here are some steps and methods you can use to compare fractions:
+
+#### Method 1: Same Denominator
+
+When fractions have the same denominator, we can compare them by looking at their numerators. The larger the numerator, the larger the fraction.
+
+**Example:**
+- Compare 3/8 and 5/8.
+- Since the denominators are the same (8), we look at the numerators.
+- 5 is greater than 3, so 5/8 is greater than 3/8.
+
+#### Method 2: Same Numerator
+
+When fractions have the same numerator, the fraction with the smaller denominator is greater because it means each part is larger.
+
+**Example:**
+- Compare 4/5 and 4/9.
+- Since the numerators are the same (4), we look at the denominators.
+- 5 is less than 9, so 4/5 is greater than 4/9.
+
+#### Method 3: Different Numerators and Denominators
+
+When fractions have different numerators and denominators, you can either find a common denominator or convert the fractions to decimals.
+
+##### Finding a Common Denominator:
+
+1. Find the least common multiple (LCM) of the denominators.
+2. Convert each fraction to an equivalent fraction with the LCM as the new denominator.
+3. Compare the new numerators.
+
+**Example:**
+- Compare 2/3 and 3/4.
+- The LCM of 3 and 4 is 12.
+- Convert 2/3 to 8/12 (because 2 × 4 = 8) and 3/4 to 9/12 (because 3 × 3 = 9).
+- Compare 8/12 and 9/12. Since 9 is greater than 8, 3/4 is greater than 2/3.
+
+##### Converting to Decimals:
+
+1. Divide the numerator by the denominator to convert each fraction to a decimal.
+2. Compare the decimal values.
+
+**Example:**
+- Compare 1/2 and 2/5.
+- Convert 1/2 to 0.5 (because 1 ÷ 2 = 0.5) and 2/5 to 0.4 (because 2 ÷ 5 = 0.4).
+- Since 0.5 is greater than 0.4, 1/2 is greater than 2/5.
+
+### Ordering Fractions
+
+Ordering fractions means arranging them from least to greatest or greatest to least. Use the comparing methods from above to help you order a set of fractions.
+
+**Example:**
+- Order the fractions 3/4, 2/3, and 5/8 from least to greatest.
+- Find the LCM of the denominators 4, 3, and 8, which is 24.
+- Convert each fraction to an equivalent fraction with the new denominator:
+  - 3/4 = 18/24
+  - 2/3 = 16/24
+  - 5/8 = 15/24
+- Now, order them by their new numerators: 15/24, 16/24, and 18/24.
+- So, 5/8 is least, then 2/3, and 3/4 is the greatest.
+
+### Practice Exercises
+
+Now, let's practice comparing and ordering fractions.
+
+**Exercise 1:**
+Compare the following pairs of fractions without finding a common denominator.
+a) 5/7 and 4/7
+b) 6/10 and 6/15
+
+**Exercise 2:**
+Compare the following fractions by finding a common denominator.
+a) 7/8 and 5/6
+b) 1/3 and 2/7
+
+**Exercise 3:**
+Order the following sets of fractions from least to greatest.
+a) 2/5, 1/2, 3/4
+b) 5/6, 1/3, 2/3
+
+### Answers
+
+**Exercise 1:**
+a) 5/7 is greater than 4/7 because they share the same denominator.
+b) 6/10 is greater than 6/15 because they share the same numerator, and 10 is less than 15.
+
+**Exercise 2:**
+a) 7/8 and 5/6 have a common denominator of 24. Convert to 21/24 and 20/24. Therefore, 7/8 is greater than 5/6.
+b) 1/3 and 2/7 have a common denominator of 21. Convert to 7/21 and 6/21. Therefore, 1/3 is greater than 2/7.
+
+**Exercise 3:**
+a) Convert to common denominators: 2/5 = 10/25, 1/2 = 12/25, 3/4 = 18/25. Order: 2/5, 1/2, 3/4.
+b) Convert to common denominators: 5/6 = 15/18, 1/3 = 6/18, 2/3 = 12/18. Order: 1/3, 2/3, 5/6.
+
+Always remember, when comparing or ordering fractions, first look to see if they have the same numerators or denominators; if not, find common ground by either finding a common denominator or converting to decimals. Keep practicing, and soon you'll be a fraction comparing and ordering pro!

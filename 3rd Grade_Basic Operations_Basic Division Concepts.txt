@@ -1,0 +1,105 @@
+---
+
+# Basic Division Concepts
+
+Division is one of the four basic mathematical operations. It is the process of splitting a number into equal parts. Imagine you have a pizza and you want to share it fairly with your friends. If you cut the pizza into smaller pieces of the same size, you are dividing it!
+
+## What is Division?
+
+Division is finding out how many times one number is contained within another number. We call the number that is being divided the "dividend", the number that divides the dividend is called the "divisor", and the result we get from division is known as the "quotient".
+
+### Key Terms
+
+- **Dividend**: The number that is being divided.
+- **Divisor**: The number you are dividing by.
+- **Quotient**: The result of the division.
+- **Remainder**: Sometimes, the dividend does not split evenly by the divisor. The amount that is left over is called the remainder.
+
+## Example of Division
+
+Let's say we 12 cupcakes and 4 children at a party. We want to give each child the same number of cupcakes. To find out how many cupcakes each child gets, we divide:
+
+12 cupcakes ÷ 4 children = 3 cupcakes per child
+
+So, in this case:
+- Dividend: 12 (the total number of cupcakes)
+- Divisor: 4 (the total number of children)
+- Quotient: 3 (the number of cupcakes per child)
+
+## Division Symbol
+
+The division symbol is either a line with a dot above and below (÷), a slanted line (/), or the division bar in a fraction. For example, 12 divided by 4 could be written as 12 ÷ 4, 12/4, or 12 over 4 in fraction form.
+
+## Exercises
+
+Now let's try some division problems together. Don't worry if you get stuck; we'll go through each one step-by-step.
+
+### Exercise 1:
+
+8 ÷ 2 = ?
+
+Solution:
+
+Take 8 objects and put them into 2 equal groups. Each group has 4 objects.
+
+So, 8 ÷ 2 = 4
+
+### Exercise 2:
+
+15 ÷ 3 = ?
+
+Solution:
+
+Place 15 objects into 3 equal groups. Each group will have 5 objects.
+
+Therefore, 15 ÷ 3 = 5
+
+### Exercise 3:
+
+There are 18 apples that need to be packed into bags. If each bag can hold 6 apples, how many bags do we need?
+
+Solution:
+
+18 apples ÷ 6 apples per bag = 3 bags
+
+So we need 3 bags for the 18 apples.
+
+### Exercise 4:
+
+If a book has 24 pages and you read 4 pages every day, how many days will it take to finish the book?
+
+Solution:
+
+24 pages ÷ 4 pages per day = 6 days 
+
+It will take 6 days to finish the book.
+
+### Practice Problems
+
+1. 10 ÷ 2 = ?
+2. 20 ÷ 4 = ?
+3. 16 ÷ 8 = ?
+4. 9 ÷ 3 = ?
+5. 21 ÷ 7 = ?
+
+### Practice Problems Answers
+
+1. 10 ÷ 2 = 5
+2. 20 ÷ 4 = 5
+3. 16 ÷ 8 = 2
+4. 9 ÷ 3 = 3
+5. 21 ÷ 7 = 3
+
+Remember to check your answers by multiplying the quotient by the divisor. If the product equals the dividend, then you have the correct answer.
+
+## Remember
+
+- Division is sharing or grouping equally.
+- The number we divide is called the dividend.
+- The number we divide by is called the divisor.
+- The answer we get is called the quotient.
+- Sometimes division has a remainder when the numbers don't divide evenly.
+
+Division is an important math skill that you'll use all the time, so practice as much as you can!
+
+---

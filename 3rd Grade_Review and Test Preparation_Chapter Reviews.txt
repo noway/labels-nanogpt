@@ -1,0 +1,119 @@
+# Chapter Reviews
+
+## Chapter 1: Introduction to Numbers
+
+**Key Concepts:**
+- Counting 1 to 1000
+- Reading and writing numbers
+- Place value (ones, tens, hundreds)
+
+**Example Exercise:** Write the number 572 in words and expand it to show the value of each digit.
+
+**Answer:** The number 572 in words is "five hundred seventy-two." Expanded, it is 500 + 70 + 2.
+
+## Chapter 2: Addition Basics
+
+**Key Concepts:**
+- Single-digit addition
+- Double-digit addition without regrouping
+- Addition word problems
+
+**Example Exercise:** Add 35 + 27.
+
+**Answer:** \( 35 + 27 = 62 \)
+
+## Chapter 3: Subtraction Basics
+
+**Key Concepts:**
+- Single-digit subtraction
+- Double-digit subtraction without regrouping
+- Subtraction word problems
+
+**Example Exercise:** Subtract 43 from 89.
+
+**Answer:** \( 89 - 43 = 46 \)
+
+## Chapter 4: Working with Addition and Subtraction
+
+**Key Concepts:**
+- Addition with regrouping
+- Subtraction with regrouping
+- Fact families
+
+**Example Exercise:** Find the missing number: 67 + ___ = 125.
+
+**Answer:** The missing number is 58, because \( 67 + 58 = 125 \).
+
+## Chapter 5: Introduction to Multiplication
+
+**Key Concepts:**
+- Understanding multiplication as repeated addition
+- Multiplication tables up to 10
+- Multiplication word problems
+
+**Example Exercise:** Calculate 7 times 6.
+
+**Answer:** \( 7 \times 6 = 42 \)
+
+## Chapter 6: Introduction to Division
+
+**Key Concepts:**
+- Understanding division as repeated subtraction
+- Simple division facts up to 10
+- Division word problems
+
+**Example Exercise:** How many groups of 5 can you make with 25?
+
+**Answer:** You can make 5 groups, because \( 25 \div 5 = 5 \).
+
+## Chapter 7: Fractions
+
+**Key Concepts:**
+- Understanding halves, thirds, and fourths
+- Comparing fractions
+- Fraction word problems
+
+**Example Exercise:** Which is greater, ½ or ⅓?
+
+**Answer:** ½ is greater than ⅓.
+
+## Chapter 8: Time and Measurement
+
+**Key Concepts:**
+- Telling time to the nearest hour and half-hour
+- Using calendars
+- Basic units of measurement (length, weight, volume)
+
+**Example Exercise:** What time will it be 3 hours after 9:00 AM?
+
+**Answer:** It will be 12:00 PM (noon).
+
+## Chapter 9: Geometry and Shapes
+
+**Key Concepts:**
+- Names and properties of 2D shapes (e.g., squares, rectangles, circles)
+- Names and properties of 3D shapes (e.g., cubes, spheres, cones)
+- Creating and interpreting simple graphs
+
+**Example Exercise:** How many sides does a rectangle have?
+
+**Answer:** A rectangle has 4 sides.
+
+## Chapter 10: Money and Financial Literacy
+
+**Key Concepts:**
+- Identifying coins and their values
+- Simple addition and subtraction with money
+- Understanding the concept of saving
+
+**Example Exercise:** If you have 2 quarters, 1 dime, and 3 pennies, how much money do you have?
+
+**Answer:** You have 68 cents. (2 quarters = 50 cents, 1 dime = 10 cents, 3 pennies = 3 cents; 50 + 10 + 3 = 63 cents)
+
+## Review and Test Preparation
+
+To prepare for your math test, go through the key concepts in each chapter. Practice each type of problem, and when you feel ready, ask an adult to time you as you complete sample tests to simulate the time you will have during the actual test.
+
+Remember, doing well on your math test is about understanding the concepts and practicing the problems. Take your time, read each question carefully, and check your work before moving on to the next question.
+
+Good luck with your review, and happy studying!

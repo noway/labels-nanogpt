@@ -1,0 +1,73 @@
+## Applying Math in Everyday Life
+
+Mathematics is not just about numbers and equations—it's a tool that helps us understand and solve problems in everyday life. When we apply math to real-world situations, we’re using problem-solving and critical thinking skills to make decisions and find answers. Let’s look at some ways we use math every day!
+
+### Estimating Costs
+
+When you're planning to buy something, you need to estimate if you have enough money. Suppose you have $10 and want to buy some pencils and a notebook. If pencils cost $3 and the notebook costs $6, can you buy both?
+
+**Exercise 1**: Calculate the total cost of the pencils and the notebook.
+
+**Solution**: Pencils = $3, Notebook = $6, Total Cost = Pencils + Notebook = $3 + $6 = $9
+
+Since $9 is less than $10, you can afford to buy both and you'll even have $1 left!
+
+### Understanding Time
+
+Understanding time helps us manage our daily activities like getting to school on time or knowing when to do our homework.
+
+**Exercise 2**: If school starts at 8:00 AM and it takes you 15 minutes to walk to school, what time should you leave your house?
+
+**Solution**: Start Time - Travel Time = Leave House Time
+8:00 AM - 15 minutes = 7:45 AM
+
+You should leave your house by 7:45 AM to get to school on time.
+
+### Creating a Budget
+
+Creating a budget means planning how to spend your money wisely. If you get $50 for your birthday and you want to save some money for a new game, spend some on a day out with friends, and give some to charity, you need to divide your money.
+
+**Exercise 3**: If the game costs $20 and you want to donate $10 to charity, how much will you have left for a day out?
+
+**Solution**: Total Money - Game - Charity = Money for Day Out
+$50 - $20 - $10 = $20
+
+You would have $20 left for a day out with friends.
+
+### Cooking and Recipes
+
+When you're helping in the kitchen, you might need to use math to double a recipe or divide it in half.
+
+**Exercise 4**: If a recipe needs 2 eggs to make 12 cookies, how many eggs do you need to make 24 cookies?
+
+**Solution**: Number of Cookies New / Number of Cookies Original = Multiplying factor for Eggs
+24 / 12 = 2
+Eggs Needed = Eggs Original * Multiplying Factor
+Eggs Needed = 2 * 2 = 4
+
+You need 4 eggs to make 24 cookies.
+
+### Comparing
+
+When deciding which item is a better buy, you must compare the prices or quantities. This is often seen in grocery stores where prices are set per weight or volume.
+
+**Exercise 5**: If one box of cereal is 500g and costs $4, and another is 750g and costs $5, which is the better deal?
+
+**Solution**: First, find the price per gram for each.
+Price per gram of the first box = Cost / Weight
+= $4 / 500g = $0.008 per gram
+
+Price per gram of the second box = Cost / Weight
+= $5 / 750g = $0.0067 per gram
+
+Since the second box has a lower price per gram, it is the better deal.
+
+### Exercise Solutions
+
+1. **Total Cost**: $3 + $6 = $9. Yes, you can afford both items with $10.
+2. **Leave House By**: 7:45 AM
+3. **Money for Day Out**: $50 - $20 - $10 = $20 left.
+4. **Eggs Needed**: 4 eggs for 24 cookies.
+5. **Better Deal**: The 750g box of cereal for $5 is the better deal at about $0.0067 per gram.
+
+By practicing these exercises, you’ll find yourself using math without even realizing it. Math helps you to be independent, make smart financial choices, plan your time effectively, and understand how much you need when cooking. Remember, math isn't just about numbers; it's a necessary part of making all kinds of exciting decisions that affect your day-to-day life!

@@ -1,0 +1,102 @@
+# Geometry Chapter
+
+## Basic Shapes and Properties
+
+Geometry is the branch of mathematics that deals with shapes, sizes, and other properties of figures. In this section, we will explore the basic shapes and their properties that you often see around you every day. Let's dive in!
+
+### Circle
+
+A circle is a round shape with no corners or edges. It has one important measurement called the **radius**, which is the distance from the center of the circle to any point on the edge. The **diameter** is twice the radius and runs from one side of the circle to the other, passing through the center.
+
+**Properties:**
+- All points on the edge of a circle are equidistant from the center.
+- The distance around a circle is called the **circumference**.
+
+**Exercise 1:** If a circle has a radius of 4 cm, what is the diameter?
+
+**Answer 1:** Diameter = 2 * Radius = 2 * 4 cm = 8 cm.
+
+---
+
+### Square
+
+A square is a four-sided shape where all sides are of equal length, and every angle is a right angle (90 degrees).
+
+**Properties:**
+- All sides are equal.
+- Opposite sides are parallel.
+- All angles are right angles.
+
+**Exercise 2:** If one side of a square measures 5 inches, what is the perimeter?
+
+**Answer 2:** Perimeter of a square = 4 * side length = 4 * 5 inches = 20 inches.
+
+---
+
+### Rectangle
+
+A rectangle is similar to a square but with a couple of differences. It has four sides, and opposite sides are equal in length. The angles are still all right angles.
+
+**Properties:**
+- Opposite sides are equal and parallel.
+- All angles are right angles.
+- The perimeter is the sum of all sides, and the area is the width multiplied by the height.
+
+**Exercise 3:** If a rectangle has a length of 8 meters and width of 3 meters, what is the area?
+
+**Answer 3:** Area = length * width = 8 m * 3 m = 24 m².
+
+---
+
+### Triangle
+
+A triangle has three sides and three angles. The sum of all angles in a triangle is always 180 degrees. There are a few types of triangles, such as equilateral, isosceles, and scalene.
+
+**Properties:**
+- Equilateral Triangle: All sides and angles are equal.
+- Isosceles Triangle: Two sides and two angles are equal.
+- Scalene Triangle: All sides and angles are different.
+
+**Exercise 4:** If a triangle has angles of 50 degrees and 70 degrees, what is the measure of the third angle?
+
+**Answer 4:** Third angle = 180 degrees - (50 degrees + 70 degrees) = 60 degrees.
+
+---
+
+### Pentagon
+
+A pentagon is a five-sided polygon. The most regular pentagon has all sides and angles equal.
+
+**Properties:**
+- A regular pentagon has all sides equal and all internal angles equal to 108 degrees.
+
+**Exercise 5:** How many degrees are in the sum of all interior angles of a pentagon?
+
+**Answer 5:** Sum of interior angles = (5 - 2) * 180 degrees = 3 * 180 degrees = 540 degrees.
+
+---
+
+### Hexagon
+
+A hexagon is a six-sided polygon. In a regular hexagon, all sides and angles are equal.
+
+**Properties:**
+- A regular hexagon has all sides equal and all internal angles equal to 120 degrees.
+
+**Exercise 6:** If each side of a regular hexagon is 4 inches, what is the perimeter?
+
+**Answer 6:** Perimeter = number of sides * side length = 6 * 4 inches = 24 inches.
+
+---
+
+### 3D Shapes (Solids)
+
+In addition to 2D shapes, there are also 3D shapes, or solids, like cubes, spheres, and cylinders.
+
+- **Cube**: A cube has 6 equal square faces, 12 equal edges, and 8 vertices.
+- **Sphere**: A sphere is perfectly round, like a ball, with all points on the surface at an equal distance from the center.
+- **Cylinder**: A cylinder has two parallel circular bases connected by a curved surface at a right angle to the bases.
+
+Geometry is all around us in the shapes we see and the objects we use. Now, let's put your knowledge to work with these exercises. Remember, practice makes perfect!
+
+**Note to Students:** Always check your answers and ensure that you understand the process of how you arrived at them. If you're ever unsure about a problem, don't hesitate to ask your teacher or a classmate for help. Good luck, and have fun with geometry!

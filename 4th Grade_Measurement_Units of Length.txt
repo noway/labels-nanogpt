@@ -1,0 +1,125 @@
+# Measurement
+
+## Units of Length
+
+### Introduction
+
+Dear Fourth Graders,
+
+Today we're going to learn about the units we use to measure how long or short things are, which we call "length." Just like we use measuring cups for liquids when we cook and pounds or kilograms to weigh things, we also use special units for measuring length. In the United States, we use the customary units of inches, feet, yards, and miles, as well as the metric system units like millimeters, centimeters, meters, and kilometers. Let's explore both systems!
+
+### Customary Units of Length
+
+The most commonly used customary units for measuring length are:
+
+- **Inches (in)**
+- **Feet (ft)**
+- **Yards (yd)**
+- **Miles (mi)**
+
+1 foot is equal to 12 inches, 1 yard is equal to 3 feet, and 1 mile is equal to 5,280 feet or 1,760 yards.
+
+#### Example Problems:
+
+**1. How many inches are in 3 feet?**
+
+There are 12 inches in 1 foot, so in 3 feet there would be:
+3 feet × 12 inches/foot = 36 inches.
+
+**Answer:** 36 inches.
+
+**2. How many feet are in 2 yards?**
+
+1 yard is equal to 3 feet, so:
+2 yards × 3 feet/yard = 6 feet.
+
+**Answer:** 6 feet.
+
+**3. How many yards are in a mile?**
+
+1 mile is 1,760 yards. Therefore:
+1 mile = 1,760 yards.
+
+**Answer:** 1,760 yards.
+
+### Metric Units of Length
+
+The metric system is used around the world and is based on the meter. The most common metric units for measuring length are:
+
+- **Millimeters (mm)**
+- **Centimeters (cm)**
+- **Meters (m)**
+- **Kilometers (km)**
+
+There are 10 millimeters in a centimeter, 100 centimeters in a meter, and 1,000 meters in a kilometer.
+
+#### Example Problems:
+
+**4. How many millimeters are in 4 centimeters?**
+
+There are 10 millimeters in 1 centimeter, so:
+4 centimeters × 10 millimeters/centimeter = 40 millimeters.
+
+**Answer:** 40 millimeters.
+
+**5. Convert 250 centimeters to meters.**
+
+There are 100 centimeters in 1 meter, so:
+250 centimeters ÷ 100 centimeters/meter = 2.5 meters.
+
+**Answer:** 2.5 meters.
+
+**6. How many meters are in 0.5 kilometers?**
+
+There are 1,000 meters in 1 kilometer, so:
+0.5 kilometers × 1,000 meters/kilometer = 500 meters.
+
+**Answer:** 500 meters.
+
+### Practice Problems
+
+Try solving these problems on your own! Remember to write down your answers.
+
+**1. Convert 7 feet into inches.**
+
+**2. How many feet are there in 30 inches?**
+
+**3. If you have 3 yards, how many feet do you have?**
+
+**4. Convert 1500 meters into kilometers.**
+
+**5. How many centimeters are there in 3 meters?**
+
+**6. If you run 2 miles, how many yards have you run?**
+
+### Answers to Practice Problems
+
+**1.** 7 feet × 12 inches/foot = 84 inches.
+
+**Answer:** 84 inches.
+
+**2.** 30 inches ÷ 12 inches/foot = 2.5 feet.
+
+**Answer:** 2.5 feet.
+
+**3.** 3 yards × 3 feet/yard = 9 feet.
+
+**Answer:** 9 feet.
+
+**4.** 1500 meters ÷ 1,000 meters/kilometer = 1.5 kilometers.
+
+**Answer:** 1.5 kilometers.
+
+**5.** 3 meters × 100 centimeters/meter = 300 centimeters.
+
+**Answer:** 300 centimeters.
+
+**6.** 2 miles × 1,760 yards/mile = 3,520 yards.
+
+**Answer:** 3,520 yards.
+
+Great job exploring units of length! Keep practicing, and soon these conversions will feel like a breeze. Remember, measuring accurately is an important skill that can be used in many aspects of life. Keep up the good work!
+
+### Conclusion
+
+And that concludes our section on units of length. Understanding these concepts is very important—not just for math class, but also for everyday situations, such as cooking, building, or even just measuring how tall you've grown! Keep practicing, and don't forget to check your work with a classmate or your teacher._measurement.

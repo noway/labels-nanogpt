@@ -1,0 +1,42 @@
+# Fractions
+
+## Introduction to Fractions
+
+Welcome to the world of fractions! If you like sharing pizza or splitting a chocolate bar with a friend, you already know a little about fractions without even realizing it! In this chapter, we'll learn about what fractions are, how to write them, and how to understand them better. Let's dive into the delicious and fascinating world of fractions!
+
+### What Is a Fraction?
+
+A fraction tells us how many parts of a whole we have. It's written with two numbers and a line in between them. The top number is called the numerator and the bottom number is called the denominator.
+
+For example, the fraction 1/2 tells us we have one part out of two equal parts of a whole. If we cut a pizza into two equal pieces and take one, we have 1 out of 2 pieces, or 1/2 of the pizza.
+
+#### Numerator and Denominator
+
+- **Numerator:** This is the top number in a fraction. It shows how many parts of a whole you are talking about.
+- **Denominator:** This is the bottom number in a fraction. It shows into how many equal parts the whole is divided.
+
+### Types of Fractions
+
+- **Proper fractions:** These are fractions where the numerator is less than the denominator, like 1/3 or 3/4. This means you have less than a whole.
+- **Improper fractions:** These are fractions where the numerator is greater than or equal to the denominator, like 5/3 or 4/4. This means you have more than a whole or exactly one whole.
+- **Mixed numbers:** This is when you have a whole number and a fraction together, like 1 1/2. This means you have one whole plus half of another whole.
+
+### Example Exercises
+
+Let's try some exercises to understand fractions better:
+
+1. **Understanding Fractions:** Draw a circle and divide it into 4 equal parts. Shade in 3 of those parts. What fraction of the circle is shaded?
+
+2. **Writing Fractions:** If you have 5 apples and you share them by giving 2 to your friend, what fraction of the apples did your friend get? Write the answer as a fraction.
+
+3. **Finding Fractions:** There are 8 slices of pizza on the table. If your family eats 6 slices, what fraction of the pizza did they eat?
+
+### Answers to Example Exercises
+
+1. **Understanding Fractions:** The fraction of the circle that is shaded is 3 out of 4 parts, so we write it as 3/4. The numerator is 3 because there are 3 shaded parts, and the denominator is 4 because the circle is divided into 4 equal parts.
+
+2. **Writing Fractions:** Your friend got 2 apples out of 5, so the fraction is written as 2/5. The numerator is 2 because your friend got 2 apples, and the denominator is 5 because there were 5 apples in total.
+
+3. **Finding Fractions:** The family ate 6 out of the 8 slices of pizza, so they ate 6/8 of the pizza. We could also simplify this fraction to 3/4, because both the numerator and denominator can be divided by 2, which gives us 3/4.
+
+Remember that fractions are a way of showing parts of a whole, and once you get the hang of it, they can be lots of fun! As we explore more about fractions in this chapter, you'll learn how to add, subtract, multiply, and even divide them. Keep practicing, and soon you'll be a fractions expert!

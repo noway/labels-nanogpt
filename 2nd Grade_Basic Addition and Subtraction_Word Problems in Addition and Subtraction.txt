@@ -1,0 +1,87 @@
+## Word Problems in Addition and Subtraction
+
+Welcome to the exciting world of word problems in addition and subtraction! Word problems are stories that require you to use your math skills to find the answer. They help us understand how math is used in the real world.
+
+### Understanding Word Problems
+
+When solving word problems, we first read the problem carefully, then decide if we need to add or subtract to find the answer. We look for keywords, such as "total," "in all," or "together" for addition, and "left," "less," or "remove" for subtraction.
+
+Now, let's try some word problems!
+
+### Addition Word Problems
+
+#### Example 1:
+Emma has 3 red balloons and 2 blue balloons. How many balloons does Emma have in all?
+
+To solve this problem, we add the number of red balloons to the number of blue balloons.
+- Number of red balloons: 3
+- Number of blue balloons: 2
+
+**Solution:**
+3 red balloons + 2 blue balloons = 5 balloons
+
+**Emma has 5 balloons in all.**
+
+#### Practice Problems:
+
+1. There were 10 ducks in the pond and 4 more ducks joined them. How many ducks are there in the pond now?
+   
+**Answer:** 14 ducks
+
+2. Oliver had 7 marbles and his friend gave him 5 more. How many marbles does Oliver have now?
+
+**Answer:** 12 marbles
+
+### Subtraction Word Problems
+
+#### Example 2:
+Ben had 8 apples. He gave 3 apples to his sister. How many apples does Ben have left?
+
+To solve this problem, we subtract the number of apples Ben gave away from the number of apples he had.
+- Number of apples Ben had: 8
+- Number of apples given to sister: 3
+
+**Solution:**
+8 apples - 3 apples = 5 apples
+
+**Ben has 5 apples left.**
+
+#### Practice Problems:
+
+3. There were 12 cookies in the jar. Jenna ate 5 cookies. How many cookies are left in the jar?
+
+**Answer:** 7 cookies
+
+4. A farmer had 15 carrots and sold 6 at the market. How many carrots does the farmer have now?
+
+**Answer:** 9 carrots
+
+### Mixed Practice Problems
+
+Let's practice using both addition and subtraction in word problems.
+
+5. Lily picked 9 flowers and Emma picked 7 flowers from the garden. They put together all their flowers. How many flowers do they have in total? Later, they gave 4 flowers to their teacher. How many flowers do they have now?
+
+**Solution:**
+- Adding flowers: 9 flowers + 7 flowers = 16 flowers
+- Giving some away: 16 flowers - 4 flowers = 12 flowers
+
+**They have 16 flowers in total and 12 flowers left after giving some to their teacher.**
+
+6. Max had 13 balloons. During his walk, 5 balloons flew away. When he reached home, his mom gave him 6 more balloons. How many balloons does Max have now?
+
+**Solution:**
+- Lost balloons: 13 balloons - 5 balloons = 8 balloons
+- Received more balloons: 8 balloons + 6 balloons = 14 balloons
+
+**Max has 14 balloons now.**
+
+### Tips for Solving Word Problems:
+
+- Read the problem carefully.
+- Look for keywords indicating addition or subtraction.
+- Figure out what the problem is asking you to find.
+- Write down the numbers and operation needed to solve the problem.
+- Solve the problem step by step, and check your work.
+
+With practice, you'll get better at solving word problems. Remember, they are just stories with numbers. Have fun with them, and always try your best!

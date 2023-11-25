@@ -1,0 +1,120 @@
+---
+
+## Understanding Numbers
+
+### Counting 1 to 100
+
+Hello young mathematicians! Today we are going to embark on a numerical adventure, learning how to count from 1 all the way to 100. Counting is a very important skill that we use almost every day. It helps us know how many of something we have, it helps us keep track of time, and it's even the first step in doing all sorts of math problems!
+
+Let's start our journey by learning to count from 1 to 10. Ready? Count with me:
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+
+Great job! Now let's try counting all the way to 20. You'll notice it's just like counting to 10 but with a "1" in front of the number, starting from 11.
+
+11, 12, 13, 14, 15, 16, 17, 18, 19, 20.
+
+Can you tell that the numbers from 13 to 19 have a special pattern? They all end in "-teen!" That's how we know they are the numbers right after ten.
+
+Now, let's continue our count. Don't worry, we will go slowly and make sure we understand every step of the way.
+
+21, 22, 23, 24, 25, 26, 27, 28, 29, 30.
+
+Notice that "30" sounds a bit like "three-ten," which makes sense because it's ten more than twenty!
+
+Keep practicing, and you'll see that counting up to 100 is just repeating the pattern. To help you, we’ll look at the numbers in groups of ten. Shall we?
+
+31, 32, 33, 34, 35, 36, 37, 38, 39, 40.
+
+Now we're at "forty," which is like four sets of ten.
+
+Let’s continue:
+
+41, 42, 43, 44, 45, 46, 47, 48, 49, 50.
+
+Halfway there! When we reach "fifty," it's like five sets of ten!
+
+51, 52, 53, 54, 55, 56, 57, 58, 59, 60.
+
+And now we're at "sixty." We’re doing great!
+
+61, 62, 63, 64, 65, 66, 67, 68, 69, 70.
+
+"Seventy!" Good counting!
+
+71, 72, 73, 74, 75, 76, 77, 78, 79, 80.
+
+We're now at "eighty." Only two sets of tens to go!
+
+81, 82, 83, 84, 85, 86, 87, 88, 89, 90.
+
+"Ninety" is our last stop before we reach 100.
+
+91, 92, 93, 94, 95, 96, 97, 98, 99, 100!
+
+You made it to 100! That's like ten sets of ten. We call this a "hundred." Great work!
+
+### Exercise: Practice Counting!
+
+1. Fill in the missing numbers to complete the counting sequence:
+
+    a. 1, 2, 3, \_\_, 5, 6
+
+    b. \_\_, 8, 9, 10, 11, \_\_
+
+    c. 29, 30, \_\_, \_\_, 33, 34
+
+    d. 49, \_\_, 51, 52, \_\_, 54
+
+    e. 90, 91, \_\_, 93, \_\_, 95
+
+
+2. Circle the correct number that comes next:
+
+    a. 15, 16, 17, (18 / 19 / 20)
+
+    b. 27, 28, \_\_ (29 / 30 / 31)
+
+    c. 37, 38, 39, (40 / 41 / 42)
+
+3. Count by tens! Write the next two numbers in the sequence:
+
+    a. 10, 20, 30, \_\_, \_\_
+
+    b. 40, 50, 60, \_\_, \_\_
+
+    c. 70, 80, 90, \_\_, \_\_
+
+### Answers:
+
+1. Fill in the missing numbers.
+
+    a. 1, 2, 3, **4**, 5, 6
+
+    b. **7**, 8, 9, 10, 11, **12**
+
+    c. 29, 30, **31**, **32**, 33, 34
+
+    d. 49, **50**, 51, 52, **53**, 54
+
+    e. 90, 91, **92**, 93, **94**, 95
+
+2. Circle the correct number that comes next:
+
+    a. **18**
+
+    b. **29**
+
+    c. **40**
+
+3. Count by tens! Write the next two numbers in the sequence:
+
+    a. 10, 20, 30, **40**, **50**
+
+    b. 40, 50, 60, **70**, **80**
+
+    c. 70, 80, 90, **100**, **110** (Note: We went past 100 here just for practice!)
+
+Keep practicing, and soon you'll be able to count to 100 quickly and easily!
+
+---

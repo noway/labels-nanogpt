@@ -1,0 +1,88 @@
+---
+**Introduction to Subtraction**
+
+### Welcome, young mathematicians!
+
+In this wonderful journey through numbers, you've learned all about counting and adding. Now, it's time to dive into another exciting aspect of math: **subtraction**. Subtraction is the process of taking away numbers from a group to see how many you have left.
+
+Let's imagine you have a basket of apples: 🍎🍎🍎🍎. If you eat one apple, how many apples do you have now? To find out, we use subtraction!
+
+### What is Subtraction?
+
+Subtraction is when you take away something from a group or a number. The symbol for subtraction is a little dash (-). We call it the "minus" sign.
+
+For subtraction, we often use words like "minus," "less," "take away," "fewer," and "subtract."
+
+Let’s look at the parts of a subtraction sentence:
+
+- The first number is called the **minuend**.
+- The number we are taking away is called the **subtrahend**.
+- The answer we get in subtraction is called the **difference**.
+
+It looks like this:
+
+**Minuend** - **Subtrahend** = **Difference**
+
+### Example Exercises
+
+**Example 1:**  
+If you have 5 toy cars 🚗🚗🚗🚗🚗 and you give 2 away, how many do you have left?
+
+Let's subtract to find out.  
+**5 toy cars - 2 toy cars = ?**
+
+Start with 5 cars:
+🚗🚗🚗🚗🚗
+
+Take 2 cars away:
+🚗🚗
+
+You have 3 cars left:
+🚗🚗🚗
+
+So, **5 - 2 = 3**.  
+*Answer: You have 3 toy cars left.*
+
+**Example 2:**  
+There are 10 cookies 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪 on the plate, and you eat 3. How many cookies are on the plate now?
+
+Let's subtract the 3 cookies you've eaten.  
+**10 cookies - 3 cookies = ?**
+
+Start with 10 cookies:  
+🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪
+
+Eat 3 cookies:  
+🍪🍪🍪
+
+You have 7 cookies left on the plate:  
+🍪🍪🍪🍪🍪🍪🍪
+
+So, **10 - 3 = 7**.  
+*Answer: There are 7 cookies left on the plate.*
+
+### Try These Exercises
+
+Now, it's your turn to try some subtraction!
+
+1. You have 4 balloons 🎈🎈🎈🎈, and 1 balloon floats away. How many are left?
+   **4 - 1 = ?**
+   *Answer: 3 balloons*
+
+2. There are 7 ducks 🦆🦆🦆🦆🦆🦆🦆 in a pond, and 2 swim away. How many ducks are in the pond now?
+   **7 - 2 = ?**
+   *Answer: 5 ducks*
+
+3. You are holding 6 candies 🍬🍬🍬🍬🍬🍬, and you give 3 to your friend. How many candies do you have now?
+   **6 - 3 = ?**
+   *Answer: 3 candies*
+
+4. There are 9 flowers 🌼🌼🌼🌼🌼🌼🌼🌼🌼 in a vase, and you take 4 out to give to a friend. How many flowers are left in the vase?
+   **9 - 4 = ?**
+   *Answer: 5 flowers*
+
+### What's Next?
+
+Great job on starting to learn subtraction! Did you notice a pattern in the answers? As we subtract, numbers get smaller. That’s subtraction in action!
+
+As you get more comfortable with taking numbers away, you can start subtracting larger numbers and even try problems without using pictures. Keep practicing, and soon you'll be speeding through all sorts of subtraction problems!

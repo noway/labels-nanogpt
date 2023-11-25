@@ -1,0 +1,78 @@
+## Geometry: Symmetry and Transformations
+
+### Section Overview
+
+In this section, we will explore the concepts of symmetry and transformations, which will help us to understand how shapes can be moved or changed while still preserving their properties. 
+
+### What is Symmetry?
+
+Symmetry is when a shape looks the same after a flip, slide, or turn. A shape is symmetric if you can draw a line through it and each side is a mirror image of the other.
+
+#### Types of Symmetry
+
+1. **Reflective Symmetry** - A shape has reflective symmetry if one half of the shape is a mirror image of the other half. The line that you can draw to show this is called the line of symmetry.
+
+2. **Rotational Symmetry** - A shape has rotational symmetry if it can be rotated (less than one full turn) about a central point and still look the same.
+
+### Transformations
+
+A transformation changes a shape in size, position, or orientation. There are four main types of transformations:
+
+1. **Translation (Slide)** - A shape moves from one place to another without rotating or flipping.
+2. **Reflection (Flip)** - A shape flips over a line and creates a mirror image.
+3. **Rotation (Turn)** - A shape turns around a fixed point.
+4. **Dilation (Resize)** - A shape expands or contracts while keeping the same center and the same shape.
+
+### Exercises
+
+#### Exercise 1: Identifying Lines of Symmetry
+
+Look at each shape and determine how many lines of symmetry they have. Draw the lines of symmetry.
+
+1. Square
+2. Rectangle
+3. Circle
+4. Equilateral Triangle
+5. Butterfly (as a symmetric figure)
+
+#### Answers for Exercise 1:
+
+1. Square - 4 lines of symmetry (vertical, horizontal, and two diagonals)
+2. Rectangle - 2 lines of symmetry (vertical and horizontal)
+3. Circle - Infinite lines of symmetry, since you can draw a line through the center at any angle and it will still divide the circle into two equal halves.
+4. Equilateral Triangle - 3 lines of symmetry (each line drawn from a vertex to the midpoint of the opposite side)
+5. Butterfly - Usually, 1 line of symmetry (down the middle of its body)
+
+#### Exercise 2: Reflective Symmetry
+
+Draw the other half of each shape to make it have a line of symmetry.
+
+1. Draw a triangle with one half presented.
+2. Draw the other half of an incomplete heart shape.
+3. Complete the other side of a star with only one side shown.
+
+#### Answers for Exercise 2:
+
+1. The triangle should be completed to look like an isosceles triangle with the line of symmetry drawn vertically down the middle.
+2. The heart should be completed to look like a perfect heart with the line of symmetry down the middle.
+3. The star should be drawn with the other half mirroring the side given, with the line of symmetry going through one of its points and the opposite gap between points.
+
+#### Exercise 3: Performing Transformations
+
+Draw the following shapes after the transformations:
+
+1. Translate square "A" 2 units to the right and 3 units up.
+2. Reflect triangle "B" over the vertical axis.
+3. Rotate pentagon "C" 90 degrees clockwise around its center.
+4. Dilate circle "D" to twice its size.
+
+#### Answers for Exercise 3:
+
+1. Square "A" should be shown 2 squares to the right and 3 squares up from the original position.
+2. Triangle "B" should appear as a flipped version over the vertical line drawn on the original triangle's side.
+3. Pentagon "C" should look like it has turned a quarter way around a point in its center.
+4. Circle "D" will be drawn with the same center but with a radius twice as long as the original.
+
+### Conclusion of the Section
+
+Symmetry and transformations are essential in understanding how shapes relate to each other and their spaces. Identifying symmetry helps us appreciate patterns, while understanding transformations allows us to visualize movements and changes in figures. Practice these concepts to see how shapes can change and yet remain the same in many ways.

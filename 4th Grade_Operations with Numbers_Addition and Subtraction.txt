@@ -1,0 +1,72 @@
+# Chapter: Operations with Numbers
+
+## Section: Addition and Subtraction
+
+Welcome to the "Addition and Subtraction" section! Here, we're going to master how to put numbers together and take them apart. Get ready to become an addition and subtraction wizard!
+
+### What is Addition?
+
+Addition is the process of combining two or more numbers to make a new number. When we add, we increase in amount. The numbers we are adding are called "addends," and the result we get is called the "sum."
+
+For example:
+2 + 3 = 5
+
+Here, 2 and 3 are the addends, and 5 is the sum.
+
+### What is Subtraction?
+
+Subtraction is the process of taking one number away from another. When we subtract, we decrease in amount. The number we are taking away from is called the "minuend," the number we are taking away is called the "subtrahend," and the result we get is called the "difference."
+
+For example:
+7 - 4 = 3
+
+Here, 7 is the minuend, 4 is the subtrahend, and 3 is the difference.
+
+### Properties of Addition:
+
+- **Commutative Property**: It doesn't matter what order we add the numbers. The sum will always be the same. For example, 4 + 5 = 5 + 4.
+- **Associative Property**: When we add more than two numbers, it doesn't matter how we group them. The sum will be the same. For example, (2 + 3) + 4 = 2 + (3 + 4).
+- **Identity Property**: When we add 0 to any number, the number doesn't change. The number stays the same, which means 0 is the "identity" for addition. For example, 6 + 0 = 6.
+
+### Properties of Subtraction:
+
+- Subtraction is not commutative. For example, 5 - 3 does not equal 3 - 5.
+- Subtraction is not associative. For example, (10 - 5) - 2 does not equal 10 - (5 - 2).
+
+### Let's Practice!
+
+#### Addition Exercises:
+
+1. What is 6 + 9?
+2. Add 15 + 7.
+3. If you have 3 apples and you get 4 more, how many apples do you have now?
+4. Cameron has 21 stickers, and Jamie gives him 10 more. How many stickers does Cameron have in total?
+5. Solve the following: (8 + 12) + 7
+
+#### Subtraction Exercises:
+
+1. Take away 6 from 14.
+2. If Emma has 13 candies and eats 5, how many candies does she have left?
+3. There were 20 birds in a tree. 8 flew away. How many are left in the tree?
+4. Subtract 9 from 27.
+5. Solve the following: 50 - (12 - 7)
+
+### Answers:
+
+#### Addition Exercises:
+
+1. 6 + 9 = 15
+2. 15 + 7 = 22
+3. 3 apples + 4 apples = 7 apples
+4. 21 stickers + 10 stickers = 31 stickers
+5. (8 + 12) + 7 = 20 + 7 = 27
+
+#### Subtraction Exercises:
+
+1. 14 - 6 = 8
+2. 13 candies - 5 candies = 8 candies
+3. 20 birds - 8 birds = 12 birds
+4. 27 - 9 = 18
+5. 50 - (12 - 7) = 50 - 5 = 45
+
+Remember, practice makes perfect! Keep doing exercises like these and you'll be an expert at addition and subtraction in no time. Happy calculating!

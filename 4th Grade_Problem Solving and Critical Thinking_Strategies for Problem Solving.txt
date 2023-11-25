@@ -1,0 +1,102 @@
+# Strategies for Problem Solving
+
+## Understanding Problem Solving
+
+Problem solving is an essential skill, not just in math, but in all aspects of life. To be a good problem solver, you must be able to understand a problem, think critically about it, and then devise and implement a solution.
+
+## Steps to Problem Solving
+
+When faced with a math problem, it's helpful to follow these general steps:
+
+1. **Read and Understand the Problem**: What is the question asking? Are there any words or phrases you don’t understand? Make sure you know what the problem wants you to find out.
+  
+2. **Devise a Plan**: Think about strategies you can use to solve the problem. This can be drawing a picture, looking for a pattern, making a table, or breaking the problem into smaller parts.
+
+3. **Carry Out the Plan**: Put your plan into action carefully and make sure you follow each step you’ve thought of.
+
+4. **Review/Check your Work**: Once you reach a solution, go back and see if your answer makes sense with the original problem. Make sure you didn't make any calculation errors.
+
+## Problem Solving Strategies
+
+Let's discuss a few strategies that can help with solving math problems:
+
+### 1. Drawing a picture or diagram
+
+Sometimes it is helpful to visualize a problem. Drawing pictures or diagrams can help you see the parts of the problem clearly.
+
+**Example Exercise**: Emma has 3 red marbles, 4 green marbles, and 5 blue marbles. She wants to know how many total marbles she has. 
+
+**Solution**: Draw 3 red circles, 4 green circles, and 5 blue circles. Count them to find the total number of marbles.
+
+**Answer**: 
+3 red marbles 
++ 4 green marbles 
++ 5 blue marbles 
+= 12 marbles total
+
+### 2. Look for patterns
+
+Sometimes problems follow a pattern or a sequence. If you can figure out the pattern, solving the problem becomes easier.
+
+**Example Exercise**: Alex gets 2 stickers from his teacher every day for doing his homework. How many stickers will he have at the end of 5 days?
+
+**Solution**: To solve this, notice that every day the number of stickers increases by 2. We can call the days Day 1, Day 2, Day 3, Day 4, and Day 5. On Day 1, he has 2 stickers, on Day 2, he has 2 more stickers which makes 4, and so on. 
+
+**Day 1**: 2 stickers
+**Day 2**: 4 stickers (2 + 2)
+**Day 3**: 6 stickers (2 + 2 + 2)
+**Day 4**: 8 stickers (2 + 2 + 2 + 2)
+**Day 5**: 10 stickers (2 + 2 + 2 + 2 + 2)
+
+**Answer**: Alex will have 10 stickers at the end of 5 days.
+
+### 3. Make a list or table
+
+Use a list or a table to organize information, especially when dealing with multiple pieces of data.
+
+**Example Exercise**: There are 3 types of fruit in a basket: apples, bananas, and oranges. There are 4 apples, 6 bananas, and 2 oranges. How many pieces of fruit are there in total?
+
+| Type of Fruit | Quantity |
+|---------------|----------|
+| Apples        | 4        |
+| Bananas       | 6        |
+| Oranges       | 2        |
+
+**Solution**: Add the number of apples, bananas, and oranges.
+
+**Answer**: 
+4 apples 
++ 6 bananas 
++ 2 oranges 
+= 12 pieces of fruit
+
+### 4. Work Backwards
+
+Starting with the end of the problem and working towards the beginning can be helpful in certain situations, especially in reverse problems or when the final result is given.
+
+**Example Exercise**: Mia has some stickers. After giving 5 stickers to her friend, she has 12 stickers left. How many stickers did she have at first?
+
+**Solution**: Since Mia ends with 12 stickers after giving away 5, we work backwards by adding those 5 back to the 12 to find the original number.
+
+**Answer**: 
+12 stickers left 
++ 5 stickers given away
+= 17 stickers Mia originally had
+
+### 5. Guess and Check
+
+If you're unsure about how to solve a problem, try guessing and checking different solutions. Adjust your guess based on whether it is too high or too low.
+
+**Example Exercise**: A number added to 4 is 10. What is the number?
+
+**Solution**: Guess a number, add 4 to it, and see if it equals 10. If the answer is too high or too low, adjust your guess accordingly.
+
+First guess: 5 
+5 + 4 = 9 (too low)
+
+Second guess: 6
+6 + 4 = 10 (just right)
+
+**Answer**: The number is 6.
+
+Remember, it's important to be patient and persistent when solving problems. Use these strategies as a guide, but don't be afraid to try other methods that might help you find the solution. Happy problem solving!

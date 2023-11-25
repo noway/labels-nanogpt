@@ -1,0 +1,94 @@
+## Chapter: Decimals
+
+### Section: Adding and Subtracting Decimals
+
+Welcome, fourth graders, to the exciting world of decimals! Decimals are like the superheroes of the number world, as they help us describe values that are not whole numbers. They can represent amounts smaller than one, like slices of pizza or parts of a dollar. In this section, we will learn how to add and subtract decimals, key skills that you will use often in math and in real life!
+
+#### Understanding Decimals:
+
+Before we start adding and subtracting decimals, let's ensure we understand what they are. A decimal number has a whole number part and a fractional part, separated by a decimal point. For example, in the decimal 3.5, the number 3 is the whole number part, and 5 is the fractional part, which is actually saying 5 tenths (or 5/10).
+
+#### Adding Decimals:
+
+When adding decimals, the most important thing to remember is to line up the decimal points. This ensures you are adding numbers in the correct place value.
+
+##### Steps to Add Decimals:
+
+1. Write the numbers one below the other with their decimal points lined up.
+2. If one number has fewer digits, add zeros to the end of the number until they have the same number of decimal places.
+3. Start adding from the rightmost digit and move leftward, just like you add whole numbers.
+4. Place the decimal point in the answer directly below the other decimal points.
+
+##### Example 1: Adding Simple Decimals
+
+    2.3   (2 ones and 3 tenths)
+  + 4.5   (4 ones and 5 tenths)
+  _____
+    6.8   (6 ones and 8 tenths)
+
+##### Example 2: Adding Decimals with Different Number of Places
+
+    0.75   (7 tenths and 5 hundredths)
+  + 2.6    (2 ones and 6 tenths)
+  _____
+  + 2.60   (Converted 2.6 to 2.60 for ease of addition)
+    3.35  (3 ones, 3 tenths, and 5 hundredths)
+
+#### Subtracting Decimals:
+
+Subtracting decimals is similar to adding decimals; the key is to line up the decimal points.
+
+##### Steps to Subtract Decimals:
+
+1. Write the numbers with the decimal points aligned vertically.
+2. If the numbers have a different number of decimal places, add zeros to the end of the shorter number.
+3. Subtract the numbers as you would with whole numbers, starting from the rightmost digit.
+4. Place the decimal point in the answer directly below the other decimal points.
+
+##### Example 1: Subtracting Simple Decimals
+
+    5.7   (5 ones and 7 tenths)
+  - 2.3   (2 ones and 3 tenths)
+  _____
+    3.4   (3 ones and 4 tenths)
+
+##### Example 2: Subtracting Decimals with Different Number of Places
+
+    4.52   (4 ones, 5 tenths, and 2 hundredths)
+  - 1.3    (1 one and 3 tenths)
+  _____
+  - 1.30   (Converted 1.3 to 1.30)
+    3.22   (3 ones, 2 tenths, and 2 hundredths)
+
+### Practice Problems:
+
+Let's practice adding and subtracting decimals. Remember to line up your decimal points!
+
+1. `7.32 + 1.5 = `
+2. `2.75 + 0.85 = `
+3. `4.6 - 1.28 = `
+4. `9.0 - 3.47= `
+5. `12.34 + 6.006= `
+6. `8.2 - 0.59 = `
+
+#### Solutions to Practice Problems:
+
+1. `7.32 + 1.50 = `
+    `8.82`
+
+2. `2.75 + 0.85 = `
+    `3.60`
+
+3. `4.60 - 1.28 = `
+    `3.32`
+
+4. `9.00 - 3.47 = `
+    `5.53`
+
+5. `12.340 + 6.006 = `
+   `18.346`
+
+6. `8.20 - 0.59 = `
+    `7.61`
+
+Great job! Now, you know how to add and subtract decimals! Continue to practice these skills, and you'll become faster and more accurate. Remember, the more you practice, the easier it becomes. Don't forget to check your work by redoing the problems and comparing answers. Keep up the good work, and you'll be a decimal champion in no time!

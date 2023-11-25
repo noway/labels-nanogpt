@@ -1,0 +1,83 @@
+# Measurement Chapter - Time and Calendar
+
+## Understanding Time 
+
+Time is how we measure moments. We can measure time in seconds, minutes, hours, days, weeks, months, and years. A second is very short, while a year is quite long. Here's how they are related:
+- 60 seconds make a minute.
+- 60 minutes make an hour.
+- 24 hours make a day.
+- 7 days make a week.
+- About 30 days make a month (some months have 28, 29, or 31 days).
+- 12 months make a year.
+
+**Clocks and Watches**
+Clocks and watches help us keep track of time. A traditional clock has three hands:
+- The **hour hand** is shorter and shows the hour.
+- The **minute hand** is longer and shows the minute.
+- Some clocks also have a **second hand** that moves quickly to measure seconds.
+
+**AM and PM**
+- AM stands for 'ante meridiem,' which is Latin for 'before midday.' We use AM to talk about times from midnight (12:00 AM) to just before noon (11:59 AM).
+- PM stands for 'post meridiem,' which is Latin for 'after midday.' We use PM for times from noon (12:00 PM) to just before midnight (11:59 PM).
+
+### Exercise 1: Reading Time
+1. What time is it when the hour hand is on 5 and the minute hand is on 12? **Answer: 5:00**
+2. If the minute hand is on 6 and the hour hand is halfway between 10 and 11, what is the time? **Answer: 10:30**
+3. Draw a clock showing 3:15.
+**Example Answer**: Draw a clock face, put the hour hand pointing to 3, and the minute hand pointing to 3 (which represents 15 minutes).
+
+## Understanding the Calendar
+
+The calendar helps us know the date and plan for events. It is divided into 12 months. Each month has a different number of days. Here's a little rhyme to help you remember how many days are in each month:
+
+**Thirty days has September,
+April, June, and November.
+All the rest have thirty-one,
+Except February alone,
+Which has twenty-eight days clear,
+And twenty-nine in each leap year.**
+
+### Leap Year
+Every 4 years, February has 29 days instead of 28. This year is called a leap year. It helps our calendar stay in sync with the Earth's orbit around the Sun.
+
+**Weeks**
+Each week has 7 days. They are: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday.
+
+### Exercise 2: Using the Calendar
+
+1. If today is Tuesday, what day will it be in 5 days? **Answer: Sunday**
+2. What is the date 2 weeks after May 5? **Answer: May 19** (assuming no leap year complications)
+
+## Planning with the Calendar
+
+We use the calendar to plan for the future. When we know the current date, we can count forward to find out when something will happen.
+
+### Exercise 3: Planning Ahead
+
+1. Your friend's birthday party is in 3 weeks and today is June 1st. On what date is the party? **Answer: June 22nd**.
+2. If a library book is due in 30 days and today is September 15th, by which date should you return it? **Answer: October 15th**.
+
+## Seasons and Holidays
+
+There are four seasons in a year: spring, summer, fall (or autumn), and winter. Different parts of the world have different seasons at different times, and some holidays are based on these seasons.
+
+### Exercise 4: Matching Seasons with Holidays
+
+Match the holiday with the correct season it falls in:
+1. Independence Day (July 4th)
+2. Halloween (October 31st)
+3. Christmas (December 25th)
+**Answer:** 1. Summer, 2. Fall, 3. Winter
+
+## Duration
+
+Duration is the length of time something lasts. For example, school might last 6 hours every day.
+
+### Exercise 5: Calculating Duration
+
+1. A movie starts at 2 PM and ends at 4:30 PM. How long is the movie? **Answer: 2 hours 30 minutes**
+2. You read a book from 6:15 PM to 7:45 PM. How much time did you spend reading? **Answer: 1 hour 30 minutes**
+
+**Remember:** To find duration, you can subtract the start time from the end time. If you start with minutes, remember to subtract those first, then subtract the hours.
+
+Through these exercises and information, you can learn a lot about time and calendars. Practice makes perfect, and soon you will be excellent at understanding and using these concepts in your daily life!

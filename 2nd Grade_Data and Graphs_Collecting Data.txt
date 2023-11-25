@@ -1,0 +1,86 @@
+---
+**Chapter: Data and Graphs**
+
+**Section: Collecting Data**
+
+Welcome, young mathematicians! Data is all around us in the world. It's information that we gather and use to learn about different things. Collecting data means to gather information about a certain topic or question that interests you. We can collect data on all sorts of things, like the number of apples on different apple trees or the colors of cars in a parking lot.
+
+When we collect data, it's important to be a good observer and to record what we see accurately. Let’s explore how we can collect data and use it in fun ways!
+
+**Why Collect Data?**
+
+Imagine you want to find out which playground activity is the most popular among your friends. How can you figure this out? By collecting data! You could ask each friend what their favorite playground activity is and write down their answers. This information will help you to understand what your friends like to do the most.
+
+**How to Collect Data**
+
+To collect data, follow these simple steps:
+1. Decide what question you want to answer with your data.
+2. Think about what kind of information would help answer your question.
+3. Choose how to collect that information (like asking people, observing, or measuring).
+4. Write down the information carefully.
+
+Now it is time for us to practice collecting data. We’ll do a few example exercises together.
+
+**Example Exercise 1:**
+Question: What is the favorite fruit of the students in our class?
+
+*Step 1:* Choose the question we want to answer. (We have already decided on the question above.)
+
+*Step 2:* Think about the kind of information that would help us answer this question. (We need to know each student’s favorite fruit.)
+
+*Step 3:* Decide how to collect this information. (We will ask each student about their favorite fruit and make a list.)
+
+*Step 4:* Collect your data.
+
+Let's say we asked each of the 10 students in our class and this is what we found:
+
+- 3 students said apples
+- 2 students said bananas
+- 4 students said strawberries
+- 1 student said grapes
+
+Now we can clearly see that strawberries are the most popular fruit!
+
+**Exercise for you:**
+
+Now that you've seen how it's done, it's your turn! With a grown-up or teacher's help, collect data to find out the favorite color of the students in your class. 
+
+*Step 1:* Decide on your question. (What is the favorite color of each student in our class?)
+
+*Step 2 to 4:* Follow the steps to collect your data. (Ask your classmates, make a list of their answers, and count how many chose each color.)
+
+**Record Your Data:**
+
+Here’s a table where you can record the colors that your classmates tell you are their favorites.
+
+| Favorite Color | Number of Students |
+|----------------|--------------------|
+| Red            |                    |
+| Blue           |                    |
+| Green          |                    |
+| Yellow         |                    |
+
+And so on... (Add more rows as needed for different colors.)
+
+**Analyzing Your Data:**
+
+After you have finished collecting your data and filling in the table above, you can use it to find interesting information like which color was chosen most or least.
+
+**Example Answer:**
+
+*After collecting data, you might have a table that looks like this:*
+
+| Favorite Color | Number of Students |
+|----------------|--------------------|
+| Red            |        5           |
+| Blue           |        8           |
+| Green          |        4           |
+| Yellow         |        3           |
+
+After gathering and analyzing your data, you find that blue is the most popular color among your classmates, followed by red, green, and then yellow.
+
+Great job! You've now learned how to collect and record data! Soon we will learn how to show this data in a graph, which can help us see the information even more clearly. But before we move on, practice collecting data a few more times. The more you practice, the better you'll get at being a data detective!
+
+--- 
+
+Note: Make sure that in a classroom setting, exercises like these are inclusive and respect the diversity of student opinions and privacy. Always have the teacher's assistance when conducting activities.

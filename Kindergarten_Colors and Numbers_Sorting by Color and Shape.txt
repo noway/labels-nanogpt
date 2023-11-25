@@ -1,0 +1,119 @@
+## Colors and Numbers
+
+### Sorting by Color and Shape
+
+Hello, little learners! Today, we're going to play with colors and shapes, and we will learn how to sort them too. When we sort things, we group them by their type so that they are with similar things. It's like putting all your toy cars in one place and all your dolls in another.
+
+#### Sorting by Color
+
+**Colors** are all around us! Look at these fun objects:
+
+- A red apple
+- A yellow banana
+- A blue ball
+- A green leaf
+
+Sorting by color is easy! Just put the same colors together. Let's give it a try:
+
+**Exercise 1:** Can you group these objects by color?
+
+- Two red flowers
+- One blue car
+- Three green frogs
+- One red ball
+
+**Answer 1:** 
+
+- Red group: Two red flowers, One red ball
+- Blue group: One blue car
+- Green group: Three green frogs
+
+You grouped them by color. Great job!
+
+#### Sorting by Shape
+
+Shapes have different numbers of sides and look different from each other. Here are some common shapes:
+
+- Circle (like the sun)
+- Square (like a checkerboard)
+- Triangle (like a piece of pizza)
+- Rectangle (like a door)
+
+**Exercise 2:** Look at these shapes and sort them into groups:
+
+- Three circles
+- Two squares
+- One triangle
+- Four circles
+- Three triangles
+
+**Answer 2:**
+
+- Circle group: Three circles, Four circles
+- Square group: Two squares
+- Triangle group: One triangle, Three triangles
+
+You sorted them all by shape! Wonderful work!
+
+#### Sorting by Color and Shape Together
+
+Now let's take it one step further. What if we have objects that are different colors AND shapes? Let's sort them by color first, and then by shape.
+
+**Exercise 3:** Help me sort these objects by color and then by shape:
+
+- A red circle
+- A yellow square
+- A red triangle
+- A yellow circle
+- A blue square
+
+First, we sort them by color:
+
+- Red objects: A red circle, A red triangle
+- Yellow objects: A yellow square, A yellow circle
+- Blue objects: A blue square
+
+Now, let's sort each color group by shape:
+
+**Answer 3:**
+
+- Red group:
+  - Circle: A red circle
+  - Triangle: A red triangle
+- Yellow group:
+  - Circle: A yellow circle
+  - Square: A yellow square
+- Blue group:
+  - Square: A blue square
+
+Awesome! You can sort by color and shape!
+
+### Review Questions
+
+Now, let's do a quick review to make sure you've got it!
+
+**Exercise 4:** Here is a group of objects. Sort them first by color, and then by shape:
+
+- A green square
+- A blue circle
+- A green circle
+- A blue rectangle
+- A green triangle
+
+**Answer 4:**
+
+- Green group:
+  - Square: A green square
+  - Circle: A green circle
+  - Triangle: A green triangle
+- Blue group:
+  - Circle: A blue circle
+  - Rectangle: A blue rectangle
+
+You did it! When you can sort by colors and shapes, it makes things a lot easier to find and super neat too!
+
+Keep practicing, and soon you'll be a sorting superstar! 🌟
+
+#### Extra Fun
+
+Draw a picture using your favorite shapes and colors. Then, write down how many of each shape and color there are. Show your friends and family how you can sort them!

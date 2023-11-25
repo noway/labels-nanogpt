@@ -1,0 +1,70 @@
+## Rounding Numbers
+
+### What is Rounding?
+
+Rounding is a way to simplify numbers while keeping their value close to what it was. When we round a number, we find the nearest number that is easier to work with. This can especially come in handy when we're estimating sums and differences quickly or when dealing with money, as cents are often rounded to the nearest dollar.
+
+### Why Round Numbers?
+
+- To make complex calculations simpler.
+- To get a general idea of amounts without needing the exact number.
+- To make numbers easier to read and understand.
+
+### How to Round Numbers
+
+To round a number, you first need to decide which place you want to round to. This could be the nearest ten, hundred, thousand, or any other place value. Once you decide that, you look at the number to the right of that place. This number will determine if you round up or down.
+
+#### Steps to Round to the Nearest Ten:
+1. Find the tens place.
+2. Look at the number in the ones place (immediately to the right of the tens place).
+3. If the ones place is 5 or more, add one to the tens place. If it's less than 5, leave the tens place as it is.
+4. Replace the ones place with a zero.
+
+#### Example 1: Round 47 to the Nearest Ten
+1. The tens place is 4 (because 47 is 4 tens and 7 ones).
+2. The ones place is 7.
+3. Since 7 is more than 5, we add one to the tens place. 4 becomes 5.
+4. The final rounded number is 50.
+
+#### Example 2: Round 82 to the Nearest Ten
+1. The tens place is 8.
+2. The ones place is 2.
+3. Since 2 is less than 5, we keep the tens place as 8.
+4. The final rounded number is 80.
+
+### Try It Yourself!
+
+Now let's practice rounding some numbers to the nearest ten.
+
+#### Exercise 1: Round 34 to the Nearest Ten.
+
+#### Exercise 2: Round 76 to the Nearest Ten.
+
+#### Exercise 3: Round 59 to the Nearest Ten.
+
+### Rounding to Other Place Values
+
+You can also round to the nearest hundred, thousand, or any other place by following the same steps. Just look at the number one place to the right of where you want to round to help you decide.
+
+### Practice Problems
+
+Round the following numbers to the nearest hundred:
+
+#### Exercise 4: Round 256 to the Nearest Hundred.
+
+#### Exercise 5: Round 1,489 to the Nearest Hundred.
+
+#### Exercise 6: Round 3,501 to the Nearest Hundred.
+
+Once you feel confident with those, try rounding to the nearest thousand!
+
+### Answers to Exercises:
+
+- **Exercise 1:** 30 (since 4 in the ones place is less than 5)
+- **Exercise 2:** 80 (since 6 in the ones place is more than 5)
+- **Exercise 3:** 60 (since 9 in the ones place is more than 5)
+- **Exercise 4:** 300 (since 56 in the tens and ones places is more than 50)
+- **Exercise 5:** 1,500 (since 489 in the last three digits is more than 500)
+- **Exercise 6:** 3,500 (since 501 in the last three digits is more than 500)
+
+Remember, the most important part of rounding is determining whether the number you're using to decide (the number in the place right after the one you're rounding to) is 5 or greater (round up) or less than 5 (keep the same and change all the numbers to the right of it to zero). Practice makes perfect! Keep practicing with different numbers until you feel comfortable with rounding to any place value.

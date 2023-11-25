@@ -1,0 +1,63 @@
+# Introduction to Numbers
+
+## Understanding Place Values
+
+Welcome to the exciting world of numbers! In math, numbers are like building blocks that help us count, measure, and understand the world around us. Before we begin to add, subtract, multiply, or divide, it's important to understand how numbers are put together. This is where place values come into play. 
+
+### What is Place Value?
+
+Place value is a system that allows us to know what each digit in a number represents. Every position or place in a number has a different value. In our number system, we use ten different digits (0-9), and the value of these digits changes depending on where they are in a number.
+
+### The Places
+
+Let's take a look at the different places in a number, starting from the right and moving left:
+
+- **Ones**: This is the first place in a number. It represents how many single units we have. For example, in the number 6, there are 6 ones.
+
+- **Tens**: This is the second place to the left of the ones. It represents how many groups of ten we have. For example, in the number 47, there are 4 tens, which is the same as 40.
+
+- **Hundreds**: This is the third place to the left. It represents how many groups of one hundred we have. For example, in the number 213, there are 2 hundreds, which is the same as 200.
+
+- **Thousands**: Going further to the left, we reach the thousands place, which represents how many groups of one thousand there are. For example, 3,567 has 3 thousands, which is the same as 3,000.
+
+Here's how these places look in a table:
+
+| Thousands | Hundreds | Tens | Ones |
+|-----------|----------|------|------|
+|     3     |     2    |   5  |   7  |
+
+This number is read as "three thousand five hundred sixty-seven."
+
+### Place Value Chart
+
+When learning place values, it can be very helpful to use a place value chart. This chart helps you separate numbers into their respective places. Let's build a place value chart:
+
+| Thousands | Hundreds | Tens | Ones |
+|-----------|----------|------|------|
+|           |          |      |      |
+
+Now let's place the number 8,492 into our chart.
+
+| Thousands | Hundreds | Tens | Ones |
+|-----------|----------|------|------|
+|     8     |     4    |   9  |   2  |
+
+We see that we have 8 thousands, 4 hundreds, 9 tens, and 2 ones. The value of each digit is determined by its position in the number.
+
+### Example Exercises
+
+Now that you understand place values, let's practice with some exercises. For each number, write down the value of the underlined digit.
+
+1. **3**67
+2. 1,0**2**4
+3. **8**,491
+4. 7,2**3**0
+
+### Answers to Exercises
+
+1. **3**67 = 300 (The underlined 3 is in the hundreds place, so it represents 3 hundreds or 300.)
+2. 1,0**2**4 = 20 (The underlined 2 is in the tens place, so it represents 2 tens or 20.)
+3. **8**,491 = 8,000 (The underlined 8 is in the thousands place, so it represents 8 thousands or 8,000.)
+4. 7,2**3**0 = 30 (The underlined 3 is in the tens place, so it represents 3 tens or 30.)
+
+Understanding place values is a fundamental concept in mathematics. It helps us read, write, and comprehend numbers correctly. With practice, you will become a place value expert in no time!

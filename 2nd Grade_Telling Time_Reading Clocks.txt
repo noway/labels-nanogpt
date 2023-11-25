@@ -1,0 +1,44 @@
+---
+## Chapter: Telling Time
+### Section: Reading Clocks
+
+Welcome to the world of clocks and telling time! Being able to read a clock is an important skill that you will use every day. There are two main types of clocks that you might see: analog clocks and digital clocks. We will focus on how to read an analog clock, which has moving hands, in this section.
+
+### Parts of an Analog Clock
+An analog clock has three main parts that you need to know about:
+
+1. **The Hour Hand:** This is the short hand. It points to the hour that it is right now.
+2. **The Minute Hand:** This is the long hand. It points to how many minutes have passed within the current hour.
+3. **The Numbers:** These are usually 1 through 12 and they show the hours in the day.
+
+### How to Tell Time on an Analog Clock
+To tell time on an analog clock, follow these simple steps:
+1. Look at where the hour hand is pointing. This tells you the hour.
+2. Look at where the minute hand is pointing. If it’s pointing to a number, multiply that number by 5 to know how many minutes past the hour it is. If it’s between two numbers, count by five up to the last number it passed, and then add one minute for each extra tick mark.
+3. If the hour hand is between two numbers, the time is between those two hours.
+
+### Understanding the Minute Hand
+The minute hand goes around the clock one full time every hour. Each tick mark on the clock represents one minute. Since there are 60 minutes in an hour, and there are 12 big numbers on the clock, each number represents 5 minutes (because 60 minutes divided by 12 equals 5). So, if the minute hand is on the 3, it means 15 minutes past the hour (because 3 times 5 is 15).
+
+### AM and PM
+Time is divided into two parts of the day: AM and PM. AM is the time from midnight (12:00 AM) to noon (12:00 PM), and PM is from noon to midnight. When reading the time from an analog clock, you won't see AM or PM, so you need to know whether it's morning or afternoon based on the context of your day.
+
+### Let's Practice!
+Now, let's do some exercises to practice reading the time on analog clocks.
+
+1. **Exercise 1:** The hour hand is pointing at the 4 and the minute hand is on the 12. What time is it?
+   - **Answer:** It's 4:00.
+
+2. **Exercise 2:** The hour hand is between the 7 and the 8, and the minute hand is on the 6. What time is it?
+   - **Answer:** It's 7:30.
+
+3. **Exercise 3:** The hour hand is pointing directly at the 11, and the minute hand is on the 9. What time is it?
+   - **Answer:** It's 11:45.
+
+4. **Exercise 4:** Draw the hands on a blank clock face to show the time 2:15.
+   - **Answer:** The minute hand should point to the 3, and the hour hand should be pointing just past the 2.
+
+5. **Exercise 5:** The hour hand is just past the 1 and the minute hand is on the 2. What time is it?
+   - **Answer:** It's 1:10.
+
+Remember to keep practicing reading clocks to become better at telling time quickly and accurately. As a fun activity, you can also make your own clock with a paper plate, some paper for the hands, and a brad to attach them. Then you can move the hands around to practice telling different times!

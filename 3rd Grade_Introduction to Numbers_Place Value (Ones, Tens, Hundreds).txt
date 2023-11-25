@@ -1,0 +1,53 @@
+# Introduction to Numbers
+## Section: Place Value (Ones, Tens, Hundreds)
+
+Welcome to the fascinating world of numbers! One of the most important concepts you'll learn in math is place value. Place value helps us understand the value of a number based on its position. When you look at a number, each digit has a specific place and value. Let's dive into the place values of ones, tens, and hundreds, which are the building blocks of our number system.
+
+### Ones
+The "ones" place is the first digit to the right side of a number. This place tells you how many single units you have. For example, in the number 4, the digit 4 is in the ones place and means four single units.
+
+**Example Exercise:**
+1. In the number 6, how many ones are there?
+2. In the number 18, which digit is in the ones place?
+
+**Answers:**
+1. There are 6 ones in the number 6.
+2. The digit 8 is in the ones place.
+
+### Tens
+Next, we have the "tens" place, which is one place to the left of the ones. The tens place tells us how many groups of ten we have. For example, in the number 23, the digit 2 is in the tens place and represents two groups of ten, which equals twenty.
+
+**Example Exercise:**
+1. In the number 45, how many tens are there, and what is their value?
+2. In the number 72, which digit is in the tens place?
+
+**Answers:**
+1. There are 4 tens in the number 45, and their value is 40.
+2. The digit 7 is in the tens place.
+
+### Hundreds
+The "hundreds" place is one place to the left of the tens. This place value represents how many groups of one hundred we have. In the number 358, the digit 3 is in the hundreds place and represents three groups of one hundred, which equals three hundred.
+
+**Example Exercise:**
+1. In the number 609, how many hundreds are there, and what is their value?
+2. In the number 823, which digit is in the hundreds place?
+
+**Answers:**
+1. There are 6 hundreds in the number 609, and their value is 600.
+2. The digit 8 is in the hundreds place.
+
+### Bringing It All Together
+Now let's use what we've learned to read the whole number. The number 753 has a 7 in the hundreds place, a 5 in the tens place, and a 3 in the ones place. This means we have seven hundreds (which equals 700), five tens (which equals 50), and three ones (which equals 3). Altogether, the number 753 represents 700 + 50 + 3.
+
+**Practice Exercise:**
+Write out the value of each place for the following numbers, then write the total value:
+1. 482
+2. 169
+3. 530
+
+**Answers:**
+1. 482 has 4 hundreds (400), 8 tens (80), and 2 ones (2). Total value = 400 + 80 + 2 = 482.
+2. 169 has 1 hundred (100), 6 tens (60), and 9 ones (9). Total value = 100 + 60 + 9 = 169.
+3. 530 has 5 hundreds (500), 3 tens (30), and 0 ones (0). Total value = 500 + 30 + 0 = 530.
+
+Understanding place value is key to navigating through more complex math concepts. Keep practicing with different numbers, and soon you'll be a place value pro!

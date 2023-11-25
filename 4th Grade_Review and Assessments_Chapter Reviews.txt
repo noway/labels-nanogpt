@@ -1,0 +1,92 @@
+Chapter Reviews
+
+Welcome to the Chapter Review section of our 4th Grade Math Textbook. This section is designed to help you reinforce the concepts we've covered in each chapter and to prepare you for the chapter assessments. As you complete the exercises provided, you'll get a chance to practice problem-solving and to review what you've learned. Let's dive in!
+
+---
+
+**Chapter 1: Place Value and Number Sense**
+
+Review Summary: 
+In Chapter 1, we learned about place value and how it helps us understand the value of digits in a number based on their position. We also delved into comparing and ordering whole numbers, and we explored rounding numbers to the nearest ten, hundred, and thousand. 
+
+Key Terms: Place Value, Digit, Value, Compare, Order, Round
+
+Example Exercise:
+1. What is the value of the digit 7 in the number 3,752?
+2. Round the number 2,346 to the nearest hundred.
+
+Answers:
+1. 750 (The 7 is in the 'hundreds' place, making its value 700.)
+2. 2,300 (When rounding to the nearest hundred, 2,346 rounds down because 46 is less than 50.)
+
+---
+
+**Chapter 2: Addition and Subtraction**
+
+Review Summary:
+Chapter 2 focused on mastering addition and subtraction of multi-digit numbers. We covered using strategies like the standard algorithm, estimating to check our work, and solving word problems involving addition and subtraction.
+
+Key Terms: Addition, Subtraction, Algorithm, Estimate, Word Problem
+
+Example Exercise:
+1. Add 2,465 to 1,378.
+2. A store has 759 balloons. If 326 are sold, how many are left?
+
+Answers:
+1. 3,843 (Add the digits in each place value, carrying over as necessary.)
+2. 433 (Subtract 326 from 759 to find out how many balloons remain.)
+
+---
+
+**Chapter 3: Multiplication and Division**
+
+Review Summary:
+In Chapter 3, we learned about multiplication and division. We worked on understanding the concepts of multiplying and dividing numbers, including multi-digit multiplication and long division. We also practiced solving word problems involving these operations.
+
+Key Terms: Multiplication, Division, Multi-digit Multiplication, Long Division
+
+Example Exercise:
+1. Multiply 307 by 26.
+2. Divide 945 by 3.
+
+Answers:
+1. 7,982 (Set up the multiplication and multiply each digit by 307, then add the results.)
+2. 315 (Divide 945 by 3, giving equal groups with 315 in each group.)
+
+---
+
+**Chapter 4: Fractions**
+
+Review Summary:
+Chapter 4 was all about fractions. We learned to identify, compare, and represent fractions. We also focused on equivalent fractions, adding and subtracting fractions with like denominators, and understanding mixed numbers.
+
+Key Terms: Fraction, Denominator, Equivalent Fractions, Mixed Number
+
+Example Exercise:
+1. Which fraction is greater: 3/8 or 5/8?
+2. Add the fractions: 2/6 + 1/6.
+
+Answers:
+1. 5/8 (When the denominators are the same, the fraction with the larger numerator is greater.)
+2. 3/6 or 1/2 (When adding fractions with like denominators, add the numerators and keep the denominator the same. Then, simplify if possible.)
+
+---
+
+**Chapter 5: Geometry and Measurement**
+
+Review Summary:
+In Chapter 5, we explored basic geometry and measurement. We looked at different types of lines, angles, and shapes. We also learned how to measure length, area, and perimeter using standard units of measurement.
+
+Key Terms: Lines, Angles, Shapes, Length, Area, Perimeter
+
+Example Exercise:
+1. What is the perimeter of a rectangle with a length of 8 inches and a width of 3 inches?
+2. Name a polygon with 5 sides.
+
+Answers:
+1. 22 inches (Perimeter is calculated by adding all sides: 8+8+3+3)
+2. Pentagon (A polygon with 5 sides is called a pentagon.)
+
+---
+
+Be sure to work through these review exercises carefully, and check your understanding by comparing your answers with the solutions provided. If you find yourself struggling with any concept, revisit the relevant section of the chapter for a more thorough review. Good luck, and have fun with these review activities!

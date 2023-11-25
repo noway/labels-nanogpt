@@ -1,0 +1,101 @@
+## Simple Addition and Subtraction with Money
+
+### Introduction
+
+Understanding how to use money is very important in everyday life. When we buy things or save our pocket money, we need to add and subtract amounts of money. Let's learn how to do this with fun and simple exercises!
+
+### Adding Money
+
+Adding money means finding the total cost when you buy more than one thing or when you put more money into your piggy bank.
+
+#### Example 1:
+
+Imagine you buy a pencil for $0.50 and a notebook for $1.20. To find out how much money you spend in total, you add the cost of the pencil to the cost of the notebook.
+
+$0.50 (pencil) + $1.20 (notebook) = $1.70
+
+So, you spend $1.70 altogether.
+
+#### Practice Problems:
+
+1. You have $1.00 and find a quarter (that's $0.25) on the ground. How much money do you have now?
+
+**Answer: $1.25**
+
+2. You buy a toy for $2.15 and a book for $1.30. How much did you spend altogether?
+
+**Answer: $3.45**
+
+### Subtracting Money
+
+Subtracting money means finding out how much is left after you spend some or give some away.
+
+#### Example 2:
+
+You have $5.00 but you buy a toy car for $1.75. To find out how much money is left, you subtract the price of the toy car from $5.00.
+
+$5.00 - $1.75 = $3.25
+
+You have $3.25 left after buying the toy car.
+
+#### Practice Problems:
+
+1. You have $10.00 and you buy a snack for $2.50. How much money is left?
+
+**Answer: $7.50**
+
+2. Your friend has $6.00. If they buy a stuffed animal for $3.90, how much will they have left?
+
+**Answer: $2.10**
+
+### Counting Change
+
+When you buy something and pay more than the cost, you get change back. You should know how much change to expect.
+
+#### Example 3:
+
+You buy a sticker for $0.65 and you give the cashier $1.00. The cashier needs to give you back the difference between what you gave them and the cost of the sticker.
+
+$1.00 - $0.65 = $0.35
+
+So, you should get $0.35 back as change.
+
+#### Practice Problems:
+
+1. You buy a bag of chips for $1.20 and give the cashier $2.00. How much change should you get?
+
+**Answer: $0.80**
+
+2. You get $5.00 from your grandmother and you spend $2.07 on a coloring book. What should the change be?
+
+**Answer: $2.93**
+
+## Review Exercise
+
+Let's do a story problem together!
+
+**Story Problem:**
+
+Liam went to the store with $10.00. He bought the following items:
+
+- A water bottle for $3.25
+- A pack of gum for $0.99
+- A magazine for $2.75
+
+How much did Liam spend in total? And how much money did he have left?
+
+**Solving the Problem:**
+
+1. Add the cost of the items to find the total spending.
+   - $3.25 (water bottle) + $0.99 (gum) + $2.75 (magazine) = $7.99
+
+2. Subtract the total spending from the amount Liam had at the start.
+   - $10.00 - $7.99 = $2.01
+
+**Answer:**
+
+Liam spent $7.99 in total and had $2.01 left.
+
+---
+
+Congratulations! You've now practiced adding and subtracting with money. Remember, you can always use a piece of paper to list the amounts and add or subtract them one step at a time. Keep practicing, and soon you'll be a money master!

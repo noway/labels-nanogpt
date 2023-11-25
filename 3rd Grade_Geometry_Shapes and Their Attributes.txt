@@ -1,0 +1,109 @@
+# Geometry: Shapes and Their Attributes
+
+Welcome to the exciting world of shapes! In this section, we will explore different shapes that you see in the world around you. You will learn about the attributes, or features, of these shapes. Let’s get started!
+
+---
+
+## What is a Shape?
+
+A shape is an outline or form of an object. It is defined by its sides and angles. You can find various shapes in things like books, doors, and even cookies!
+
+## Basic Shapes
+
+### Circle:
+
+A circle is round and has no corners. One special thing about a circle is that every point on the edge is the same distance from the center. The distance around a circle is called the circumference, and the distance across the circle through the center is called the diameter.
+
+**Attributes of a Circle**:
+- No sides or corners.
+- Circumference.
+- Diameter.
+
+**Example**: A pizza is a great example of a circle!
+
+### Triangle:
+
+A triangle has three straight sides and three corners, which are also called vertices. There are different types of triangles based on their sides and angles:
+- Equilateral Triangle: All sides are the same length, and all angles are equal.
+- Isosceles Triangle: Two sides are the same length.
+- Scalene Triangle: All sides are different lengths.
+
+**Attributes of a Triangle**:
+- Three sides.
+- Three corners or vertices.
+
+**Example Exercise**: Draw all three types of triangles and label their sides.
+
+### Answer:
+
+(Equilateral Triangle drawing with all sides labeled "Equal")
+(Isosceles Triangle drawing with two sides labeled "Equal" and one "Different")
+(Scalene Triangle drawing with all sides labeled "Different")
+
+### Quadrilaterals:
+
+A quadrilateral is a shape with four sides. There are many types of quadrilaterals, including squares, rectangles, and parallelograms.
+
+- **Square**: All sides are equal, and all angles are right angles (90 degrees).
+- **Rectangle**: Opposite sides are equal, and all angles are right angles.
+- **Parallelogram**: Opposite sides are equal, and opposite angles are equal, but angles are not necessarily right angles.
+
+**Attributes of Quadrilaterals**:
+- Four sides.
+- Four corners or vertices.
+- Various types with different properties.
+
+**Example Exercise**: Draw a square, a rectangle, and a parallelogram. Then label the sides to show which sides are equal.
+
+### Answer:
+
+(Square drawing with all sides labeled "Equal")
+(Rectangle drawing with opposite sides labeled "Equal")
+(Parallelogram drawing with opposite sides labeled "Equal")
+
+## Three-Dimensional Shapes
+
+### Cube:
+
+A cube is a 3D shape with six equal square faces. It looks like a perfectly shaped box.
+
+**Attributes of a Cube**:
+- Six equal square faces.
+- Eight vertices (corners).
+- Twelve equal edges (sides).
+
+**Example Exercise**: Using building blocks or a box, find a real-world example of a cube.
+
+### Answer:
+
+(A building block or a dice is a real-world example of a cube.)
+
+### Sphere:
+
+A sphere is a 3D shape that is perfectly round, like a ball. Every point on the surface is the same distance from the center.
+
+**Attributes of a Sphere**:
+- No edges or vertices.
+- Round shape.
+
+**Example Exercise**: Using a ball, point out that it is a sphere because of its round shape.
+
+### Answer:
+
+(A basketball, soccer ball, or any other ball is a real-world example of a sphere.)
+
+## Practice Problems
+
+1. Draw and label an equilateral triangle.
+2. Find something around your classroom that is shaped like a rectangle and describe its attributes.
+3. How many faces does a cube have? Can you draw a cube and label its faces?
+4. Name a real-world object that is shaped like a sphere.
+
+## Answers to Practice Problems
+
+1. (Drawing of a triangle with all sides labeled "Equal")
+2. A book is shaped like a rectangle; it has 4 sides with opposite sides being equal and 4 right angles.
+3. A cube has 6 faces. (Drawing of a cube with each face shaded differently and labeled F1, F2, F3, F4, F5, F6.)
+4. A basketball is a real-world object that is shaped like a sphere.
+
+Remember, shapes are everywhere! Keep looking for them in everyday objects, and you'll become a shape expert in no time.

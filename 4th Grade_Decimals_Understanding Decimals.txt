@@ -1,0 +1,58 @@
+# Understanding Decimals
+
+Welcome to the "Understanding Decimals" section! In this part of your math journey, we are going to explore the world of decimals. A decimal is a way to represent numbers that are not whole. It's like slicing a cake into equal parts and looking at just one slice. We use a special dot, called a decimal point, to show this.
+
+Let's start by getting comfortable with some terms.
+
+## Decimal Point
+The decimal point is the dot that goes between the whole number part and the fractional part of a number. For example, in the number 12.34, the decimal point is right after the whole number 12.
+
+## Place Value
+After the decimal point, every position or place has a name, just like the places before the decimal point (ones, tens, hundreds, etc.). The first place after the decimal point is called the tenths place, the second is the hundredths place, the third is the thousandths place, and it goes on like that.
+
+Here's a chart to help you visualize it:
+
+```
+Hundreds | Tens | Ones | . | Tenths | Hundredths | Thousandths
+-------------------------------------------------------------
+   3     |  4   |  5   | . |    6   |      7     |     8
+```
+
+So, if we look at the number 345.678, the number 6 is in the tenths place, 7 is in the hundredths place, and 8 is in the thousandths place.
+
+## Reading Decimals
+Decimals can be read just like whole numbers, but instead of saying "point," you can say "and" where the decimal point is. So, 3.5 is read as "three and five tenths," and 2.75 is read as "two and seventy-five hundredths."
+
+## Writing Decimals
+Writing decimals is just like writing whole numbers, but you must include the decimal point. Remember to align the decimal points directly above or below each other when writing a column of decimal numbers.
+
+## Comparing Decimals
+When comparing decimals, start at the leftmost digit and move to the right until you find a difference. For example, 0.65 is more than 0.6 because even though the whole number and the tenths place are the same, the hundredths place is different, and 5 in the hundredths is greater than 0 in the hundredths.
+
+Let's do some examples together!
+
+### Example Exercises
+
+1. Write the decimal for the fraction seven-tenths.
+
+2. What is the value of the hundredths place in the number 3.856?
+
+3. Read the following decimal aloud: 4.73
+
+4. Which decimal is larger, 0.5 or 0.55?
+
+5. Write 16 and 9 hundredths as a decimal.
+
+### Answers
+
+1. Seven-tenths as a decimal is 0.7.
+
+2. The value of the hundredths place in the number 3.856 is 5, which is 5 hundredths.
+
+3. The decimal 4.73 is read as "four and seventy-three hundredths."
+
+4. The decimal 0.55 is larger than 0.5 because it has more in the hundredths place.
+
+5. 16 and 9 hundredths is written as 16.09.
+
+Now that you have a better understanding of decimals, let's move on to some practice problems so that you can become a decimal expert! Happy learning!

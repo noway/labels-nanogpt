@@ -1,0 +1,82 @@
+**What is Subtraction?**
+
+Welcome to the wonderful world of subtraction! Subtraction is one of the fundamental operations in mathematics, like addition, which you have already learned. While addition helps us find out how many things we have when we put them together, subtraction helps us find out how many things are left when we take some away.
+
+Imagine you have a basket of apples. When you eat some of the apples or give them to your friends, you will have fewer apples in the basket. Subtraction is just like that: it tells us the number of apples left in the basket after some are taken away.
+
+---
+
+**Subtraction Vocabulary**
+
+Before we start solving subtraction problems, let's learn some important words:
+
+1. **Minuend**: This is the number we start with, the total number of items before we take any away.
+2. **Subtrahend**: This is the number we are taking away from the Minuend.
+3. **Difference**: This is the result we get after subtraction. It tells us how many items are left.
+
+In a subtraction equation, it looks like this:
+
+Minuend - Subtrahend = Difference
+
+For example: If you have 5 apples and you take away 2 apples, the subtraction sentence is:
+
+5 - 2 = 3
+
+Here, 5 is the minuend, 2 is the subtrahend, and 3 is the difference.
+
+---
+
+**Let's Practice Subtraction!**
+
+Now let's try some examples. Remember to count carefully!
+
+1. You have 4 toy cars and you give 1 to your friend. How many toy cars do you have now?
+
+   **Problem**: 4 toy cars - 1 toy car 
+   **Solution**: After you give 1 away, you can count the remaining cars: 1, 2, 3. You have 3 toy cars left.
+
+   Answer: 4 - 1 = 3
+
+2. There are 7 cupcakes on the plate, and you eat 3 of them. How many cupcakes are left on the plate?
+
+   **Problem**: 7 cupcakes - 3 cupcakes 
+   **Solution**: If you eat 3, let's count the cupcakes that are left: 1, 2, 3, 4. There are 4 cupcakes left on the plate.
+
+   Answer: 7 - 3 = 4
+
+3. Your mom gave you 8 stickers, but 2 of them got lost. How many stickers are still with you?
+
+   **Problem**: 8 stickers - 2 stickers 
+   **Solution**: When you lose 2, let's count what's left: 1, 2, 3, 4, 5, 6. You still have 6 stickers.
+
+   Answer: 8 - 2 = 6
+
+---
+
+**Activity Time!**
+
+Try solving these subtraction problems. You can use your fingers, draw pictures, or use objects to help you count.
+
+1. 6 - 2 =
+2. 5 - 1 =
+3. 9 - 4 =
+4. 10 - 3 =
+5. 3 - 3 =
+
+---
+
+**Answers to Activity Time!**
+
+Now, let's see how you did. Here are the answers:
+
+1. 6 - 2 = 4 (Start from 6, put down two fingers, and count what's left)
+2. 5 - 1 = 4 (Take 1 away from 5, you still have 4)
+3. 9 - 4 = 5 (Take 4 away from 9, count the remaining, you have 5)
+4. 10 - 3 = 7 (If you have 10 and take away 3, count the ones left, you have 7)
+5. 3 - 3 = 0 (If you start with 3 and take away all 3, you have none left, or zero)
+
+Great job! You are becoming a subtraction superstar! Keep practicing, and you will get even better.
+
+Remember, subtraction helps us figure out how many we have after we take some away. It's all about finding the difference!
+
+Happy Subtracting!

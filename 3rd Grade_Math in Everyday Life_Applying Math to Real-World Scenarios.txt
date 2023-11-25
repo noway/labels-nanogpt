@@ -1,0 +1,80 @@
+# Chapter: Math in Everyday Life
+
+## Applying Math to Real-World Scenarios
+
+Understanding math is not just about solving problems in a textbook; it's about using it to make sense of the world around us. In this section, we will explore some everyday situations where math skills come in handy. We'll learn how by using simple math concepts, we can solve real-world problems that we might encounter in our daily lives.
+
+### Example 1: Grocery Shopping
+Imagine you're at the grocery store with your mom or dad to buy some fruit. You decide to buy apples that cost $1.20 per pound. If you want to buy 3 pounds of apples, how much will it cost?
+
+**Math Tool Needed:** Multiplication.
+
+**Real-World Math Problem:** Find the total cost by multiplying the cost per pound by the number of pounds.
+
+**Calculation:** 
+Cost of apples = Cost per pound × Number of pounds 
+Cost of apples = $1.20/pound × 3 pounds 
+Cost of apples = $3.60 
+
+**Answer:** It will cost $3.60 to buy 3 pounds of apples.
+
+### Example 2: Sharing Pizza
+You are having a pizza party for 6 friends. If you order 2 pizzas and each pizza is cut into 8 slices, how many slices can each friend have?
+
+**Math Tool Needed:** Division.
+
+**Real-World Math Problem:** Divide the total number of slices by the number of friends to find out how many slices each one can have.
+
+**Calculation:** 
+Total slices = Number of pizzas × Slices per pizza
+Total slices = 2 × 8 
+Total slices = 16
+
+Slices per friend = Total slices ÷ Number of friends
+Slices per friend = 16 ÷ 6
+Slices per friend ≈ 2 with 4 slices left over.
+
+**Answer:** Each friend can have 2 slices of pizza, and there will be 4 slices leftover. Maybe you can share these equally too!
+
+### Example 3: Planning a Field Trip
+Your class is going on a field trip to the zoo! There are 25 students in your class, and each bus can hold 40 people. How many buses does your class need to rent for the trip?
+
+**Math Tool Needed:** Division and Rounding Up (because you can't have a fraction of a bus).
+
+**Real-World Math Problem:** Divide the number of students by the number of seats on a bus and then round up to the nearest whole number.
+
+**Calculation:** 
+Buses needed = Number of students ÷ Seats per bus
+Buses needed = 25 ÷ 40
+Buses needed = 0.625
+
+Since you cannot have 0.625 of a bus, you'll need to round up.
+
+**Answer:** Your class will need to rent 1 bus for the trip.
+
+### Example 4: Saving Money
+You want to save up for a new bike that costs $150. If you save $10 each week, how many weeks will it take you to save enough money to buy the bike?
+
+**Math Tool Needed:** Division.
+
+**Real-World Math Problem:** Divide the total cost of the bike by the amount you save each week to find out how many weeks it will take to save enough.
+
+**Calculation:** 
+Weeks needed = Total cost ÷ Weekly savings
+Weeks needed = $150 ÷ $10
+Weeks needed = 15
+
+**Answer:** It will take you 15 weeks to save enough money to buy the new bike.
+
+Now it's your turn! Try these exercises on your own, and then check your answers below.
+
+**Exercise 1:** You have 4 friends, and you want to split 16 stickers equally among you and your friends. How many stickers does each person get?
+
+**Exercise 2:** Your family is painting a fence that is 50 feet long. If 1 gallon of paint covers 10 feet, how many gallons of paint do you need to paint the whole fence?
+
+**Exercise 3:** You have a $20 bill and want to buy as many notebooks for school as you can. Each notebook costs $3. How many notebooks can you buy, and how much money will you have left?
+
+**Answers:**
+Exercise 1: Each person gets 4 stickers (16 stickers ÷ 5 people = 3.2, which is rounded down to 3 stickers each with one sticker leftover to be shared or kept).
+Exercise 2: You need 5 gallons of paint (50 feet ÷ 10 feet/gallon = 5 gallons).
+Exercise 3: You can buy 6 notebooks, and you will have $2 left (20 ÷ 3 = 6 with a remainder of 2).

@@ -1,0 +1,95 @@
+# Money Matters
+
+## Identifying Coins
+
+In this section, we're going to learn about coins! Coins are small, round pieces of metal that we use to buy things like toys, snacks, and other items. Each type of coin has a different value, which means some are worth more than others. Let's look at the coins you'll see in the United States: pennies, nickels, dimes, and quarters.
+
+**Penny**
+- The penny is worth 1 cent.
+- It has the smallest value.
+- A penny is copper-colored, which means it is sort of a reddish-brown color.
+- On one side of the penny, you will see a picture of Abraham Lincoln, the 16th President of the United States.
+
+**Nickel**
+- The nickel is worth 5 cents.
+- It is silver in color, and a bit bigger than the penny.
+- On one side of the nickel, there is a picture of Thomas Jefferson, the 3rd President of the United States.
+
+**Dime**
+- The dime is worth 10 cents.
+- Even though it is worth more than a penny and a nickel, it's actually the smallest in size!
+- It is also silver and on one side, you will find a picture of Franklin D. Roosevelt, the 32nd President of the United States.
+
+**Quarter**
+- The quarter is worth 25 cents.
+- It is the largest coin in size among the ones we have discussed.
+- It is silver as well, and has a picture of George Washington, the 1st President of the US, on one side.
+
+### Exercise: Match the Coin
+
+Draw a line to match the coin with its value.
+
+1. Penny `____` a. 5 cents
+2. Nickel `____` b. 1 cent
+3. Dime `____` c. 25 cents
+4. Quarter `____` d. 10 cents
+
+### Answer:
+
+1. Penny - b. 1 cent
+2. Nickel - a. 5 cents
+3. Dime - d. 10 cents
+4. Quarter - c. 25 cents
+
+---
+
+### Exercise: Coin Identification
+
+Below are pictures of the four different coins - a penny, a nickel, a dime, and a quarter. Write the name of the coin under each picture.
+
+(Coin images would be placed here in an actual textbook, but let's imagine they're labeled as Coin A, Coin B, Coin C, and Coin D)
+
+### Answer:
+
+Coin A - Penny
+Coin B - Nickel
+Coin C - Dime
+Coin D - Quarter
+
+---
+
+### Exercise: How Much Are the Coins Worth?
+
+Count the value of each group of coins and write the total amount of money.
+
+1. 🎈 3 pennies, 1 nickel, and 2 dimes
+2. 🎈 4 nickels and 1 quarter
+3. 🎈 5 pennies and 1 dime
+4. 🎈 2 quarters and 1 dime
+
+### Answer:
+
+1. 3 pennies (3 cents) + 1 nickel (5 cents) + 2 dimes (20 cents) = 28 cents
+2. 4 nickels (20 cents) + 1 quarter (25 cents) = 45 cents
+3. 5 pennies (5 cents) + 1 dime (10 cents) = 15 cents
+4. 2 quarters (50 cents) + 1 dime (10 cents) = 60 cents
+
+---
+
+### Exercise: Make the Amount
+
+Let's try to make different amounts of money using coins. Can you draw the coins needed to make the exact amount?
+
+1. 🎈 Make 7 cents.
+2. 🎈 Make 30 cents.
+3. 🎈 Make 12 cents.
+4. 🎈 Make 50 cents.
+
+### Answers (one of many possible combinations):
+
+1. 7 cents = 1 nickel (5 cents) + 2 pennies (2 cents)
+2. 30 cents = 1 quarter (25 cents) + 1 nickel (5 cents)
+3. 12 cents = 1 dime (10 cents) + 2 pennies (2 cents)
+4. 50 cents = 2 quarters (50 cents)
+
+Remember, there might be many different ways to make each amount, and that is part of the fun! Keep practicing with real or play coins to become a coin expert!

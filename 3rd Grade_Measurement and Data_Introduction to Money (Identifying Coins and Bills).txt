@@ -1,0 +1,85 @@
+# Measurement and Data
+
+## Introduction to Money (Identifying Coins and Bills)
+
+Hello, bright young learners! Today, we are going to dive into a very interesting and practical part of math: Money! Money is used every day by people to buy things like food, toys, and clothes. It comes in different shapes and sizes. In the United States, money is in the form of coins and bills. Knowing about money will help you understand how much things cost and how to buy things you need or want.
+
+### Coins
+
+Coins are small, usually round pieces of metal. Each coin has a different value, size, and design. Let's meet each coin and learn how to identify them:
+
+1. **Penny**: This is the smallest value coin, worth 1 cent. It has Abraham Lincoln's face on one side and the Lincoln Memorial on the other. It's copper-colored.
+
+2. **Nickel**: The nickel is worth 5 cents. It's larger than a penny and has Thomas Jefferson's face on the front and his home, Monticello, on the back. Nickels are silver in color.
+
+3. **Dime**: Even though the dime is the smallest coin, it is worth more than a penny and a nickel — 10 cents. On the front, there is a portrait of Franklin D. Roosevelt, and on the back, there is a torch, oak branch, and olive branch. Dimes are also silver in color.
+
+4. **Quarter**: The quarter is worth 25 cents. It is larger than a nickel and a dime and has George Washington's face on the front and an eagle or a state design on the back. Quarters are silver-colored, like nickels and dimes.
+
+### Bills
+
+Bills are paper money and come in different denominations. Each denomination has a different value and person on it. Here are some bills you might use:
+
+1. **One Dollar Bill ($1)**: This bill has George Washington's portrait on the front and the Great Seal of the United States on the back. It's the most common bill.
+
+2. **Five Dollar Bill ($5)**: The five-dollar bill has Abraham Lincoln on the front, just like the penny, and the Lincoln Memorial on the back.
+
+3. **Ten Dollar Bill ($10)**: On the ten-dollar bill, you'll find Alexander Hamilton on the front and the U.S. Treasury building on the back.
+
+4. **Twenty Dollar Bill ($20)**: Andrew Jackson is on the front of the twenty-dollar bill, and the White House is on the back.
+
+**Remember**, identifying the different coins and bills is important, as it helps you know how much money you have and how you can use it.
+
+### Exercises
+
+Let's practice what we've learned about identifying coins and bills!
+
+#### Exercise 1: Coin Identification
+
+Look at each coin's description and match it to the value:
+
+A. Small, copper-colored coin with Abraham Lincoln.  
+B. Largest silver-colored coin with George Washington.  
+C. Smallest silver-colored coin with Franklin D. Roosevelt.  
+D. Silver-colored coin with Thomas Jefferson.
+
+Values:  
+1. 5 cents (Nickel)  
+2. 1 cent (Penny)  
+3. 10 cents (Dime)  
+4. 25 cents (Quarter)
+
+Answers:  
+A - 2. 1 cent (Penny)  
+B - 4. 25 cents (Quarter)  
+C - 3. 10 cents (Dime)  
+D - 1. 5 cents (Nickel)
+
+#### Exercise 2: Bill Identification
+
+Circle the correct value for each bill described:
+
+A. This bill has George Washington on the front and is the most common.
+Options: $1, $5, $10, $20
+
+B. This bill has Andrew Jackson on it and is worth more than a $10 bill.
+Options: $1, $5, $10, $20
+
+Answers:
+A. $1 (One Dollar Bill)
+B. $20 (Twenty Dollar Bill)
+
+#### Exercise 3: Making Change
+
+Imagine you bought a toy for $4.75 and paid with a $5 bill. How much change should you get back?
+
+To find out, you subtract the cost of the toy from the amount you paid:
+$5.00 (amount paid) - $4.75 (cost of the toy) = $0.25 (change back)
+
+So, you should get back one quarter, which is 25 cents!
+
+### Practice Time!
+
+Now that you've learned about coins and bills, try to identify and count the money in your piggy bank or at home with your parents' help. Write down the number of each coin and bill you have and then add up the total value. This is a great way to practice and become a money master!
+
+Great job today, and remember, practice makes perfect! Keep learning and having fun with math!

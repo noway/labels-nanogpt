@@ -1,0 +1,67 @@
+## Understanding Fractions
+
+### What Is a Fraction?
+
+A fraction represents a part of a whole. It's like cutting a cake into equal pieces. When you take one piece, you take a fraction of the entire cake. Fractions are written with two numbers separated by a line. The number above the line is called the numerator, and the number below is the called denominator.
+
+**Numerator (Top number):** Tells us how many parts we have.  
+**Denominator (Bottom number):** Tells us into how many equal parts the whole is divided.
+
+### Types of Fractions
+
+- **Proper Fractions:** The numerator is smaller than the denominator, like 1/2 or 3/4.
+- **Improper Fractions:** The numerator is equal to or larger than the denominator, like 4/4 or 5/3.
+- **Mixed Numbers:** A whole number and a proper fraction combined, like 1 1/2 or 2 3/4.
+
+### Visualizing Fractions
+
+Imagine a pizza sliced into 8 equal pieces. Each piece is a fraction of the pizza. If you take 3 slices, you have 3 out of 8 pieces, so we write it as 3/8.
+
+### Fraction of a Set
+
+Fractions can also be used to describe a set of things. For example, if you have 10 apples and you give away 3 apples, the fraction of apples you gave away is 3/10.
+
+### Equivalence
+
+Two fractions are equivalent if they represent the same part of a whole, even if they look different. For example, 2/4 is equivalent to 1/2 because they both represent half of something.
+
+To make equivalent fractions, you can multiply or divide the numerator and the denominator by the same number (except zero).
+
+### Comparing Fractions
+
+When fractions have the same denominator, it’s easy to compare them. The one with the bigger numerator is larger. With different denominators, we can find a common denominator or convert them to decimals to compare.
+
+### Exercises
+
+1. **Identify Fractions**  
+Draw a circle and divide it into 4 equal parts. Color in 1 part. What fraction of the circle is colored?  
+**Answer:** 1/4 of the circle is colored.
+
+2. **Equivalent Fractions**  
+Find a fraction equivalent to 1/2 by multiplying the numerator and denominator by 3.  
+**Answer:** 3/6 is equivalent to 1/2. (1x3)/(2x3) = 3/6.
+
+3. **Comparing Fractions**  
+Which is bigger: 3/8 or 2/8?  
+**Answer:** 3/8 is bigger than 2/8.
+
+4. **Fraction of a Set**  
+There are 12 crayons in a box. If 4 crayons are blue, what fraction of the crayons are blue?  
+**Answer:** 4/12 (or 1/3 if simplified).
+
+5. **Mixed Numbers**  
+Write the mixed number for 9/4.  
+**Answer:** 2 1/4.
+
+6. **Improper Fractions**  
+Convert the mixed number 2 1/4 to an improper fraction.  
+**Answer:** 9/4.
+
+### Remember
+
+- Every fraction has two parts: a numerator and a denominator.
+- The denominator can never be zero.
+- Fractions are another way to show division. For instance, 1/4 means 1 divided by 4.
+- You can practice fractions by dividing objects around you into equal parts.
+
+Now that you understand the basics of fractions, keep practicing with these exercises and try creating your own problems to test your knowledge!

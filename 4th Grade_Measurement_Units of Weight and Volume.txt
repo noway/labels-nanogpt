@@ -1,0 +1,97 @@
+### **Chapter: Measurement**
+#### **Section: Units of Weight and Volume**
+
+Understanding how to measure weight and volume is an important skill in our daily lives. Whether comparing the heft of two apples or determining the amount of water needed for a recipe, we rely on standard units of measurement to communicate and calculate.
+
+#### **Units of Weight**
+
+Weight is how heavy something is. In the United States, we commonly use pounds (lbs) and ounces (oz) to measure weight, while most of the world uses grams (g) and kilograms (kg) in the metric system.
+
+##### **Standard Units of Weight in the US Customary System:**
+
+- **Ounces (oz):** Used to measure lighter items. A pencil typically weighs about 0.5 oz.
+- **Pounds (lbs):** A more substantial unit of weight. There are 16 ounces in one pound. A textbook might weigh about 2 lbs.
+
+**Example Exercise 1:**
+Convert the following weights into the smaller unit.
+
+a) 3 pounds to ounces
+b) 5 pounds, 8 ounces to ounces
+
+**Answers to Example Exercise 1:**
+
+a) 3 pounds = 3 × 16 ounces = 48 ounces
+b) 5 pounds, 8 ounces = (5 × 16) + 8 ounces = 80 + 8 ounces = 88 ounces
+
+##### **Metric Units of Weight:**
+
+- **Grams (g):** Best for very light items, such as a packet of sugar.
+- **Kilograms (kg):** Used for heavier items. There are 1,000 grams in one kilogram. A small bicycle might weigh approximately 14 kg.
+
+**Example Exercise 2:**
+Convert the following weights into the larger unit.
+
+a) 2,500 grams to kilograms
+b) 7,150 grams to kilograms
+
+**Answers to Example Exercise 2:**
+
+a) 2,500 grams = 2,500 ÷ 1,000 = 2.5 kilograms
+b) 7,150 grams = 7,150 ÷ 1,000 = 7.15 kilograms
+
+#### **Units of Volume**
+
+Volume is the amount of space something occupies. Just like with weight, there are different units used to measure volume. In liquids, for example, we might use gallons (gal), quarts (qt), pints (pt), cups (c), and fluid ounces (fl oz).
+
+##### **Standard Units of Volume in the US Customary System:**
+
+- **Fluid Ounces (fl oz):** Smallest standard unit. A small cup of juice may hold about 8 fluid ounces.
+- **Cups (c):** Often used in cooking. 1 cup equals 8 fluid ounces.
+- **Pints (pt):** Equals 2 cups or 16 fluid ounces. A pint of blueberries is a common measurement for this amount of fruit.
+- **Quarts (qt):** Equals 2 pints or 4 cups. A quart of milk is a familiar size at grocery stores.
+- **Gallons (gal):** The largest common unit. A gallon equals 4 quarts. A standard jug of milk can be found in gallon containers.
+
+**Example Exercise 3:**
+Convert the following volumes.
+
+a) 8 cups to quarts
+b) 64 fluid ounces to gallons
+
+**Answers to Example Exercise 3:**
+
+a) 8 cups ÷ 4 = 2 quarts
+b) 64 fluid ounces ÷ 128 (the number of ounces in a gallon) = 0.5 gallons
+
+##### **Metric Units of Volume:**
+
+- **Milliliters (mL):** A small unit of volume commonly used in measuring liquid ingredients. For example, there are usually about 5 mL in a teaspoon.
+- **Liters (L):** A larger unit of volume. A standard bottle of soda contains about 2 liters. There are 1,000 milliliters in one liter.
+
+**Example Exercise 4:**
+How many liters are in the following measurements?
+
+a) 2,500 milliliters
+b) 3,750 milliliters
+
+**Answers to Example Exercise 4:**
+
+a) 2,500 milliliters ÷ 1,000 = 2.5 liters
+b) 3,750 milliliters ÷ 1,000 = 3.75 liters
+
+#### **Fun Practice Problems:**
+
+1. If a bag of flour weighs 4 pounds, how many ounces does it weigh?
+2. How many pints are there in 24 cups of water?
+3. Convert 7 kilograms to grams.
+4. If you have 1.5 liters of juice, how many milliliters do you have?
+5. How many cups are in 5 gallons of ice cream?
+
+#### **Answers to Fun Practice Problems:**
+
+1. 4 pounds × 16 ounces/pound = 64 ounces
+2. 24 cups ÷ 2 cups/pint = 12 pints
+3. 7 kilograms × 1,000 grams/kilogram = 7,000 grams
+4. 1.5 liters × 1,000 milliliters/liter = 1,500 milliliters
+5. 5 gallons × 4 quarts/gallon × 4 cups/quart = 80 cups
+
+Remember to practice these conversions to become more comfortable with different units of weight and volume. Happy measuring!

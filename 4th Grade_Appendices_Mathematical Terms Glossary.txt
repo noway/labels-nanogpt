@@ -1,0 +1,231 @@
+# Mathematical Terms Glossary
+
+**Addend:** An addend is a number involved in an addition operation. For example, in the equation 5 + 3 = 8, both 5 and 3 are addends.
+
+*Example Exercise:* What are the addends in the following equation?
+7 + 4 = 11
+*Answer:* The addends are 7 and 4.
+
+**Angle:** An angle is formed by two rays (lines) that begin at the same point or share a common endpoint. Angles are measured in degrees.
+
+*Example Exercise:* Measure the angle using a protractor. (Diagram of a 45° angle provided). 
+*Answer:* The angle is 45 degrees.
+
+**Area:** Area is the size of a surface. It is measured in square units (like square meters or square feet). The area of a rectangle is calculated by multiplying the length by the width.
+
+*Example Exercise:* Find the area of a rectangle that has a length of 5 units and a width of 3 units.
+*Answer:* Area = length × width = 5 × 3 = 15 square units.
+
+**Array:** An array is a way of organizing objects, numbers, or symbols in rows and columns.
+
+*Example Exercise:* Create an array for the multiplication fact 3 × 4.
+*Answer:*
+* * * *
+* * * *
+* * * *
+There are 3 rows and 4 columns, representing 3 groups of 4.
+
+**Average:** Average (or mean) is the sum of a list of numbers divided by the count of numbers in the list.
+
+*Example Exercise:* Find the average of these numbers: 4, 8, 6, 2, 10.
+*Answer:* Average = (4 + 8 + 6 + 2 + 10) / 5 = 30 / 5 = 6.
+
+**Bar Graph:** A bar graph displays information using rectangular bars of different heights or lengths proportional to the values they represent.
+
+*Example Exercise:* Create a bar graph to show the number of apples sold in a week: Monday (10), Tuesday (15), Wednesday (7), Thursday (12).
+*Answer:* The bar graph will have bars with lengths corresponding to each day's apple sales, showing Monday with a length of 10 units, Tuesday with 15 units, etc.
+
+**Capacity:** Capacity is the amount of space inside a container and it is often measured in liters or gallons.
+
+*Example Exercise:* If a jug can hold 5 liters, how much capacity is used when it is filled with 3 liters of water?
+*Answer:* The capacity used is 3 liters out of 5 liters.
+
+**Circumference:** The circumference is the distance around the edge of a circle. It is calculated as π (approximately 3.14) times the diameter of the circle.
+
+*Example Exercise:* Calculate the circumference of a circle with a diameter of 4 units.
+*Answer:* Circumference = π × diameter = 3.14 × 4 ≈ 12.56 units.
+
+**Decimal:** A decimal is a way of representing fractions using base ten. It is written with a decimal point dividing the whole number part from the fractional part.
+
+*Example Exercise:* Write 3/4 as a decimal.
+*Answer:* 0.75
+
+**Denominator:** The denominator is the bottom number in a fraction. It shows into how many equal parts the whole is divided.
+
+*Example Exercise:* What is the denominator in the fraction 3/8?
+*Answer:* The denominator is 8.
+
+**Difference:** The difference is the result of a subtraction problem.
+
+*Example Exercise:* What is the difference between 15 and 7?
+*Answer:* The difference is 8 (because 15 - 7 = 8).
+
+**Division:** Division is splitting into equal parts or groups. It is the opposite of multiplication.
+
+*Example Exercise:* Divide 32 by 8.
+*Answer:* The answer (quotient) is 4.
+
+**Equation:** An equation is a mathematical statement that shows that two expressions are equal, often containing an equals sign (=).
+
+*Example Exercise:* Solve the equation for x: x + 5 = 12.
+*Answer:* x = 7 (since 7 + 5 = 12).
+
+**Equivalent:** Equivalent means being equal in value, function, or meaning.
+
+*Example Exercise:* Are these two fractions equivalent: 1/2 and 2/4?
+*Answer:* Yes, because when we simplify 2/4, we get 1/2.
+
+**Estimate:** To estimate is to find an answer that is close to the exact answer. It is often used when a quick, rough calculation is needed.
+
+*Example Exercise:* Estimate the sum of 78 and 57.
+*Answer:* The estimate is 130 (rounded 78 to 80 + rounded 57 to 50 = 130).
+
+**Even Number:** An even number is a whole number that can be divided by 2 with no remainder.
+
+*Example Exercise:* Is 14 an even number?
+*Answer:* Yes, because 14 ÷ 2 = 7 with no remainder.
+
+**Factor:** A factor is a number that divides another number without leaving a remainder.
+
+*Example Exercise:* What are the factors of 12?
+*Answer:* The factors of 12 are 1, 2, 3, 4, 6, and 12.
+
+**Fraction:** A fraction is a part of a whole and is represented by two numbers: the top number (numerator) is the number of parts we have, and the bottom number (denominator) is the total number of equal parts the whole is divided into.
+
+*Example Exercise:* What fraction of the pizza has been eaten if there were originally 8 slices and now there are 3 slices left?
+*Answer:* 5/8 of the pizza has been eaten (because 8 - 3 = 5, and the pizza was divided into 8 slices).
+
+**Geometry:** Geometry is the branch of mathematics that deals with the properties and relationships of points, lines, angles, surfaces, and solids.
+
+*Example Exercise:* Name the geometric shape: A shape with 3 sides and 3 angles.
+*Answer:* The shape is a triangle.
+
+**Greater Than:** The symbol ">" is used to show that one number is greater than another number.
+
+*Example Exercise:* Is 9 greater than 7?
+*Answer:* Yes, 9 > 7.
+
+**Improper Fraction:** An improper fraction is a fraction where the numerator is greater than or equal to the denominator.
+
+*Example Exercise:* Write the improper fraction for the mixed number 2 1/3.
+*Answer:* The improper fraction is 7/3 (as 2 times 3 plus 1 is 7).
+
+**Interval:** An interval is the distance between two numbers or points, often used with number lines or graphs.
+
+*Example Exercise:* What is the interval between the numbers 4 and 10 on a number line?
+*Answer:* The interval is 6 (because 10 - 4 = 6).
+
+**Line Segment:** A line segment is a part of a line that has two endpoints.
+
+*Example Exercise:* Draw a line segment that is 5 units long.
+*Answer:* The student draws a line with two endpoints separated by 5 units of length.
+
+**Mass:** Mass is the amount of matter in an object and is often measured in grams or kilograms.
+
+*Example Exercise:* If a chocolate bar has a mass of 50 grams, what is the mass of two chocolate bars?
+*Answer:* The mass is 100 grams (50 grams + 50 grams).
+
+**Mixed Number:** A mixed number is a whole number and a fraction combined into one "mixed" number.
+
+*Example Exercise:* Convert the improper fraction 11/4 to a mixed number.
+*Answer:* The mixed number is 2 3/4.
+
+**Multiple:** A multiple is the result of multiplying a number by an integer. 
+
+*Example Exercise:* What is the first multiple of 4 after 10?
+*Answer:* The first multiple of 4 after 10 is 12 (because 3 × 4 = 12, and it is the smallest multiple greater than 10).
+
+**Numerator:** The numerator is the top number of a fraction that tells how many parts we are considering.
+
+*Example Exercise:* In the fraction 2/5, what is the numerator?
+*Answer:* The numerator is 2.
+
+**Odd Number:** An odd number is a whole number that cannot be divided by 2 without a remainder.
+
+*Example Exercise:* Is 13 an odd number?
+*Answer:* Yes, because 13 ÷ 2 = 6 with a remainder of 1.
+
+**Order of Operations:** The order of operations is the sequence in which mathematical operations should be performed. The most common sequence is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right), often abbreviated as PEMDAS.
+
+*Example Exercise:* Evaluate the expression: 3 + 6 × (5 + 4) ÷ 3 - 7.
+*Answer:* Follow PEMDAS: First calculate the expression inside the parentheses (5 + 4 = 9), then multiplication (6 × 9 = 54), then division (54 ÷ 3 = 18), then the addition and subtraction from left to right (3 + 18 - 7 = 14). The answer is 14.
+
+**Perimeter:** The perimeter is the total distance around a two-dimensional shape, like a triangle or rectangle.
+
+*Example Exercise:* Find the perimeter of a rectangle with a length of 6 units and a width of 3 units.
+*Answer:* Perimeter = 2 × (length + width) = 2 × (6 + 3) = 2 × 9 = 18 units.
+
+**Place Value:** Place value is the numerical value that a digit has by virtue of its position in a number.
+
+*Example Exercise:* In the number 4,572, what is the value of the digit 5?
+*Answer:* The value of the digit 5 is 500 because it is in the hundreds place.
+
+**Prime Number:** A prime number is a whole number greater than 1 that has no positive divisors other than 1 and itself.
+
+*Example Exercise:* Is 11 a prime number?
+*Answer:* Yes, because its only divisors are 1 and 11.
+
+**Product:** The product is the result of a multiplication operation.
+
+*Example Exercise:* What is the product of 8 and 5?
+*Answer:* The product is 40.
+
+**Proportion:** A proportion is an equation that states that two ratios are equal.
+
+*Example Exercise:* Are these two ratios in proportion: 4/6 and 2/3?
+*Answer:* Yes, because when the first ratio 4/6 is simplified, it equals 2/3.
+
+**Quotient:** The quotient is the result of a division operation.
+
+*Example Exercise:* What is the quotient of 15 ÷ 3?
+*Answer:* The quotient is 5.
+
+**Range:** The range is the difference between the highest and lowest values in a set of numbers.
+
+*Example Exercise:* Find the range of these numbers: 3, 7, 2, 9, 4.
+*Answer:* The range is 7 (since 9 - 2 = 7).
+
+**Rate:** A rate is a ratio that compares two different kinds of measurements, such as miles per hour or price per pound.
+
+*Example Exercise:* What is the rate if a car travels 150 miles in 3 hours?
+*Answer:* The rate is 50 miles per hour (150 miles ÷ 3 hours = 50 miles/hour).
+
+**Ratio:** A ratio shows the relative size of two or more values.
+
+*Example Exercise:* Write the ratio of 8 apples to 12 oranges in simplest form.
+*Answer:* The ratio is 2:3 (as 8/12 simplifies to 2/3, which corresponds to a ratio of 2:3).
+
+**Rounding:** Rounding is adjusting a number to a specified degree of accuracy or place value.
+
+*Example Exercise:* Round the number 47 to the nearest ten.
+*Answer:* The number rounded to the nearest ten is 50.
+
+**Subtrahend:** The subtrahend is the number that is being subtracted from another number in a subtraction operation.
+
+*Example Exercise:* In the subtraction problem 14 - 5 = 9, what is the subtrahend?
+*Answer:* The subtrahend is 5.
+
+**Sum:** The sum is the result of adding two or more numbers together.
+
+*Example Exercise:* What is the sum of 4 + 6 + 10?
+*Answer:* The sum is 20.
+
+**Unit Fraction:** A unit fraction is a fraction with a numerator of 1. It represents one part of the whole.
+
+*Example Exercise:* What is a unit fraction of a denominator 8?
+*Answer:* The unit fraction is 1/8.
+
+**Variable:** A variable is a symbol, usually a letter, used to represent a number in mathematical expressions and equations.
+
+*Example Exercise:* In the equation y - 3 = 7, solve for the variable y.
+*Answer:* y = 10 (because if we add 3 to both sides, we get y = 7 + 3 = 10).
+
+**Volume:** Volume is the amount of space that an object occupies or contains. It is often measured in cubic units.
+
+*Example Exercise:* Find the volume of a cuboid that has a length of 5 units, a width of 3 units, and a height of 2 units.
+*Answer:* Volume = length × width × height = 5 × 3 × 2 = 30 cubic units.
+
+**Whole Number:** A whole number is a number without fractions; an integer.
+
+*Example Exercise:* Identify if the following is a whole number: 12.0.
+*Answer:* Yes, because 12.0 can be written as 12, which is a whole number.

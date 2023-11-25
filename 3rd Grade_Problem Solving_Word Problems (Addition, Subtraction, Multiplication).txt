@@ -1,0 +1,105 @@
+## Chapter: Problem Solving
+
+### Section: Word Problems (Addition, Subtraction, Multiplication)
+
+Word problems are a fantastic way to see how math skills apply to real-world situations. As you work through these problems, remember to:
+
+1. Read the problem carefully.
+2. Understand what the question is asking.
+3. Determine what mathematical operation to use: addition, subtraction, or multiplication.
+4. Solve the problem step by step.
+5. Check your answer to make sure it makes sense.
+
+#### Addition Word Problems
+
+**Example 1.**
+Sarah has 8 apples and her brother gives her 5 more apples. How many apples does Sarah have now?
+
+**Solution:**
+Sarah's apples: 8
+Brother gives: +5
+Total apples: 8 + 5 = 13
+
+Sarah has 13 apples now.
+
+**Example 2.**
+There are 7 red cars and 6 blue cars in the parking lot. How many cars are there in total?
+
+**Solution:**
+Red cars: 7
+Blue cars: +6
+Total cars: 7 + 6 = 13
+
+There are 13 cars in the parking lot in total.
+
+**Practice Problems:**
+1. Tommy has 6 balloons and his friend gives him 4 more. How many balloons does Tommy have altogether?
+2. In a garden, there are 5 roses and 7 daisies. How many flowers are there in the garden?
+
+#### Subtraction Word Problems
+
+**Example 1.**
+Leo had 15 marbles, but he lost 4 of them. How many marbles does Leo have left?
+
+**Solution:**
+Leo's marbles: 15
+Marbles lost: -4
+Marbles left: 15 - 4 = 11
+
+Leo has 11 marbles left.
+
+**Example 2.**
+There were 12 cupcakes, and 3 cupcakes were eaten. How many cupcakes are left?
+
+**Solution:**
+Starting cupcakes: 12
+Cupcakes eaten: -3
+Cupcakes left: 12 - 3 = 9
+
+There are 9 cupcakes left.
+
+**Practice Problems:**
+1. Emma had 10 pencils, but she gave 2 pencils to her friend. How many pencils does Emma have now?
+2. There were 20 birds on a tree. 8 birds flew away. How many birds are left on the tree?
+
+#### Multiplication Word Problems
+
+**Example 1.**
+Each box has 4 apples. If there are 3 boxes, how many apples are there in total?
+
+**Solution:**
+Apples per box: 4
+Number of boxes: ×3
+Total apples: 4 × 3 = 12
+
+There are 12 apples in total.
+
+**Example 2.**
+A baker bakes 5 loaves of bread each day. How many loaves of bread does the baker bake in 7 days?
+
+**Solution:**
+Loaves per day: 5
+Number of days: ×7
+Total loaves: 5 × 7 = 35
+
+The baker bakes 35 loaves of bread in 7 days.
+
+**Practice Problems:**
+1. If one pack of stickers contains 8 stickers, how many stickers are there in 5 packs?
+2. An ice cream shop sells 6 flavors of ice cream. If they have 4 scoops each, how many scoops of ice cream are there in total?
+
+#### Answers to Practice Problems:
+
+**Addition:**
+1. Tommy's balloons: 6 + 4 = 10 (Tommy has 10 balloons altogether.)
+2. Flowers in the garden: 5 roses + 7 daisies = 12 (There are 12 flowers in the garden.)
+
+**Subtraction:**
+1. Emma's pencils: 10 - 2 = 8 (Emma has 8 pencils now.)
+2. Birds left on the tree: 20 - 8 = 12 (There are 12 birds left on the tree.)
+
+**Multiplication:**
+1. Total stickers: 8 stickers/pack × 5 packs = 40 stickers (There are 40 stickers in 5 packs.)
+2. Total ice cream scoops: 6 flavors × 4 scoops/flavor = 24 scoops (There are 24 scoops of ice cream in total.)
+
+Remember, practicing word problems will improve your problem-solving skills and help you understand how to apply mathematical operations in daily life. Keep practicing and have fun with math!

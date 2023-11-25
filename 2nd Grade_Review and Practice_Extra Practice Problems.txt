@@ -1,0 +1,146 @@
+## Extra Practice Problems
+
+Welcome to the Extra Practice Problems section of your Review and Practice chapter! This is where you can put your skills to the test and master the math concepts you've been learning. Make sure to try these problems on your own before checking the solutions. You can even ask someone at home to help if you get stuck. Ready to practice? Let’s go!
+
+### Addition
+
+**Example 1:** 5 + 7 = ?
+
+**Answer:** 12
+
+**Problem 1:** 8 + 6 = ?
+**Problem 2:** 9 + 4 = ?
+**Problem 3:** 7 + 5 = ?
+**Problem 4:** 3 + 9 = ?
+**Problem 5:** 11 + 2 = ?
+
+### Subtraction
+
+**Example 2:** 15 - 7 = ?
+
+**Answer:** 8
+
+**Problem 6:** 13 - 6 = ?
+**Problem 7:** 10 - 4 = ?
+**Problem 8:** 14 - 5 = ?
+**Problem 9:** 12 - 3 = ?
+**Problem 10:** 9 - 0 = ?
+
+### Mixed Addition and Subtraction
+
+**Example 3:** 6 + 5 - 3 = ?
+
+**Answer:** 8
+
+**Problem 11:** 7 + 2 - 4 = ?
+**Problem 12:** 8 + 4 - 5 = ?
+**Problem 13:** 9 + 3 - 6 = ?
+**Problem 14:** 4 + 7 - 2 = ?
+**Problem 15:** 5 + 6 - 1 = ?
+
+### Working with Tens
+
+**Example 4:** What is 10 more than 23?
+
+**Answer:** 33
+
+**Problem 16:** What is 10 more than 35?
+**Problem 17:** What is 10 less than 50?
+**Problem 18:** What is 10 more than 17?
+**Problem 19:** What is 10 less than 20?
+**Problem 20:** What is 10 more than 42?
+
+### Place Value
+
+**Example 5:** What is the value of the digit '4' in the number 45?
+
+**Answer:** 40 (because it is in the tens place)
+
+**Problem 21:** What is the value of the digit '7' in the number 73?
+**Problem 22:** What is the value of the digit '3' in the number 38?
+**Problem 23:** What is the value of the digit '5' in the number 57?
+**Problem 24:** What is the value of the digit '6' in the number 64?
+**Problem 25:** What is the value of the digit '2' in the number 29?
+
+### Word Problems
+
+**Example 6:** Maya has 8 apples, and she buys 5 more from the store. How many apples does Maya have now?
+
+**Answer:** 13 apples
+
+**Problem 26:** Jay has 14 pencils, and he gives away 3 pencils to his friend. How many pencils does Jay have left?
+**Problem 27:** Emma has 3 red balloons and 4 blue balloons. How many balloons does she have in total?
+**Problem 28:** Sam had 15 candies. He ate 7 candies. How many candies does Sam have now?
+**Problem 29:** Lily found 7 seashells on the beach, and her brother found 5 seashells. How many seashells did they find together?
+**Problem 30:** There are 9 ducks in the pond. 4 more ducks join them. How many ducks are in the pond then?
+
+### Measurement and Data
+
+**Example 7:** A pencil is 7 inches long. How many inches long are 3 pencils end to end?
+
+**Answer:** 21 inches
+
+**Problem 31:** A book is 8 inches tall. How tall are 4 books stacked on top of each other?
+**Problem 32:** A table is 3 feet wide. How wide is it in inches? (Remember: 1 foot = 12 inches)
+**Problem 33:** A string is 2 feet long. John cuts it into 4 equal pieces. How long is each piece?
+**Problem 34:** In Lily's garden, she measures 2 flowers to be 6 inches each and one flower to be 7 inches. What is the total height of the 3 flowers?
+**Problem 35:** A ribbon is 24 inches long. If it is cut into 6 equal parts, how long is each part?
+
+### Geometry
+
+**Example 8:** If a triangle has 3 sides, how many sides does a triangle and a square have in total?
+
+**Answer:** 7 sides (because a square has 4 sides)
+
+**Problem 36:** How many corners does a rectangle have?
+**Problem 37:** If you have a circle, a triangle, and a rectangle, how many sides do you have in total?
+**Problem 38:** How many more sides does a hexagon have compared to a triangle?
+**Problem 39:** If you have 3 triangles, how many sides do they have in total?
+**Problem 40:** Can you draw a shape with 5 sides and name it?
+
+---
+
+### Answers to Extra Practice Problems:
+
+1. 14
+2. 13
+3. 12
+4. 12
+5. 13
+6. 7
+7. 6
+8. 9
+9. 9
+10. 9
+11. 5
+12. 7
+13. 6
+14. 9
+15. 10
+16. 45
+17. 40
+18. 27
+19. 10
+20. 52
+21. 70
+22. 30
+23. 50
+24. 60
+25. 20
+26. 11 pencils
+27. 7 balloons
+28. 8 candies
+29. 12 seashells
+30. 13 ducks
+31. 32 inches
+32. 36 inches
+33. 6 inches each
+34. 19 inches
+35. 4 inches
+36. 4 corners
+37. 10 sides
+38. 3 more sides
+39. 9 sides
+40. A pentagon
+
+Keep practicing, and you'll see how these math problems become easier for you to solve. Great job!

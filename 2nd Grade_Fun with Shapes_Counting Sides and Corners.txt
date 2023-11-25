@@ -1,0 +1,82 @@
+## Chapter 3: Fun with Shapes
+### Section 3.2: Counting Sides and Corners
+
+Hello young mathematicians! Today we are going to learn about something fun with shapes: counting their sides and corners. Do you know that every shape around us has a different number of sides and corners? It's true! So let's start exploring this interesting world of shapes together.
+
+#### What Are Sides?
+
+Sides are the straight lines that make up a shape. If you draw a shape with a pencil, every time you move your pencil in a straight line before changing direction, you've drawn a side. Sides are also known as edges. Now, let's count sides!
+
+##### Exercise 1: Count the Sides!
+
+Let's try counting the sides of the following shapes:
+
+1. Square
+2. Triangle
+3. Rectangle
+4. Pentagon 
+
+**Answers:**
+
+1. Square: A square has 4 sides.
+2. Triangle: A triangle has 3 sides.
+3. Rectangle: A rectangle also has 4 sides, just like a square!
+4. Pentagon: A pentagon has 5 sides.
+
+Now draw each shape and practice counting the sides!
+
+#### What Are Corners?
+
+Corners are the points where two sides meet. They are like the 'tips' of the shape and are sometimes called 'vertices'. Let's find out how many corners some shapes have.
+
+##### Exercise 2: Count the Corners!
+
+Now, guess how many corners these shapes have before we count:
+
+1. Square
+2. Triangle
+3. Rectangle
+4. Pentagon
+
+Feel free to trace your finger along the sides until you reach a corner, then count each corner you touch.
+
+**Answers:**
+
+1. Square: A square has 4 corners.
+2. Triangle: A triangle has 3 corners.
+3. Rectangle: A rectangle has 4 corners, just like a square!
+4. Pentagon: A pentagon has 5 corners.
+
+Can you see the pattern? Shapes have the same number of sides and corners! 
+
+#### Practice Makes Perfect
+
+##### Exercise 3: Mystery Shapes
+
+Draw a mystery shape with your eyes closed. Now, open your eyes and count the sides and corners of the shape you created. Write down how many sides and corners your mystery shape has. Remember, if your shape crosses over itself, count the crossing as a corner too!
+
+##### Exercise 4: Side and Corner Match-Up
+
+Draw a line to match the shape with the correct number of sides and corners:
+
+- Square:      |   (3 sides, 3 corners)
+- Triangle:    |   (4 sides, 4 corners)
+- Pentagon:    |   (5 sides, 5 corners)
+
+**Answers:**
+
+- Square:      |   (4 sides, 4 corners)
+- Triangle:    |   (3 sides, 3 corners)
+- Pentagon:    |   (5 sides, 5 corners)
+
+#### Craft Time!
+
+To help you remember how many sides and corners each shape has, let’s make a shape collage. Cut out different shapes from colored paper and label each one with the number of sides and corners they have. Have fun decorating your room with these shapes!
+
+#### Review
+
+In this section, we learned about counting sides, counting corners, and you practiced with different exercises. Remember, sides are the straight lines that make up a shape, and corners are where two sides meet. Knowing how to count the sides and corners of shapes is very important, and with a bit of practice, you'll be a shape expert in no time!
+
+Homework: Bring in a shape from home and tell the class how many sides and corners your shape has. Be ready to explain how you counted them!
+
+Congratulations on completing this section, and keep having fun with shapes!

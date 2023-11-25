@@ -1,0 +1,64 @@
+# Comparing and Ordering Decimals
+
+## Understanding Decimals
+
+A decimal is a way of representing numbers that are not whole. It uses a decimal point to show values that are less than one. The decimal point is placed to the right of the ones place. For example, in the number 3.25, the 3 is in the ones place, the 2 is in the tenths place, and the 5 is in the hundredths place.
+
+## Comparing Decimals
+
+To compare two decimals, we need to look at the digits in each place value starting from the left. Here are the steps you should follow:
+
+1. Compare the digits in the ones place first. The number with the larger digit in the ones place is the larger number. If they are the same, move to the tenths place.
+2. Compare the digits in the tenths place. If these are the same, move to the hundredths place, and so on.
+3. If all the digits are the same, then the numbers are equal.
+
+**Tip:** It can be helpful to write the numbers with the same number of decimal places by adding zeros to the end of the shorter decimal. This doesn't change the value of the number.
+
+## Ordering Decimals
+
+Ordering decimals means arranging them from smallest to largest (ascending order) or largest to smallest (descending order). Use the same steps as comparing individual decimals to determine the order.
+
+## Examples
+
+### Comparing Decimals
+
+1. Compare 0.63 and 0.639.
+   - The ones places are the same (both are 0).
+   - The tenths places are the same (both are 6).
+   - Compare the hundredths place (3 for the first number, 3 for the second number). They are the same.
+   - Move to the thousandths place. The first number doesn't have a thousandths place, so we imagine there is a zero there (0.630). Since 0 < 9, 0.630 is smaller than 0.639.
+
+2. Compare 2.75 and 2.57.
+   - The ones places are the same (both are 2).
+   - Compare the tenths place (7 in the first number, 5 in the second number). Since 7 > 5, 2.75 is greater than 2.57.
+
+### Ordering Decimals
+
+1. Put the following decimals in ascending order: 0.5, 0.65, 0.56, 0.505.
+   - Compare the tenths place first: 0.5 (which can be thought of as 0.50), 0.65, 0.56, 0.505.
+   - Arrange them from smallest to largest: 0.5 (0.50), 0.505, 0.56, 0.65.
+   - The ordered list: 0.5, 0.505, 0.56, 0.65.
+
+2. Put the following decimals in descending order: 3.1, 3.01, 3.001, 2.9.
+   - Start with the largest one place number: 2.9 is the smallest because it has a 2 while the others have a 3.
+   - Now focus on the decimals with 3's and compare tenths place: 3.1 is the largest as it has the highest tenths number.
+   - Now compare 3.01 and 3.001, since 3.01 has a larger hundredths value, it comes next.
+   - The ordered list: 3.1, 3.01, 3.001, 2.9.
+
+## Exercises
+
+Now it's your turn! Use what you've learned to compare and order the following decimals.
+
+1. Compare 1.08 and 1.09.
+2. Compare 0.7 and 0.07.
+3. Put these numbers in ascending order: 2.34, 2.304, 2.403.
+4. Put these numbers in descending order: 0.101, 0.11, 0.2.
+
+## Answers
+
+1. 1.08 is less than 1.09 because the hundredths place in 1.09 is greater.
+2. 0.7 is greater than 0.07 because the tenths place in 0.7 is greater.
+3. Ascending order: 2.304, 2.34, 2.403.
+4. Descending order: 0.2, 0.11, 0.101.
+
+Keep practicing these steps, and soon you'll be a pro at comparing and ordering decimals!

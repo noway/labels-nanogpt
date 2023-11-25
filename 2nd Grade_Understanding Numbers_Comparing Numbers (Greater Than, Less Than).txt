@@ -1,0 +1,69 @@
+# Understanding Numbers
+
+## Chapter 2: Comparing Numbers (Greater Than, Less Than)
+
+### What are Comparing Numbers?
+Comparing numbers is the process of looking at two numbers and deciding if one is larger, smaller, or equal to the other. This is a very important skill in math because it helps us understand the relationships between numbers.
+
+### Symbols Used in Comparing Numbers
+- The **greater than** symbol (>) means that the number on the left is larger than the number on the right.
+- The **less than** symbol (<) means that the number on the left is smaller than the number on the right.
+- The **equal to** symbol (=) means that the two numbers are exactly the same.
+
+### How to Compare Two Numbers 
+To compare two numbers, you look at each number starting from the largest place value. For second graders, the largest place value you usually deal with is the hundreds place. Here are some steps on how to compare:
+
+1. First, look at the highest place value (which might be the hundreds place). The number with the higher digit in this place is the larger number.
+2. If the digits are the same in the highest place value, move to the next place value to the right (which might be the tens place).
+3. Keep comparing each place value until you find numbers that are different.
+4. If all the digits in each place value are the same, then the numbers are equal.
+
+### Practice Exercises
+
+#### Exercise 1:
+Which symbol should go in the box?
+
+- 45 ___ 53 
+
+**Answer**: <
+- We compare the digits starting from the left. The first digit for 45 is 4, and the first digit for 53 is 5. Since 4 is less than 5, 45 is less than 53.
+
+#### Exercise 2:
+Write the correct symbol (<, >, =) in each box.
+
+a) 76 ___ 76   
+b) 24 ___ 42   
+c) 89 ___ 93   
+d) 64 ___ 46   
+
+**Answers**:
+
+a) 76 = 76    
+b) 24 < 42    
+c) 89 < 93    
+d) 64 > 46   
+
+- a) Since both numbers are the same, we use the equal to symbol.
+- b) The tens place is the same (2), but in the ones place, 4 is less than 2, so 24 is less than 42.
+- c) We compare the first digits, 8 is less than 9, so the whole number 89 is less than 93.
+- d) We compare the first digits, 6 is greater than 4, so 64 is greater than 46.
+
+#### Exercise 3:
+Circle the greatest number in each set.
+
+a) 15, 51, 11, 5  
+b) 24, 42, 22, 44
+
+**Answers**:  
+a) Out of 15, 51, 11, and 5, the greatest number is 51.  
+b) Out of 24, 42, 22, and 44, the greatest number is 44.
+
+#### Exercise 4:
+Write three numbers that are less than 30 but greater than 27.
+
+**Answers**: There are many possible answers, such as 28, 29, and 29 (numbers can repeat).
+
+#### Final Notes:
+Remember to always start comparing numbers from the leftmost digit and move to the right. The symbols >, <, and = are very useful when you want to tell someone about the relationship between two numbers without using many words. With practice, you will get even better at comparing numbers!
+
+Now that you've learned how to compare numbers, try practicing with your own sets of numbers. You can use playing cards, number flashcards, or write numbers on pieces of paper and compare them. Have fun with numbers!

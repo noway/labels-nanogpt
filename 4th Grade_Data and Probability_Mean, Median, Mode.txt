@@ -1,0 +1,98 @@
+**Chapter: Data and Probability**
+
+**Section: Mean, Median, Mode**
+
+**Mean (Average)**
+
+When we talk about the *mean* in mathematics, we're usually referring to what people often call the "average." To find the mean of a set of numbers, you follow these steps:
+
+1. **Add** up all the numbers in your set.
+2. **Divide** the sum by the number of numbers you added.
+
+This gives you the mean!
+
+*Example:*
+
+Find the mean of the following set of numbers: 4, 8, 6, 3, 5.
+
+**Step 1:** Add the numbers together.
+4 + 8 + 6 + 3 + 5 = 26
+
+**Step 2:** Divide the sum by the number of numbers (in this example, there are 5 numbers).
+26 ÷ 5 = 5.2
+
+So, the mean of the numbers is 5.2.
+
+**Exercise 1:**
+Find the mean of the following numbers: 7, 9, 5, 8, 10.
+
+**Answer to Exercise 1:**
+(7 + 9 + 5 + 8 + 10) ÷ 5 = 39 ÷ 5 = 7.8
+
+**Median**
+
+The median is the "middle value" in a list of numbers. To find the median, you need to:
+
+1. Arrange the numbers in order from the smallest to the largest.
+2. Find the number that is exactly in the middle of the list. If there is an even number of observations, find the average of the two middle numbers.
+
+*Example:*
+
+Find the median of the following numbers: 7, 5, 3, 9.
+
+**Step 1:** Arrange the numbers in order.
+3, 5, 7, 9
+
+**Step 2:** Since there are an even number of numbers, take the middle two (5 and 7) and find their average.
+(5 + 7) ÷ 2 = 12 ÷ 2 = 6
+
+So, the median of the numbers is 6.
+
+**Exercise 2:**
+Find the median of these numbers: 12, 3, 8, 4, 10, 15.
+
+**Answer to Exercise 2:**
+First, arrange the numbers: 3, 4, 8, 10, 12, 15.
+The middle numbers are 8 and 10, so the median is (8 + 10) ÷ 2 = 18 ÷ 2 = 9.
+
+**Mode**
+
+The mode is the number that appears most frequently in a list of numbers. It's possible to have more than one mode or to have no mode at all.
+
+*Example:*
+
+Find the mode of the following set of numbers: 3, 7, 3, 2, 5, 2.
+
+The number 3 appears twice, and the number 2 appears twice. No other number appears more than that.
+
+So, the mode of the numbers is 2 and 3. This is called bimodal because there are two modes.
+
+**Exercise 3:**
+Find the mode of these numbers: 11, 8, 8, 11, 8, 9, 4.
+
+**Answer to Exercise 3:**
+The number 8 appears three times, more than any other number.
+
+So the mode is 8.
+
+---
+
+Now, let's practice what we've learned about mean, median, and mode. Try the exercises below, and check your answers with the ones provided:
+
+**Exercise 4:**
+Find the mean, median, and mode of the following numbers: 2, 4, 4, 4, 5, 5, 7, 9.
+
+**Answer to Exercise 4:**
+Mean: (2 + 4 + 4 + 4 + 5 + 5 + 7 + 9) ÷ 8 = 40 ÷ 8 = 5
+Median: The middle numbers are 4 and 5, so (4 + 5) ÷ 2 = 9 ÷ 2 = 4.5
+Mode: The number 4 appears most frequently, so the mode is 4.
+
+**Exercise 5:**
+Find the mean, median, and mode of these numbers: 12, 16, 12, 16, 14, 18, 16.
+
+**Answer to Exercise 5:**
+Mean: (12 + 16 + 12 + 16 + 14 + 18 + 16) ÷ 7 = 104 ÷ 7 ≈ 14.86
+Median: Arrange the numbers: 12, 12, 14, 16, 16, 16, 18. The median is 16.
+Mode: The number 16 appears most frequently, so the mode is 16.
+
+Remember, practicing these concepts helps you understand them better. Keep practicing with different sets of numbers until you feel confident with finding the mean, median, and mode.

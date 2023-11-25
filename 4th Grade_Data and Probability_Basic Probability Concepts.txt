@@ -1,0 +1,119 @@
+## Basic Probability Concepts
+
+### Understanding Probability
+
+Probability is a way of expressing the likelihood that an event will occur. It is a number between 0 and 1, where 0 means the event will not happen, and 1 means it will definitely happen. If the probability of an event is close to 0, it's unlikely to happen, and if it's close to 1, it's very likely to happen.
+
+### Experiments, Outcomes, and Events
+
+Let's start with some key terms:
+
+- **Experiment:** An activity with a result based on chance, like flipping a coin.
+- **Outcome:** A possible result of an experiment, like tails appearing after flipping a coin.
+- **Event:** One or more outcomes that we are interested in, like getting tails twice after flipping a coin two times.
+
+### Expressing Probability
+
+The probability of an event can be written as a fraction, a decimal, or a percentage. For example, the probability of flipping tails on a coin can be expressed as 1/2, 0.5, or 50%.
+
+### Finding Probabilities
+
+To find the probability of an event, use this formula:
+
+```
+Probability of an event = (Number of favorable outcomes) / (Total number of possible outcomes)
+```
+
+### Simple Probability Exercises
+
+#### Exercise 1: Coin Toss
+
+If you toss a regular coin, what is the probability of getting heads?
+
+**Solution:** There are two possible outcomes - heads or tails. Only one of these is the outcome we want (heads).
+
+```
+Probability of getting heads = 1 (favorable outcome) / 2 (total outcomes) = 1/2 or 0.5 or 50%
+```
+
+#### Exercise 2: Rolling a Die
+
+What is the probability of rolling a 4 on a standard 6-sided die?
+
+**Solution:** There are six possible outcomes (1, 2, 3, 4, 5, 6), but only one of these outcomes is a 4.
+
+```
+Probability of rolling a 4 = 1 (favorable outcome) / 6 (total outcomes) = 1/6 ≈ 0.166 or 16.6%
+```
+
+#### Exercise 3: Randomly Picking a Marble
+
+Lucy has a bag with 3 red marbles, 2 blue marbles, and 1 green marble. What is the probability of picking a blue marble at random?
+
+**Solution:** There are 6 marbles in total, and 2 of them are blue.
+
+```
+Probability of picking a blue marble = 2 (favorable outcomes) / 6 (total outcomes) = 1/3 ≈ 0.333 or 33.3%
+```
+
+### Compound Events and Probability
+
+Sometimes we want to know the probability of multiple outcomes happening together, like flipping a coin and rolling a die to get heads and a 4.
+
+For these, we can use:
+
+- **Independent Events:** The outcome of one event does not affect the outcome of the other.
+
+#### Exercise 4: Coin Toss and Die Roll
+
+What is the probability of flipping a coin and getting heads, and then rolling a die and getting a 4?
+
+**Solution:** Since these are independent events, we multiply their separate probabilities.
+
+For the coin:
+```
+Probability of getting heads = 1/2
+```
+
+For the die:
+```
+Probability of rolling a 4 = 1/6
+```
+
+Together:
+```
+Probability of both = (1/2) * (1/6) = 1/12 ≈ 0.083 or 8.3%
+```
+
+### Probability Practice Problems
+
+Now let's put what we've learned to the test with a few exercises!
+
+1. **Bag of Marbles:** In a bag of marbles with 5 red, 4 green, and 1 blue marble, what is the probability of drawing a green marble?
+
+2. **Deck of Cards:** What is the probability of drawing an Ace from a standard deck of 52 playing cards?
+
+3. **Dice Roll:** If you roll two 6-sided dice, what is the probability of getting a sum of 8?
+
+### Answers to Probability Practice Problems
+
+1. **Bag of Marbles:**
+   There are 10 marbles total, and 4 are green.
+   ```
+   Probability of drawing a green marble = 4/10 = 2/5 = 0.4 or 40%
+   ```
+
+2. **Deck of Cards:**
+   There are 52 cards in the deck and 4 Aces.
+   ```
+   Probability of drawing an Ace = 4/52 = 1/13 ≈ 0.077 or 7.7%
+   ```
+
+3. **Dice Roll:**
+   The pairs that sum up to 8 are (2,6), (3,5), (4,4), (5,3), and (6,2). That's 5 favorable outcomes.
+   There are 36 total outcomes when rolling two dice (6x6).
+   ```
+   Probability of getting a sum of 8 = 5/36 ≈ 0.139 or 13.9%
+   ```
+
+Keep practicing these kinds of problems, and you'll get the hang of basic probability in no time! Remember, the more you practice, the luckier you get with understanding probability!

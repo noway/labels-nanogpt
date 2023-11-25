@@ -1,0 +1,86 @@
+# Geometry Chapter - Introduction to Angles
+
+Welcome curious mathematicians of the 4th Grade! Today we're going to embark on an exciting journey into the world of Geometry, exploring one of its fundamental elements: Angles. 
+
+## What is an Angle?
+
+An angle is formed when two lines meet at a point called the vertex. Think of it like opening a book – the spine of the book is the vertex and each page represents a line. The size of an angle is a measure of the turn or opening between these two lines, and it's measured in degrees (°). There are 360° in a full turn, which is a complete circle.
+
+## Types of Angles
+
+There are several types of angles that we'll get to know:
+
+1. **Acute Angle** - This is any angle smaller than 90°. It's sharp and narrow, just like the edge of a pizza slice.
+2. **Right Angle** - This is a 90° angle and it looks like a corner of a square or a rectangle.
+3. **Obtuse Angle** - An angle larger than 90° but smaller than 180° is called obtuse. It's a bit like an open book that is laying flat but not completely open.
+4. **Straight Angle** - When the two lines are opposite each other, making a straight line, this forms a 180° angle, known as a straight angle.
+5. **Reflex Angle** - This is any angle that is larger than 180° but less than 360°. If you start to open a door but stop before it is fully opened or goes back around, that's like a reflex angle.
+6. **Full Angle** - A full angle is 360° and it's like a circle.
+
+## Measuring Angles
+
+To measure angles, we use a tool called a protractor. It looks like a half-circle or a full circle with degree markings on it. Here's how to use a protractor:
+
+1. Place the midpoint of the protractor on the vertex of the angle.
+2. Make sure one of the lines of the angle is lined up with the zero line of the protractor.
+3. Read the number on the protractor where the other line of the angle crosses the scale. That number is the measure of your angle in degrees.
+
+## Example Exercises
+
+Let's try some practice exercises to become angle experts.
+
+### Exercise 1:
+
+Identify the types of angles:
+
+a. An angle that measures 72°.
+
+b. An angle that measures 90°.
+
+c. An angle that measures 135°.
+
+d. An angle that measures 180°.
+
+### Exercise 2:
+
+Measure the angles using a protractor:
+
+[Insert image of four different angles for students to measure]
+
+Don't forget to write down the angle type (acute, right, obtuse, straight, reflex, or full) after measuring.
+
+### Exercise 3:
+
+Draw the following angles using a protractor:
+
+a. An acute angle of 50°.
+
+b. A right angle.
+
+c. An obtuse angle of 120°.
+
+d. A straight angle.
+
+## Answers to Exercises
+
+### Answers for Exercise 1:
+
+a. This is an *acute angle* because it is less than 90°.
+
+b. This is a *right angle* because it measures exactly 90°.
+
+c. This is an *obtuse angle* because it is more than 90° but less than 180°.
+
+d. This is a *straight angle* because it measures exactly 180°.
+
+### Answers for Exercise 2:
+
+[Insert the correct angle measurements corresponding to the provided imagery]
+
+Remember, the exact answer will depend on the angles drawn in the provided images for the exercise.
+
+### Answers for Exercise 3:
+
+For this exercise, the students' drawn angles with a protractor should reflect the angle types and measurements requested. Have a teacher or a peer check the work for accuracy.
+
+Great work, young geometers! You've taken your first steps into the world of angles. Keep practicing and you'll soon be able to identify and measure all kinds of angles in the world around you. Happy measuring!

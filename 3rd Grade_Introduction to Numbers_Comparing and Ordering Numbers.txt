@@ -1,0 +1,92 @@
+***
+
+## Chapter 1: Introduction to Numbers
+
+### Section 3: Comparing and Ordering Numbers
+
+Understanding how to compare and order numbers is an important skill in math. It helps us determine if one number is greater than, less than, or equal to another number. When we order numbers, we arrange them from the smallest to the largest or vice versa.
+
+#### Comparing Numbers
+
+To compare two numbers, we look at their size. We use symbols to show how they relate to each other. These symbols are:
+
+- "Greater than" (>)
+- "Less than" (<)
+- "Equal to" (=)
+
+The wide open side of the "<" or ">" symbol always points to the larger number, just like the mouth of a hungry alligator that wants to eat the bigger number!
+
+#### Examples
+
+1. Compare 5 and 8: Since 5 is smaller, we can say 5 < 8, which reads as "5 is less than 8."
+2. Compare 7 and 2: Since 7 is larger, we can say 7 > 2, which reads as "7 is greater than 2."
+3. Compare 6 and 6: Since they are the same, we can say 6 = 6, which reads as "6 is equal to 6."
+
+#### Practice Problems
+
+A. Which symbol should be used (> or <)?
+
+1. 9 _ 13
+2. 4 _ 7
+3. 6 _ 6
+
+B. Compare these numbers using >, <, or =:
+
+1. 12 _ 10
+2. 5 _ 5
+3. 14 _ 17
+
+Answers:
+
+A.
+
+1. 9 < 13 (9 is less than 13)
+2. 4 < 7 (4 is less than 7)
+3. 6 = 6 (6 is equal to 6)
+
+B.
+
+1. 12 > 10 (12 is greater than 10)
+2. 5 = 5 (5 is equal to 5)
+3. 14 < 17 (14 is less than 17)
+
+#### Ordering Numbers
+
+Ordering numbers means arranging them from the smallest to the largest (ascending order) or from the largest to the smallest (descending order).
+
+#### Examples
+
+- Ascending order: 3, 5, 9 (from smallest to largest)
+- Descending order: 9, 5, 3 (from largest to smallest)
+
+#### Practice Problems
+
+Arrange the following sets of numbers in ascending order:
+
+A.
+
+1. 4, 1, 7
+2. 9, 3, 12
+
+B. Arrange the following sets of numbers in descending order:
+
+1. 8, 6, 10
+2. 15, 20, 5
+
+Answers:
+
+A.
+
+1. 1, 4, 7
+2. 3, 9, 12
+
+B.
+
+1. 10, 8, 6
+2. 20, 15, 5
+
+***
+
+Congratulations! You now know how to compare and order numbers. Remember to practice these skills often, and you will become a numbers expert in no time! Keep up the great work!
+
+***

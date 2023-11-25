@@ -1,0 +1,85 @@
+# Brain Teasers and Math Puzzles
+
+Hello, young mathematicians! Ready to put on your thinking caps? This section is all about teasing your brain and solving some fun math puzzles. These activities will not only test your math skills but also improve your problem-solving abilities. Let’s dive into the world of numbers and see if you can crack these puzzles!
+
+### 1. Mystery Number
+
+I am a two-digit number. When you add my digits together, you get 9. If you turn me upside down, I'm the same number. What number am I?
+
+#### Example
+- **Puzzle**: I am a two-digit number. My digits add up to 12, and I'm more than 50 but less than 80. What number am I?
+  
+  **Answer**: 66. (The digits 6 and 6 add up to 12, and 66 is between 50 and 80)
+
+#### Exercise
+- **Puzzle**: Can you guess my number? It is a two-digit number less than 50, and when you add the two digits, you get 8. What's my number?
+
+### 2. Fruit Math
+
+If an apple is worth 10 and a banana is worth 1, how much is an apple plus a banana?
+
+#### Example
+- **Puzzle**: If an apple is worth 10 and a banana is worth 1, what is an apple minus a banana?
+  
+  **Answer**: 10 (an apple) minus 1 (a banana) equals 9.
+
+#### Exercise
+- **Puzzle**: If you have two apples and three bananas, how much do you have in total?
+
+### 3. The Magic Number
+
+Find the magic number that can be divided by both 2 and 5.
+
+#### Example
+- **Puzzle**: What is the smallest magic number that is more than 20 but less than 40 and can be divided by 2 and 5?
+  
+  **Answer**: 30, because it’s divisible by both 2 and 5, and it's between 20 and 40.
+
+#### Exercise
+- **Puzzle**: Find a magic number between 40 and 60.
+
+### 4. Shape Shuffle
+
+Count the number of triangles you can find in the shape below.
+
+      *
+     * *
+    * * *
+   * * * *
+  * * * * *
+
+#### Example
+- **Answer**: There are 10 triangles in the shape (each individual * makes up a triangle, along with other triangles formed by the combination of these smaller ones).
+
+#### Exercise
+- **Puzzle**: How many squares can you find in this shape?
+
+  * * *
+  * * *
+  * * *
+
+### 5. The Puzzling Pattern
+
+Look at this sequence: 3, 6, 9, 12. What's the pattern? Can you continue the sequence with three more numbers?
+
+#### Example
+- **Answer**: The pattern is adding 3 to the previous number each time (3, 6, 9, 12, 15, 18, 21).
+
+#### Exercise
+- **Puzzle**: Continue this pattern: 5, 10, 15, ...
+
+### Answer Key
+
+#### Exercise Answers
+
+1. **Puzzle**: Mystery Number - The number is 35. The digits 3 and 5 add up to 8, and 35 is less than 50.
+   
+2. **Puzzle**: Fruit Math - Two apples (10 each) and three bananas (1 each) add up: 10 + 10 + 1 + 1 + 1 = 23.
+   
+3. **Puzzle**: The Magic Number - The magic number is 50. It’s the only number between 40 and 60 that can be divided evenly by both 2 and 5.
+   
+4. **Puzzle**: Shape Shuffle - There are 4 squares in the shape.
+   
+5. **Puzzle**: The Puzzling Pattern - The next three numbers in the pattern are 20, 25, 30.
+
+Remember, practice makes perfect! Keep playing with numbers, and you'll become a math wizard in no time! Good luck, and most importantly, have fun with these brain teasers and math puzzles!

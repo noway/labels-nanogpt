@@ -1,0 +1,89 @@
+# Understanding Perimeter
+
+## What is Perimeter?
+
+In geometry, the perimeter is the distance all the way around a two-dimensional shape. You can think of it like the fence that surrounds a garden or the border around a picture. If we walked along the edges of a shape, from the starting point right around to the same point, the distance we covered would be the perimeter.
+
+## How to Find Perimeter
+
+To find the perimeter of a shape, we add up the lengths of all its sides. The perimeter is measured in units of length, such as meters, feet, or centimeters. Here's how you can calculate perimeter for a couple of common shapes:
+
+- **Rectangle:** Since opposite sides of a rectangle are equal, the formula to find the perimeter is `P = 2(length + width)`.
+  
+- **Square:** All four sides of a square are equal, so the perimeter is four times the length of one side: `P = 4 × side`.
+
+With shapes like circles, finding the perimeter is a little different. The perimeter of a circle is known as the circumference and is calculated using the circle's diameter and the mathematical constant π (pi). 
+
+But, let's focus on some simpler shapes first.
+
+## Exercise: Calculate the Perimeter
+
+Here's an exercise to practice finding perimeters. Grab your ruler, and let's start!
+
+1. **Rectangle**
+   
+   A garden in the shape of a rectangle measures 5 meters long and 3 meters wide. What is the perimeter of the garden?
+
+   *Solution:*
+
+   Use the formula for a rectangle: `P = 2(length + width)`
+
+   So, `P = 2(5 m + 3 m) = 2 × 8 m = 16 m`
+
+   The perimeter of the garden is 16 meters.
+
+2. **Square**
+   
+   Alex has a square tablecloth, and each side is 2 feet long. What is the perimeter of the tablecloth?
+
+   *Solution:*
+
+   Use the formula for a square: `P = 4 × side`
+
+   So, `P = 4 × 2 ft = 8 ft`
+
+   The perimeter of the tablecloth is 8 feet.
+
+3. **Triangle**
+  
+   A triangular banner has sides that are 4 inches, 5 inches, and 6 inches long. What is the perimeter of the banner?
+
+   *Solution:*
+
+   Add all the sides together: `P = side1 + side2 + side3`
+
+   So, `P = 4 in + 5 in + 6 in = 15 in`
+
+   The perimeter of the banner is 15 inches.
+
+## Practice Problems
+
+Now, it's your turn to calculate the perimeter on your own. Write down your answers, then check with the solutions below!
+
+1. A rectangular pool is 7 yards long and 2 yards wide. Find the perimeter.
+
+2. Emma has a square painting with each side measuring 1.5 meters. What is the perimeter of the painting?
+
+3. A triangular sign has sides of 3 feet, 4 feet, and 5 feet. Calculate its perimeter.
+
+## Solutions to Practice Problems
+
+1. For the rectangular pool:
+
+   `P = 2(length + width) = 2(7 yd + 2 yd) = 2 × 9 yd = 18 yd`
+
+   The perimeter of the pool is 18 yards.
+
+2. For Emma's square painting:
+
+   `P = 4 × side = 4 × 1.5 m = 6 m`
+
+   The perimeter of the painting is 6 meters.
+
+3. For the triangular sign:
+
+   `P = side1 + side2 + side3 = 3 ft + 4 ft + 5 ft = 12 ft`
+
+   The perimeter of the triangular sign is 12 feet.
+
+Remember that calculating the perimeter is just like taking a walk all the way around the edges of a shape and measuring that distance. Keep practicing, and soon you'll be a perimeter pro!

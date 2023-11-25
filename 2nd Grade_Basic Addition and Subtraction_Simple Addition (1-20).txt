@@ -1,0 +1,137 @@
+# Basic Addition and Subtraction
+
+## Chapter 2: Simple Addition (1-20)
+
+Welcome to the wonderful world of addition! Addition is a fundamental mathematical operation where we combine two or more numbers to make a larger number. It is just like putting pieces of candy together to see how many you have in total. In this chapter, you will learn to add numbers ranging from 1 to 20.
+
+### What is Addition?
+
+Addition is simply putting together amounts. When we add, the numbers we are adding are called "addends," and the result is called the "sum."
+
+For example:
+
+If you have 2 apples and you get 3 more apples, how many apples do you have now?
+
+2 apples + 3 apples = 5 apples
+
+Here, 2 and 3 are the addends, and 5 is the sum.
+
+### Symbols Used in Addition
+
+In addition, we use a special symbol called the "plus" sign (+). This sign tells us that we need to add the numbers on either side of it.
+
+For example:
+
+4 + 3 = 7
+
+The "+" sign between the 4 and the 3 tells us to add those numbers together to get the sum, which is 7.
+
+### Adding Numbers from 1 to 20
+
+Let's learn to add numbers from 1 to 20. We will start with smaller numbers and work our way up.
+
+#### Single-Digit Addition
+
+When we add single-digit numbers, we can often do it in our heads by counting up. It's just like when you count toys or crayons one by one.
+
+**Examples:**
+
+1. **3 + 4 = ?**
+   Start with the bigger number, which is 4, and count up three more.
+   4, 5, 6, 7
+   So, 3 + 4 = 7
+
+2. **6 + 5 = ?**
+   Start with the bigger number, which is 6, and count up five more.
+   6, 7, 8, 9, 10, 11
+   So, 6 + 5 = 11
+
+#### Adding One-Digit to a Two-Digit Number
+
+When adding a single-digit number to a two-digit number, begin by looking at the ones place and then move to the tens place if necessary.
+
+**Examples:**
+
+1. **14 + 3 = ?**
+   Break down 14 into its parts, which are 10 and 4.
+   Then add 3 to the 4.
+   4 + 3 = 7
+   Now add this back to the 10.
+   10 + 7 = 17
+   So, 14 + 3 = 17
+
+2. **25 + 5 = ?**
+   Look at the ones place first:
+   5 + 5 = 10
+   Since that's a two-digit sum, put the zero in the ones place and add 1 to the tens place:
+   20 (from the 25) + 10 (from our sum) = 30
+   So, 25 + 5 = 30
+
+#### Double-Digit Addition
+
+When both numbers have two digits, you generally add the ones place first and then the tens place. If the ones place adds up to more than 9, remember to carry over to the tens place.
+
+**Examples:**
+
+1. **17 + 8 = ?**
+   Start with the ones place:
+   7 (from 17) + 8 = 15
+   Write down the 5 and carry over the 1:
+   10 (from 17) + 10 (from the carried over 1) = 20
+   Add these together with our 5:
+   20 + 5 = 25
+   So, 17 + 8 = 25
+
+2. **12 + 9 = ?**
+   Start with the ones place:
+   2 (from 12) + 9 = 11
+   Write down the 1 and carry over the 1 to the tens place:
+   10 (from 12) + 10 (from the carried over 1) = 20
+   20 + 1 (the one we wrote down) = 21
+   So, 12 + 9 = 21
+
+### Practice Problems
+
+Now, let's try some practice problems on your own. Add the following pairs of numbers:
+
+1. **8 + 5 = ?**
+
+   **Answer:** 13
+
+2. **13 + 6 = ?**
+
+   **Answer:** 19
+
+3. **4 + 12 = ?**
+
+   **Answer:** 16
+
+4. **15 + 4 = ?**
+
+   **Answer:** 19
+
+5. **9 + 7 = ?**
+
+   **Answer:** 16
+
+6. **11 + 8 = ?**
+
+   **Answer:** 19
+   
+7. **7 + 5 = ?**
+
+   **Answer:** 12
+
+8. **10 + 10 = ?**
+
+   **Answer:** 20
+
+9. **19 + 1 = ?**
+
+   **Answer:** 20
+
+10. **2 + 18 = ?**
+
+    **Answer:** 20
+
+Remember, practice is key in maths. Keep trying these problems until you get comfortable with them. Soon, addition from 1 to 20 will be a breeze for you!

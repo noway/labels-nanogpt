@@ -1,0 +1,115 @@
+# Appendix
+
+## Math Symbols and Terms
+
+Welcome to the "Math Symbols and Terms" section of the Appendix. This section will help students become familiar with the most common symbols and terms they will encounter throughout their math journey. Understanding and using these correctly is essential for solving math problems and communicating mathematical ideas effectively.
+
+---
+
+### Basic Math Symbols
+
+1. **Addition (+)**
+   - **Symbol:** +
+   - **Meaning:** Indicates that two or more numbers should be added together.
+   - **Example Exercise:** What is 5 + 3?
+   - **Answer:** The sum of 5 and 3 is 8.
+
+2. **Subtraction (−)**
+   - **Symbol:** −
+   - **Meaning:** Indicates that one number should be subtracted from another.
+   - **Example Exercise:** What is 9 − 4?
+   - **Answer:** The difference between 9 and 4 is 5.
+
+3. **Multiplication (× or *)**
+   - **Symbol:** × or * (the multiplication sign can appear as either a cross or an asterisk)
+   - **Meaning:** Indicates that two numbers should be multiplied.
+   - **Example Exercise:** What is 6 × 2?
+   - **Answer:** The product of 6 and 2 is 12.
+
+4. **Division (÷ or /)**
+   - **Symbol:** ÷ or / (the division sign can be a horizontal line with dots above and below or a forward slash)
+   - **Meaning:** Indicates that one number should be divided by another.
+   - **Example Exercise:** What is 12 ÷ 3?
+   - **Answer:** The quotient of 12 divided by 3 is 4.
+
+5. **Equals (=)**
+   - **Symbol:** =
+   - **Meaning:** Shows that two expressions are equal in value.
+   - **Example Exercise:** If 3 + 4 equals what number?
+   - **Answer:** 3 + 4 equals 7.
+
+6. **Not Equals (≠)**
+   - **Symbol:** ≠
+   - **Meaning:** Shows that two expressions are not equal in value.
+   - **Example Exercise:** Is 5 + 2 ≠ 8 true or false?
+   - **Answer:** True. 5 + 2 is not equal to 8; it equals 7.
+
+7. **Less Than (<)**
+   - **Symbol:** <
+   - **Meaning:** Indicates that one number is less than another.
+   - **Example Exercise:** Is 3 < 5 true or false?
+   - **Answer:** True. 3 is less than 5.
+
+8. **Greater Than (>)**
+   - **Symbol:** >
+   - **Meaning:** Indicates that one number is greater than another.
+   - **Example Exercise:** Is 8 > 6 true or false?
+   - **Answer:** True. 8 is greater than 6.
+
+9. **Less Than or Equal To (≤)**
+   - **Symbol:** ≤
+   - **Meaning:** Shows that a number is either less than or equal to another number.
+   - **Example Exercise:** Is 4 ≤ 4 true or false?
+   - **Answer:** True. 4 is less than or equal to 4.
+
+10. **Greater Than or Equal To (≥)**
+    - **Symbol:** ≥
+    - **Meaning:** Shows that a number is either greater than or equal to another number.
+    - **Example Exercise:** Is 6 ≥ 5 true or false?
+    - **Answer:** True. 6 is greater than or equal to 5.
+
+---
+
+### Math Terms
+
+1. **Sum**
+   - **Meaning:** The result of adding two or more numbers.
+   - **Example Exercise:** Find the sum of 3 and 7.
+   - **Answer:** The sum of 3 and 7 is 10.
+
+2. **Difference**
+   - **Meaning:** The result of subtracting one number from another.
+   - **Example Exercise:** Find the difference between 10 and 4.
+   - **Answer:** The difference between 10 and 4 is 6.
+
+3. **Product**
+   - **Meaning:** The result of multiplying two numbers.
+   - **Example Exercise:** Find the product of 5 and 8.
+   - **Answer:** The product of 5 and 8 is 40.
+
+4. **Quotient**
+   - **Meaning:** The result of the division of one number by another.
+   - **Example Exercise:** Find the quotient of 20 divided by 5.
+   - **Answer:** The quotient of 20 divided by 5 is 4.
+
+5. **Even Number**
+   - **Meaning:** An integer that can be divided by 2 with no remainder.
+   - **Example Exercise:** Is 12 an even number?
+   - **Answer:** Yes, because 12 can be divided by 2 with no remainder.
+
+6. **Odd Number**
+   - **Meaning:** An integer that cannot be divided by 2 evenly (there is a remainder).
+   - **Example Exercise:** Is 7 an odd number?
+   - **Answer:** Yes, because 7 divided by 2 has a remainder of 1.
+
+7. **Factor**
+   - **Meaning:** A number that divides into another number with no remainder.
+   - **Example Exercise:** What are the factors of 8?
+   - **Answer:** The factors of 8 are 1, 2, 4, and 8.
+
+8. **Multiple**
+   - **Meaning:** A number that can be obtained by multiplying a given number by an integer.
+   - **Example Exercise:** What is a multiple of 3 greater than 10?
+   - **Answer:** 12 is a multiple of 3 greater than 10. 
+
+These symbols and terms are the building blocks for many of the mathematical concepts you will learn in 3rd grade and beyond. Practice using them in your daily math exercises, and soon you'll be a math whiz!

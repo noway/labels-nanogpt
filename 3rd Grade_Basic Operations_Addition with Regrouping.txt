@@ -1,0 +1,163 @@
+# Basic Operations: Addition with Regrouping
+
+Welcome to the world of addition with regrouping! Sometimes, when you add two numbers together, the digits in the sum can be more than nine in any place value position. When this happens, you need to regroup, or carry over, to the next place value. This section will explain how to do just that! Get ready for a fun journey into adding bigger numbers.
+
+## What is Regrouping?
+
+Regrouping in addition is a method used when the sum of two digits in the same place value is ten or more. If your sum reaches 10 or more, you only write down the number in the ones place and then regroup or carry the extra value to the next place value on the left.
+
+Let's see how it works with a simple example!
+
+### Example 1: Two-Digit Addition With Regrouping
+
+Let's add 47 and 58.
+
+Step 1: Write the numbers one on top of the other, aligning the place values.
+
+```
+  47
++ 58
+____
+```
+
+Step 2: Start by adding the ones place. 7 (from 47) plus 8 (from 58) equals 15.
+
+Since 15 is more than 9, we need to regroup. Write 5 in the ones place and carry the 1 over to the tens place.
+
+```
+   1  
+  47
++ 58
+____
+  5
+```
+
+Step 3: Now, add the tens place. Remember to add the 1 you carried over from the ones place. So, 4 (from 47) plus 5 (from 58) plus 1 equals 10.
+
+Since 10 fits neatly into the tens place and there is nothing to carry over, simply write down 10 in the tens place.
+
+```
+   1  
+  47
++ 58
+____
+ 105
+```
+
+The answer is 105!
+
+### Example 2: Three-Digit Addition With Regrouping
+
+Now, let's add 346 and 275.
+
+Step 1: Write the numbers one on top of the other with each place value lined up.
+
+```
+ 346
++275
+_____
+```
+
+Step 2: Again, start with the ones place. 6 (from 346) plus 5 (from 275) equals 11.
+
+Write 1 in the ones place and carry the 1 to the tens place.
+
+```
+   1
+ 346
++275
+_____
+  11
+```
+
+Step 3: Move to the tens place. 4 (tens from 346) plus 7 (tens from 275) plus 1 (carried over) equals 12.
+
+Write 2 in the tens place and carry the 1 to the hundreds place.
+
+```
+  11
+ 346
++275
+_____
+ 211
+```
+
+Step 4: Now, add the hundreds place. 3 (from 346) plus 2 (from 275) plus 1 (carried over) equals 6.
+
+```
+  11
+ 346
++275
+_____
+ 621
+```
+
+The sum of 346 and 275 is 621!
+
+## Practice Exercises
+
+Now that you've learned how to add with regrouping, it's your turn to practice! Solve the following addition problems.
+
+1. 123
+  + 489
+  ______
+
+2. 569
+  + 734
+  ______
+
+3. 685
+  + 227
+  ______
+
+4. 907
+  + 196
+  ______
+
+5. 415
+  + 388
+  ______
+
+### Answers:
+
+1. 
+```
+  123
++ 489
+_____
+  612
+```
+
+2.
+```
+  569
++ 734
+_____
+ 1303
+```
+
+3.
+```
+  685
++ 227
+_____
+  912
+```
+
+4.
+```
+  907
++ 196
+_____
+ 1103
+```
+
+5.
+```
+  415
++ 388
+_____
+  803
+```
+
+Great job practicing! Remember, the key to mastering addition with regrouping is practice, practice, practice! Keep working on these problems and soon you'll be an addition whiz!
