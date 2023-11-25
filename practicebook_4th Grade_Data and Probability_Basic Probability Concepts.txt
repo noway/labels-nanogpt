@@ -1,0 +1,99 @@
+# Chapter: Data and Probability
+
+---
+
+## Section: Basic Probability Concepts
+
+Welcome to the world of probability! Probability helps us figure out how likely something is to happen. In this section, we will explore some fundamental concepts in probability, which will set the groundwork for understanding more complex ideas.
+
+### Learning Objectives:
+
+- Understand what probability is.
+- Learn the difference between certain, probable, and impossible events.
+- Find the probability of a simple event.
+- Understand outcomes and events.
+
+---
+
+### What Is Probability?
+
+Probability is a way to measure the chance that an event will occur. We express probability as a number between 0 and 1. An event that is impossible has a probability of 0, and an event that is certain to happen has a probability of 1. 
+
+---
+
+### Certain, Probable, and Impossible Events
+
+- **Certain Event**: This is something that is sure to happen, like getting a number greater than 0 when rolling a die. Its probability is 1.
+- **Impossible Event**: This is something that cannot happen, like rolling a die and getting a number greater than 6. Its probability is 0.
+- **Probable Event**: This is an event that has a chance of happening, but it is not certain. For example, rolling a die and getting a 4. Its probability is between 0 and 1.
+
+---
+
+### Simple Events and Probability
+
+A simple event is an outcome or event that cannot be broken down into simpler components. We can calculate the probability by using the following formula:
+
+Probability of an event = Number of favorable outcomes / Total number of possible outcomes
+
+---
+
+### Outcomes and Events
+
+An **outcome** is a possible result of a probability experiment, like rolling a 3 on a die. An **event** can include one or more outcomes, like rolling an odd number on a die.
+
+---
+
+### Exercises
+
+#### Exercise 1: Understanding Probability
+What is the probability of rolling a 5 on a standard six-sided die?
+
+- Favorable outcomes: 1 (rolling a 5)
+- Total possible outcomes: 6 (1, 2, 3, 4, 5, 6)
+
+Probability = Favorable outcomes / Total possible outcomes = 1/6
+
+**Answer:** The probability of rolling a 5 is 1/6.
+
+#### Exercise 2: Certain, Probable, and Impossible
+Identify whether the event is certain, probable, or impossible: 
+a) Drawing a red card from a full deck of cards.
+b) Drawing a blue card from a standard deck of cards.
+c) Drawing a card from a deck of cards.
+
+**Answers:**
+a) Probable (since there are red cards in the deck)
+b) Impossible (standard decks don't have blue cards)
+c) Certain (if you draw a card, you will definitely get a card)
+
+#### Exercise 3: Event Probabilities
+What is the probability of flipping a coin and it landing on heads?
+
+- Favorable outcomes: 1 (heads)
+- Total possible outcomes: 2 (heads, tails)
+
+Probability = 1/2
+
+**Answer:** The probability of the coin landing on heads is 1/2.
+
+#### Exercise 4: Multiple Outcomes
+What is the probability of rolling an odd number on a six-sided die?
+
+- Favorable outcomes: 3 (1, 3, 5)
+- Total possible outcomes: 6 (1, 2, 3, 4, 5, 6)
+
+Probability = 3/6 = 1/2 
+
+**Answer:** The probability of rolling an odd number is 1/2.
+
+---
+
+**Review and Reflect:** 
+
+Take a moment to review what you've learned. Think about the probabilities of different events and how you would calculate them. Remember, an event's probability tells you how likely it is to happen. Great job on learning the basics of probability!
+
+**Remember:** Practice makes perfect! Keep practicing with different problems to become better at finding probabilities.
+
+--- 
+
+[Here ends the Basic Probability Concepts section for the 4th Grade practice book. The answers provided assume the exercises are completed.]

@@ -1,0 +1,92 @@
+# Math in Our World: Applying Math in Daily Life
+
+Math is not just about equations, numbers, and calculations. It is also a vital part of our everyday lives. In this section of the "Math in Our World" chapter, we will explore various situations in which math skills can be applied. Understanding how math relates to daily activities not only makes math more interesting but also helps you solve real-life problems.
+
+## Time Management
+
+Imagine you have a list of activities that you want to do after school. You have homework, playtime, and you also need to help at home. Let's plan out your afternoon using math.
+
+**Example:**
+
+You arrive home from school at 3:30 pm. You have 2 hours of homework, 1 hour of playtime, and 30 minutes to help with dinner. What time should you start each activity to finish everything by 7:30 pm?
+
+**Solution:**
+
+1. Homework: Start at 3:30 pm and add 2 hours.
+   - 3:30 pm + 2 hours = 5:30 pm
+   
+2. Playtime: Start right after homework at 5:30 pm and add 1 hour.
+   - 5:30 pm + 1 hour = 6:30 pm
+
+3. Helping with dinner: Start right after playtime at 6:30 pm and add 30 minutes.
+   - 6:30 pm + 30 minutes = 7:00 pm
+
+Everything will be completed by 7:00 pm, leaving 30 minutes of free time before 7:30 pm!
+
+## Budgeting and Money
+
+Knowing how to plan and budget your money is an essential life skill. Let's say you get an allowance every week and you want to save up for a new toy.
+
+**Example:**
+
+You get $5 every week for your allowance. The toy you want costs $20. How many weeks will it take to save enough money to buy the toy if you save all your allowance?
+
+**Solution:**
+
+Toy cost: $20
+Weekly allowance: $5
+Number of weeks to save: $20 ÷ $5 = 4 weeks
+
+So, you need to save your allowance for 4 weeks!
+
+## Cooking and Recipes
+
+Cooking involves a lot of measuring and sometimes requires you to adjust recipes.
+
+**Example:**
+
+A cookie recipe calls for 2 cups of flour to make 24 cookies. But you only want to make 12 cookies. How much flour should you use?
+
+**Solution:**
+
+Number of cookies you want to make: 12
+Flour required for 24 cookies: 2 cups
+Flour required for 12 cookies: 2 cups ÷ 2 = 1 cup
+
+For 12 cookies, you will need 1 cup of flour.
+
+## Shopping and Discounts
+
+When you go shopping, especially during sales, knowing how to calculate discounts and total prices is very useful.
+
+**Example:**
+
+There is a sale at the toy store with a 25% discount on all items. If a game you want costs $40 before the discount, how much will it cost after the discount is applied?
+
+**Solution:**
+
+Original price of the game: $40
+Discount: 25% of $40 = $40 × (25/100) = $10
+
+Discounted price: $40 - $10 = $30
+
+The game will cost $30 after the discount.
+
+## Geometry in Nature
+
+Geometry is all around us. Look for different shapes, patterns, and symmetries in nature, like in flowers, snowflakes, and leaves.
+
+**Example:**
+
+You find a beautiful flower in your garden and count 5 petals. You draw the flower on your paper by drawing 5 evenly spaced petals around a center point. How many degrees is the angle between each petal?
+
+**Solution:**
+
+Full circle: 360 degrees
+Number of petals: 5
+
+Degrees between each petal: 360 degrees ÷ 5 = 72 degrees
+
+Each angle between the petals is 72 degrees.
+
+Math is truly everywhere in our daily lives, from organizing our day to making purchases, cooking, and even enjoying nature. By practicing and applying math skills, we can make better decisions, save time, and appreciate the world around us even more. Keep exploring how math can be fun and useful in your everyday activities!

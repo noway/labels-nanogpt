@@ -1,0 +1,141 @@
+# Basic Addition and Subtraction
+
+## Simple Subtraction (1-20)
+
+Welcome to the Simple Subtraction section! Subtraction is an important math skill that you can master with some practice. Here, we'll practice subtracting numbers from 1 to 20. Remember, when we subtract, we take away a certain number from another to find out what's left.
+
+Let's look at some examples and solve these subtraction problems together!
+
+### Subtraction Practice
+
+**Example 1:**
+10 - 3 = ?
+
+To solve this, you start with 10 and take away 3. Counting down from 10, we get 9, then 8, then 7. 
+So, 10 - 3 = 7.
+
+**Example 2:**
+6 - 4 = ?
+
+Starting with 6, take away 4. That leaves us with 2.
+So, 6 - 4 = 2.
+
+Great job! Now, let’s go through some practice exercises. Fill in the blanks with the correct answer.
+
+**Exercise 1:**
+12 - 5 = ___
+
+_Answer: 7_
+
+**Exercise 2:**
+8 - 2 = ___
+
+_Answer: 6_
+
+**Exercise 3:**
+15 - 7 = ___
+
+_Answer: 8_
+
+**Exercise 4:**
+20 - 4 = ___
+
+_Answer: 16_
+
+**Exercise 5:**
+9 - 9 = ___
+
+_Answer: 0_
+
+**Exercise 6:**
+14 - 6 = ___
+
+_Answer: 8_
+
+**Exercise 7:**
+11 - 1 = ___
+
+_Answer: 10_
+
+**Exercise 8:**
+7 - 5 = ___
+
+_Answer: 2_
+
+**Exercise 9:**
+16 - 8 = ___
+
+_Answer: 8_
+
+**Exercise 10:**
+5 - 3 = ___
+
+_Answer: 2_
+
+**Exercise 11:**
+18 - 9 = ___
+
+_Answer: 9_
+
+**Exercise 12:**
+13 - 4 = ___
+
+_Answer: 9_
+
+**Exercise 13:**
+4 - 2 = ___
+
+_Answer: 2_
+
+**Exercise 14:**
+17 - 6 = ___
+
+_Answer: 11_
+
+**Exercise 15:**
+10 - 10 = ___
+
+_Answer: 0_
+
+**Exercise 16:**
+19 - 11 = ___
+
+_Answer: 8_
+
+**Exercise 17:**
+2 - 1 = ___
+
+_Answer: 1_
+
+**Exercise 18:**
+14 - 9 = ___
+
+_Answer: 5_
+
+**Exercise 19:**
+3 - 0 = ___
+
+_Answer: 3_
+
+**Exercise 20:**
+20 - 20 = ___
+
+_Answer: 0_
+
+### Tip for Subtraction:
+When you're stuck, you can always use objects like counters, your fingers, or draw tally marks to help you figure out the answer.
+
+### Subtraction Facts Practice
+It is also good to memorize some basic subtraction facts, such as:
+
+- 2 - 1 = 1
+- 3 - 2 = 1
+- 4 - 1 = 3
+- 5 - 5 = 0
+- 6 - 3 = 3
+- 7 - 2 = 5
+- 8 - 8 = 0
+- 9 - 1 = 8
+- 10 - 10 = 0
+
+And there you have it! You've finished the Simple Subtraction exercises. Remember, the best way to get better at subtraction is to practice regularly. Keep up the good work!

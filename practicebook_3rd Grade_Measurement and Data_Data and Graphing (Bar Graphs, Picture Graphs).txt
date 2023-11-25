@@ -1,0 +1,94 @@
+# Data and Graphing
+
+## Chapter Introduction
+
+Welcome to the exciting world of data and graphing! In this chapter, you will learn about two types of graphs that can help us understand numbers better: bar graphs and picture graphs. Graphs are like pictures that show information so it is easy to see and understand. By the end of this section, you will know how to create your own graphs and how to read and interpret data from them.
+
+---
+
+## Section 1: Understanding Data
+
+Data is information, especially numerical information. It can be about almost anything—like the number of books you read in a month, the number of apples picked from a tree, or how many times you jump rope.
+
+**Activity 1: Collecting Data**
+Imagine you asked your classmates about their favorite fruit. Here are the fruits they named:
+- Apples: 4
+- Bananas: 3
+- Cherries: 2
+- Oranges: 5
+
+---
+
+## Section 2: Picture Graphs
+
+A picture graph, also known as a pictogram, represents data with pictures where each picture stands for a number of things.
+
+**Activity 2: Creating a Picture Graph**
+Using the data from Activity 1, let's create a picture graph. For each fruit, draw a corresponding number of symbols (for example, apples could be 🍎).
+
+**Answer Key for Picture Graph**
+
+Favorite Fruit Picture Graph:
+
+- 🍎🍎🍎🍎 (Apples: 4)
+- 🍌🍌🍌 (Bananas: 3)
+- 🍒🍒 (Cherries: 2)
+- 🍊🍊🍊🍊🍊 (Oranges: 5)
+
+---
+
+## Section 3: Reading a Picture Graph
+
+Picture graphs can also be used to answer questions about the data.
+
+**Activity 3: Answering Questions from a Picture Graph**
+Look at the Picture Graph you created and answer the following questions:
+
+1. Which fruit is the most popular?
+2. How many more students chose oranges over cherries?
+
+**Answer Key for Reading a Picture Graph**
+
+1. The most popular fruit among classmates is the orange.
+2. 5 students chose oranges and 2 students chose cherries, so 3 more students chose oranges over cherries (5 - 2 = 3).
+
+---
+
+## Section 4: Bar Graphs
+
+A bar graph uses rectangular bars to represent data values. The length of the bar shows how many times that data value appears.
+
+**Activity 4: Creating a Bar Graph**
+Let's transform the data from Activity 1 into a bar graph. Draw a bar for each fruit and make the length correspond to how many classmates chose that fruit.
+
+**Answer Key for Bar Graph**
+
+Favorite Fruit Bar Graph:
+
+(Apple) |====
+(Banana) |===
+(Cherries) |==
+(Oranges) |=====
+
+---
+
+## Section 5: Reading a Bar Graph
+
+Bar graphs are great for comparing data.
+
+**Activity 5: Answering Questions from a Bar Graph**
+Use the Bar Graph you created to answer the following questions:
+
+1. Which fruit is the least favorite?
+2. What is the total number of students surveyed?
+
+**Answer Key for Reading a Bar Graph**
+
+1. The least favorite fruit is cherries, represented by the shortest bar.
+2. Sum the values represented by the bars: 4 (apples) + 3 (bananas) + 2 (cherries) + 5 (oranges) = 14 students.
+
+---
+
+## Chapter Review
+
+You’ve learned how to collect data, create picture graphs and bar graphs, and answer questions using the information from those graphs. Practice makes perfect, so keep collecting data and representing it in different ways!

@@ -1,0 +1,83 @@
+# Introduction to Numbers
+
+## Comparing and Ordering Numbers
+
+Welcome to the section on 'Comparing and Ordering Numbers'. In this part of your practice book, we will learn about how to compare numbers to understand which is larger or smaller and also how to put numbers in order. This is an essential skill in mathematics and will help you solve many different types of math problems. 
+
+Before we begin with exercises, let's review some basic concepts.
+
+### Comparing Numbers
+
+Comparing numbers means to look at two numbers and determine which one is greater (larger), lesser (smaller), or if they are equal. To compare numbers, we use the symbols '>', '<', and '='.
+
+* '>' means 'greater than'. For example, 7 > 5 means 7 is greater than 5.
+* '<' means 'less than'. For example, 3 < 8 means 3 is less than 8.
+* '=' means 'equal to'. For example, 4 = 4 means both numbers are equal.
+
+### Ordering Numbers
+
+Ordering numbers is the process of arranging them from the smallest to the largest (ascending order), or from the largest to the smallest (descending order).
+
+---
+
+Let's take a closer look with some exercises:
+
+### Exercise 1: Comparing Numbers Using >, <, or =
+
+Determine whether the first number is greater than, less than, or equal to the second number. Write the correct symbol in the blank.
+
+1. 432 ___ 450
+2. 701 ___ 700
+3. 869 ___ 869
+4. 542 ___ 539
+5. 216 ___ 219
+6. 1001 ___ 999
+7. 320 ___ 123
+8. 888 ___ 888
+9. 675 ___ 678
+10. 2100 ___ 2100
+
+#### Answers to Exercise 1:
+
+1. 432 < 450 (Less than)
+2. 701 > 700 (Greater than)
+3. 869 = 869 (Equal to)
+4. 542 > 539 (Greater than)
+5. 216 < 219 (Less than)
+6. 1001 > 999 (Greater than)
+7. 320 > 123 (Greater than)
+8. 888 = 888 (Equal to)
+9. 675 < 678 (Less than)
+10. 2100 = 2100 (Equal to)
+
+### Exercise 2: Ordering Numbers
+
+Arrange the following sets of numbers in ascending (from smallest to largest) and descending (from largest to smallest) order:
+
+A. 314, 302, 330
+B. 528, 529, 523
+C. 768, 786, 687
+D. 4132, 4231, 4123
+E. 999, 1001, 1000
+
+#### Answers to Exercise 2:
+
+Ascendings:
+
+A. 302, 314, 330
+B. 523, 528, 529
+C. 687, 768, 786
+D. 4123, 4132, 4231
+E. 999, 1000, 1001
+
+Descendings:
+
+A. 330, 314, 302
+B. 529, 528, 523
+C. 786, 768, 687
+D. 4231, 4132, 4123
+E. 1001, 1000, 999
+
+---
+
+Now that you've completed these exercises, you should be more familiar with how to compare and order numbers. Keep practicing, and soon this skill will become second nature to you. Remember to check your answers and practice similar problems to improve your understanding!

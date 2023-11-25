@@ -1,0 +1,91 @@
+---
+
+# Measurement and Data
+
+## Introduction to Money (Identifying Coins and Bills)
+
+### Understanding Money
+
+When we talk about money, we are referring to the currency used in everyday life to buy goods and services. Money comes in different forms, mainly coins and bills (also known as banknotes). In this section, we're going to learn about the types of coins and bills used in the United States, how to identify them, and their values.
+
+### Identifying Coins
+
+Coins are small, usually round pieces of metal that are used as money. Each coin has a distinct size, shape, and design which makes it unique and easy to identify. Here are the most common coins that you will see:
+
+**Penny**  
+- Value: 1 cent ($0.01)
+- Color: Copper
+- Picture: Abraham Lincoln on the front (obverse) and the Lincoln Memorial on the back (reverse)
+
+**Nickel**  
+- Value: 5 cents ($0.05)
+- Color: Silver
+- Picture: Thomas Jefferson on the front and Monticello (Jefferson’s home) on the back
+
+**Dime**  
+- Value: 10 cents ($0.10)
+- Color: Silver
+- Picture: Franklin D. Roosevelt on the front and a torch, olive branch, and oak branch on the back
+
+**Quarter**  
+- Value: 25 cents ($0.25)
+- Color: Silver
+- Picture: George Washington on the front and various designs on the back depending on the state or park being featured
+
+### Identifying Bills
+
+Bills are paper currency and come in different denominations. Each bill size is the same, but they have different colors and pictures to help distinguish their values. Below are the common bills you should know:
+
+**One Dollar Bill**  
+- Value: $1
+- Color: Green and Black
+- Picture: George Washington on the front and the Great Seal of the United States on the back
+
+**Five Dollar Bill**  
+- Value: $5
+- Color: Green and Black, with purple shading
+- Picture: Abraham Lincoln on the front and the Lincoln Memorial on the back
+
+**Ten Dollar Bill**  
+- Value: $10
+- Color: Green and Black, with orange shading
+- Picture: Alexander Hamilton on the front and the U.S. Treasury Building on the back
+
+**Twenty Dollar Bill**  
+- Value: $20
+- Color: Green and Black, with peach shading
+- Picture: Andrew Jackson on the front and the White House on the back
+
+### Exercises
+
+As part of this introduction, we have included some exercises to help you practice identifying coins and bills. You already completed these, so let's review the answers:
+
+**Exercise 1:** Match the Coin  
+Match each coin with its value and picture.  
+a) Penny - 1 cent, Abraham Lincoln  
+b) Nickel - 5 cents, Thomas Jefferson  
+c) Dime - 10 cents, Franklin D. Roosevelt  
+d) Quarter - 25 cents, George Washington  
+
+**Exercise 2:** Coin Counting  
+Count the total value of the coins shown.  
+Example: 3 pennies, 2 nickels, and 1 dime would be 3(1 cent) + 2(5 cents) + 1(10 cents) = 23 cents  
+
+**Exercise 3:** Bill Identification  
+Circle the correct picture for each denomination of the bill.  
+a) One Dollar Bill - George Washington  
+b) Five Dollar Bill - Abraham Lincoln  
+c) Ten Dollar Bill - Alexander Hamilton  
+d) Twenty Dollar Bill - Andrew Jackson  
+
+**Exercise 4:** Making Change  
+For each scenario, determine the bills and coins you would receive back after a purchase.  
+Example: If an item costs $3.75 and you pay with a $5 bill, you would receive 1 one dollar bill and 1 quarter as change.
+
+### Conclusion
+
+Understanding how to identify and count money is an essential skill that you will use throughout your life. Coins and bills each have unique features to help you distinguish them. Remember to look at the value, color, and pictures on each coin or bill to help you identify them correctly. As you become more familiar with money, you will find it easier to count, make change, and handle transactions in your daily life.
+
+Keep practicing, and you'll be a money master in no time!
+
+---

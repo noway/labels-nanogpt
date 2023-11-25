@@ -1,0 +1,81 @@
+# Reading Clocks
+
+Welcome young time-traveler! In this section of our "Telling Time" chapter, we are going on an adventure to learn how to read clocks. Clocks are tools that help us know what part of the day it is; morning, afternoon, evening, or night. By understanding clocks, we can be punctual for school, parties, and all the fun activities we do!
+
+## Understanding the Clock Face
+
+Most clocks have three hands and a face that has numbers 1 to 12. These are the parts we need to pay close attention to:
+
+- **The Hour Hand** is the shorter hand. It tells us which hour it is.
+- **The Minute Hand** is the longer hand. It shows us how many minutes have passed within the hour.
+- **The Second Hand** moves the fastest, and it counts the seconds. But don't worry; for now, we'll focus on hours and minutes.
+
+## Exercises: Reading the Time
+
+Let's practice! Below are various exercises with clocks showing different times. Your job was to write the time that each clock is showing. Here you can see if you got it right!
+
+### Exercise 1: Full Hours
+
+1. The hour hand is pointing at 3, and the minute hand is on 12. 
+   
+   **Answer: It's 3 o'clock.**
+
+2. The hour hand is pointing at 7, and the minute hand is on 12.
+   
+   **Answer: It's 7 o'clock.**
+
+3. The hour hand is pointing at 11, and the minute hand is on 12.
+   
+   **Answer: It's 11 o'clock.**
+ 
+### Exercise 2: Half Past the Hour
+
+1. The hour hand is halfway between 2 and 3, and the minute hand is on 6.
+   
+   **Answer: It's half past 2, or 2:30.**
+
+2. The hour hand is halfway between 5 and 6, and the minute hand is on 6.
+   
+   **Answer: It's half past 5, or 5:30.**
+
+3. The hour hand is halfway between 8 and 9, and the minute hand is on 6.
+   
+   **Answer: It's half past 8, or 8:30.**
+
+### Exercise 3: Quarter Past and Quarter To
+
+1. The hour hand is slightly past the 9, and the minute hand is on 3.
+   
+   **Answer: It's quarter past 9, or 9:15.**
+
+2. The hour hand is slightly before the 12, and the minute hand is on 9.
+   
+   **Answer: It's quarter to 12, or 11:45.**
+
+3. The hour hand is slightly past the 4, and the minute hand is on 3.
+   
+   **Answer: It's quarter past 4, or 4:15.**
+
+4. The hour hand is slightly before the 7, and the minute hand is on 9.
+   
+   **Answer: It's quarter to 7, or 6:45.**
+
+### Exercise 4: Telling Time to 5 Minutes
+
+1. The hour hand is between the 10 and 11, and the minute hand is on the 1.
+   
+   **Answer: It's 10:05.**
+
+2. The hour hand is between the 2 and 3, and the minute hand is on the 11.
+   
+   **Answer: It's 2:55.**
+
+3. The hour hand is between the 6 and 7, and the minute hand is on the 8.
+   
+   **Answer: It's 6:40.**
+
+4. The hour hand is just on the 1, and the minute hand is on the 4.
+   
+   **Answer: It's 1:20.**
+
+Great job on practicing how to read the time from different clocks! Keep practicing, and soon you'll be a master of time. Remember, telling time correctly helps us to be punctual and respect our own and others' schedules. Being on time is a truly valuable skill!

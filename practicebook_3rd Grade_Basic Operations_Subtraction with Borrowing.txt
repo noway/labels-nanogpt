@@ -1,0 +1,119 @@
+# Basic Operations
+## Subtraction with Borrowing
+
+In this section, we will learn to subtract numbers using borrowing, sometimes called regrouping. Borrowing is a method used when the number being subtracted is larger than the number it's being subtracted from. Let's explore how to do this step by step.
+
+### What is Borrowing?
+
+Borrowing in subtraction means taking one ten from the next place value to the left and adding it to the number that is too small to subtract from. This only happens when the number on the top (minuend) is smaller than the number on the bottom (subtrahend).
+
+### Step-by-Step Subtraction with Borrowing
+
+To understand subtraction with borrowing, follow the steps below using column form. This is where you write the larger number above the smaller number, making sure each digit lines up in its correct place value.
+
+#### Step 1: Align the Numbers
+
+Write the numbers in a vertical column, lining up the units, tens, hundreds, and so on.
+
+    453
+  - 167
+  -------
+
+#### Step 2: Start with the Rightmost Digit
+
+Look at the rightmost digit in the bottom number (the subtrahend) and the top number (the minuend). If the top number is smaller, you need to borrow.
+
+#### Step 3: Borrow from the Next Column
+
+Go to the next column to the left. Lower that digit by one (as if you are subtracting 1 from it) and add ten to the top number of the original column.
+
+#### Step 4: Subtract the Original Place
+
+Once you've borrowed, subtract the bottom number from the new, larger top number.
+
+#### Step 5: Move to the Next Column
+
+If needed, repeat the process for each column moving left.
+
+Let's apply these steps to a few examples. Since this book will be used for training, I've provided both the worked-out problems and the answers.
+
+### Example Problems
+
+1. Subtracting Without Borrowing
+
+    753
+  - 162
+  ------
+    591
+
+Since each digit in the minuend is larger than the corresponding digit in the subtrahend, there is no need to borrow.
+
+2. Subtracting with Borrowing Once
+
+    Start:  634
+          - 458
+            -----
+    Borrow:  624 (borrowed from the tens place, so the '3' becomes a '2' and the '4' becomes '14')
+          - 458
+            -----
+    Answer:  176
+
+3. Subtracting with Borrowing More than Once
+
+    Start:  806
+          - 479
+            -----
+    Borrow:  796 (borrowed from the hundreds, so the '8' becomes a '7' and the '0' becomes '10')
+          - 479
+            -----
+    Borrow:  786 (borrowed from the tens, so the '10' becomes '9' and the '6' becomes '16')
+          - 479
+            -----
+    Answer:  327
+
+4. Subtracting with Borrowing Across Zeros
+              
+    Start:  1000
+          -  367
+            ------
+    Borrow:  0990 (borrow from the thousands, so '1' becomes '0' and '0' becomes '10')
+          -  367
+            ------
+    Borrow:  0890 (borrow from the hundreds, so '10' becomes '9' and '0' becomes '10')
+          -  367
+            ------
+    Borrow:  0880 (borrow from the tens, so '10' becomes '8' and '0' becomes '10')
+          -  367
+            ------
+    Answer:  0633
+
+### Practice Problems (Answers Provided)
+
+Now it's your turn to practice subtraction with borrowing. Use the space provided to work out these problems.
+
+1. 724
+  - 458
+  ______
+  Answer: 266
+
+2. 960
+  - 547
+  ______
+  Answer: 413
+
+3. 1203
+  - 689
+  _______
+  Answer: 514
+
+4. 5001
+  - 2748
+  _______
+  Answer: 2253
+
+5. 3045
+  - 1786
+  _______
+  Answer: 1259
+
+Remember, practice makes perfect! With enough practice, you'll find that subtraction with borrowing becomes easier and eventually second nature. Keep practicing, and you'll master this skill in no time!

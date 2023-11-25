@@ -1,0 +1,98 @@
+# Basic Operations: Basic Division Concepts
+
+## Introduction to Division
+
+Division is one of the four basic operations in math. When we divide, we are splitting a number into equal parts or groups. Think of it as sharing or grouping. For example, if you have 12 apples and want to share them equally with 3 friends, you would divide the 12 apples by the number of friends, which is 3.
+
+The number we are dividing is called the "dividend," the number we are dividing by is the "divisor," and the result of the division is the "quotient." Sometimes, division may also leave a "remainder."
+
+For example:
+12 ÷ 3 = 4
+
+In this example, 12 is the dividend, 3 is the divisor, and 4 is the quotient.
+
+## Exercise 1: Understanding Division
+
+Solve the following division problems:
+
+1. 8 ÷ 2 = ?
+2. 15 ÷ 3 = ?
+3. 9 ÷ 1 = ?
+4. 16 ÷ 4 = ?
+5. 12 ÷ 6 = ?
+
+Answers:
+
+1. 8 ÷ 2 = 4 (8 divided by 2 equals 4)
+2. 15 ÷ 3 = 5 (15 divided by 3 equals 5)
+3. 9 ÷ 1 = 9 (9 divided by 1 equals 9)
+4. 16 ÷ 4 = 4 (16 divided by 4 equals 4)
+5. 12 ÷ 6 = 2 (12 divided by 6 equals 2)
+
+## Exercise 2: Division with Remainders
+
+Sometimes division does not split evenly. This leaves us with a remainder.
+
+For example, if you have 7 cookies to share with 2 friends, you can give 3 cookies to each friend, but there will be 1 cookie left over. This 1 cookie is the remainder.
+
+Let's practice:
+
+1. 10 ÷ 3 = ?
+2. 14 ÷ 4 = ?
+3. 19 ÷ 5 = ?
+4. 7 ÷ 5 = ?
+5. 13 ÷ 6 = ?
+
+Answers with Remainders:
+
+1. 10 ÷ 3 = 3 remainder 1
+2. 14 ÷ 4 = 3 remainder 2
+3. 19 ÷ 5 = 3 remainder 4
+4. 7 ÷ 5 = 1 remainder 2
+5. 13 ÷ 6 = 2 remainder 1
+
+## Exercise 3: Real-Life Division Problems
+
+Apply what you've learned to solve these real-life problems:
+
+1. If you have 18 candies and you want to put them into 6 equal bags, how many candies will each bag have?
+2. A pizza has 8 slices, and 4 friends want to share it equally. How many slices does each friend get?
+3. There are 27 students in a class, and they are divided into groups of 3 for a project. How many groups are there?
+4. A book has 20 pages. A student plans to read 5 pages each day. How many days will it take to finish the book?
+5. A farmer divides 24 apples evenly among 4 baskets. How many apples go into each basket?
+
+Answers to Real-Life Division Problems:
+
+1. 18 candies ÷ 6 bags = 3 candies per bag
+2. 8 slices ÷ 4 friends = 2 slices per friend
+3. 27 students ÷ 3 students per group = 9 groups
+4. 20 pages ÷ 5 pages per day = 4 days to finish the book
+5. 24 apples ÷ 4 baskets = 6 apples per basket
+
+## Exercise 4: Check Your Understanding
+
+Let's reinforce our division skills. Can you solve these problems on your own?
+
+1. 20 ÷ 5 = ?
+2. 25 ÷ 4 = ?
+3. 30 ÷ 3 = ?
+4. 24 ÷ 8 = ?
+5. 18 ÷ 2 = ?
+
+Answers:
+
+1. 20 ÷ 5 = 4
+2. 25 ÷ 4 = 6 remainder 1
+3. 30 ÷ 3 = 10
+4. 24 ÷ 8 = 3
+5. 18 ÷ 2 = 9
+
+## Recap
+
+Great job practicing division! Remember, when you divide, you are finding out how many times the divisor fits into the dividend. Division is useful when you want to share items equally or split things into groups. With and without remainders, division helps us in everyday life.
+
+Keep practicing, and soon division will become even easier!
+
+---
+
+This completes the section on "Basic Division Concepts" for the 3rd Grade level K-12 math practice book. We've covered the initial understanding of division, division with remainders, and how to apply division in real-life scenarios, along with verification questions and answers to cement your learning.

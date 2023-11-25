@@ -1,0 +1,99 @@
+# Fun with Shapes: Counting Sides and Corners
+
+## Counting Sides and Corners
+
+Welcome to the "Counting Sides and Corners" section of your math practice book! Shapes are all around you—in your classroom, at the park, and even in your own room. Learning about the sides and corners of different shapes can help you understand them better and see how they are used in the world. So let's have some fun with shapes!
+
+### Learning Objectives:
+By the end of this section, you'll be able to:
+1. Identify and count the sides and corners of a shape.
+2. Recognize shapes regardless of their size or orientation.
+3. Understand the difference between straight and curved sides.
+
+---
+
+### Vocabulary:
+- **Side:** A straight line that forms part of a shape's boundary.
+- **Corner:** Also known as a 'vertex'. It's a point where two sides meet.
+
+---
+
+### Let's Practice Counting Sides and Corners!
+
+#### Exercise 1: Count the Sides
+Look at the shapes below and count the number of sides each one has. Write the number inside the shape.
+
+1. Square: 🟥
+2. Triangle: 🔺
+3. Rectangle: 🟩
+4. Hexagon: ⬡
+5. Octagon: 🛑
+
+**Answers:**
+1. Square: 4 sides
+2. Triangle: 3 sides
+3. Rectangle: 4 sides
+4. Hexagon: 6 sides
+5. Octagon: 8 sides
+
+#### Exercise 2: Count the Corners
+Now, let's count the number of corners for each shape. Write the number inside the shape.
+
+1. Square: 🟥
+2. Triangle: 🔺
+3. Rectangle: 🟩
+4. Pentagon: 🖐
+5. Hexagon: ⬡
+
+**Answers:**
+1. Square: 4 corners
+2. Triangle: 3 corners
+3. Rectangle: 4 corners
+4. Pentagon: 5 corners
+5. Hexagon: 6 corners
+
+#### Exercise 3: Mix and Match
+Match the shape with the correct number of sides and corners.
+
+| Shape       | Sides | Corners |
+|-------------|-------|---------|
+| Circle      |       |         |
+| Triangle    |       |         |
+| Rectangle   |       |         |
+| Hexagon     |       |         |
+| Octagon     |       |         |
+
+**Answers:**
+| Shape       | Sides | Corners |
+|-------------|-------|---------|
+| Circle      | 0     | 0       |
+| Triangle    | 3     | 3       |
+| Rectangle   | 4     | 4       |
+| Hexagon     | 6     | 6       |
+| Octagon     | 8     | 8       |
+
+#### Exercise 4: Find the Shape
+Look around your room or outside and write down the name of the shape for each item you find. Then, write how many sides and corners that shape has.
+
+**Example Answer:**
+1. Window - Rectangle - 4 sides, 4 corners
+2. Pizza Slice - Triangle - 3 sides, 3 corners
+3. Clock - Circle - 0 sides, 0 corners
+
+#### Exercise 5: Drawing Shapes
+Draw the following shapes and then write the number of sides and corners next to each one.
+
+1. A triangle
+2. A rectangle
+3. A pentagon
+4. A square
+
+**Answers:** (With imaginary drawings)
+1. Triangle - 3 sides, 3 corners
+2. Rectangle - 4 sides, 4 corners
+3. Pentagon - 5 sides, 5 corners
+4. Square - 4 sides, 4 corners
+
+Congratulations, you’ve completed the "Counting Sides and Corners" section! You’ve learned a lot about shapes and how to identify their sides and corners. Keep practicing, and soon you’ll be a shape expert!
+
+Remember, practice makes perfect, so look around and keep counting sides and corners wherever you go!

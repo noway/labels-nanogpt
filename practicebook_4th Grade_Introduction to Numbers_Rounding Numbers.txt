@@ -1,0 +1,86 @@
+# Introduction to Numbers: Rounding Numbers
+
+Welcome to the "Rounding Numbers" section of your 4th Grade Math Practice Book. Rounding numbers is an important skill that helps us simplify numbers, making them easier to work with, especially when we need an approximate value rather than an exact one. It's commonly used in daily life, such as when dealing with money or estimating distances.
+
+In this section, you'll learn how to round numbers to the nearest ten, hundred, and thousand. Let's dive right in!
+
+## What is Rounding?
+
+Rounding a number means replacing it with another number that is approximately equal but easier to use. We do this by increasing or decreasing the number to the nearest place value that we are rounding to.
+
+## Rounding to the Nearest Ten
+
+When rounding to the nearest ten, we look at the ones place (the digit in the far right). Here’s the rule:
+
+- If the ones digit is less than 5, we round the number down.
+- If the ones digit is 5 or greater, we round the number up.
+
+### Example 1:
+Round the number 342 to the nearest ten.
+
+The ones digit in 342 is 2, which is less than 5. So, we round 342 down to 340.
+
+### Example 2:
+Round the number 678 to the nearest ten.
+
+The ones digit in 678 is 8, which is 5 or greater. So, we round 678 up to 680.
+
+### Practice Exercise 1:
+Round the following numbers to the nearest ten:
+1. 256 (Answer: 260)
+2. 493 (Answer: 490)
+3. 521 (Answer: 520)
+4. 834 (Answer: 830)
+5. 617 (Answer: 620)
+
+## Rounding to the Nearest Hundred
+
+When rounding to the nearest hundred, we focus on the tens place (the second digit from the right). Here's what you do:
+
+- If the tens digit is 4 or less, we round the number down.
+- If the tens digit is 5 or more, we round the number up.
+
+### Example 3:
+Round the number 754 to the nearest hundred.
+
+Look at the tens place. It's 5, which is 5 or more. So, we round 754 up to 800.
+
+### Example 4:
+Round the number 282 to the nearest hundred.
+
+The tens digit is 8, so we round 282 down to 200.
+
+### Practice Exercise 2:
+Round the following numbers to the nearest hundred:
+1. 348 (Answer: 300)
+2. 610 (Answer: 600)
+3. 759 (Answer: 800)
+4. 492 (Answer: 500)
+5. 333 (Answer: 300)
+
+## Rounding to the Nearest Thousand
+
+Finally, when rounding to the nearest thousand, you should look at the hundreds place (the third digit from the right).
+
+- If the hundreds digit is 4 or less, round the number down.
+- If the hundreds digit is 5 or more, round the number up.
+
+### Example 5:
+Round the number 2,467 to the nearest thousand.
+
+The hundreds digit is 4, which is less than 5. So, we round 2,467 down to 2,000.
+
+### Example 6:
+Round the number 3,596 to the nearest thousand.
+
+The hundreds digit is 5, so we round 3,596 up to 4,000.
+
+### Practice Exercise 3:
+Round the following numbers to the nearest thousand:
+1. 1,234 (Answer: 1,000)
+2. 5,678 (Answer: 6,000)
+3. 9,501 (Answer: 10,000)
+4. 7,399 (Answer: 7,000)
+5. 2,850 (Answer: 3,000)
+
+Great job on completing the "Rounding Numbers" section! Rounding can make complex calculations easier and quicker. Remember the rules, and with practice, you'll find rounding to become second nature. Keep working through the rest of the exercises in your math practice book to sharpen your skills further.

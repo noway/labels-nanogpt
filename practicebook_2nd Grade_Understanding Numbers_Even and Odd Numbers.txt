@@ -1,0 +1,76 @@
+# Understanding Numbers
+## Even and Odd Numbers
+
+### Introduction to Even and Odd Numbers
+
+Numbers are the basic building blocks of math. Today, we are going to learn about two very special types of numbers - even numbers and odd numbers. Knowing if a number is even or odd is quite useful in many areas of math, so let's take a closer look at what makes a number even or odd.
+
+### What Are Even Numbers?
+
+Even numbers are numbers that can be divided into two equal groups without any leftovers. This means that if you have an even number of objects, you can split them into two groups and each group will have the same number of objects. Another way to think about even numbers is that they are the numbers you reach when you count by twos.
+
+Here's a list of even numbers you could find between 0 and 20:
+0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20
+
+### What Are Odd Numbers?
+
+Odd numbers, on the other hand, are numbers that cannot be divided into two equal groups without having one leftover. If you try to split an odd number of objects into two groups, one group will always have one more object than the other group. When counting by ones, starting with one, you reach odd numbers.
+
+Here's a list of odd numbers you could find between 0 and 20:
+1, 3, 5, 7, 9, 11, 13, 15, 17, 19
+
+### How to Identify Even and Odd Numbers
+
+A quick tip to determine if a number is even or odd is to look at the last digit (the ones place) of the number. If the last digit is 0, 2, 4, 6, or 8, then the number is even. If the last digit is 1, 3, 5, 7, or 9, then the number is odd. 
+
+### Exercises
+
+Now, it's time to put your new knowledge into practice. Remember the quick tip and identify whether the following numbers are even or odd:
+
+1. 22
+2. 15
+3. 9
+4. 8
+5. 37
+6. 46
+7. 53
+8. 28
+9. 71
+10. 64
+
+### Answers
+
+1. 22 is an even number (Last digit is 2, which is an even number).
+2. 15 is an odd number (Last digit is 5, which is an odd number).
+3. 9 is an odd number (Last digit is 9, which is an odd number).
+4. 8 is an even number (Last digit is 8, which is an even number).
+5. 37 is an odd number (Last digit is 7, which is an odd number).
+6. 46 is an even number (Last digit is 6, which is an even number).
+7. 53 is an odd number (Last digit is 3, which is an odd number).
+8. 28 is an even number (Last digit is 8, which is an even number).
+9. 71 is an odd number (Last digit is 1, which is an odd number).
+10. 64 is an even number (Last digit is 4, which is an even number).
+
+### Practice Problems
+
+Now let's try some more examples to make sure you've got it:
+
+A. Circle the even numbers in the following list:
+12, 34, 55, 78, 89, 90, 23, 44, 67, 100
+
+B. Cross out the odd numbers in the following list:
+11, 20, 32, 45, 56, 63, 82, 91, 108, 110
+
+### Answer Key for Practice Problems
+
+A. Circle the even numbers: 
+**12**, **34**, 55, **78**, 89, **90**, 23, **44**, 67, **100**
+
+B. Cross out the odd numbers:
+11, **20**, **32**, 45, **56**, 63, **82**, 91, **108**, **110**
+
+### Review
+
+Remember, even numbers end with 0, 2, 4, 6, or 8, and odd numbers end with 1, 3, 5, 7, or 9. Practice identifying even and odd numbers will help you quickly tell them apart!
+
+Keep practicing, and in no time, you'll be a pro at determining whether any number is even or odd. Good luck!

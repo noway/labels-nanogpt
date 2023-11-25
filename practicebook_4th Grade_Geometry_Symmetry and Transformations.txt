@@ -1,0 +1,106 @@
+## Geometry: Symmetry and Transformations
+
+In this section, we'll learn about the beauty of symmetry and transformations that you see in objects around us or in patterns. So let's get started!
+
+### Symmetry
+
+Symmetry is when one part of an object is a mirror image of the other part. When an object can be folded or divided into half, and both halves match perfectly, the object is said to be symmetrical.
+
+#### Line of Symmetry
+
+The line of symmetry is the imaginary line where you could fold the image and have both halves match exactly.
+
+**Exercise 1:** Draw the line of symmetry on the following shapes.
+
+a. Square
+b. Rectangle
+c. Circle
+d. Triangle (isosceles)
+
+**Answers:**
+
+a. The square has 4 lines of symmetry, each passing through the midpoints of opposite sides or through opposite corners.
+b. The rectangle has 2 lines of symmetry, each passing through the midpoints of opposite sides.
+c. The circle has infinite lines of symmetry passing through the center.
+d. The isosceles triangle has 1 line of symmetry, passing through the vertex perpendicular to the base.
+
+#### Types of Symmetry 
+
+1. Reflective Symmetry: When two halves are exact reflections of each other.
+2. Rotational Symmetry: When an object can be rotated around a central point and still look the same.
+
+**Exercise 2:** Identify the type of symmetry each shape has.
+
+a. Star
+b. Equilateral triangle
+c. Butterfly wings
+d. Regular Pentagon
+
+**Answers:**
+
+a. The star has both reflective and rotational symmetry.
+b. Equilateral triangle has rotational symmetry (120 degrees) and 3 lines of reflective symmetry.
+c. Butterfly wings often have reflective symmetry.
+d. A regular pentagon has rotational symmetry (72 degrees) and 5 lines of reflective symmetry.
+
+### Transformations
+
+A transformation changes the position or size of a shape. The main types of transformations are translation, rotation, reflection, and dilation.
+
+#### Translation
+
+A translation moves every point of a figure the same distance in the same direction.
+
+**Exercise 3:** Draw the translation of a rectangle 3 units right and 2 units down.
+
+**Answer:**
+
+The translated rectangle should be shifted to the right by 3 grids and downward by 2 grids without changing its orientation or size.
+
+#### Rotation
+
+A rotation turns a figure around a fixed point called the center of rotation.
+
+**Exercise 4:** Rotate the triangle 90 degrees clockwise around the central point.
+
+**Answer:**
+
+The triangle’s vertices after rotation should be at positions that correspond to a 90-degree clockwise turn around the central point. The top of the triangle will now be facing the right.
+
+#### Reflection
+
+A reflection is a flip over a line. Each point of the image is the same distance from the line of reflection as the original object.
+
+**Exercise 5:** Reflect the given triangle over the y-axis.
+
+**Answer:**
+
+The triangle will appear as a mirror image across the y-axis, with vertices positioned at the same distance from the y-axis but on the opposite side.
+
+#### Dilation
+
+Dilation is resizing a figure without changing its shape. The figure either becomes larger or smaller.
+
+**Exercise 6:** Dilate the square by a scale factor of 2.
+
+**Answer:**
+
+The square’s new side lengths should be twice the size of the original, maintaining the square’s shape but appearing larger.
+
+### Practice Problems:
+
+1. Draw all lines of symmetry for an uppercase letter "H."
+2. Identify the type of symmetry present in an arrowhead.
+3. Translate the hexagon 4 units up.
+4. Rotate the letter "L" 180 degrees counterclockwise.
+5. Reflect the shape of a heart over the x-axis.
+6. Dilate the given octagon with a scale factor of 1/2.
+
+**Answers:**
+
+1. The uppercase letter "H" has 2 lines of symmetry, one horizontal and one vertical down the middle.
+2. An arrowhead typically has reflective symmetry.
+3. The translated hexagon should be shifted 4 units upwards.
+4. The letter "L" when rotated 180 degrees counterclockwise will look like a backward "L."
+5. Reflecting the heart shape over the x-axis will produce an upside-down heart shape.
+6. The new octagon will be half the size of the original octagon in each dimension.

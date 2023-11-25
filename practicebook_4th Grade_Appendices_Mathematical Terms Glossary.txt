@@ -1,0 +1,128 @@
+**Mathematical Terms Glossary**
+
+Below you will find a list of commonly used mathematical terms for the 4th Grade level. This glossary is designed to help you understand key concepts you will encounter in your math practice.
+
+1. **Addend**: A number that is added to another number. In the sum 3 + 7 = 10, both 3 and 7 are addends.
+
+2. **Angle**: The space between two intersecting lines at the point where they meet. Measurements are given in degrees.
+
+3. **Area**: The amount of space inside a two-dimensional shape, measured in square units (such as square centimeters).
+
+4. **Average (Mean)**: The sum of a set of numbers divided by the count of numbers in the set.
+
+5. **Bar Graph**: A graph that uses bars of different lengths or heights to compare quantities visually.
+
+6. **Circle**: A round, two-dimensional shape where all points are the same distance from the center.
+
+7. **Circumference**: The distance around the edge of a circle. It is calculated as π (Pi) times the diameter (or 2π times the radius) of the circle.
+
+8. **Composite Number**: A whole number greater than 1 that has more than two factors. For example, 4, 6, and 8 are composite numbers.
+
+9. **Decimal**: A number that includes a decimal point and represents a value less than one, or a mix of whole numbers and fractions (e.g., 3.14, 0.5).
+
+10. **Denominator**: The bottom number of a fraction that shows into how many equal parts the whole is divided.
+
+11. **Difference**: The result of subtracting one number from another. How much one number differs from another.
+
+12. **Division**: A mathematical operation where a number is evenly distributed into groups, the result tells how many items are in each group.
+
+13. **Equation**: A mathematical statement that has two expressions with an equal sign between them (e.g., 6 + 4 = 10).
+
+14. **Equivalent Fractions**: Fractions that represent the same part of a whole, even though they have different numerators and denominators (e.g., 1/2 and 2/4).
+
+15. **Estimation**: A rough calculation of value, number, quantity, or extent.
+
+16. **Even Number**: A whole number that can be divided by 2 without leaving a remainder (e.g., 2, 4, 6).
+
+17. **Factors**: Numbers that are multiplied together to get a product (e.g., 3 and 4 are factors of 12).
+
+18. **Fraction**: A way of representing a part of a whole or a part of a group by using two numbers and a slash (e.g., 1/4).
+
+19. **Geometry**: The area of mathematics that deals with points, lines, shapes, and space.
+
+20. **Greater Than (>)**: A symbol used to compare two numbers, with the larger number given first (e.g., 7 > 5).
+
+21. **Improper Fraction**: A fraction where the numerator is larger than or equal to the denominator (e.g., 5/3).
+
+22. **Intersecting Lines**: Lines that cross each other at one point.
+
+23. **Less Than (<)**: A symbol used to compare two numbers, with the smaller number given first (e.g., 3 < 7).
+
+24. **Line Graph**: A graph that uses points connected by lines to show how something changes in value (as time goes on, or as you change something else).
+
+25. **Median**: The middle number in a list of numbers that has been sorted from least to greatest.
+
+26. **Mixed Number**: A whole number and a fraction combined into one "mixed" number (e.g., 3 1/2).
+
+27. **Mode**: The number that appears most frequently in a set of numbers.
+
+28. **Multiple**: The product of a given whole number and another whole number (e.g., 30 is a multiple of 5 and 6).
+
+29. **Multiplication**: A mathematical operation where a number is added to itself a certain number of times.
+
+30. **Number Line**: A line that shows numbers in increasing order, often used to represent operations like addition and subtraction.
+
+31. **Odd Number**: A whole number that cannot be divided by 2 without leaving a remainder (e.g., 1, 3, 5).
+
+32. **Parallel Lines**: Lines in a plane that never intersect and are always the same distance apart.
+
+33. **Percent**: A portion out of 100. It is a way of expressing a number as parts of a hundred, using the symbol %.
+
+34. **Perimeter**: The distance around a two-dimensional shape, measured by adding the lengths of all the sides.
+
+35. **Perpendicular Lines**: Two lines that intersect to form a right angle (90 degrees).
+
+36. **Pictograph**: A graph that uses pictures or symbols to represent data.
+
+37. **Place Value**: The value of a digit in a number, based on its position within the number (e.g., in 546, the place value of 4 is 40).
+
+38. **Prime Number**: A whole number greater than 1 that has exactly two different factors: 1 and itself (e.g., 2, 3, 5, 7).
+
+39. **Product**: The result of multiplying two or more numbers.
+
+40. **Quadrilateral**: A four-sided polygon.
+
+41. **Quotient**: The answer to a division problem.
+
+42. **Radius**: The distance from the center of a circle to any point on its edge.
+
+43. **Range**: The difference between the highest and lowest numbers in a set.
+
+44. **Rate**: A ratio that compares two different kinds of quantities (e.g., miles per hour, price per pound).
+
+45. **Ratio**: A comparison of two numbers or quantities. It tells us how many times one number contains another (e.g., the ratio of 2 to 3, written as 2:3).
+
+46. **Rectangle**: A quadrilateral with four right angles and opposite sides that are equal.
+
+47. **Rounding**: Reducing the digits in a number while trying to keep its value similar. The result is less specific but easier to use.
+
+48. **Square**: A quadrilateral with four equal sides and four right angles. It is also the result of multiplying a number by itself (e.g., 4 squared is 16).
+
+49. **Subtraction**: A mathematical operation where one number is taken away from another.
+
+50. **Sum**: The result of adding two or more numbers.
+
+51. **Symmetry**: When one half of an object or shape is the mirror image of the other half.
+
+52. **Time**: An instance of measuring periods or intervals between events, commonly expressed in terms of hours, minutes, and seconds.
+
+53. **Volume**: The amount of space that a three-dimensional object occupies, measured in cubic units (such as cubic centimeters).
+
+54. **Whole Number**: Any of the numbers 0, 1, 2, 3, etc. (not a fraction or decimal).
+
+55. **X-axis**: The horizontal axis on a coordinate plane.
+
+56. **Y-axis**: The vertical axis on a coordinate plane.
+
+57. **Zero Property of Multiplication**: The rule that states any number multiplied by zero equals zero.
+
+Remember, this glossary is intended to help you refresh your memory on important mathematical concepts. Don't hesitate to refer back to it whenever you need a quick review!
+
+Answers to Exercises (hypothetical for language model purpose):
+- Addends Added: 3 + 7 = 10
+- Area Found: Area of a 4x6 rectangle= 24 square units
+- Product of Multiplication: 5 x 7 = 35
+- Equivalent Fractions Written: 1/2 = 2/4
+- Number Line Used: -9 to 9, with integers marked
+- Median of Numbers Found: Median of 4, 8, 12 is 8
+- Volume Calculated: Volume of a 2x2x2 cube = 8 cubic units

@@ -1,0 +1,115 @@
+# Measurement Chapter
+
+## Time and Calendar Section
+
+### Introduction
+Understanding time and calendar is vital for planning activities, keeping a schedule, and being punctual. In this section, we'll explore the concepts of reading time, using calendars, and understanding the passage of days, weeks, months, and years. Practice these exercises to become a time and calendar expert!
+
+### Reading Time
+
+#### Telling Time Using an Analog Clock
+An analog clock has an hour hand and a minute hand. The hour hand points to the hour, while the minute hand points to the individual minute within that hour.
+
+**Exercise 1: Write the time shown on each clock.**
+
+1. Clock shows hour hand on 3 and minute hand on 12.
+   - **Answer: 3:00 or 3 o'clock**
+   
+2. Clock shows hour hand just after 11 and minute hand on 6.
+   - **Answer: 11:30 or half past 11**
+   
+3. Clock shows hour hand between 7 and 8 and minute hand on 9.
+   - **Answer: 7:45 or quarter to 8**
+   
+#### Reading Time Using a Digital Clock
+A digital clock shows the time with numbers. It is either displayed in a 12-hour format, where AM and PM are used, or a 24-hour format.
+
+**Exercise 2: Write the time shown on each digital clock.**
+
+1. Clock reads 02:15
+   - **Answer: 2:15 AM or 2:15 PM if not specified**
+   
+2. Clock reads 13:45
+   - **Answer: 1:45 PM in 12-hour format**
+   
+3. Clock reads 19:00
+   - **Answer: 7:00 PM in 12-hour format**
+   
+### Using Calendars
+
+#### Days of the Week
+There are 7 days in a week: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday.
+
+**Exercise 3: Write the next three days in order after the given day.**
+
+1. Wednesday
+   - **Answer: Thursday, Friday, Saturday**
+   
+2. Sunday
+   - **Answer: Monday, Tuesday, Wednesday**
+   
+3. Friday
+   - **Answer: Saturday, Sunday, Monday**
+
+#### Months of the Year
+There are 12 months in a year: January, February, March, April, May, June, July, August, September, October, November, and December.
+
+**Exercise 4: Write the name of the month that comes directly before and after the given month.**
+
+1. March
+   - **Answer: Before - February, After - April**
+   
+2. August
+   - **Answer: Before - July, After - September**
+   
+3. December
+   - **Answer: Before - November, After - January (of the next year)**
+
+#### Knowing the Seasons
+The year is divided into four seasons: spring, summer, fall (autumn), and winter. The start of each season can vary depending on where you live.
+
+**Exercise 5: Match the season with the months it includes in the Northern Hemisphere.**
+
+1. Spring
+   - **Answer: March, April, May**
+   
+2. Summer
+   - **Answer: June, July, August**
+   
+3. Fall (Autumn)
+   - **Answer: September, October, November**
+   
+4. Winter
+   - **Answer: December, January, February**
+
+#### Reading the Calendar
+
+A calendar shows days, weeks, and months. It can be used to find out what day of the week a certain date falls on or how many days are in a month.
+
+**Exercise 6: Look at the provided calendar for the month of July. Answer the questions that follow.**
+
+1. What day of the week is July 4th?
+   - **Answer: Monday**
+   
+2. How many Sundays are in July?
+   - **Answer: 5**
+   
+3. On what date does the third Wednesday of July fall?
+   - **Answer: July 20**
+
+### Understanding Elapsed Time
+
+Elapsed time is the time that passes from the start of an event to its end.
+
+**Exercise 7: Calculate the elapsed time between the two events.**
+
+1. Start: 3:00 PM, End: 4:30 PM
+   - **Answer: 1 hour and 30 minutes**
+   
+2. Start: 9:15 AM, End: 11:00 AM
+   - **Answer: 1 hour and 45 minutes**
+   
+3. Start: 7:45 PM, End: 9:00 PM
+   - **Answer: 1 hour and 15 minutes**
+
+Remember, practice makes perfect. Keep practicing these exercises to improve your skills in reading time and using calendars. With time, you'll be able to quickly and accurately determine time differences, plan events, and much more!

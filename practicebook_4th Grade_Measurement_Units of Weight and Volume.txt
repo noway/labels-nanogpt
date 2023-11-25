@@ -1,0 +1,82 @@
+# Measurement Chapter: Units of Weight and Volume
+
+## Units of Weight
+
+Weight measures how heavy an object is. The most common units for measuring weight in the United States are ounces (oz), pounds (lb), and tons (T). The International System of Units (SI), typically used in other countries, uses grams (g), kilograms (kg), and metric tons (t).
+
+### Exercise 1: Understanding Units of Weight
+Convert the following weights to the units specified.
+
+1. 16 ounces = __1 pound__ (16 ounces = 1 lb)
+2. 2000 pounds = __1 ton__ (2000 lb = 1 T)
+3. 5 pounds + 8 ounces = __5.5 pounds__ (8 ounces = 0.5 lb)
+4. 3 tons - 600 pounds = __2.7 tons__ (600 lb = 0.3 T)
+5. 45 ounces into pounds = __2.8125 pounds__ (45 oz ÷ 16 = 2.8125 lb)
+6. 1500 grams to kilograms = __1.5 kilograms__ (1500 g ÷ 1000 = 1.5 kg)
+
+### Exercise 2: Real-World Application
+Solve the following real-world problems.
+
+1. A bag of apples weighs 3 pounds, and a watermelon weighs 7 pounds. What is their total weight? __10 pounds__ (3 lb + 7 lb = 10 lb)
+2. A boulder weighs 5 tons. How many pounds is that? __10,000 pounds__ (5 T * 2000 lb = 10,000 lb)
+3. If a dog weighs 50 pounds, how many ounces does the dog weigh? __800 ounces__ (50 lb * 16 oz = 800 oz)
+4. A car weighs about 1.5 metric tons. How many kilograms does the car weigh? __1500 kilograms__ (1 metric ton = 1000 kg, so 1.5 t * 1000 = 1500 kg)
+
+## Units of Volume
+
+Volume measures the amount of space an object takes up. Common units of volume include teaspoons (tsp), tablespoons (tbsp), fluid ounces (fl oz), cups (c), pints (pt), quarts (qt), and gallons (gal) for liquids in the U.S. The SI units are milliliters (mL) and liters (L).
+
+### Exercise 3: Understanding Units of Volume
+Convert the following volumes to the units specified.
+
+1. 3 teaspoons = __1 tablespoon__ (3 tsp = 1 tbsp)
+2. 2 cups = __1 pint__ (2 c = 1 pt)
+3. 4 quarts = __1 gallon__ (4 qt = 1 gal)
+4. 16 fluid ounces = __1 pint__ (16 fl oz = 1 pt)
+5. 128 fluid ounces = __1 gallon__ (128 fl oz = 1 gal)
+6. 1000 milliliters = __1 liter__ (1000 mL = 1 L)
+
+### Exercise 4: Real-World Application
+Solve the following real-world problems.
+
+1. If a recipe requires 4 tablespoons of milk and you only have teaspoons, how many teaspoons will you need? __12 teaspoons__ (1 tbsp = 3 tsp, so 4 tbsp * 3 = 12 tsp)
+2. A jug has 3 gallons of water. How many quarts of water does it have? __12 quarts__ (1 gal = 4 qt, so 3 gal * 4 = 12 qt)
+3. You have 5 bottles of juice, each containing 2 liters. How many milliliters of juice do you have in total? __10,000 milliliters__ (1 L = 1000 mL, so 5 bottles * 2 L * 1000 = 10,000 mL)
+4. If you drank 24 fluid ounces of water in the morning and 8 fluid ounces in the afternoon, how many pints did you drink in total? __2 pints__ (24 fl oz + 8 fl oz = 32 fl oz, and 32 fl oz ÷ 16 = 2 pt)
+
+Remember to review these exercises and be comfortable with converting between units. Measurement is an important skill in everyday life – whether you're cooking in the kitchen, weighing yourself, or determining the volume of a liquid. Keep practicing, and you'll master these concepts in no time!
+
+# Answer Key
+Here are the answers for the exercises in the "Units of Weight and Volume" section.
+
+## Units of Weight
+### Exercise 1:
+1. 1 pound
+2. 1 ton
+3. 5.5 pounds
+4. 2.7 tons
+5. 2.8125 pounds
+6. 1.5 kilograms
+
+### Exercise 2:
+1. 10 pounds
+2. 10,000 pounds
+3. 800 ounces
+4. 1500 kilograms
+
+## Units of Volume
+### Exercise 3:
+1. 1 tablespoon
+2. 1 pint
+3. 1 gallon
+4. 1 pint
+5. 1 gallon
+6. 1 liter
+
+### Exercise 4:
+1. 12 teaspoons
+2. 12 quarts
+3. 10,000 milliliters
+4. 2 pints
+
+This section and its corresponding answer key can be used as a guide both for learning and for reviewing the subject matter. It's meant to help fourth-grade students grasp basic concepts of weight and volume measurement, building a foundation that can be further developed with more complex problems and real-world applications.

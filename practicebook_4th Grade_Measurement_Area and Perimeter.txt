@@ -1,0 +1,82 @@
+# Measurement Chapter: Area and Perimeter
+
+Welcome to the "Area and Perimeter" section of your 4th Grade Math Practice Book! In this section, we will learn how to calculate the area and perimeter of various shapes. Practice problems are provided along with answers for you to check your work.
+
+---
+
+## Understanding Area
+
+**Area** is the size of a surface. It is measured in square units, such as square inches (in²), square feet (ft²), or square meters (m²).
+
+### Calculating Area
+
+For a **rectangle** or **square**:
+Area = Length × Width
+
+For example:
+If a rectangle has a length of 6 inches and a width of 4 inches, the area is:
+Area = 6 in × 4 in = 24 in²
+
+### Practice Problems: Area
+
+1. Find the area of a rectangle with a length of 8 inches and a width of 5 inches.
+2. Calculate the area of a square with sides measuring 7 inches.
+3. What is the area of a rectangle with a length of 12 feet and a width of 9 feet?
+
+---
+
+### Answers: Area
+
+1. 8 in × 5 in = 40 in²
+2. 7 in × 7 in = 49 in²
+3. 12 ft × 9 ft = 108 ft²
+
+---
+
+## Understanding Perimeter
+
+**Perimeter** is the total length of the sides of a two-dimensional shape.
+
+### Calculating Perimeter
+
+For a **rectangle**:
+Perimeter = 2 × (Length + Width)
+
+For a **square** (since all sides are equal):
+Perimeter = 4 × Side
+
+### Practice Problems: Perimeter
+
+1. Find the perimeter of a rectangle with a length of 10 meters and a width of 6 meters.
+2. Calculate the perimeter of a square with sides measuring 9 centimeters.
+3. What is the perimeter of a rectangle with a length of 14 feet and a width of 11 feet?
+
+---
+
+### Answers: Perimeter
+
+1. Perimeter = 2 × (10 m + 6 m) = 2 × 16 m = 32 m
+2. Perimeter = 4 × 9 cm = 36 cm
+3. Perimeter = 2 × (14 ft + 11 ft) = 2 × 25 ft = 50 ft
+
+---
+
+## Mixed Practice Problems
+
+Let’s put your knowledge to the test with some mixed problems that require calculating both area and perimeter.
+
+1. A rectangle has a length of 15 inches and a width of 10 inches. Find both the area and the perimeter.
+2. A square has sides of 8 meters. Calculate its area and perimeter.
+3. A rectangle has a perimeter of 24 centimeters. If the length is 10 centimeters, what is the width and the area?
+
+---
+
+### Answers: Mixed Practice Problems
+
+1. Area = 15 in × 10 in = 150 in², Perimeter = 2 × (15 in + 10 in) = 2 × 25 in = 50 in
+2. Area = 8 m × 8 m = 64 m², Perimeter = 4 × 8 m = 32 m
+3. Width = 24 cm ÷ 2 - 10 cm = 12 cm - 10 cm = 2 cm, Area = 10 cm × 2 cm = 20 cm²
+
+---
+
+Great job practicing area and perimeter! As you continue to solve these types of problems, you will become more comfortable with these important measurement concepts. Remember to always double-check your work and make sure your units are correct. Keep practicing, and you'll master area and perimeter in no time!

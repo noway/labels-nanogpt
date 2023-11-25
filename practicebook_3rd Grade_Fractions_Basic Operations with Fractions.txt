@@ -1,0 +1,90 @@
+# Basic Operations with Fractions
+
+Welcome to the "Basic Operations with Fractions" section of our 3rd Grade Math Practice Book. Fractions are a way to represent parts of a whole, and they are very important in math! In this section, you will learn how to work with fractions when you add, subtract, multiply, and divide them. Let's get started!
+
+## Understanding Fractions
+
+Before we learn how to perform operations with fractions, let's understand what a fraction is. A fraction is made up of two numbers:
+
+- The **numerator** is the top number. It represents the number of parts you have.
+- The **denominator** is the bottom number. It tells you how many parts the whole is divided into.
+
+For example, in the fraction 3/4, 3 is the numerator, and 4 is the denominator. It means you have 3 parts out of 4 equal parts of a whole.
+
+## Adding Fractions
+
+When adding fractions, the most important thing to remember is that you can only add fractions with the same denominator (common denominators). If the denominators are different, you have to first make them the same. Let's look at some examples:
+
+### Without Common Denominators:
+
+**Example 1**: 1/3 + 1/6
+
+**Solution**:
+
+1. Find a common denominator. Here, 6 is the least common denominator because both 3 and 6 are divisible by 3.
+2. Convert the fractions so that they both have the denominator of 6:
+   - For 1/3, multiply the numerator and denominator by 2 to get 2/6
+   - 1/6 already has the denominator 6
+3. Now that they have a common denominator, add the numerators: 2/6 + 1/6 = 3/6
+4. Simplify the fraction, if possible: 3/6 = 1/2
+
+**Answer**: 1/3 + 1/6 = 1/2
+
+### With Common Denominators:
+
+**Example 2**: 2/5 + 1/5
+
+**Solution**:
+
+1. Since they already have the same denominator, we can simply add the numerators: 2 + 1 = 3
+2. Keep the same denominator: 5
+3. Therefore, 2/5 + 1/5 = 3/5
+
+**Answer**: 2/5 + 1/5 = 3/5
+
+## Subtracting Fractions
+
+Subtracting fractions is similar to adding fractions. You need common denominators to subtract fractions.
+
+### Example 3: 4/7 - 2/7
+
+**Solution**:
+
+1. Since the denominators are the same, subtract the numerators: 4 - 2 = 2
+2. Keep the denominator as 7: 2/7
+3. There is no need to simplify.
+
+**Answer**: 4/7 - 2/7 = 2/7
+
+## Multiplying Fractions
+
+To multiply fractions, you don't need common denominators. You multiply the numerators together and the denominators together.
+
+### Example 4: 2/3 * 3/4
+
+**Solution**:
+
+1. Multiply the numerators: 2 * 3 = 6
+2. Multiply the denominators: 3 * 4 = 12
+3. Write the result as a fraction: 6/12
+4. Simplify the fraction, if possible: 6/12 = 1/2
+
+**Answer**: 2/3 * 3/4 = 1/2
+
+## Dividing Fractions
+
+Dividing by a fraction is the same as multiplying by its reciprocal. The reciprocal of a fraction is found by swapping the numerator and the denominator.
+
+### Example 5: 3/5 ÷ 2/3
+
+**Solution**:
+
+1. Find the reciprocal of the second fraction (2/3): The reciprocal is 3/2
+2. Multiply the first fraction by the reciprocal of the second fraction: 3/5 * 3/2 = 9/10
+3. Simplify if possible. In this case, 9/10 is already in simplest form.
+
+**Answer**: 3/5 ÷ 2/3 = 9/10
+
+Now that we have covered the basic operations with fractions, it is time for you to practice. Remember, the key to mastering fractions is practice and understanding how to manipulate the numerators and denominators. Keep working at it, and you will become a fraction expert in no time!
+
+**Note**: Since this book section is designed for training purposes, the answers provided are based on the assumption that hypothetical students have already completed these exercises and these are the correct solutions.

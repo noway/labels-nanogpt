@@ -1,0 +1,120 @@
+## Fun Math Puzzles and Activities
+
+Congratulations on making it to the "Fun Math Puzzles and Activities" section of the "Review and Assessments" chapter! This section is crafted to strengthen your problem-solving skills and to bring some humor and excitement to your math practice. Below are several puzzles and activities to challenge your mind while having fun. 
+
+### Activity 1: Math Crossword Puzzle
+
+Fill in the crossword with the correct numbers in words. The clues are based on math operations.
+
+Across:
+2. The product of six and seven (5 letters)
+5. The number of sides on a pentagon (4 letters)
+6. The difference between the squares of 5 and 4 (4 letters)
+7. A prime number less than twenty (3 letters)
+
+Down:
+1. The sum of twelve and nine (5 letters)
+3. The quotient of forty-eight divided by six (5 letters)
+4. The next prime number after eleven (4 letters)
+
+**Answers:**
+Across:
+2. Thirty (30)
+5. Five (5)
+6. Nine (9)
+7. Two (2)
+
+Down:
+1. Twenty-one (21)
+3. Eight (8)
+4. Thirteen (13)
+
+### Activity 2: Magic Square
+
+Fill in the missing numbers so that the sum of the numbers in each row, each column, and both diagonals is the same.
+
+```
+ 8 |  1  |  6
+---|---- |---
+ 3 |  5  |  ?  (The missing number is 7 to make the sum 15 in each row and column)
+---|---- |---
+ 4 |  ?  |  2  (The missing number is 9 to make the sum 15 in each row and column)
+```
+
+**Answer:**
+```
+ 8 |  1  |  6
+---|---- |---
+ 3 |  5  |  7
+---|---- |---
+ 4 |  9  |  2
+```
+
+### Activity 3: Sudoku
+
+Fill in the grid so that every row, every column, and each of the nine 3x3 grids contain all of the digits from 1 to 9. Here's a solved puzzle for reference:
+
+**Completed Sudoku Grid:**
+```
+5 3 8 | 6 7 4 | 9 1 2
+6 7 2 | 1 9 5 | 3 4 8
+1 9 4 | 3 2 8 | 5 6 7
+---------------------
+8 5 9 | 7 6 1 | 4 2 3
+4 2 6 | 8 5 3 | 7 9 1
+7 1 3 | 9 4 2 | 6 8 5
+---------------------
+9 6 1 | 5 3 7 | 2 8 4
+2 8 7 | 4 1 9 | 6 3 5
+3 4 5 | 2 8 6 | 1 7 9
+```
+
+### Activity 4: Picture Pattern Sequence
+
+Find the next figure in the pattern sequence.
+
+Sequence: Square, Triangle, Circle, Square, Triangle, ?
+
+**Answer:**
+Circle. The pattern is repeating every three shapes.
+
+### Activity 5: Fraction Fun
+
+There are some shaded and unshaded parts in the figures below. Write the fraction that represents the shaded part.
+
+Figure A: A circle divided into 4 equal parts with 3 shaded.
+Figure B: A rectangle divided into 6 equal parts with 2 shaded.
+
+**Answers:**
+Figure A: 3/4 or Three-fourths are shaded.
+Figure B: 2/6 or One-third (simplified from two-sixths) are shaded.
+
+### Activity 6: Word Problems
+
+Solve the following word problems and choose the correct operation.
+
+1. Sarah had 24 apples. She gave 6 apples to her friend. How many apples does she have left?
+
+   **Answer:** 24 - 6 = 18 apples left.
+
+2. A baker has 9 cupcakes. If he packs them into boxes of 3, how many boxes can he fill?
+
+   **Answer:** 9 ÷ 3 = 3 boxes.
+
+3. John has 3 times as many marbles as Peter. If Peter has 15 marbles, how many does John have?
+
+   **Answer:** 3 × 15 = 45 marbles.
+
+### Activity 7: Estimation Game
+
+Estimate the result of the following operations practically.
+
+1. About how many pencils are there if you have 24 packs with each pack having 12 pencils?
+
+   **Answer:** Approximately 24 × 10 = 240 pencils (a closer estimate would be 288, but we are estimating).
+
+2. If a cake is cut into 16 slices and 2 slices are eaten, estimate how much of the cake is left.
+
+   **Answer:** About 14/16 or roughly 7/8 of the cake is left.
+
+Remember that math can be fun and engaging when you incorporate puzzles and activities like these. Keep challenging yourself and enjoy the process of learning!

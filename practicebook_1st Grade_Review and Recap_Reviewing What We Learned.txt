@@ -1,0 +1,82 @@
+---
+# Review and Recap
+
+## Reviewing What We Learned
+
+Congratulations on reaching the end of our math practice book! This section is designed to help us look back at the concepts we’ve mastered and ensure we understand them completely. Below, you’ll find summaries of each topic we’ve covered, along with examples of exercises you’ve completed and their correct answers. Use this as a guide to review what you have learned and check your own work.
+
+### 1. Number Recognition and Counting
+We started by learning how to recognize and count numbers from 1 to 100. We practiced counting objects, writing numbers, and recognizing them in different formats.
+
+***Example Exercise: Count the apples***
+```
+🍎 🍎 🍎 🍎 🍎
+🍎 🍎 🍎 🍎 🍎
+```
+**Answer:** 10 apples
+
+### 2. Comparing Numbers
+Understanding the concepts of more than, less than, and equal to was our next step. We compared groups of objects and numbers to determine which was greater, smaller, or if they were equal.
+
+***Example Exercise: Which group has more stars?***
+```
+Group A: ⭐⭐⭐⭐⭐⭐ 
+Group B: ⭐⭐⭐⭐⭐⭐⭐⭐
+```
+**Answer:** Group B has more stars.
+
+### 3. Basic Addition and Subtraction
+Next, we learned how to add and subtract using numbers up to 20. We used objects, number lines, and our fingers to help us solve various problems.
+
+***Example Exercise: What is 7 + 5?***
+**Answer:** 12
+
+***Example Exercise: What is 9 - 4?***
+**Answer:** 5
+
+### 4. Understanding Patterns
+Patterns are everywhere! We practiced identifying and creating patterns using shapes, colors, and numbers.
+
+***Example Exercise: What comes next in the pattern?***
+```
+🔵🔴🔵🔴🔵?
+```
+**Answer:** 🔴 (The pattern is alternate blue and red.)
+
+### 5. Measurement and Size
+We learned about length, height, weight, and capacity by comparing and measuring various objects using standard and non-standard units of measurement.
+
+***Example Exercise: Which is taller, a tree or a lamp post?***
+**Answer:** The tree is taller.
+
+### 6. Shapes and Geometry
+Identifying and drawing basic shapes like circles, squares, triangles, and rectangles were fun! We discovered how these shapes make up the world around us.
+
+***Example Exercise: How many corners does a rectangle have?***
+**Answer:** 4 corners
+
+### 7. Time and Money
+We explored concepts of time by learning about hours and minutes, and we started understanding money by recognizing coins and bills.
+
+***Example Exercise: What coin is this?***
+```
+[Image of a coin with a face value of 1 cent]
+```
+**Answer:** A penny
+
+### 8. Data and Graphing
+Lastly, we touched on how to gather data and represent it using picture graphs and bar graphs. This helped us with our counting and comparison skills.
+
+***Example Exercise: How many children like vanilla ice cream best?***
+```
+Vanilla: 🍦🍦🍦🍦 (4)
+Chocolate: 🍦🍦🍦 (3)
+Strawberry: 🍦🍦🍦🍦🍦 (5)
+```
+**Answer:** 4 children like vanilla ice cream best.
+
+---
+
+As you use this review section, think about the methods and strategies that worked best for you. Remember that practice is key in math, just like in any other skill. Keep practicing, keep learning, and most importantly, have fun!
+
+Your Teachers at Math Explorers, Inc.

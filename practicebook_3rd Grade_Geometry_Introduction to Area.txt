@@ -1,0 +1,53 @@
+# Geometry
+
+Welcome to the wonderful world of shapes and spaces, where we explore how things fit together and how much space they take up. In this chapter, we will embark on a mathematical journey to understand an important concept known as "area." So grab your ruler, get out your pencil, and let's get ready to learn!
+
+---
+
+## Introduction to Area
+
+### What is Area?
+
+Imagine you have a piece of paper and you want to paint it. The amount of paint you need to cover the whole paper without leaving any white spots is a practical example of what mathematicians call “area.” In mathematical terms, area is the measure of the space inside a two-dimensional shape, such as a rectangle, square, or circle. It tells us how much of that shape we have.
+
+### How to Measure Area
+
+Area is measured in square units. This could be square meters, square centimeters, square feet, or even square inches, depending on the size of the shape we are measuring. When we say “square units,” we mean the size of a square that is 1 unit by 1 unit.
+
+### Calculating the Area of Rectangles and Squares
+
+#### Rectangle
+
+A rectangle has four sides: two lengths and two widths. To find the area of a rectangle, you multiply the length by the width.
+
+**Area of a Rectangle = Length × Width**
+
+#### Square
+
+A square is a special type of rectangle where all four sides are the same length. To find the area of a square, you just multiply the length of one side by itself.
+
+**Area of a Square = Side × Side**
+
+---
+
+## Practice Exercises
+
+### Area of Rectangles and Squares
+
+**Exercise 1:** Find the area of a rectangle with a length of 8 units and a width of 3 units.
+
+**Answer:** Area = Length × Width = 8 units × 3 units = 24 square units.
+
+**Exercise 2:** Find the area of a square whose sides measure 5 units.
+
+**Answer:** Area = Side × Side = 5 units × 5 units = 25 square units.
+
+**Exercise 3:** A rectangle has a length of 7 units and an area of 35 square units. What is the width of the rectangle?
+
+**Answer:** Area = Length × Width; 35 square units = 7 units × Width; so, Width = 35 ÷ 7 = 5 units.
+
+---
+
+Now that we have practiced finding the area of some common shapes, remember that this method only works for rectangles and squares. There are different formulas for other shapes that we will learn about later on, but always keep in mind that the area measures the space within a shape, and it is always in square units.
+
+After this brief introduction, try to find the area of different rectangles and squares around you. Measure your desk, your bed, or maybe even a book. It's a great way to get a grasp of how area is everywhere in our world. Happy measuring!

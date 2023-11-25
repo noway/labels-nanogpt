@@ -1,0 +1,169 @@
+# Basic Operations: Addition with Regrouping
+
+Welcome to the section on Addition with Regrouping! As you practice your addition skills, you'll sometimes find that the numbers you are adding together are a bit too large to add without carrying over, or "regrouping", to the next column. Don't worry; this section will guide you through the process step by step!
+
+---
+
+## Learning Objectives
+- Understand the concept of regrouping in addition.
+- Be able to add two or more multi-digit numbers using regrouping.
+
+---
+
+## What is Regrouping?
+
+When the sum of the numbers in a column is 10 or more, we need to carry over the extra amount to the next column. This is called "regrouping". We essentially "group" the numbers in a way that lets us keep adding even when the sum is bigger than what a single column can hold (i.e., more than 9).
+
+---
+
+## Let's Learn How to Add with Regrouping!
+
+### Example 1:
+
+Let's add 356 + 174.
+
+Step 1: Line up the numbers by place value.
+
+```
+  356
++ 174
+-----
+```
+
+Step 2: Start adding from the right (ones place).
+
+```
+  356
++ 174
+-----
+    0 
+```
+
+6 (from 356) + 4 (from 174) = 10, which is a two-digit number. So, we write down the 0 in the ones place and *carry over* the 1 to the tens place.
+
+Step 3: Add the tens place next.
+
+```
+   1  <-- we carried over this 1 
+  356
++ 174
+-----
+   0
+```
+
+5 (from 356) + 7 (from 174) = 12, then we add the carried-over 1: 12 + 1 = 13. The sum (13) is again a two-digit number, so we write down the 3 in the tens place and *carry over* the 1 to the hundreds place.
+
+Step 4: Add the hundreds place last.
+
+```
+  1   <-- we carried over this 1 
+ 356
++174
+-----
+  30
+```
+
+3 (from 356) + 1 (from 174) = 4, and then add the carried-over 1: 4 + 1 = 5. Write down the 5 in the hundreds place.
+
+So, our complete answer is: 
+
+```
+  356
++ 174
+-----
+  530
+```
+
+### Example 2:
+
+Now try adding 482 + 369.
+
+Step 1: Align the numbers.
+
+```
+  482
++ 369
+-----
+```
+
+Step 2: Add the ones.
+
+8 + 9 = 17. We write the 7 in the ones place and carry over the 1 to the tens.
+
+Step 3: Add the tens, remembering to include the carried-over 1.
+
+8 + 6 = 14, then we add the 1 we carried over: 14 + 1 = 15. Write the 5 in the tens place and carry over the 1 to the hundreds.
+
+Step 4: Add the hundreds last.
+
+4 + 3 = 7, and adding the carried-over 1: 7 + 1 = 8. Write the 8 in the hundreds place.
+
+So, our total is:
+
+```
+  482
++ 369
+-----
+  851
+```
+
+---
+
+## Practice Problems
+
+Now it's your turn to try some problems on your own! Use the same steps we used above to find the sums. Don't forget to regroup when needed. The answers are provided for you to check your work after you've completed the problems.
+
+1. 235 + 198 = ___.
+
+```
+  235
++198
+-----
+  433
+```
+
+2. 417 + 388 = ___.
+
+```
+  417
++388
+-----
+  805
+```
+
+3. 569 + 275 = ___.
+
+```
+  569
++275
+-----
+  844
+```
+
+4. 349 + 654 = ___.
+
+```
+  349
++654
+-----
+ 1003
+```
+
+5. 721 + 192 = ___.
+
+```
+  721
++192
+-----
+  913
+```
+
+Be sure to do these problems on your own before checking the answers!
+
+---
+
+## Review
+
+In this section, we learned about addition with regrouping. You now know how to stack the numbers up by their correct place value, add the numbers starting with the ones column, carry over any numbers as needed, and add all the way to the largest place value. Remember, practice makes perfect, so keep practicing these problems until you feel confident!
+
+Great job on learning how to use regrouping to handle larger numbers! Keep up the hard work, and you'll become an addition whiz in no time!

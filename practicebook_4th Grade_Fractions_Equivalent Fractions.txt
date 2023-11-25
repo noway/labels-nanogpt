@@ -1,0 +1,89 @@
+# Fractions Chapter: Section on Equivalent Fractions
+
+## Introduction to Equivalent Fractions
+
+Before we begin our exercises on equivalent fractions, let's understand what they are. Equivalent fractions are different fractions that represent the same part of a whole. 
+
+Imagine you have a pizza cut into 4 equal pieces and another pizza cut into 8 equal pieces. If you take 2 slices from the first pizza, that would be the same as taking 4 slices from the second pizza. Both represent half of the pizza. In terms of fractions, 2/4 of the first pizza is the same as 4/8 of the second pizza—they are equivalent fractions.
+
+---
+
+## Learning Objective
+
+By the end of this section, you'll be able to:
+- Understand the concept of equivalent fractions.
+- Generate equivalent fractions by multiplying and dividing the numerator (top number) and the denominator (bottom number) by the same number.
+- Recognize and identify equivalent fractions.
+
+## Key Concepts
+
+- **Numerator and Denominator**: Remember that in a fraction, the top number is the numerator, and the bottom number is the denominator.
+- **Multiplying or Dividing**: When you multiply or divide both the numerator and the denominator by the same non-zero number, the value of the fraction does not change, and you get an equivalent fraction.
+
+---
+
+## Exercises: Finding Equivalent Fractions
+
+### Exercise 1: Multiplying to Find Equivalent Fractions
+
+Find an equivalent fraction to 1/2 by multiplying the numerator and denominator by the same number.
+
+#### Sample Solution:
+- By multiplying both numerator and denominator by 2: 1/2 × 2/2 = 2/4
+- By multiplying both numerator and denominator by 3: 1/2 × 3/3 = 3/6
+- By multiplying both numerator and denominator by 4: 1/2 × 4/4 = 4/8
+
+Answer key for Exercise 1:
+- 2/4, 3/6, 4/8 (These are all equivalent to 1/2)
+
+### Exercise 2: Dividing to Find Equivalent Fractions
+
+Reduce the fraction 6/8 to its simplest form by dividing the numerator and denominator by the same number.
+
+#### Sample Solution:
+- Dividing both numerator and denominator by 2: 6/8 ÷ 2/2 = 3/4
+
+Answer key for Exercise 2:
+- 3/4 (This is the simplest form of 6/8)
+
+---
+
+## Practice Problems
+
+Now, it's your turn to try! Simplify the following fractions or find an equivalent fraction by multiplying or dividing by the same number.
+
+1. Find an equivalent fraction to 3/4.
+2. Simplify the fraction 10/15.
+3. Multiply the fraction 2/3 by 3/3 to find an equivalent fraction.
+4. Divide the fraction 9/12 by the same number to simplify it.
+
+#### Answer key for Practice Problems:
+
+1. Equivalent fraction to 3/4:
+   - By multiplying both by 2: 3/4 × 2/2 = 6/8
+   - By multiplying both by 3: 3/4 × 3/3 = 9/12
+
+2. Simplify the fraction 10/15:
+   - Dividing both by 5: 10/15 ÷ 5/5 = 2/3
+
+3. Multiply the fraction 2/3 by 3/3:
+   - 2/3 × 3/3 = 6/9
+
+4. Divide the fraction 9/12 by the same number:
+   - Dividing both by 3: 9/12 ÷ 3/3 = 3/4
+
+---
+
+## Visual Representation
+
+To help you understand equivalent fractions, you can use fraction strips or draw pictures of pies and shade in the equivalent amounts. Remember, equivalent fractions cover the same amount of space, even if they have different numbers.
+
+---
+
+## Review and Summary
+
+Today, we learned that equivalent fractions are fractions that represent the same amount, even though they have different numerators and denominators. We can find equivalent fractions by multiplying or dividing both the numerator and denominator by the same non-zero number. Practicing these skills will help you become more comfortable with fractions and prepare you for more complex fraction operations in the future.
+
+Always try to simplify fractions when possible, as it makes them easier to work with and understand. Keep practicing, and soon finding equivalent fractions will become second nature!
+
+Good job on completing this section! Keep practicing, and don't forget to check your answers with the key provided after you've given each problem your best effort.

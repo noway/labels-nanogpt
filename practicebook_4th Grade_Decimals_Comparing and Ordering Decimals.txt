@@ -1,0 +1,107 @@
+# Decimals Chapter
+
+## Section: Comparing and Ordering Decimals
+
+### Introduction
+
+Welcome, Fourth Graders, to the exciting world of Decimals! In this section, we are going to learn about "Comparing and Ordering Decimals." Understanding how to work with decimals is very important, as it is a concept widely used in everyday life. Whether you're dealing with money, measurements, or just trying to score that pizza with the right amount of cheesy goodness, decimals have you covered!
+
+---
+
+### Objectives
+
+By the end of this section, you will be able to:
+
+1. Understand what decimals are and how they are related to fractions.
+2. Compare two decimals to figure out which is larger or smaller.
+3. Use place value to order decimals from least to greatest and vice versa.
+
+---
+
+### What is a Decimal?
+
+A decimal is a way of representing fractions using powers of 10. The period or dot in a decimal number is called the decimal point. Each place to the right of the decimal point represents a fraction with a denominator that is a power of ten. For example:
+
+- The first place to the right of the decimal is the tenths place.
+- The second place is the hundredths place.
+- The third place is the thousandths place.
+- And it goes on!
+
+**Note:** The prefix of each place value tells us which power of ten we are working with. For instance, "tenTHS" implies 1/10, "hundredTHS" implies 1/100, and so on.
+
+---
+
+### Comparing Decimals
+
+When you compare decimals, start at the left most digit and move to the right. Here's how you do it:
+
+1. Compare the whole number part first.
+2. If the whole numbers are the same, look at the tenths place.
+3. If the tenths are the same, move to the hundredths, and continue moving to the right until you find a difference.
+
+Remember, if you need to compare 0.5 and 0.50, these are equal because 0.50 is just 0.5 with an extra zero. Adding zeros to the right of a decimal does not change its value.
+
+Now, let's practice comparing some decimals.
+
+**Exercise 1:** Circle the greater decimal.
+
+a. 0.8 **or** 0.78  
+Answer: 0.8
+
+b. 0.36 **or** 0.4  
+Answer: 0.4
+
+c. 0.52 **or** 0.520  
+Answer: They are equal.
+
+d. 0.091 **or** 0.19  
+Answer: 0.19
+
+---
+
+### Ordering Decimals
+
+Ordering decimals is similar to comparing them, but now we'll be working with more than two numbers.
+
+**Steps to Order Decimals:**
+
+1. Write down all the decimals so that each decimal point lines up vertically.
+2. Compare the numbers using the same method as comparing two decimals.
+3. Arrange the numbers starting with the smallest (or largest, depending on the instructions).
+
+
+**Exercise 2:** Write the following decimals in order from least to greatest.
+
+0.75, 0.507, 0.8, 0.76
+
+Answer: 0.507, 0.75, 0.76, 0.8
+
+**Exercise 3:** Write the following decimals in order from greatest to least.
+
+0.9, 0.89, 0.099, 0.999
+
+Answer: 0.999, 0.9, 0.89, 0.099
+
+---
+
+### Practice Problems
+
+Now, let's try a mix of comparing and ordering decimals. Write your answers in the space provided.
+
+**Problem 1:** Which is smaller, 0.3 or 0.29?
+
+Answer: 0.29 is smaller.
+
+**Problem 2:** Put these numbers in order from greatest to least: 0.45, 0.405, 0.5, 0.455
+
+Answer: 0.5, 0.455, 0.45, 0.405
+
+**Problem 3:** Is 0.07 greater than, less than, or equal to 0.070?
+
+Answer: They are equal.
+
+**Problem 4:** Arrange from least to greatest: 0.312, 0.32, 0.302
+
+Answer: 0.302, 0.312, 0.32
+
+Remember, practice makes perfect! Keep working on these problems, and soon you'll be a pro at comparing and ordering decimals.

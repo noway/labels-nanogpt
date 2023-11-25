@@ -1,0 +1,94 @@
+# Basic Addition and Subtraction
+
+## Simple Addition (1-20)
+
+Welcome to the Simple Addition section of our Math Practice book for 2nd grade! Addition is a fundamental mathematical operation that represents the total amount of objects when they are combined into a single group. The ability to quickly and accurately add numbers is an essential skill for young learners.
+
+Below are various addition problems that involve adding numbers between 1 and 20. These exercises will help build your understanding and speed in solving basic addition problems.
+
+---
+
+### Exercise 1: Single-Digit Addition
+
+Add the following single-digit numbers. Write your answer in the space provided.
+
+1.  3 + 4 = 7
+2.  5 + 2 = 7
+3.  6 + 1 = 7
+4.  8 + 2 = 10
+5.  4 + 5 = 9
+6.  7 + 3 = 10
+7.  2 + 6 = 8
+8.  9 + 1 = 10
+9.  1 + 8 = 9
+10. 4 + 4 = 8
+
+### Exercise 2: Double-Digit and Single-Digit Addition
+
+Now let's try adding a single-digit number to a double-digit number. Remember to start adding from the rightmost digit, which is the ones place.
+
+1.  11 + 4 = 15
+2.  14 + 5 = 19
+3.  17 + 3 = 20
+4.  12 + 6 = 18
+5.  18 + 1 = 19
+6.  16 + 2 = 18
+7.  13 + 7 = 20
+8.  15 + 4 = 19
+9.  19 + 1 = 20
+10. 14 + 4 = 18
+
+### Exercise 3: Double-Digit Addition without Carrying
+
+It's time to add two double-digit numbers! When the sum of the digits in the ones place is less than 10, you do not need to carry over to the tens place.
+
+1.  11 + 7 = 18
+2.  13 + 6 = 19
+3.  12 + 5 = 17
+4.  15 + 4 = 19
+5.  10 + 9 = 19
+6.  11 + 8 = 19
+7.  14 + 2 = 16
+8.  12 + 7 = 19
+9.  13 + 5 = 18
+10. 10 + 8 = 18
+
+### Exercise 4: Double-Digit Addition with Carrying
+
+Sometimes when adding two double-digit numbers, the sum of the digits in the ones place will be 10 or more. In this case, you need to carry over to the tens place.
+
+1.  15 + 6 = 21
+2.  17 + 5 = 22
+3.  14 + 8 = 22
+4.  18 + 3 = 21
+5.  16 + 9 = 25
+6.  17 + 4 = 21
+7.  19 + 2 = 21
+8.  15 + 7 = 22
+9.  18 + 5 = 23
+10. 16 + 7 = 23
+
+### Exercise 5: Review and Practice
+
+Let's review what you’ve learned with some mixed problems. Use the skills you've practiced so far to solve these addition problems. 
+
+1.  5 + 15 = 20
+2.  7 + 13 = 20
+3.  9 + 8 = 17
+4.  6 + 11 = 17
+5.  10 + 10 = 20
+6.  19 + 1 = 20
+7.  17 + 2 = 19
+8.  14 + 6 = 20
+9.  12 + 5 = 17
+10. 8 + 7 = 15
+
+### Congratulations!
+
+You've completed the Simple Addition (1-20) section of the Basic Addition and Subtraction chapter. Keep practicing to become an addition expert!
+
+Remember to double-check your work for accuracy when adding numbers to ensure you're getting the correct results. Practice makes perfect, and the more you practice, the faster and more accurate you will become at solving addition problems. Keep up the good work!
+
+--- 
+
+Answers for the Simple Addition (1-20) exercises have been provided to help check your work or assist in training a language model. Remember that some problems can have more than one way to find a solution, but the answer should always be the same. Keep sharpening those math skills!

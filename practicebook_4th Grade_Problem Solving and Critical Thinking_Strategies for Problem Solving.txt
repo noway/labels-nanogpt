@@ -1,0 +1,57 @@
+---
+
+### Strategies for Problem Solving
+
+Problem-solving is an essential skill, not just in math but in all areas of life. In fourth grade, you will face various math problems that require different strategies to solve. Below are some strategies that can help you work through math problems effectively.
+
+#### Understand the Problem
+Before attempting to solve a problem, make sure you understand it. Read the problem carefully, and try to summarize it in your own words. Ask yourself:
+- What am I being asked to find?
+- What information is given?
+- Is there any information that is not necessary for solving the problem?
+
+#### Plan a Strategy
+Think about the different strategies you can use to solve the problem. Here are some common strategies:
+- **Drawing a Picture or Diagram**: Sometimes, visualizing the problem can help you understand it better and see the solution.
+- **Looking for a Pattern**: If the problem involves a sequence or a set of numbers, look for patterns that can lead you to the answer.
+- **Guess and Check**: Make a guess, check if it works, and adjust your guess accordingly until you find the right answer.
+- **Make a List or Table**: Organize the information you have into a list or table to make it easier to analyze.
+- **Write an Equation**: Translate the word problem into a math equation using numbers and symbols.
+- **Work Backwards**: Start with the result and work backwards to find the missing information.
+
+#### Solve the Problem
+Use the strategy you chose to solve the problem. Show all your work step by step, and make sure that your calculations are correct. Remember to check your work for mistakes.
+
+#### Check Your Answer
+Once you have an answer, go back to the original problem to make sure that your answer makes sense. Ask yourself:
+- Does my answer answer the question that was asked?
+- Have I included the correct units of measure (like inches, ounces, etc.)?
+- Does my answer seem reasonable based on the information given?
+- Have I checked my calculations?
+
+#### Example Problems and Answers
+Let's practice using these problem-solving strategies with some example problems. Imagine that you, the student, have already completed these exercises.
+
+**Example 1:**
+Problem: A farmer has 24 apples and wants to divide them equally into baskets. If she has 6 baskets, how many apples will go into each basket?
+Strategy: Write an equation.
+Work Shown: 24 apples ÷ 6 baskets = 4 apples per basket
+Answer: Each basket will have 4 apples.
+
+**Example 2:**
+Problem: Sam collected 36 seashells. He gave 8 seashells to his friend and then found 5 more on the beach. How many seashells does Sam have now?
+Strategy: Solve the problem in steps using the order of operations.
+Work Shown: Sam starts with 36 seashells, gives away 8, and collects 5 more: 36 - 8 + 5.
+Calculation: 28 + 5 = 33 seashells.
+Answer: Sam has 33 seashells.
+
+**Example 3:**
+Problem: There is a pattern of tiles on the floor that goes red, blue, red, blue. If there are 20 tiles in total, how many red tiles are there?
+Strategy: Look for a pattern.
+Work Shown: For every 2 tiles, there is 1 red tile, so divide the total number of tiles by 2.
+Calculation: 20 tiles ÷ 2 = 10 red tiles
+Answer: There are 10 red tiles.
+
+---
+
+By practicing these problem-solving strategies, you'll get better at critical thinking and be able to tackle more challenging math problems. Remember, being wrong sometimes is part of learning. When you make a mistake, try to understand why and learn from it. Keep practicing, and you'll continue to improve your problem-solving skills!

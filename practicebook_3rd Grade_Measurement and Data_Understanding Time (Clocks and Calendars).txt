@@ -1,0 +1,73 @@
+# Chapter: Measurement and Data
+
+## Section: Understanding Time (Clocks and Calendars)
+
+Welcome to the "Understanding Time: Clocks and Calendars" section of your Math practice book! In third grade, you will learn how to tell time to the nearest minute using analog and digital clocks and understand the concepts of a.m. and p.m. You will also gain knowledge about the structure of a calendar and how to find the duration of an event. Let's dive in!
+
+---
+
+### Telling Time
+
+#### Analog Clocks:
+
+An analog clock has a face with numbers 1 to 12, which represent hours, and three hands: a short 'hour hand', a longer 'minute hand', and sometimes a 'second hand'.
+
+**Exercise 1**: Draw the hands on the clock to show these times.
+
+1. 3:00 PM `(Answer: The hour hand at 3, the minute hand at 12.)`
+2. 5:30 AM `(Answer: The hour hand halfway between 5 and 6, the minute hand at 6.)`
+3. 9:15 AM `(Answer: The hour hand a quarter past 9, the minute hand at 3.)`
+4. 12:45 PM `(Answer: The hour hand halfway between 12 and 1, the minute hand at 9.)`
+5. 6:55 PM `(Answer: The hour hand near 7, the minute hand at 11.)`
+
+**Exercise 2**: Write the time shown on each clock.
+
+1. (Analog clock showing hour hand on 8 and minute hand on 6) `(Answer: 8:30 AM or PM)`
+2. (Analog clock showing hour hand on 11 and minute hand on 2) `(Answer: 11:10 AM or PM)`
+3. (Analog clock showing hour hand on 4 and minute hand on 12) `(Answer: 4:00 AM or PM)`
+4. (Analog clock showing hour hand on 1 and minute hand on 9) `(Answer: 1:45 AM or PM)`
+5. (Analog clock showing hour hand on 10 and minute hand on 5) `(Answer: 10:25 AM or PM)`
+
+#### Digital Clocks:
+
+Digital clocks display time using numbers to show the hour and minute. They can also specify the time of day using a.m. or p.m., or using a 24-hour format.
+
+**Exercise 3**: Write the digital time for each of the following.
+
+1. 20 minutes past 7 in the evening. `(Answer: 7:20 PM)`
+2. 15 minutes before 12 at noon. `(Answer: 11:45 AM)`
+3. Half-past 10 in the morning. `(Answer: 10:30 AM)`
+4. Quarter to 4 in the afternoon. `(Answer: 3:45 PM)`
+5. 12 minutes past 11 at night. `(Answer: 11:12 PM)`
+
+---
+
+### Understanding Calendars
+
+A calendar helps us keep track of days, weeks, months, and years. A week has 7 days, a year has approximately 365 days, and a leap year has 366 days. Months can have 28, 29, 30, or 31 days.
+
+**Exercise 4**: Answer these questions about calendars.
+
+1. How many days are there in the month of February during a leap year? `(Answer: 29 days)`
+2. What is the total number of days in the months of January and February in a non-leap year? `(Answer: 59 days)`
+3. If May 1st is on a Friday, what day of the week will be May 31st? `(Answer: Sunday, because there are 30 days in May, and 30 days from Friday is 4 full weeks plus 2 days, i.e., Sunday.)`
+4. What is the last day of the week if the first day of the year is a Wednesday? `(Answer: Thursday, because 365 days is 52 weeks plus 1 day.)`
+5. If New Year's Day was on a Monday in a non-leap year, on what day of the week will the next New Year's Day be? `(Answer: Tuesday, since a common year has 52 weeks and 1 extra day.)`
+
+---
+
+### Time Durations
+
+Calculating the duration of time refers to finding the difference between two times or the time passed from the start of an event to its end.
+
+**Exercise 5**: Calculate the duration of time between the following pairs of times:
+
+1. Start: 9:00 AM, End: 10:30 AM `(Answer: 1 hour 30 minutes)`
+2. Start: 3:45 PM, End: 5:00 PM `(Answer: 1 hour 15 minutes)`
+3. Start: 11:10 AM, End: 2:40 PM `(Answer: 3 hours 30 minutes)`
+4. Start: 4:55 PM, End: 8:10 PM `(Answer: 3 hours 15 minutes)`
+5. Start: 7:25 AM, End: 11:00 AM `(Answer: 3 hours 35 minutes)`
+
+---
+
+You've completed the "Understanding Time: Clocks and Calendars" section! Continue practicing these exercises until you become more comfortable with telling the time and using a calendar. Remember, proficiency with time is a skill that will help you in your daily life, not just in math class!

@@ -1,0 +1,119 @@
+# Problem Solving: Logical Reasoning and Patterns
+
+## Introduction
+Welcome, young mathematicians, to the Logical Reasoning and Patterns section of your 3rd Grade math practice book. Here, you will be solving problems that will enhance your thinking skills. You will learn to identify patterns, draw conclusions, and develop strategies for problem-solving. So, get ready to put on your thinking caps and explore the world of logical reasoning and patterns!
+
+---
+
+## Exercise 1: Number Patterns
+Identify and continue the pattern in each sequence. Write the next two numbers.
+
+### Example:
+2, 4, 6, 8, __, __
+
+#### Answer:
+10, 12 (The pattern increases by 2 each time.)
+
+### Problems:
+1. 5, 10, 15, 20, __, __
+2. 18, 15, 12, 9, __, __
+3. 1, 4, 9, 16, __, __
+4. 2, 4, 8, 16, __, __
+5. 10, 20, 40, 80, __, __
+
+#### Answers:
+1. 25, 30 (The pattern increases by 5 each time.)
+2. 6, 3 (The pattern decreases by 3 each time.)
+3. 25, 36 (The pattern increases by the next square number.)
+4. 32, 64 (The pattern is doubling each time.)
+5. 160, 320 (The pattern is doubling each time.)
+
+---
+
+## Exercise 2: Shape Patterns
+
+Look at the sequence of shapes and continue the pattern by drawing the next two shapes in the sequence.
+
+### Example:
+Circle, Square, Circle, Square, __, __
+
+#### Answer:
+Circle, Square (The pattern alternates between a circle and a square.)
+
+### Problems:
+1. Triangle, Triangle, Square, Triangle, Triangle, __, __
+2. Hexagon, Pentagon, Hexagon, Pentagon, __, __
+3. Circle, Square, Triangle, Circle, Square, __, __
+4. Rectangle, Rectangle, Circle, Rectangle, Rectangle, __, __
+
+#### Answers:
+1. Square, Triangle (The pattern is two triangles followed by a square.)
+2. Hexagon, Pentagon (The pattern alternates between a hexagon and a pentagon.)
+3. Triangle, Circle (The pattern cycles through a circle, square, and triangle.)
+4. Circle, Rectangle (The pattern is two rectangles followed by a circle.)
+
+---
+
+## Exercise 3: What Comes Next?
+Choose the correct option that should come next in the pattern.
+
+### Example:
+Red, Green, Blue, Red, Green, __
+
+Options: a) Red, b) Blue, c) Green, d) Yellow
+
+#### Answer:
+b) Blue (The pattern repeats every three colors: red, green, blue.)
+
+### Problems:
+1. A, C, E, G, __
+   Options: a) H, b) I, c) J, d) K
+
+2. Sun, Moon, Star, Sun, Moon, __
+   Options: a) Star, b) Sun, c) Moon, d) Earth
+
+3. 5, 10, 15, 5, 10, __
+   Options: a) 5, b) 15, c) 20, d) 10
+
+4. Circle, Circle, Square, Circle, Circle, __
+   Options: a) Circle, b) Square, c) Triangle, d) Rectangle
+
+#### Answers:
+1. d) K (The pattern skips one letter in the alphabet each time.)
+2. a) Star (The pattern repeats every three objects: sun, moon, star.)
+3. b) 15 (The pattern is repeating the sequence 5, 10, 15.)
+4. b) Square (The pattern is two circles followed by a square.)
+
+---
+
+## Exercise 4: Logical Reasoning Problems
+Solve each problem using logical reasoning.
+
+### Example:
+If there are 5 apples and you take away 3, how many do you have?
+
+#### Answer:
+3 apples (You have the 3 apples you took away.)
+
+### Problems:
+1. Sarah has 3 red socks, 4 green socks, and 3 blue socks in her drawer. In the dark, how many socks must she take from the drawer to be sure to have a matching pair?
+
+2. If a bus can carry 12 students and there are 36 students going on a field trip, how many buses are needed to carry all the students?
+
+3. Jack is looking at Anne, but Anne is looking at George. Jack is married, but George is not. Is a married person looking at an unmarried person?
+
+4. A farmer has 15 sheep and all but 8 die. How many are left?
+
+#### Answers:
+1. 5 socks (Even if Sarah picks one of each color first, the next sock she picks will guarantee a matching pair.)
+   
+2. 3 buses (36 divided by 12 is exactly 3, so three buses are needed.)
+
+3. Yes (Anne is the key to the answer. It doesn't matter whether she is married or not. If Anne is married, she's looking at George, an unmarried person. If Anne is unmarried, then Jack, a married person, is looking at her. So a married person is looking at an unmarried person in either case.)
+
+4. 8 sheep (The phrase "all but 8 die" means that 8 sheep remain alive.)
+
+---
+
+## Conclusion
+Great job working through these logical reasoning and pattern problems! The skills you've practiced today will help you not only in math but also in solving everyday problems by thinking critically and identifying patterns. Keep up the good work, and remember, practice makes perfect!

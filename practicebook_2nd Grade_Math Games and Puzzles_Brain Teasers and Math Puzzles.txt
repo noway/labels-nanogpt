@@ -1,0 +1,75 @@
+# Brain Teasers and Math Puzzles
+
+Welcome to the Brain Teasers and Math Puzzles section of your 2nd Grade Math Practice Book! Put on your thinking cap and get ready for some fun challenges that will test your math skills in new and exciting ways. Remember, these puzzles are designed to make you think outside the box, so take your time, and don't be afraid to try different approaches!
+
+## Puzzle 1: The Fruit Basket
+
+Tom has a basket full of apples and oranges. There are 10 fruits in the basket. If there are 4 apples, how many oranges are there?
+
+### Solution
+There are 6 oranges. If there are 4 apples, and there are 10 fruits in total, you subtract the number of apples from the total number of fruits to find the number of oranges: 10 - 4 = 6.
+
+## Puzzle 2: The Magic Number
+
+What is the magic number? It is greater than 20 but less than 30, it is even, and when you add the two digits together, you get 8.
+
+### Solution
+The magic number is 26. It is the only number between 20 and 30 that is even (22, 24, 26, 28) and has digits that add up to 8 (2 + 6 = 8).
+
+## Puzzle 3: The Secret Code
+
+Each letter represents a number. If A = 1, B = 2, and C = 3, what numbers do the letters in the word "CAT" represent?
+
+### Solution
+C = 3, A = 1, T = 20. So, the word "CAT" represents the numbers 3, 1, 20.
+
+## Puzzle 4: The Missing Number
+
+What is the missing number in the sequence: 3, 6, ?, 12, 15
+
+### Solution
+The missing number is 9. The sequence is increasing by 3 each time: 3 + 3 = 6, 6 + 3 = 9, 9 + 3 = 12, 12 + 3 = 15.
+
+## Puzzle 5: The Odd One Out
+
+Which number does not belong in the following series? 2, 4, 7, 8, 10, 12
+
+### Solution
+The number 7 does not belong. All other numbers are even, while 7 is odd.
+
+## Puzzle 6: The Cookie Jar
+
+If there are 3 cookies in a jar and you take out 2 cookies, how many cookies do you have?
+
+### Solution
+You have 2 cookies. The question asks how many cookies you have taken out, not how many are left in the jar.
+
+## Puzzle 7: The Pattern Finder
+
+What comes next in the pattern: Triangle, Circle, Triangle, Circle, Triangle, ?
+
+### Solution
+The next shape is a Circle. The pattern is a triangle followed by a circle, and it repeats.
+
+## Puzzle 8: The Age Puzzle
+
+Ella is twice as old as Julia. Three years ago, she was three times as old. How old is Ella now?
+
+### Solution
+Ella is currently 6 years old. Let Julia's age be x. Three years ago, Ella was 3x and Julia was x - 3. Now, Ella is twice as old as Julia: 2x = Ella’s age. Three years ago, 3(x - 3) had to equal Ella's current age minus 3. Solving for x gives Julia's current age as 3, so Ella, who is twice as old, is 6.
+
+## Puzzle 9: The Sharing Cake
+
+Alex has 12 pieces of cake and wants to share them with 3 friends so that each of them gets the same amount. How many pieces of cake does each friend get?
+
+### Solution
+Each friend gets 4 pieces of cake. If you divide the 12 pieces by the 3 friends, 12 ÷ 3 = 4.
+
+## Puzzle 10: The Time Puzzle
+
+What is the shortest amount of time — minutes and seconds — it takes for the minute and hour hand of a clock to overlap exactly?
+
+### Solution
+The shortest amount of time for the minute and hour hands to overlap exactly is 65 minutes. This occurs when the clock goes from 12:00 to just past 1:05.
+
+Congratulations! You have completed the Brain Teasers and Math Puzzles section. Remember, practice makes perfect, so come back and try these puzzles again to see if you can solve them faster or find different ways to reach the solutions! Keep up the great work, and continue to have fun with math!

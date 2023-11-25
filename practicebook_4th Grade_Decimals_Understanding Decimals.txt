@@ -1,0 +1,72 @@
+---
+## Understanding Decimals
+
+### What Are Decimals?
+
+Welcome to the section on Understanding Decimals! Decimals are a way of representing fractions and mixed numbers in a different form. They use the base-ten system, which is the same system we use for counting whole numbers.
+
+In the base-ten system, each place to the left or right of the decimal point has a value that is ten times bigger or smaller than the one next to it. The decimal point helps us to separate the whole number part from the fractional part.
+
+### Places in Decimal Numbers
+
+Let's look at the places in a decimal number:
+
+- The first place to the right of the decimal point is the tenths place.
+- The second place to the right is the hundredths place.
+- The third place to the right is the thousandths place.
+- And it goes on – ten-thousandths, hundred-thousandths, etc.
+
+For example, the decimal 0.8 stands for 8 tenths, or 8/10 when written as a fraction.
+
+### Writing Decimals
+
+It is important to know how to read and write decimals correctly. If you have a number like 3.467, it's read as "three and four hundred sixty-seven thousandths." Notice how the last word indicates the last place value of the decimal.
+
+### Comparing Decimals
+
+To compare decimals, you start with the largest place value and move to the right. For example, to compare 0.56 and 0.6, you look at the tenths place first. Since 6 is greater than 5, then 0.6 is greater than 0.56.
+
+### Rounding Decimals
+
+Rounding decimals is just like rounding whole numbers. If you are rounding to the nearest tenth, you look at the hundredths place to see if it is 5 or more to round up, or 4 or less to keep the tenths place the same.
+
+For example, to round 3.746 to the nearest tenth:
+- The hundredths place is a 4, which is less than 5, so the tenths place stays the same.
+- Rounding 3.746 to the nearest tenth gives us 3.7.
+
+### Exercises
+
+1. **Write the decimal and fraction for each place value:**
+   - 3 tenths
+   - 14 hundredths
+   - 256 thousandths
+
+2. **Compare the decimals:**
+   - 0.75 and 0.7
+   - 0.62 and 0.601
+   - 0.39 and 0.389
+
+3. **Round the following decimals to the nearest tenth:**
+   - 0.34
+   - 2.85
+   - 0.761
+
+### Answers
+
+1. **Write the decimal and fraction for each place value:**
+   - 3 tenths = 0.3 = 3/10
+   - 14 hundredths = 0.14 = 14/100
+   - 256 thousandths = 0.256 = 256/1000
+
+2. **Compare the decimals:**
+   - 0.75 is greater than 0.7 because 5 in the hundredths place is greater than 0.
+   - 0.62 is greater than 0.601 because 2 in the hundredths place is greater than 0, even though 1 is in the thousandths place.
+   - 0.39 is greater than 0.389 because 0 in the thousandths place is less than 9.
+
+3. **Round the following decimals to the nearest tenth:**
+   - 0.34 rounds down to 0.3 because 4 in the hundredths place is less than 5.
+   - 2.85 rounds up to 2.9 because 5 in the hundredths place is 5 or more.
+   - 0.761 rounds up to 0.8 because 6 in the hundredths place is 5 or more.
+
+Remember, understanding decimals is all about practice. Keep working through examples and exercises to become more comfortable with decimals!
+---

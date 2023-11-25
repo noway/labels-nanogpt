@@ -1,0 +1,87 @@
+----
+
+# Storytime with Math
+
+Welcome to "Storytime with Math," little learners! It's time to dive into a world of numbers, shapes, and fun adventures while you practice your math skills. Each of these stories has a math problem for you to solve, helping you learn in the most fun way possible. Remember, math is all around us, and you're about to discover how it fits into some of your favorite stories!
+
+## The Apple Orchard Adventure
+
+### Story:
+Once upon an autumn day, Mia and Max went to an apple orchard. There were 3 rows of apple trees, and each row had 5 trees. They picked 2 apples from each tree.
+
+#### Question 1:
+How many trees were in the apple orchard?
+
+##### Answer 1:
+3 rows of trees with 5 trees per row is 3 x 5 = 15 trees.
+
+#### Question 2:
+How many apples did Mia and Max pick in total?
+
+##### Answer 2:
+They picked 2 apples from each of the 15 trees, so 2 x 15 = 30 apples in total.
+
+### Story Continues:
+After gathering apples, Mia and Max sat down to rest and made new friends. They met 3 other kids at the orchard, and they all decided to share the apples equally.
+
+#### Question 3:
+How many apples did each child get?
+
+##### Answer 3:
+They had to divide 30 apples equally among 5 children, so 30 ÷ 5 = 6 apples per child.
+
+## The Shape Parade
+
+### Story:
+In the land of Geometry, the Shape Parade was taking place. There were 4 types of shapes in the parade: triangles, circles, squares, and rectangles. Each of them had a different number of corners: triangles had 3, circles had none, squares had 4, and rectangles also had 4.
+
+#### Question 1:
+How many corners do 3 triangles have in total?
+
+##### Answer 1:
+3 triangles with 3 corners each give us 3 x 3 = 9 corners in total.
+
+#### Question 2:
+How many corners are there in 2 rectangles?
+
+##### Answer 2:
+2 rectangles with 4 corners each is 2 x 4 = 8 corners in total.
+
+### Story Continues:
+At the end of the parade, the shapes wanted to thank the number 4 for being so special, as both squares and rectangles had 4 corners.
+
+#### Question 3:
+How many shapes in total thanked the number 4?
+
+##### Answer 3:
+If there were 4 squares and 3 rectangles, that would be 4 + 3 = 7 shapes thanking the number 4.
+
+## The Counting Tea Party
+
+### Story:
+Ellie the Elephant was having a tea party. She invited 2 of her stuffed animal friends: Teddy the Bear and Dolly the Doll. Ellie had 5 cookies, Teddy brought 3 cookies, and Dolly had 2 cookies.
+
+#### Question 1:
+How many cookies were there at the tea party in total?
+
+##### Answer 1:
+Ellie’s 5 cookies with Teddy’s 3 cookies and Dolly’s 2 cookies make 5 + 3 + 2 = 10 cookies in total.
+
+#### Question 2:
+If Ellie ate 2 cookies, how many cookies were left?
+
+##### Answer 2:
+After eating 2 cookies from the initial 10, there would be 10 - 2 = 8 cookies left.
+
+### Story Continues:
+After the party, Ellie wanted to give 2 cookies to each of her friends as a thank-you gift.
+
+#### Question 3:
+Could Ellie give 2 cookies to each friend if she only had 8 cookies left? Why or why not?
+
+##### Answer 3:
+Yes, 2 cookies for Teddy and 2 for Dolly would be 2 x 2 = 4 cookies in total. Ellie would have enough because 8 - 4 = 4 cookies would remain for her.
+
+----
+
+Through these math-filled stories, kindergartners will develop foundational skills like addition, subtraction, multiplication (in a very simple form), and division along with exercises in basic geometry and number awareness. It's a delightful way for students to see real-world applications of math, all while enjoying the charm of a storybook!

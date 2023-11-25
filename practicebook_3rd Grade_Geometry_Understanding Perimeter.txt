@@ -1,0 +1,93 @@
+## Understanding Perimeter
+
+Welcome to the section on understanding perimeter! Perimeter is an important concept in geometry that refers to the distance around a two-dimensional shape. Imagine you are walking along the border of a garden or running around a soccer field – the path you travel is similar to the shape's perimeter. We will explore how to find the perimeter of different shapes.
+
+### What is Perimeter?
+
+The perimeter of a shape is the total length of all its sides. To find the perimeter, you simply add up the lengths of all the sides.
+
+### Perimeter of Rectangles and Squares
+
+Since rectangles and squares have sides opposite to each other that are equal in length, calculating their perimeter is straightforward.
+
+#### Rectangles
+
+A rectangle has two pairs of equal sides. To find the perimeter of a rectangle, you can use the formula:
+
+\[ P = 2 \times (length + width) \]
+
+where \( P \) stands for perimeter, the length is the longer side of the rectangle, and the width is the shorter side.
+
+**Exercise 1:**
+Find the perimeter of a rectangle with a length of 8 inches and a width of 3 inches.
+
+**Answer:**
+\[ P = 2 \times (8 + 3) = 2 \times 11 = 22 \text{ inches} \]
+
+#### Squares
+
+A square has four sides of equal length. To find the perimeter of a square, multiply the length of one side by 4.
+
+\[ P = 4 \times side \]
+
+**Exercise 2:**
+Calculate the perimeter of a square whose side is 5 inches long.
+
+**Answer:**
+\[ P = 4 \times 5 = 20 \text{ inches} \]
+
+### Perimeter of Triangles
+
+The perimeter of a triangle is the sum of the lengths of its three sides.
+
+**Exercise 3:**
+Find the perimeter of a triangle with side lengths of 4 inches, 5 inches, and 6 inches.
+
+**Answer:**
+\[ P = 4 + 5 + 6 = 15 \text{ inches} \]
+
+### Perimeter of Regular Polygons
+
+A regular polygon is a shape where all the sides and angles are the same. The formula to find the perimeter is:
+
+\[ P = number \: of \: sides \times length \: of \: one \: side \]
+
+**Exercise 4:**
+Calculate the perimeter of a regular hexagon (a six-sided polygon) with each side measuring 3 inches.
+
+**Answer:**
+\[ P = 6 \times 3 = 18 \text{ inches} \]
+
+### Practice Problems
+
+Let's work on some exercises to practice finding perimeters. Remember, add up all the side lengths of the shape to find the perimeter!
+
+1. Find the perimeter of a rectangle with a length of 7 meters and a width of 2 meters.
+   
+   **Answer:** \( P = 2 \times (7 + 2) = 2 \times 9 = 18 \text{ meters} \)
+
+2. A square garden has a side length of 12 feet. What is its perimeter?
+   
+   **Answer:** \( P = 4 \times 12 = 48 \text{ feet} \)
+
+3. Find the perimeter of a triangle with sides of 7 inches, 8 inches, and 9 inches.
+   
+   **Answer:** \( P = 7 + 8 + 9 = 24 \text{ inches} \)
+
+4. Calculate the perimeter of a regular octagon (an eight-sided polygon) with each side measuring 5 centimeters.
+   
+   **Answer:** \( P = 8 \times 5 = 40 \text{ centimeters} \)
+
+5. Your classroom's rectangular door measures 80 centimeters wide and 200 centimeters high. What is the perimeter of the door?
+   
+   **Answer:** \( P = 2 \times (80 + 200) = 2 \times 280 = 560 \text{ centimeters} \)
+
+### Real-World Applications
+
+Understanding how to calculate perimeter can be useful in real life! For example, if you want to build a fence around your garden to keep rabbits out, knowing the perimeter will tell you how much fencing material you'll need.
+
+### Review
+
+Remember, the perimeter is the total distance around the edge of a shape. You can find it by adding together the lengths of all the sides. For rectangles and squares, you can use a formula based on the lengths of the sides. For triangles and other polygons, simply add up the lengths of each side.
+
+Now that you've learned about perimeter, continue to practice with different shapes, and you'll be a perimeter pro in no time!

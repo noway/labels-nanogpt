@@ -1,0 +1,90 @@
+# Shapes and Their Attributes
+
+Geometry is the part of mathematics that studies the sizes, shapes, properties, and dimensions of things. In this section, we will explore some basic shapes and their attributes. Understanding these will help you recognize and describe shapes all around you.
+
+---
+
+## 2D Shapes (Two-Dimensional Shapes)
+
+Two-dimensional shapes are flat shapes that have only two dimensions: length and width. They do not have depth. 
+
+### Circle
+- **Attribute**: A circle is round and has no corners or edges.
+- **Properties**:
+  - **Circumference**: The distance around the circle.
+  - **Radius**: The distance from the center to any point on the circle.
+  - **Diameter**: The distance across the circle, passing through the center. It is twice the length of the radius.
+  - **Area**: The space inside the circle. The formula is A = πr^2, where 'r' is the radius.
+
+### Triangle
+- **Attribute**: A triangle has three sides, three vertices, and three angles.
+- **Types**:
+  - **Equilateral Triangle**: All three sides and angles are equal.
+  - **Isosceles Triangle**: Two sides and two angles are equal.
+  - **Scalene Triangle**: All sides and angles are different.
+- **Area**: The space inside the triangle. The formula is A = 1/2(base x height).
+
+### Square
+- **Attribute**: A square has four equal sides and four right angles.
+- **Properties**:
+  - **Area**: The space inside the square. The formula is A = side^2, where 'side' is the length of one of the square's sides.
+  - **Perimeter**: The total distance around the square. The formula is P = 4 x side.
+
+### Rectangle
+- **Attribute**: A rectangle has two pairs of equal sides and four right angles.
+- **Properties**:
+  - **Area**: The space inside the rectangle. The formula is A = length x width.
+  - **Perimeter**: The total distance around the rectangle. The formula is P = 2(length + width).
+
+### Rhombus
+- **Attribute**: A rhombus has four equal sides with opposite sides parallel and opposite angles equal.
+- **Properties**:
+  - **Area**: The space inside the rhombus. The formula is A = base x height.
+
+### Parallelogram
+- **Attribute**: A parallelogram has opposite sides that are equal and parallel, with opposite angles that are equal.
+- **Properties**:
+  - **Area**: The space inside the parallelogram. The formula is A = base x height.
+  
+### Trapezoid (or Trapezium)
+- **Attribute**: A trapezoid has one pair of parallel sides.
+- **Properties**:
+  - **Area**: The space inside the trapezoid. The formula is A = 1/2 (sum of parallel sides) x height.
+
+### Pentagon
+- **Attribute**: A pentagon has five sides and five angles.
+- **Properties**:
+  - **Area**: The formula for the area of a regular pentagon (with all sides and angles equal) can be complex: A = 1/4 √(5(5 + 2√5)) side^2.
+
+### Hexagon
+- **Attribute**: A hexagon has six sides and six angles.
+- **Properties**:
+  - **Area**: For a regular hexagon, the area formula is A = (3√3/2) side^2.
+
+## Answers
+Now that you have completed the exercises, you should have an understanding of the different shapes and their attributes. Here are the answers to the practice problems:
+
+1. What is the area of a square with side length 5 cm?
+   - **Answer**: A = side^2 = 5^2 = 25 cm^2
+
+2. Calculate the area of a rectangle with a length of 8 cm and a width of 4 cm.
+   - **Answer**: A = length x width = 8 x 4 = 32 cm^2
+
+3. What is the perimeter of a square with a side length of 6 cm?
+   - **Answer**: P = 4 x side = 4 x 6 = 24 cm
+
+4. What is the circumference of a circle with a radius of 3 cm? (Use π ≈ 3.14)
+   - **Answer**: Circumference = 2πr = 2 x 3.14 x 3 ≈ 18.84 cm
+
+5. Find the area of a circle with a diameter of 10 cm. (Use π ≈ 3.14, and remember the radius is half of the diameter)
+   - **Answer**: A = πr^2; r = diameter/2 = 10/2 = 5; A = 3.14 x 5^2 ≈ 78.5 cm^2
+
+6. A triangle has a base of 7 cm and a height of 4 cm. What is its area?
+   - **Answer**: A = 1/2(base x height) = 1/2(7 x 4) = 14 cm^2
+
+7. What is the area of a trapezoid with bases of 8 cm and 6 cm, and a height of 5 cm?
+   - **Answer**: A = 1/2 (sum of parallel sides) x height = 1/2 (8 + 6) x 5 = 1/2 (14) x 5 = 35 cm^2
+
+---
+
+This section provided you with an overview of 2D shapes and their properties. Remember that the more you practice, the better you will understand and remember these concepts. Keep up the good work, and have fun exploring the shapes around you!

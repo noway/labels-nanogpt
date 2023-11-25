@@ -1,0 +1,59 @@
+# Introduction to Angles
+
+Welcome to the "Introduction to Angles" section of your 4th Grade Geometry chapter! Angles are a fundamental part of geometry and they show up everywhere, from architectural designs to everyday objects. Understanding angles will help you in mathematics and beyond. Let's embark on this geometric adventure together!
+
+## What are Angles?
+
+An **angle** is formed when two rays meet at a common endpoint. This endpoint is known as the **vertex** of the angle, and the rays are called the **arms** or **sides**. The amount of turn between the two rays is what we measure as the angle.
+
+## Types of Angles
+
+There are different types of angles, based on how much they turn. Here are the main ones you need to know:
+
+- **Acute Angle**: An angle that is less than 90 degrees.
+- **Right Angle**: An angle that is exactly 90 degrees. They look like the corner of a square.
+- **Obtuse Angle**: An angle that is more than 90 degrees but less than 180 degrees.
+- **Straight Angle**: An angle that is exactly 180 degrees. It looks like a straight line.
+- **Reflex Angle**: An angle that is more than 180 degrees but less than 360 degrees.
+
+## Measuring Angles
+
+To measure how big an angle is, we use a unit called **degrees**. Imagine a full circle around the vertex. A full circle is made up of 360 degrees. We can use a tool called a **protractor** to measure how many degrees an angle has.
+
+## Naming Angles
+
+We can name angles using three points. The middle point is always the vertex, and it goes in the middle of the name. For example, if we have three points A, B, and C, with B as the vertex, the angle is called ∠ABC or ∠CBA.
+
+## Practice Problems
+
+Now, it’s time to put your new knowledge to the test with some practice problems!
+
+1. Identify the type of each angle:
+   a. ∠XYZ is 65 degrees.
+   b. ∠ABC is 90 degrees.
+   c. ∠DEF is 135 degrees.
+   d. ∠GHI is 180 degrees.
+   e. ∠JKL is 250 degrees.
+
+Answers:
+   a. ∠XYZ is an acute angle.
+   b. ∠ABC is a right angle.
+   c. ∠DEF is an obtuse angle.
+   d. ∠GHI is a straight angle.
+   e. ∠JKL is a reflex angle.
+
+2. Measure the following angles using a protractor and state their types:
+   a. Draw an angle of 30 degrees and name it ∠PQR.
+   b. Draw an angle of 115 degrees and name it ∠STU.
+   
+Answers:
+   a. ∠PQR should be measured at 30 degrees with a protractor and is an acute angle.
+   b. ∠STU should be measured at 115 degrees with a protractor and is an obtuse angle.
+
+3. Name the angles in the figures provided in the book (Ensure to add figures showing different angle types for students to name).
+   
+Sample Answers (based on hypothetical figures):
+   a. The angle with vertex M is named ∠LMN.
+   b. The angle with vertex O is named ∠POQ or ∠QOP.
+
+Remember, practice makes perfect! Make sure to exercise your new skills with lots of drawings and measurements. Soon, you'll be an angle expert!

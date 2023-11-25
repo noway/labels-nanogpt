@@ -1,0 +1,61 @@
+---
+**Introduction to Fractions**
+---
+Welcome to the "Fractions" chapter of your 4th Grade Math Practice Book! This section will introduce you to the fascinating world of fractions, which are a way to express parts of a whole. Understanding fractions is essential not just in math, but in many real-life situations too!
+
+### What Are Fractions?
+
+A fraction represents a part of a whole or, for more advanced students, a division of any number of equal parts. When we say "fraction," we're talking about one or more parts out of a whole. 
+
+Let's take an example: If you cut a pizza into 4 equal slices and take one slice, you would have taken 1 out of the 4 slices, which is represented as 1/4 (read as 'one fourth' or 'a quarter').
+
+### Parts of a Fraction
+
+A fraction has two parts: the numerator and the denominator.
+
+- **Numerator**: This is the top number of a fraction which tells you how many parts you have.
+- **Denominator**: This is the bottom number that shows into how many equal parts the whole is divided.
+
+For example, in 3/8, 3 is the numerator and 8 is the denominator. It means the whole is divided into 8 equal parts and we are considering 3 of those parts.
+
+### Types of Fractions
+
+There are different types of fractions:
+
+- **Proper Fractions**: The numerator is less than the denominator. For example, 3/4.
+- **Improper Fractions**: The numerator is greater than or equal to the denominator, such as 5/3 or 4/4.
+- **Mixed Numbers**: A whole number combined with a fraction, such as 1 1/2.
+  
+### Equivalent Fractions
+
+Two fractions are equivalent if they represent the same part of a whole. For instance, 2/4 and 1/2 are equivalent because they both represent half of a whole.
+
+### Simplifying Fractions
+
+Simplifying fractions, also called reducing fractions, is the process of making the fraction as simple as possible. For example, 4/8 can be simplified to 1/2 because both the numerator and denominator are divisible by 4.
+
+### Practicing Fractions
+
+Now that we’ve introduced fractions, let's start practicing them! There will be exercises for identifying fractions, comparing them, simplifying them, and finding equivalent fractions.
+
+**Exercise Answers:**
+
+*Note: Since students have not completed these exercises, the below answers are examples based on typical practice questions.*
+
+1. Identify the fraction of the shaded area:
+   - Example Question: A shape is divided into 4 equal parts. 1 part is shaded.
+     - **Answer**: The fraction is 1/4.
+
+2. Compare the fractions and determine if they are greater than, less than, or equal to each other:
+   - Example Question: Which is greater, 1/3 or 1/4?
+     - **Answer**: 1/3 is greater than 1/4.
+
+3. Simplify the following fraction to its lowest terms:
+   - Example Question: Simplify 6/12.
+     - **Answer**: The simplest form of 6/12 is 1/2.
+
+4. Find the equivalent fraction:
+   - Example Question: What fraction is equivalent to 2/6?
+     - **Answer**: The equivalent fraction is 1/3.
+
+Remember, practice makes perfect! As you work through these exercises, you'll become more comfortable with fractions, and they will make more sense to you. Keep trying your best, and don't be afraid to ask questions if you're ever unsure about something. Happy learning!

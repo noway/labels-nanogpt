@@ -1,0 +1,96 @@
+---
+# Problem Solving and Critical Thinking
+## Chapter 5: Logical Reasoning
+
+### Introduction
+
+Logical reasoning is a key aspect of problem solving and critical thinking. It involves the ability to analyze a situation or a set of data, process it logically, and come up with a reasoned argument or conclusion. In the 4th grade, students are just beginning to develop these skills, so exercises at this level will focus on building a strong foundation in logical thinking.
+
+### What is Logical Reasoning?
+
+Logical reasoning is the process of using a rational, systematic series of steps based on sound mathematical procedures and given statements to arrive at a conclusion. In the 4th grade, we focus on two main forms of logical reasoning:
+
+1. **Deductive Reasoning** - This is when we use general information to make a specific conclusion.
+2. **Inductive Reasoning** - This is when we use specific information to make a general conclusion.
+
+### Deductive Reasoning Exercises
+
+#### Exercise 1: All A Are B
+
+*All apples from this bag are red. Molly took an apple from this bag. What color is Molly's apple?*
+
+Answer: Molly's apple is red. This is because all apples from the bag are red, and Molly took one from this bag. This is an example of deductive reasoning; the conclusion (Molly's apple is red) is drawn from a general statement (all apples from the bag are red).
+
+#### Exercise 2: Logical Sequence
+
+*Place the shapes in a logical sequence: Circle, Triangle, Circle, __, Triangle, Circle.*
+
+Answer: The missing shape is a Triangle. The pattern alternates between Circle and Triangle, starting with Circle - so the sequence would logically continue with Triangle.
+
+### Inductive Reasoning Exercises
+
+#### Exercise 3: Uncovering Rules
+
+*Here are the following series of numbers: 2, 4, 8, 16. What will be the next number in this series?*
+
+Answer: The next number will be 32. This is because the pattern shows that each number is being multiplied by 2. In this exercise, students use the specific examples provided to understand the general rule that is being applied.
+
+#### Exercise 4: Identifying Patterns
+
+*Observe the following pattern:*
+
+*Blue, Blue, Red, Blue, Blue, Red, Blue, __, __.*
+
+*What are the next two colors in the pattern?*
+
+Answer: The next two colors will be Blue, Red. Here, students recognize the pattern of two blues followed by a red, which then repeats.
+
+### Exercises in Combining Deductive and Inductive Reasoning
+
+#### Exercise 5: Pattern and Conclusion
+
+*If today is Monday and every other day starting from Monday is a school day, will school be open on the upcoming Wednesday?*
+
+Answer: Yes, the school will be open on the upcoming Wednesday. Starting from Monday (school day), the next day is Tuesday (no school), followed by Wednesday (school day), assuming this pattern alternates every other day.
+
+#### Exercise 6: Logical Puzzle
+
+*Ted has more marbles than Alice, and Alice has fewer marbles than Sandra. Does Ted have more or fewer marbles than Sandra?*
+
+Answer: Ted has more marbles than Sandra. If he has more than Alice and Alice has fewer than Sandra, it means that Sandra has more than Alice but less than Ted, by applying transitive logic.
+
+---
+
+### Practice Problems
+
+Now, try the following logical reasoning problems on your own:
+
+1. All the fruit in the basket are either apples or oranges. If there are 8 apples, and there are no oranges in the basket, how many pieces of fruit are there in total?
+
+2. Look at the following pattern of numbers: 5, 10, 20, 40, __, __. What are the next two numbers in the sequence?
+
+3. It rained today. Every time it rains, Mrs. Green takes an umbrella to work. Did Mrs. Green take an umbrella to work today?
+
+4. Jack is taller than Peter, and Tom is shorter than Jack. Who is the tallest?
+
+5. Here is a pattern of shapes: Square, Rectangle, Square, Circle, __, __. What are the next two shapes in this pattern?
+
+When you're ready, check your answers below.
+
+---
+
+### Answers to Practice Problems
+
+1. There are 8 pieces of fruit in total, since all are apples and no oranges are present.
+
+2. The next two numbers are 80 and 160. The sequence shows that each number is doubled from the previous one.
+
+3. Yes, Mrs. Green took an umbrella to work today because it rained and that's when she always takes an umbrella.
+
+4. Jack is the tallest since he is taller than Peter and Tom is shorter than Jack.
+
+5. The next two shapes are Rectangle and Square. The pattern is a square followed by a rectangle and then a square followed by a circle, and this sequence repeats.
+
+---
+
+Remember, the key to becoming good at logical reasoning is practice and looking at problems in different ways. Keep working on these types of exercises, and you'll strengthen your logical reasoning skills in no time!

@@ -1,0 +1,79 @@
+---
+
+## Chapter: Problem Solving and Critical Thinking
+
+### Section: Applying Math in Everyday Life
+
+Math is not just a subject you learn in school—it's a tool that you can use every day to make sense of the world and solve everyday problems. In this section, we'll look at different ways math appears in daily activities and how you can apply your math skills to make decisions, plan events, manage time, and even save money. 
+
+#### Real-world Math Problems
+
+---
+
+**1. Shopping Smart**
+
+You are at the grocery store with a budget of $25 for snacks. Apples are on sale for $1 each, bananas are $0.50 each, and a pack of granola bars is $4. How many of each can you buy without exceeding your budget?
+
+**Answer:** 
+To stay within your budget, you could buy, for example, 10 apples for $10, 10 bananas for $5, and two packs of granola bars for $8. This totals to $23, which is within the $25 budget. 
+
+---
+
+**2. Baking a Cake**
+
+The cake recipe you are using calls for 4 cups of flour, but you want to make a cake that is only half the size. How much flour do you need?
+
+**Answer:** 
+If a full-sized cake requires 4 cups of flour, for a half-sized cake, you need half the amount of flour. Thus, you would use 2 cups of flour.
+
+---
+
+**3. Road Trip Planning**
+
+Your family is planning a road trip that is 180 miles long. If your car gets 30 miles per gallon of gas, and the gas costs $3.10 per gallon, how much will the gas for the trip cost?
+
+**Answer:** 
+First, calculate the amount of gas you'll need: 180 miles ÷ 30 miles/gallon = 6 gallons.
+Then multiply the gallons by the cost of gas: 6 gallons * $3.10/gallon = $18.60.
+
+---
+
+**4. Time Management**
+
+You have 2 hours of free time after school. You want to spend 1/4 of this time practicing piano and the rest on homework. How much time do you have for each activity?
+
+**Answer:** 
+Two hours equals 120 minutes. 1/4 of this time is 120 minutes ÷ 4 = 30 minutes. So, you can spend 30 minutes on piano. The remaining time is 120 minutes - 30 minutes = 90 minutes, which you can spend on homework.
+
+---
+
+**5. Saving for a New Toy**
+
+A toy you want costs $15. You have $5 now. If you save $2 a week from your allowance, how many weeks will it take you to save enough to buy the toy?
+
+**Answer:** 
+You need $15 - $5 = $10 more. At $2 per week, it will take you $10 ÷ $2/week = 5 weeks to save enough money.
+
+---
+
+**6. Planting a Garden**
+
+You have a rectangular garden that is 8 feet long and 3 feet wide. You want to plant flowers in all of the garden. Each flower needs 1 square foot of space. How many flowers can you plant?
+
+**Answer:** 
+First, calculate the area of the garden: 8 feet * 3 feet = 24 square feet. Since each flower requires 1 square foot, you can plant 24 flowers in the garden.
+
+---
+
+**7. Dividing Pizza Evenly**
+
+At your birthday party, there are 8 friends and you need to divide 2 large pizzas evenly among yourselves. Each pizza has 8 slices. How many slices does each friend get?
+
+**Answer:** 
+There are a total of 2 pizzas * 8 slices each = 16 slices. Divided by 8 friends, each friend gets 16 slices ÷ 8 friends = 2 slices.
+
+---
+
+Each problem in this section was designed to use math to solve everyday situations you might encounter. By practicing applying math to such scenarios, you're not just getting better at numbers; you're developing problem-solving and critical thinking skills that will serve you in many aspects of your life. 
+
+---

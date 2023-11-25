@@ -1,0 +1,101 @@
+# Data and Graphs
+
+## Collecting Data
+
+### Introduction
+
+Data is information that we collect from people, objects, or events to learn more about them. When we have a question we want to answer, we can collect data to help us find the answer. In this section, we will learn how to gather information carefully so that we can use it to make a graph and answer our questions.
+
+### What is Data?
+
+Data can be numbers, words, measurements, or observations that describe something. For example, we can collect data about:
+
+- The number of each type of fruit in a fruit basket.
+- The favorite color of every student in a class.
+- The height of students in second grade.
+
+When we collect data, we need to be clear about what we are collecting and why.
+
+### Activity: Collecting Data on Favorite Fruits
+
+Your first activity is to find out the favorite fruit of each student in your class. Here's what you need to do:
+
+1. Ask each student what their favorite fruit is.
+2. Write down each answer carefully.
+
+Once you've collected the data, it's time to organize it. Here is an example of how the data could look after you have collected it:
+
+- Apples: 7 students
+- Bananas: 5 students
+- Grapes: 4 students
+- Oranges: 3 students
+- Strawberries: 6 students
+
+### How to Collect Data
+
+Now, let's talk about how we collect data:
+
+1. **Decide on a Question**: The first step in collecting data is deciding what question you want to answer. For example, "What is the most popular fruit among my classmates?"
+
+2. **Choose What to Measure**: Next, you need to choose what you will measure to answer your question. In this case, you would measure how many students prefer each type of fruit.
+
+3. **Gather Information**: Then, you'll collect the information from a group of people. The group you choose to collect information from is called your sample.
+
+4. **Record the Responses**: Write down the data as you collect it. Make sure to keep it organized so it's easy to understand later.
+
+### Collecting Data with Surveys
+
+A survey is a list of questions that you ask a group of people. Here's how you might use a survey to collect data about favorite fruits:
+
+**Question**: What is your favorite fruit?
+- Apple
+- Banana
+- Grapes
+- Orange
+- Strawberries
+- Other: ________
+
+Students can check the box next to their favorite fruit or write it down if it's not listed.
+
+### Your Turn to Collect Data!
+
+Imagine you have conducted your survey in the class. Here’s the data as if the students have already completed the exercises:
+
+#### Favorite Fruit Survey Results
+
+- Apples: 7
+- Bananas: 5
+- Grapes: 4
+- Oranges: 3
+- Strawberries: 6
+
+#### Answers (Assuming students have completed the exercises)
+
+1. **How many students voted for apple as their favorite fruit?**
+
+   *Answer*: 7 students voted for apple as their favorite fruit.
+
+2. **Which fruit received the least votes?**
+
+   *Answer*: Oranges received the least votes, with only 3 votes.
+
+3. **If there are 25 students in the class, how many students wrote 'Other' as their favorite fruit?**
+
+   *Answer*: There are 7 + 5 + 4 + 3 + 6 = 25. The total number of students is also 25. This means every student voted for one of the fruits listed, and no student chose 'Other.'
+
+4. **What can we say about the most popular fruit?**
+
+   *Answer*: The most popular fruit is apple since it received the most votes (7).
+
+5. **Create a list of the fruits in order from most to least popular based on the collected data.**
+
+   *Answer*:
+   - Apples (7 votes)
+   - Strawberries (6 votes)
+   - Bananas (5 votes)
+   - Grapes (4 votes)
+   - Oranges (3 votes)
+
+### Conclusion of Collecting Data
+
+Great work collecting and analyzing the data on favorite fruits! Remember, collecting data is the first step in learning how to understand and interpret information. It's important to ask the right questions and record the answers accurately. In the next section, we will learn how to display this data on different types of graphs. Keep up the good work!

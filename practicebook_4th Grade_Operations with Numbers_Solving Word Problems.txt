@@ -1,0 +1,76 @@
+# Operations with Numbers: Solving Word Problems
+
+Word problems are a key part of learning math, as they help students apply mathematical operations to real-world scenarios. This can help develop critical thinking and problem-solving skills. Here’s how you might approach solving word problems:
+
+## Step 1: Understand the Problem
+The very first thing to do is read the problem carefully. Make sure you understand what the problem is asking. Sometimes, it helps to read the problem more than once.
+
+## Step 2: Identify the Information
+Figure out what information you’ve been given. It can be helpful to underline or highlight the important numbers and words that will help you identify what operation to use (like ‘total,’ ‘difference,’ ‘product of,’ etc.).
+
+## Step 3: Decide on the Operation
+The words in the problem often tell you what operation you need to use. Words like ‘sum’ or ‘in all’ might indicate addition, while ‘difference’ or ‘remain’ often indicate subtraction. ‘Product,’ ‘times,’ or ‘of each’ are clues for multiplication, and ‘divide,’ ‘quotient,’ or ‘per’ suggest division.
+
+## Step 4: Set Up the Equation
+Write an equation that will help you solve the problem. A good way to check if your equation makes sense is to see if it matches the situation described in the problem.
+
+## Step 5: Solve the Equation
+Carry out the operation(s) needed to solve the equation.
+
+## Step 6: Check Your Answer
+Go back to the word problem and see if your answer makes sense. You can do this by checking if it fits logically into the story of the problem. Also, check to make sure you did the math correctly.
+
+## Practice Problems
+
+### Problem 1:
+Jack has 24 crayons. He buys another pack which has 16 crayons. How many crayons does Jack have in all?
+
+#### Solution:
+Operation: Addition
+Equation: 24 crayons + 16 crayons = 40 crayons
+Answer: Jack has 40 crayons in all.
+
+### Problem 2:
+Emma has 36 candies and she shares them equally with her four friends. How many candies does each friend receive?
+
+#### Solution:
+Operation: Division
+Equation: 36 candies ÷ 4 friends = 9 candies per friend
+Answer: Each friend receives 9 candies.
+
+### Problem 3:
+A bakery has 8 trays of muffins. Each tray holds 12 muffins. How many muffins does the bakery have?
+
+#### Solution:
+Operation: Multiplication
+Equation: 8 trays × 12 muffins per tray = 96 muffins
+Answer: The bakery has 96 muffins.
+
+### Problem 4:
+Lucas has 48 stickers. He gave 15 stickers to his brother. How many stickers does Lucas have left?
+
+#### Solution:
+Operation: Subtraction
+Equation: 48 stickers - 15 stickers = 33 stickers
+Answer: Lucas has 33 stickers left.
+
+### Problem 5:
+A library has 5 shelves of books with 27 books on each shelf. After a book sale, they have 135 books left. How many books were sold?
+
+#### Solution:
+First, find out how many books were there before the sale:
+Operation: Multiplication
+Equation: 5 shelves × 27 books per shelf = 135 books
+
+Now we can see that they had 135 books before the sale and they have 135 books left, which means:
+Answer: 0 books were sold. This is a tricky problem because it checks if the student pays attention to the current and original number of books.
+
+### Problem 6:
+There were 90 balloons in the store. After the big celebration, there were only 27 balloons left. How many balloons were used during the celebration?
+
+#### Solution:
+Operation: Subtraction
+Equation: 90 balloons - 27 balloons = 63 balloons
+Answer: 63 balloons were used during the celebration.
+
+Through these examples, students can practice their newfound skills on solving word problems. In each problem, clearly understanding the context and choosing the correct operation is key to finding the solution.

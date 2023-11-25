@@ -1,0 +1,67 @@
+# Comparing and Ordering Fractions
+
+Welcome to the "Comparing and Ordering Fractions" section! In this part of the book, we will practice understanding how fractions relate to each other and determine the order from smallest to largest. Let's begin!
+
+## Comparing Fractions
+
+Comparing fractions means determining which of two fractions is greater or if they are equal. There are a few methods to compare fractions, such as using benchmarks, creating common denominators, or comparing numerators.
+
+### Using Benchmarks
+
+A benchmark is a common number, such as 0, 1/2, or 1, that we use to estimate the value of a fraction. For example,
+- If a fraction is less than 1/2, it's closer to 0.
+- If a fraction is more than 1/2, it's closer to 1.
+
+#### Exercise 1: Use benchmarks to compare. Circle the larger fraction.
+
+1. 1/4 or 3/4
+2. 2/5 or 2/3
+3. 3/8 or 5/8
+
+#### Answers to Exercise 1:
+
+1. Since 1/4 is less than 1/2 and 3/4 is greater than 1/2, the larger fraction is 3/4.
+2. 2/5 is less than 1/2, while 2/3 is more than 1/2. So, the larger fraction is 2/3.
+3. 3/8 is less than 1/2 and 5/8 is greater than 1/2. Thus, the larger fraction is 5/8.
+
+### Finding Common Denominators
+
+When two fractions have the same denominator, we can compare them by looking at their numerators. The fraction with the larger numerator is the greater fraction.
+
+#### Exercise 2: Write the fractions with a common denominator and compare. Circle the larger fraction.
+
+1. 1/3 to 1/4
+2. 2/7 to 3/7
+3. 5/8 to 3/8
+
+#### Answers to Exercise 2:
+
+1. Common denominator for 1/3 and 1/4 is 12. So, 1/3 becomes 4/12 and 1/4 becomes 3/12. Thus, 1/3 (or 4/12) is larger.
+2. Both fractions already have the same denominator (7). Since 3 is larger than 2, 3/7 is larger than 2/7.
+3. Similarly, both fractions have the same denominator (8). Since 5 is larger than 3, 5/8 is larger than 3/8.
+
+### Comparing Numerators
+
+Sometimes, we can compare fractions by just looking at their numerators, especially when the denominators are the same or the fractions are parts of a whole that has been divided into the same number of pieces.
+
+## Ordering Fractions
+
+Ordering fractions requires putting a list of fractions in order from smallest to largest (or largest to smallest).
+
+### Using Common Denominators
+
+To order fractions, we find a common denominator and rewrite each fraction before comparing their numerators.
+
+#### Exercise 3: Write the fractions with a common denominator and order them from smallest to largest.
+
+1. 1/3, 1/4, 1/5
+2. 3/8, 1/2, 5/8
+3. 5/6, 2/3, 1/6
+
+#### Answers to Exercise 3:
+
+1. Common denominator = 60. 1/3 becomes 20/60, 1/4 becomes 15/60, and 1/5 becomes 12/60. Order: 1/5, 1/4, 1/3.
+2. Common denominator = 8. 1/2 becomes 4/8. Order: 3/8, 1/2, 5/8.
+3. Common denominator = 6. Since 5/6 has the largest numerator and 1/6 the smallest, the order is: 1/6, 2/3, 5/6.
+
+By completing these exercises, you've practiced comparing and ordering fractions. Continue to work on these skills, and you’ll become a master at working with fractions in no time! Remember, being careful with the details and double-checking your work will help you succeed in mastering fractions. Keep practicing!

@@ -1,0 +1,99 @@
+---
+### **Creating and Reading Simple Graphs**
+
+#### **Introduction to Graphs**
+
+Graphs are visual ways to show data, which is information collected about different things. They help us see patterns and understand information more quickly and easily than looking at a list of numbers. There are many types of graphs, but today, we’ll focus on two types: bar graphs and picture graphs.
+
+#### **Picture Graphs**
+
+A picture graph, also known as a pictograph, represents data with pictures or symbols. Each picture or symbol usually stands for a certain number of things.
+
+**Activity 1: Favorite Fruits**
+
+Let’s make a picture graph to show the favorite fruits of students in a class.
+
+Use these data:
+
+- Apples: 4 students
+- Bananas: 2 students
+- Grapes: 3 students
+- Oranges: 1 student
+
+**Instructions:**
+
+1. Draw a simple graph with a title at the top: “Favorite Fruits.”
+2. List the fruits down the left side.
+3. Decide on a symbol to represent each student; for example, an apple for each student who likes apples.
+4. Draw the correct number of symbols next to each fruit type.
+
+**Answer Key for Activity 1:**
+
+Title: Favorite Fruits
+
+- Apples: 🍎🍎🍎🍎
+- Bananas: 🍌🍌
+- Grapes: 🍇🍇🍇
+- Oranges: 🍊
+
+---
+
+#### **Bar Graphs**
+
+Bar graphs use bars to show the numbers of things. The height or length of each bar matches the amount it represents.
+
+**Activity 2: Class Pets**
+
+The second-grade class voted on what kind of pet they should have in their classroom.
+
+Use this data:
+
+- Rabbit: 6 votes
+- Fish: 8 votes
+- Hamster: 4 votes
+- Bird: 2 votes
+
+**Instructions:**
+
+1. Draw two perpendicular lines to make an “L” shape. This is the graph’s axis. The bottom line is called the horizontal axis, and the side line is called the vertical axis.
+2. Write “Class Pets” at the top for the title.
+3. Write the types of pets along the horizontal axis at the bottom.
+4. Write numbers 0 to 8 along the vertical axis to show the number of votes.
+5. Draw bars next to each pet on the horizontal axis to show the number of votes each pet received. Make sure each bar is the same width and space them equally apart.
+
+**Answer Key for Activity 2:**
+
+Title: Class Pets
+
+Vertical Axis Numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8
+Horizontal Axis: Rabbit, Fish, Hamster, Bird
+
+- Rabbit: 6 votes | Bar reaching up to 6
+- Fish: 8 votes | Bar reaching up to 8
+- Hamster: 4 votes | Bar reaching up to 4
+- Bird: 2 votes | Bar reaching up to 2
+
+---
+
+#### **Reading Graphs**
+
+Once we have our graphs, we need to be able to understand what they tell us. Reading graphs involves looking at the titles, symbols, and bars, and knowing what they represent.
+
+**Practice Problems**
+
+1. Look at your Favorite Fruits picture graph. Which fruit is the least favorite?
+
+2. Look at your Class Pets bar graph. Which pet got the most votes?
+
+**Answer Key for Practice Problems:**
+
+1. Oranges are the least favorite fruit since there is only one symbol for oranges.
+2. Fish got the most votes because the bar for Fish is the highest, reaching up to 8.
+
+---
+
+#### **Summary**
+
+You’ve learned how to create and read two types of simple graphs: picture graphs and bar graphs. Remember that picture graphs use symbols to show data, and bar graphs use bars to represent numbers. Great job on interpreting the data using the graphs!
+
+Now that you've finished this section, you can practice by collecting data on your own and creating your own graphs, or you can look at graphs in the newspaper or online to practice reading and understanding them. Keep practicing, and you'll become a graph expert in no time!

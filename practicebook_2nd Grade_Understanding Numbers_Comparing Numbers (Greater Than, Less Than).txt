@@ -1,0 +1,65 @@
+# Understanding Numbers
+## Chapter: Comparing Numbers (Greater Than, Less Than)
+
+Welcome to the "Comparing Numbers" section! Understanding how to compare numbers is an essential part of mathematics. In this section, we will learn how to use the symbols for greater than (>) and less than (<) to compare numbers.
+
+### What do Greater Than and Less Than mean?
+
+When we compare two numbers, we can determine if one number is greater than, less than, or equal to another number. We use the following symbols to show the relationship between two numbers:
+
+- The greater than symbol (>) means that a number on the left is larger than a number on the right.
+- The less than symbol (<) means that a number on the left is smaller than a number on the right.
+
+Let's see some examples:
+- 5 > 3 (5 is greater than 3)
+- 2 < 4 (2 is less than 4)
+- 7 > 6 (7 is greater than 6)
+- 1 < 9 (1 is less than 9)
+
+### Exercise: Comparing Numbers
+
+Use the symbols for greater than (>) or less than (<) to compare the following pairs of numbers:
+
+1. 4 ___ 7
+2. 9 ___ 5
+3. 6 ___ 6
+4. 8 ___ 10
+5. 3 ___ 3
+
+### Answers to Exercise: Comparing Numbers
+
+1. 4 < 7 (4 is less than 7)
+2. 9 > 5 (9 is greater than 5)
+3. 6 = 6 (6 is equal to 6, neither greater than nor less than)
+4. 8 < 10 (8 is less than 10)
+5. 3 = 3 (3 is equal to 3, neither greater than nor less than)
+
+Remember, when the number on the left side is smaller, we use the less than symbol (<), and when the number on the left side is bigger, we use the greater than symbol (>).
+
+### Let's Practice!
+
+Now it's your turn! Write the correct symbol in the blank to compare the following numbers:
+
+1. 7 ___ 5
+2. 2 ___ 2
+3. 10 ___ 8
+4. 1 ___ 4
+5. 6 ___ 9
+
+**Remember, if the numbers are the same, they are equal!**
+
+### Answers to Let's Practice!
+
+Here are the correct comparisons for each pair of numbers:
+
+1. 7 > 5 (7 is greater than 5)
+2. 2 = 2 (2 is equal to 2)
+3. 10 > 8 (10 is greater than 8)
+4. 1 < 4 (1 is less than 4)
+5. 6 < 9 (6 is less than 9)
+
+Great work! You are now able to compare numbers using the greater than, less than, and equal to symbols.
+
+---
+
+With these exercises, you have practiced comparing numbers and using the greater than and less than symbols. Understanding these concepts will help you with more advanced mathematical topics in the future! Keep practicing, and you'll continue to improve your skills.

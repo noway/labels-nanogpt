@@ -1,0 +1,70 @@
+## Chapter: Data and Probability
+
+### Section: Mean, Median, Mode
+
+In this section, we will explore three different ways to describe sets of numbers: mean, median, and mode. These measures help us summarize and understand large amounts of data by finding the average (mean), the middle value (median), or the most frequently occurring number (mode) in a set of numbers.
+
+#### Mean (Average)
+
+The mean is commonly known as the average. To find the mean of a set of numbers, you add all the numbers together and then divide by the count of the numbers.
+
+**Example:** 
+Find the mean of these numbers: 5, 8, 12, 3, 9.
+
+**Solution:** 
+First, add all the numbers: 5 + 8 + 12 + 3 + 9 = 37.
+Next, count the numbers. There are 5 numbers in the set.
+Now, divide the sum by the count: 37 ÷ 5 = 7.4.
+The mean of these numbers is 7.4.
+
+#### Median
+
+The median is the middle number of a set of numbers when they are arranged in order. If there is an even number of data points, then the median is the average of the two middle numbers.
+
+**Example:** 
+Find the median of the following set of numbers: 7, 3, 9, 5, 2.
+
+**Solution:** 
+First, arrange the numbers in order: 2, 3, 5, 7, 9.
+The middle number is 5, so the median is 5.
+
+**Second Example:** 
+Find the median of these numbers: 14, 12, 10, 8, 6, 4.
+
+**Solution:** 
+First, arrange the numbers in ascending order: 4, 6, 8, 10, 12, 14.
+Since we have an even number of data points, find the average of the two middle numbers, 8 and 10.
+The median is (8 + 10) ÷ 2 = 9.
+
+#### Mode
+
+The mode is the number that appears most frequently in a set of numbers. A set of numbers may have one mode, more than one mode, or no mode at all.
+
+**Example:** 
+Find the mode of these numbers: 7, 12, 12, 9, 7, 12, 9.
+
+**Solution:** 
+First, count how many times each number appears.
+7 appears 2 times, 9 appears 2 times, and 12 appears 3 times.
+Since 12 appears most frequently, the mode is 12.
+
+Now that you've learned about mean, median, and mode, let's practice with some exercises. After solving the exercises, you can check your answers below:
+
+**Exercise Set:**
+
+1. Calculate the mean, median, and mode of the following numbers: 4, 6, 2, 7, 5, 5, 3.
+2. What is the median of the following set of numbers? 13, 7, 9, 16, 12, 10, 8.
+3. Find the mean and mode of these numbers: 8, 10, 8, 12, 7, 8.
+
+**Answers:**
+
+1. Mean: First add the numbers: 4 + 6 + 2 + 7 + 5 + 5 + 3 = 32. Then divide by the number of values (7): 32 ÷ 7 ≈ 4.57.   
+Median: Put the numbers in ascending order: 2, 3, 4, 5, 5, 6, 7. The middle number is 5.   
+Mode: The number 5 appears twice, all other numbers occur only once, so the mode is 5.
+   
+2. Put the numbers in order: 7, 8, 9, 10, 12, 13, 16. The middle number, and therefore the median, is 10.
+
+3. Mean: Add the numbers: 8 + 10 + 8 + 12 + 7 + 8 = 53. Divide by the number of values (6): 53 ÷ 6 ≈ 8.83.  
+Mode: The number 8 appears three times, more than any other number, so the mode is 8. There is only one mode, which makes the data unimodal.
+
+Remember, if you have any difficulty in solving problems related to mean, median, and mode, you can always revise this section and make sure that your calculations are correct. Practice is key to mastering these concepts!

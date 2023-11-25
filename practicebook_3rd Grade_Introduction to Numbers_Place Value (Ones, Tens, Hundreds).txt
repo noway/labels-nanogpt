@@ -1,0 +1,87 @@
+---
+# Introduction to Numbers
+## Place Value (Ones, Tens, Hundreds)
+
+Welcome to the exciting world of numbers! Understanding place value is one of the most important skills you will learn in mathematics. It helps us to see the value of each digit in a number depending on its position. In this section, we will explore the place value system focusing on the Ones, Tens, and Hundreds places.
+
+### Understanding Place Value
+
+Every number has a place value, which tells you the value of each digit. Let’s look at a three-digit number to understand this better.
+
+For example, in the number 356:
+
+- The "6" is in the Ones place and means six ones or 6.
+- The "5" is in the Tens place and means five tens or 50.
+- The "3" is in the Hundreds place and means three hundreds or 300.
+
+When you combine these, you get the total value of the number: 300 (Hundreds) + 50 (Tens) + 6 (Ones) = 356.
+
+### The Place Value Chart
+
+A place value chart helps us to see the value of each digit in a number. It looks like this:
+
+| Hundreds | Tens | Ones |
+|----------|------|------|
+| 3        | 5    | 6    |
+
+We can use this chart to practice with different numbers.
+
+### Exercises
+
+Now, let’s try some exercises to apply what we've learned.
+
+1. Write down the value of the underlined digit:
+
+   a) 4\underline{7}2
+    
+   b) \underline{6}35
+    
+   c) 28\underline{9}
+
+2. Place the following numbers in the place value chart:
+
+   a) 123
+   
+   b) 450
+   
+   c) 789
+
+3. Which place has the highest value in the number 574?
+
+4. Write the number that has 4 Hundreds, 0 Tens, and 5 Ones.
+
+5. If you add 200 to the number 369, what will be the new Hundreds digit?
+
+### Answers
+
+1. a) The underlined digit is 7, which is in the Tens place, so its value is 70.
+   
+   b) The underlined digit is 6, which is in the Hundreds place, so its value is 600.
+   
+   c) The underlined digit is 9, which is in the Ones place, so its value is 9.
+
+2. a) 
+
+   | Hundreds | Tens | Ones |
+   |----------|------|------|
+   | 1        | 2    | 3    |
+   
+   b)
+   
+   | Hundreds | Tens | Ones |
+   |----------|------|------|
+   | 4        | 5    | 0    |
+
+   c)
+
+   | Hundreds | Tens | Ones |
+   |----------|------|------|
+   | 7        | 8    | 9    |
+
+3. The Hundreds place has the highest value in the number 574; it represents 500.
+
+4. The number with 4 Hundreds, 0 Tens, and 5 Ones is 405.
+
+5. If you add 200 to the number 369, the Hundreds digit will be 5 because 369 + 200 = 569.
+
+Remember, understanding place value is like having a key to unlock all sorts of math problems. Keep practicing to become a place value pro!

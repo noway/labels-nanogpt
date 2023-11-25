@@ -1,0 +1,84 @@
+# Geometry: Basic Shapes and Properties
+
+## Introduction
+Geometry is a branch of mathematics that deals with the properties and relationships of points, lines, angles, surfaces, and solids. In this section, we will focus on basic shapes and their properties which are fundamental concepts in 4th-grade geometry. Understanding these concepts will help you identify and classify shapes in the world around you.
+
+## Basic Shapes
+
+1. **Circle** 
+   - Definition: A circle is a round shape with all points the same distance from the center.
+   - Properties:
+     - Has no sides or corners.
+     - The distance around a circle is called the circumference.
+     - The distance from the center to any point on the circle is called the radius.
+     - The line segment that goes from one point on the circle, through the center, to another point on the circle is called the diameter.
+
+**Practice Exercise**: Draw a circle and label the center, radius, and diameter.
+
+**Answer**: _(A labeled diagram should be shown with a circle, its center marked, a radius drawn from the center to the circumference, and a diameter drawn from one side of the circle to the other, passing through the center.)_
+
+2. **Triangle**
+   - Definition: A triangle is a polygon with three edges and three vertices.
+   - Properties:
+     - The sum of the internal angles of a triangle is always 180 degrees.
+     - Triangles can be classified by their sides (scalene, isosceles, equilateral) or by their angles (acute, right, obtuse).
+
+**Practice Exercise**: Draw a scalene triangle, an isosceles triangle, and an equilateral triangle. Label the sides of the equilateral triangle as all having the same length.
+
+**Answer**: _(There should be three distinct triangles displayed, with a scalene triangle showing no equal sides, an isosceles triangle with two equal sides, and an equilateral triangle with all sides marked as equal.)_
+
+3. **Quadrilateral**
+   - Definition: A quadrilateral is a polygon with four edges (or sides) and four vertices (or corners).
+   - Properties:
+     - The sum of the internal angles of a quadrilateral is always 360 degrees.
+     - Examples of quadrilaterals include squares, rectangles, rhombuses, and trapezoids.
+
+**Practice Exercise**: Draw a square, rectangle, rhombus, and a trapezoid.
+
+**Answer**: _(Illustrations should be provided showing each quadrilateral with its characteristics: a square with all sides equal and all angles right angles; a rectangle with opposite sides equal and all angles right angles; a rhombus with all sides equal but angles not necessarily right angles; and a trapezoid with only one pair of parallel sides.)_
+
+4. **Pentagon**
+   - Definition: A pentagon is a polygon with five edges and five vertices.
+   - Properties:
+     - The sum of the internal angles of a pentagon is always 540 degrees.
+
+**Practice Exercise**: Draw a regular pentagon and label each side with an equal sign to indicate all sides are the same length.
+
+**Answer**: _(An image should be provided showing a pentagon with all sides marked with an equal sign indicating that they are of the same length.)_
+
+5. **Hexagon**
+   - Definition: A hexagon is a polygon with six edges and six vertices.
+   - Properties:
+     - The sum of the internal angles of a hexagon is always 720 degrees.
+
+**Practice Exercise**: Draw a regular hexagon. How many triangles can you divide the hexagon into from its center?
+
+**Answer**: _(An image showing a hexagon should be included. It can be divided into 6 equilateral triangles by drawing lines from the center to each vertex.)_
+
+## Area and Perimeter
+
+### Area
+Area is the amount of space inside a shape. For basic shapes, we can calculate area using simple formulas.
+
+- Circle: Area = π × radius^2
+- Triangle: Area = 1/2 × base × height
+- Square: Area = side × side
+- Rectangle: Area = length × width
+
+### Perimeter
+Perimeter is the distance around a shape. We add up the lengths of all the sides to find the perimeter of polygons.
+
+- Circle: Perimeter (Circumference) = 2π × radius
+- Triangle: Perimeter = sum of all sides
+- Quadrilateral: Perimeter = sum of all sides
+
+**Practice Exercise**: Calculate the area and perimeter of a square with a side length of 4 units.
+
+**Answer**:
+- Area: Area = side × side = 4 units × 4 units = 16 square units
+- Perimeter: Perimeter = 4 sides × 4 units = 16 units
+
+## Conclusion
+By studying basic shapes and their properties, we gain a better understanding of how to identify, classify, and measure geometric figures. Be sure to practice drawing each shape and remember their properties and formulas for area and perimeter as you continue to deepen your math skills. 
+
+Remember, geometry is all around you, and the more you practice, the better you will become at recognizing and working with different shapes!

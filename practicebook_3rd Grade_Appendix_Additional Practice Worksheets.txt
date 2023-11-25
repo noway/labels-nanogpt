@@ -1,0 +1,114 @@
+---
+
+### Appendix
+
+#### Additional Practice Worksheets
+
+Welcome to the "Additional Practice Worksheets" section of this math practice book! Here you'll find a collection of worksheets that are designed to provide students with extra practice in key areas of 3rd-grade mathematics. These sheets will supplement what has been learned throughout the book and offer a variety of problems to help reinforce important concepts.
+
+**Note for Instructors and Parents:** This section is crafted to bolster the student's understanding and proficiency in math concepts taught in the 3rd grade. Answers are provided for all exercises to enable easy grading and to facilitate discussion on any misunderstandings that may arise.
+
+---
+
+#### Worksheet 1: Addition and Subtraction
+
+**1.1. Solve the following addition problems:**
+
+1. 345 + 289 = 634
+2. 174 + 528 = 702
+3. 911 + 86 = 997
+4. 602 + 300 = 902
+5. 759 + 41 = 800
+
+**1.2. Solve the following subtraction problems:**
+
+1. 540 - 267 = 273
+2. 800 - 599 = 201
+3. 961 - 482 = 479
+4. 723 - 288 = 435
+5. 200 - 89 = 111
+
+---
+
+#### Worksheet 2: Multiplication Facts
+
+**2.1. Solve the following multiplication problems:**
+
+1. 7 × 8 = 56
+2. 5 × 5 = 25
+3. 9 × 4 = 36
+4. 6 × 6 = 36
+5. 8 × 7 = 56
+
+**2.2. Complete the multiplication table:**
+
+\[ \begin{array}{c|ccccccccc}
+× & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\
+\hline
+1 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\
+2 & 2 & 4 & 6 & 8 & 10 & 12 & 14 & 16 & 18 \\
+3 & 3 & 6 & 9 & 12 & 15 & 18 & 21 & 24 & 27 \\
+4 & 4 & 8 & 12 & 16 & 20 & 24 & 28 & 32 & 36 \\
+5 & 5 & 10 & 15 & 20 & 25 & 30 & 35 & 40 & 45 \\
+6 & 6 & 12 & 18 & 24 & 30 & 36 & 42 & 48 & 54 \\
+7 & 7 & 14 & 21 & 28 & 35 & 42 & 49 & 56 & 63 \\
+8 & 8 & 16 & 24 & 32 & 40 & 48 & 56 & 64 & 72 \\
+9 & 9 & 18 & 27 & 36 & 45 & 54 & 63 & 72 & 81 \\
+\end{array} \]
+
+---
+
+#### Worksheet 3: Division Practice
+
+**3.1. Solve the following division problems:**
+
+1. 56 ÷ 8 = 7
+2. 49 ÷ 7 = 7
+3. 63 ÷ 9 = 7
+4. 36 ÷ 6 = 6
+5. 72 ÷ 8 = 9
+
+---
+
+#### Worksheet 4: Word Problems Using Four Operations
+
+**4.1. Solve the following word problems:**
+
+1. Anna has 27 apples and gives 9 to her friend. How many apples does Anna have left?  
+   **Answer:** 27 - 9 = 18 apples
+
+2. Barry has 10 packs of stickers. Each pack has 5 stickers. How many stickers does Barry have in all?  
+   **Answer:** 10 × 5 = 50 stickers
+
+3. Clara bought a book for $8. She gives the cashier $10. How much change should she get back?  
+   **Answer:** $10 - $8 = $2 change
+
+4. Darryl is three times as old as his sister, who is 7 years old. How old is Darryl?  
+   **Answer:** 7 × 3 = 21 years old
+
+5. There are 8 cars in the parking lot and 4 more cars arrive. How many cars are in the parking lot now?  
+   **Answer:** 8 + 4 = 12 cars
+
+---
+
+#### Worksheet 5: Geometry and Shapes
+
+**5.1 Identify the following shapes and provide their attributes:**
+
+1. Square - 4 equal sides and 4 right angles.
+2. Rectangle - Opposite sides are equal and 4 right angles.
+3. Triangle - 3 sides and the sum of angles is 180 degrees.
+4. Circle - Round shape, no corners, and continuous curve.
+5. Hexagon - 6 sides and 6 angles.
+
+**5.2 Count the number of sides for the following shapes and write it next to the shape name:**
+
+1. Pentagon - **5 sides**
+2. Octagon - **8 sides**
+3. Triangle - **3 sides**
+4. Hexagon - **6 sides**
+5. Quadrilateral - **4 sides**
+
+---
+
+At the end of each worksheet, students should have had the opportunity to practice a wide range of problems that align with 3rd-grade standards. You can utilize these additional worksheets regularly to reinforce learning and assess the student's understanding of the material. Happy practicing!

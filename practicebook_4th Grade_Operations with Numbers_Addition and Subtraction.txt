@@ -1,0 +1,131 @@
+# Chapter: Operations with Numbers
+## Section: Addition and Subtraction
+
+Welcome to the section on Addition and Subtraction! Mastering these operations is an essential skill you will use throughout your life. Remember, practice makes perfect, so try your very best as we explore these concepts together. At the end of this section, you will find the answers to all the practice problems to help you check your work.
+
+### Part 1: Understanding Addition
+
+Addition is the process of finding the total or sum by combining two or more numbers.
+
+#### Key Vocabulary:
+- **Addend**: The numbers that are being added together.
+- **Sum**: The result of addition.
+
+**Example**: 8 + 3 = 11
+
+In this equation, 8 and 3 are the addends, and 11 is the sum.
+
+**Practice Problems:**
+1. 5 + 2 =
+2. 7 + 6 =
+3. 9 + 8 =
+4. 14 + 5 =
+5. 12 + 3 =
+
+#### Answers for Addition Practice Problems:
+1. 5 + 2 = 7
+2. 7 + 6 = 13
+3. 9 + 8 = 17
+4. 14 + 5 = 19
+5. 12 + 3 = 15
+
+### Part 2: Understanding Subtraction
+
+Subtraction is the process of finding the difference between two numbers by taking one number away from another.
+
+#### Key Vocabulary:
+- **Minuend**: The number you start with, from which another number is subtracted.
+- **Subtrahend**: The number you are subtracting.
+- **Difference**: The result of subtraction.
+
+**Example**: 15 - 7 = 8
+
+In this equation, 15 is the minuend, 7 is the subtrahend, and 8 is the difference.
+
+**Practice Problems:**
+1. 10 - 4 =
+2. 16 - 7 =
+3. 20 - 9 =
+4. 12 - 3 =
+5. 18 - 6 =
+
+#### Answers for Subtraction Practice Problems:
+1. 10 - 4 = 6
+2. 16 - 7 = 9
+3. 20 - 9 = 11
+4. 12 - 3 = 9
+5. 18 - 6 = 12
+
+### Part 3: Addition Strategies
+
+There are several strategies that can make addition easier. Let's look at a few.
+
+**Strategy 1: Counting On**
+Start with the larger addend and count up.
+
+**Example**: 6 + 3 = 9
+
+Start with 6 and count up three more: 7, 8, 9.
+
+**Strategy 2: Make a Ten**
+When adding two numbers, find a way to make ten first, then add the rest.
+
+**Example**: 8 + 5 = 13
+
+First make ten by taking 2 from 5 and adding it to 8 to get 10. Then, add the remaining 3 to 10 to get 13.
+
+**Practice Problems:**
+1. 9 + 4, using Counting On
+2. 7 + 6, using Make a Ten
+
+#### Answers for Addition Strategies Practice Problems:
+1. 9 + 4 = 13 (Counting On: 10, 11, 12, 13)
+2. 7 + 6 = 13 (Make a Ten: 7 + 3 = 10, then 10 + 3 = 13)
+
+### Part 4: Subtraction Strategies
+
+Subtraction can be simplified with certain strategies as well.
+
+**Strategy 1: Think Addition**
+Think of what number can be added to the subtrahend to reach the minuend.
+
+**Example**: 14 - 6 
+
+Think, "What plus 6 equals 14?" The answer is 8.
+
+**Strategy 2: Counting Back**
+Start with the minuend and count back the number of the subtrahend.
+
+**Example**: 12 - 5 
+
+Start with 12 and count back five: 11, 10, 9, 8, 7.
+
+**Practice Problems:**
+1. 15 - 7, using Think Addition
+2. 10 - 4, using Counting Back
+
+#### Answers for Subtraction Strategies Practice Problems:
+1. 15 - 7 = 8 (Think Addition: 7 + 8 = 15)
+2. 10 - 4 = 6 (Counting Back: 9, 8, 7, 6)
+
+### Part 5: Word Problems
+
+Word problems help us understand how addition and subtraction work in real-life situations.
+
+**Problem 1**: Amy had 10 apples. She bought 7 more. How many apples does she have now?
+
+**Answer**: 10 apples + 7 apples = 17 apples
+
+**Problem 2**: Jacob had 18 candies. He gave 9 candies to his friend. How many candies does Jacob have left?
+
+**Answer**: 18 candies - 9 candies = 9 candies
+
+**Practice Problems:**
+1. There were 13 birds sitting on a tree. 7 more birds joined them. How many birds are there now?
+2. Mike had 20 pencils. He lost 8 pencils. How many pencils does he have left?
+
+#### Answers for Word Problems Practice Problems:
+1. 13 birds + 7 birds = 20 birds
+2. 20 pencils - 8 pencils = 12 pencils
+
+Great job practicing addition and subtraction! Keep revisiting these problems and strategies to improve your skills. Remember to always double-check your work with the answers provided, and continue practicing with even more problems to become a math wizard!

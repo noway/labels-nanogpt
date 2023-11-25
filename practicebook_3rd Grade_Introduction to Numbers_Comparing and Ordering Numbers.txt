@@ -1,0 +1,92 @@
+# Introduction to Numbers
+## Chapter: Comparing and Ordering Numbers
+
+Welcome to the section on comparing and ordering numbers! Understanding the relationship between numbers is an important skill that you will use in math and in everyday life. Here we will learn how to tell which of two numbers is greater, which is smaller, and how to arrange numbers in order from the smallest to the largest, and vice versa.
+
+### What Does it Mean to Compare Numbers?
+
+Comparing numbers means looking at two numbers to decide which one is larger (greater) and which one is smaller (less). We use symbols to show how numbers compare to each other:
+- The greater than symbol ( > )
+- The less than symbol ( < )
+- The equal to symbol ( = )
+
+### Comparing Numbers Using Place Value
+
+To compare two numbers, we look at their place value from left to right. The first place to check is the highest: the thousands, then the hundreds, followed by the tens, and finally the ones.
+
+Let's do some examples together!
+
+#### Example 1:
+Compare: 342 and 365
+
+Solution: 
+Looking at the hundreds place, both numbers have 3. Moving to the tens place, 4 is less than 6. Therefore, 342 < 365.
+
+#### Example 2:
+Compare: 478 and 472
+
+Solution:
+Both numbers have 4 in the hundreds place, but 7 is the same in the tens place. Moving to the ones place, 8 is greater than 2. Therefore, 478 > 472.
+
+### Practice Problems
+
+1. Compare by writing <, >, or =:
+   - 543 ____ 539
+   - 211 ____ 209
+   - 867 ____ 867
+   - 603 ____ 607
+
+2. Compare by writing <, >, or =:
+   - 724 ____ 742
+   - 588 ____ 588
+   - 392 ____ 932
+   - 400 ____ 401
+
+### Practice Problems Answers
+
+1. Answers to Compare by writing <, >, or =:  
+   - 543 > 539  
+   - 211 > 209  
+   - 867 = 867  
+   - 603 < 607  
+
+2. Answers to Compare by writing <, >, or =:  
+   - 724 < 742  
+   - 588 = 588  
+   - 392 < 932  
+   - 400 < 401  
+
+### Ordering Numbers
+
+Ordering numbers is when you arrange numbers either from least to greatest (ascending order) or from greatest to least (descending order). 
+
+Remember these steps:
+- When ordering numbers, first compare the highest place value.
+- If the highest place value is the same, move to the next place value.
+- Continue comparing place values until the numbers can be ordered.
+
+### Practice Problems
+
+1. Write the numbers in ascending order:
+   - 234, 219, 241
+   - 456, 465, 446
+   - 528, 285, 258
+
+2. Write the numbers in descending order:
+   - 132, 123, 312
+   - 789, 798, 879
+   - 615, 561, 165
+
+### Practice Problems Answers
+
+1. Numbers in ascending order:
+   - 219, 234, 241
+   - 446, 456, 465
+   - 258, 285, 528
+
+2. Numbers in descending order:
+   - 312, 132, 123
+   - 879, 798, 789
+   - 615, 561, 165 
+
+Congratulations! You've now learned how to compare and order numbers. Keep practicing these skills until you feel confident. Remember that these are essential tools that will help you in more complex mathematical concepts and in real-life situations. Keep up the great work!

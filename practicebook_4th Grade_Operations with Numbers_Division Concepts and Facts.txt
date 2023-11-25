@@ -1,0 +1,148 @@
+# Division Concepts and Facts
+
+## Introduction to Division
+
+Division is one of the four basic operations in mathematics, along with addition, subtraction, and multiplication. It can be thought of as the process of splitting a number into equal parts or groups. Division tells us how many times one number is contained within another number.
+
+---
+## Understanding Division Terms
+
+When we divide, we use specific terms to describe the parts of our division equation:
+
+- **Dividend**: The number that is being divided.
+- **Divisor**: The number by which the dividend is divided.
+- **Quotient**: The answer to a division problem.
+- **Remainder**: The amount left over when the division cannot be done exactly.
+
+For example, in the division problem `20 ÷ 4 = 5`, 20 is the dividend, 4 is the divisor, and 5 is the quotient.
+
+---
+## Division Equations
+
+Let's practice writing division equations. Note that these examples are structured to show how multiplication and division are inverse operations.
+
+_Multiplication Equation_: `3 x 4 = 12`
+_Division Equation_: `12 ÷ 3 = 4` or `12 ÷ 4 = 3`
+
+---
+## Dividing By 1 and the Number Itself
+
+Dividing a number by 1 always gives the number itself as the quotient.
+
+_Example_: `7 ÷ 1 = 7`
+
+Dividing a number by itself always gives 1 as the quotient.
+
+_Example_: `9 ÷ 9 = 1`
+
+---
+## Exercises: Division Facts
+
+Complete the following division facts by filling in the blanks. Check your answers afterward.
+
+1. `16 ÷ 4 = ____`
+2. `25 ÷ 5 = ____`
+3. `36 ÷ 6 = ____`
+4. `8 ÷ 1 = ____`
+5. `49 ÷ 7 = ____`
+6. `63 ÷ 9 = ____`
+7. `56 ÷ 8 = ____`
+8. `14 ÷ 2 = ____`
+9. `81 ÷ 9 = ____`
+10. `42 ÷ 7 = ____`
+
+_Answers:_
+1. _4_
+2. _5_
+3. _6_
+4. _8_
+5. _7_
+6. _7_
+7. _7_
+8. _7_
+9. _9_
+10. _6_
+
+---
+## Division without Remainders
+
+When a dividend can be divided by the divisor without any leftovers, we say there is no remainder.
+
+_Example_: `28 ÷ 7 = 4` with no remainder.
+
+---
+## Division with Remainders
+
+Sometimes division will not result in a whole number. When this happens, the number left over is called the remainder.
+
+_Example_: `29 ÷ 7 = 4 R1`, where 4 is the quotient, and 1 is the remainder.
+
+---
+## Exercises: Division with Remainders
+
+Find the quotients and remainders for the following division problems.
+
+1. `34 ÷ 6 = ____ R____`
+2. `55 ÷ 8 = ____ R____`
+3. `47 ÷ 5 = ____ R____`
+4. `61 ÷ 7 = ____ R____`
+5. `73 ÷ 9 = ____ R____`
+
+_Answers:_
+1. _5_ R _4_
+2. _6_ R _7_
+3. _9_ R _2_
+4. _8_ R _5_
+5. _8_ R _1_
+
+---
+## Zero as a Divisor
+
+It is important to remember that division by zero is undefined. You cannot divide a number by zero.
+
+_Example_: `7 ÷ 0 = undefined`
+
+---
+## Review Questions
+
+Answer the following questions to review what you've learned.
+
+1. If you divide 30 by 1, what is the quotient?
+2. What is the remainder when you divide 15 by 4?
+3. Can a number be divided by zero? Explain your answer.
+
+_Answers:_
+1. The quotient is _30_, because any number divided by 1 is the number itself.
+2. The remainder is _3_ because 15 ÷ 4 equals 3 with a remainder of 3 (4 x 3 = 12, and 15 - 12 = 3).
+3. No, a number cannot be divided by zero. Division by zero is undefined because there is no number that you can multiply by zero to get any number other than zero.
+
+---
+## Practice Problems
+
+Solve the following division problems:
+
+1. `42 ÷ 6 = ____`
+2. `27 ÷ 3 = ____`
+3. `64 ÷ 8 = ____`
+4. `18 ÷ 9 = ____`
+5. `50 ÷ 5 = ____`
+6. `56 ÷ 7 = ____`
+7. `48 ÷ 8 = ____`
+8. `33 ÷ 11 = ____`
+9. `75 ÷ 25 = ____`
+10. `26 ÷ 4 = ____ R____`
+
+_Answers:_
+1. _7_
+2. _9_
+3. _8_
+4. _2_
+5. _10_
+6. _8_
+7. _6_
+8. _3_
+9. _3_
+10. _6_ R _2_
+
+---
+In this section, we covered the basic concepts and facts of division in mathematics. Always remember to write down the terms clearly and understand the role each term plays in a division equation. With regular practice, you'll become proficient at solving division problems with ease.

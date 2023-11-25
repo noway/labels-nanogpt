@@ -1,0 +1,86 @@
+## Money Matters
+
+### Simple Addition and Subtraction with Money
+
+Understanding how to manage money is an important skill. In this section, we will practice simple addition and subtraction using coins and dollar bills. Before we begin, make sure you're familiar with the coins and their values:
+
+- Penny = $0.01
+- Nickel = $0.05
+- Dime = $0.10
+- Quarter = $0.25
+- Dollar bill = $1.00
+
+Now, let’s start with some basic exercises. Remember, when adding or subtracting money, it’s often easiest to start with the largest values first.
+
+#### Exercise 1: Addition with Money
+
+1. Add one quarter and two dimes.
+   - **Answer**: $0.25 + $0.10 + $0.10 = $0.45
+
+2. You have three nickels and one dime. How much money do you have?
+   - **Answer**: $0.05 + $0.05 + $0.05 + $0.10 = $0.25
+
+3. Combine two quarters with four dimes.
+   - **Answer**: $0.25 + $0.25 + $0.10 + $0.10 + $0.10 + $0.10 = $0.90
+
+4. Add together one dollar bill, three quarters, and five pennies.
+   - **Answer**: $1.00 + $0.25 + $0.25 + $0.25 + $0.01 + $0.01 + $0.01 + $0.01 + $0.01 = $1.80
+
+5. How much is four nickels and two quarters?
+   - **Answer**: $0.05 + $0.05 + $0.05 + $0.05 + $0.25 + $0.25 = $0.70
+
+#### Exercise 2: Make the Amount
+
+Use the fewest number of coins to make the following amounts:
+
+1. Make $0.36.
+   - **Answer**: 1 quarter, 1 dime, and 1 penny: $0.25 + $0.10 + $0.01 = $0.36
+
+2. Make $0.57.
+   - **Answer**: 2 quarters, 1 nickel, and 2 pennies: $0.25 + $0.25 + $0.05 + $0.01 + $0.01 = $0.57
+
+3. Create $0.83 using coins.
+   - **Answer**: 3 quarters, 1 nickel, and 3 pennies: $0.25 + $0.25 + $0.25 + $0.05 + $0.01 + $0.01 + $0.01 = $0.83
+
+4. Formulate $1.29 with the fewest coins and bills.
+   - **Answer**: 1 dollar bill, 1 quarter, and 4 pennies: $1.00 + $0.25 + $0.01 + $0.01 + $0.01 + $0.01 = $1.29
+
+#### Exercise 3: Subtraction with Money
+
+Now let’s try some subtraction.
+
+1. You have $1.00 and you spend 15 cents. How much do you have left?
+   - **Answer**: $1.00 - $0.15 = $0.85
+
+2. If you have two dollar bills and you buy a toy for $1.25, what is your change?
+   - **Answer**: $2.00 - $1.25 = $0.75
+
+3. Subtract 30 cents from 75 cents.
+   - **Answer**: $0.75 - $0.30 = $0.45
+
+4. Your friend has $2.00 and they give you 50 cents. How much money does your friend have now?
+   - **Answer**: $2.00 - $0.50 = $1.50
+
+5. After buying a pencil for 42 cents, you are left with 58 cents. How much money did you start with?
+   - **Answer**: $0.58 + $0.42 = $1.00
+
+#### Exercise 4: Word Problems
+
+Solve the following word problems involving addition and subtraction of money.
+
+1. Emma has two quarters, three dimes, and four pennies. How much money does she have in total?
+   - **Answer**: $0.25 + $0.25 + $0.10 + $0.10 + $0.10 + $0.01 + $0.01 + $0.01 + $0.01 = $0.84
+
+2. John bought a snack for 65 cents and a drink for 90 cents with a $5 bill. How much change should he receive?
+   - **Answer**: $5.00 - ($0.65 + $0.90) = $5.00 - $1.55 = $3.45
+
+3. Lily found 3 dimes and 7 pennies on the ground. If she already had $0.45, how much money does she have now?
+   - **Answer**: $0.45 + $0.30 + $0.07 = $0.82
+
+4. Kyle had $2.00. He spent $0.75 on a toy car and then found a quarter on the sidewalk. How much money does he have now?
+   - **Answer**: $2.00 - $0.75 + $0.25 = $1.25 + $0.25 = $1.50
+
+5. If Sarah had a ten-dollar bill and spent $4.63 on a book, what is her remaining amount?
+   - **Answer**: $10.00 - $4.63 = $5.37
+
+Congratulations, you've completed the "Simple Addition and Subtraction with Money" section. Being able to calculate with money is an essential skill that you'll use all your life! Keep practicing, and soon you’ll be handling money like a pro!

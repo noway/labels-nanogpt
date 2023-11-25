@@ -1,0 +1,120 @@
+---
+
+# Shapes and Sizes
+
+## Exploring Shapes
+
+Before you start: Shapes are everywhere! They make up the world around us. Can you spot some shapes around you? Maybe a circle-shaped clock, or a rectangular door? Great! Now, let's learn about shapes together. Don't forget your pencil and an eraser, just in case!
+
+---
+
+### What Are Shapes?
+
+**Shapes** are the forms of things you see. They can have sides and corners or be round and smooth. We are going to learn about both **2D** (two-dimensional) shapes, which are flat, and **3D** (three-dimensional) shapes, which are not flat.
+
+---
+
+### 2D Shapes
+
+Let's start with 2D shapes. These are shapes that are flat and can be drawn on paper. They have length and width but no height.
+
+#### Circle
+
+- **Description**: A circle is round. It has no corners or sides.
+- **Example**: A coin is a circle.
+
+#### Triangle
+
+- **Description**: A triangle has 3 sides and 3 corners.
+- **Example**: A piece of pizza is often in the shape of a triangle.
+
+#### Square
+
+- **Description**: A square has 4 sides that are all the same length. It has 4 corners.
+- **Example**: A cracker is often shaped like a square.
+
+#### Rectangle
+
+- **Description**: A rectangle is like a stretched-out square. It has 4 sides and 4 corners, but only the opposite sides are the same length.
+- **Example**: Your favorite book is probably a rectangle.
+
+**Activity**: Draw each of these shapes in your practice book.
+
+*Answers*:
+
+1. A circle should be represented as a round shape with no corners.
+2. A triangle with three sides of any length (equilateral, isosceles, or scalene).
+3. A square with four equal lengths on all sides.
+4. A rectangle with two long sides and two short sides (longer than the square).
+
+---
+
+### 3D Shapes
+
+Now let's look at 3D shapes. These shapes can be picked up and held because they take up space. They have length, width, and height.
+
+#### Sphere
+
+- **Description**: A sphere is like a circle that is fat all around. It is perfectly round and has no corners.
+- **Example**: A basketball is a sphere.
+
+#### Cube
+
+- **Description**: A cube is like a square but with depth. It has 6 faces that are all squares, 12 edges, and 8 corners.
+- **Example**: A dice is a cube.
+
+#### Rectangular Prism
+
+- **Description**: A rectangular prism is like a stretched cube. It has 6 faces. The faces include rectangles and sometimes squares.
+- **Example**: A cereal box is a rectangular prism.
+
+#### Cylinder
+
+- **Description**: A cylinder has two flat ends that are circles, and the surface in between is curved.
+- **Example**: A soup can is a cylinder.
+
+**Activity**: Can you build these 3D shapes with clay or a building toy?
+
+*Answers*:
+
+1. A sphere model should look like a ball, with no edges or faces.
+2. A cube model should have equal square faces all around, and all edges should be the same length.
+3. A rectangular prism model should be like a stretched cube – having rectangular faces opposite each other and possibly square ends.
+4. A cylinder should have two identical circular ends and a curved surface joining them.
+
+---
+
+### Compare and Sort
+
+Now that we know some shapes, let's learn to compare and sort them. Can you find things around you or draw shapes that are bigger, smaller, taller, or shorter?
+
+**Activity**: Draw a small circle inside a big circle. Then draw a short rectangle and a tall rectangle.
+
+*Answers*:
+
+1. You should see a big circle with a smaller one inside, not touching the edges.
+2. Two rectangles should have been drawn; one should be clearly taller compared to the other.
+
+---
+
+### Shape Patterns
+
+Shapes can make patterns. A pattern repeats over and over.
+
+**Activity**: Create a pattern using two different shapes, like a square and a triangle.
+
+*Answers*:
+
+1. Your pattern might look like this: square, triangle, square, triangle, and so on.
+
+---
+
+Remember, shapes are all around us! Try to spot different shapes as you go through your day. You're doing great!
+
+---
+
+Keep practicing, and you'll be a shapes expert in no time! Remember, practice makes perfect.
+
+---
+
+Please note that the answers provided presume a correctly completed activity for the purpose of training a language model and may not represent the variety of acceptable responses that students could produce.

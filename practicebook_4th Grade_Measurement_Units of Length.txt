@@ -1,0 +1,90 @@
+# Measurement
+
+## Units of Length
+
+### Introduction
+
+Welcome, fourth graders, to the exciting world of Measurement! In this section, we will explore Units of Length. Length is a measurement that tells us how long, wide, or tall an object is. When you measure the length of something, you could be finding out how long your desk is, how tall your friend is, or how far it is from your home to school. We use different units to measure length based on how big or small something is.
+
+### Standard Units
+
+The standard units of length in the United States customary system are inches (in), feet (ft), yards (yd), and miles (mi). Here's how they relate to each other:
+
+- 12 inches = 1 foot
+- 3 feet = 1 yard
+- 5,280 feet = 1 mile
+- 1,760 yards = 1 mile
+
+### Metric Units
+
+Most of the world uses metric units to measure length. The most common metric units of length are millimeters (mm), centimeters (cm), meters (m), and kilometers (km). Here's how they relate to each other:
+
+- 10 millimeters = 1 centimeter
+- 100 centimeters = 1 meter
+- 1,000 meters = 1 kilometer
+
+### Let's Practice!
+
+#### Converting Units
+
+*Question 1:* Convert 24 inches to feet.
+
+Answer: 24 inches ÷ 12 inches/foot = 2 feet
+
+*Question 2:* Convert 9 feet to yards.
+
+Answer: 9 feet ÷ 3 feet/yard = 3 yards
+
+*Question 3:* How many inches are there in 2 yards?
+
+Answer: 2 yards × 3 feet/yard × 12 inches/foot = 72 inches
+
+*Question 4:* Convert 300 centimeters to meters.
+
+Answer: 300 centimeters ÷ 100 centimeters/meter = 3 meters
+
+*Question 5:* Change 1.2 kilometers to meters.
+
+Answer: 1.2 kilometers × 1,000 meters/kilometer = 1,200 meters
+
+#### Estimating Length
+
+*Question 6:* Estimate the length of a standard pencil in inches. Is it closer to 1 inch, 4 inches, or 7 inches?
+
+Answer: A standard pencil is closer to 7 inches long.
+
+*Question 7:* Would you use miles or feet to measure the distance from your house to your school? Why?
+
+Answer: You would use miles if your school is far from your house, but if it’s close by, you might use feet. Generally, the distance to school is longer than what we would count in feet, so miles is more commonly used.
+
+*Question 8:* When buying a fish tank, would the length of the tank most likely be measured in millimeters, centimeters, or meters? Why?
+
+Answer: The length of a fish tank would most likely be measured in centimeters because it's a medium-sized object.
+
+*Question 9:* Which is longer, 1 meter or 1 yard? Hint: Use the conversion factor that 1 meter is approximately 1.094 yards.
+
+Answer: 1 meter is longer because 1 meter = 1.094 yards.
+
+### Word Problems
+
+*Question 10:* Ryan's classroom is 15 feet long. How many inches long is the classroom?
+
+Answer: 15 feet × 12 inches/foot = 180 inches
+
+*Question 11:* A nature trail is 2.6 miles long. How many feet long is the trail?
+
+Answer: 2.6 miles × 5,280 feet/mile = 13,728 feet
+
+*Question 12:* Sarah buys a piece of ribbon that is 250 centimeters long. How many meters of ribbon did she buy?
+
+Answer: 250 centimeters ÷ 100 centimeters/meter = 2.5 meters
+
+*Question 13:* A marathon is 42.195 kilometers long. How many meters long is a marathon race?
+
+Answer: 42.195 kilometers × 1,000 meters/kilometer = 42,195 meters
+
+### Review
+
+In this section, we learned about different units used to measure length. We know inches, feet, yards, and miles are used in the United States, while millimeters, centimeters, meters, and kilometers are used in the metric system. We also practiced converting between units and estimated lengths in real-world scenarios. Remember, choosing the appropriate unit and being accurate with your measurements is an important skill in math and in everyday life.
+
+Now, with this knowledge and practice, you are one step closer to becoming a measurement master! Keep practicing, and don't forget to use your newfound skills to help you understand the world around you.

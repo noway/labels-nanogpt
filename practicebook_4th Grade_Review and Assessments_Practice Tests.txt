@@ -1,0 +1,157 @@
+# Practice Tests
+
+Welcome to the Practice Tests section of the Review and Assessments chapter in your 4th Grade Math Practice Book. Here you will find a series of tests that will help you assess your understanding of the math concepts you've learned. Each practice test contains a variety of questions, including multiple-choice, true/false, fill-in-the-blank, and short answer problems. Test your skills, then check your work with the provided answers to see how well you're doing.
+
+## Practice Test 1
+
+1. **Multiple Choice**: What is the value of the digit '7' in the number 3,752?
+   
+   (A) 7
+   
+   (B) 70
+   
+   (C) 700
+   
+   (D) 7,000
+
+   **Answer**: C (700)
+
+2. **True or False**: The fraction 1/4 is greater than 1/5.
+
+   **Answer**: True
+
+3. **Fill in the Blank**: 45 ÷ 5 = _____
+
+   **Answer**: 9
+
+4. **Short Answer**: Solve for the area of a rectangle with a length of 8cm and a width of 4cm.
+
+   **Answer**: Area = length × width = 8cm × 4cm = 32cm²
+
+5. **Multiple Choice**: If you have three apples and you get two more, how many apples do you have in total?
+
+   (A) 3
+   
+   (B) 2
+   
+   (C) 4
+   
+   (D) 5
+
+   **Answer**: D (5)
+
+## Practice Test 2
+
+1. **Multiple Choice**: What is 9/3?
+
+   (A) 1
+   
+   (B) 3
+   
+   (C) 6
+   
+   (D) 12
+
+   **Answer**: B (3)
+
+2. **True or False**: 5 × 6 = 30.
+
+   **Answer**: True
+
+3. **Fill in the Blank**: If one side of a square is 7cm long, the perimeter is _____ cm.
+
+   **Answer**: 28 (because perimeter = 4 × side length, so 4 × 7cm = 28cm)
+
+4. **Short Answer**: Round 678 to the nearest hundred.
+
+   **Answer**: 700
+
+5. **Multiple Choice**: Which of the following is not an example of an acute angle?
+
+   (A) 45 degrees
+   
+   (B) 90 degrees
+   
+   (C) 30 degrees
+   
+   (D) 75 degrees
+
+   **Answer**: B (90 degrees, because an acute angle is less than 90 degrees)
+
+## Practice Test 3
+
+1. **Multiple Choice**: What is the equivalent to 4/8 in simplest form?
+
+   (A) 2/4
+   
+   (B) 1/2
+   
+   (C) 1/4
+   
+   (D) 2/8
+
+   **Answer**: B (1/2)
+
+2. **True or False**: The number 1234 is in the thousands place.
+
+   **Answer**: False (the digit '1' is in the thousands place)
+
+3. **Fill in the Blank**: A hexagon has _____ sides.
+
+   **Answer**: 6
+
+4. **Short Answer**: What is the next number in the pattern? 2, 4, 6, 8, _____
+
+   **Answer**: 10 (the pattern is increasing by 2)
+
+5. **Multiple Choice**: Which of these numbers is a multiple of both 2 and 3?
+
+   (A) 15
+   
+   (B) 9
+   
+   (C) 12
+   
+   (D) 7
+
+   **Answer**: C (12)
+
+## Practice Test 4
+
+1. **Multiple Choice**: Which fraction is the largest? 
+
+   (A) 1/3
+   
+   (B) 1/2
+   
+   (C) 2/5
+   
+   (D) 3/8
+
+   **Answer**: B (1/2)
+
+2. **True or False**: An isosceles triangle has all sides of equal length.
+
+   **Answer**: False (an isosceles triangle has only two sides of equal length)
+
+3. **Fill in the Blank**: The product of 9 and 7 is _____.
+
+   **Answer**: 63
+
+4. **Short Answer**: Convert 1/2 into a decimal.
+
+   **Answer**: 0.5
+
+5. **Multiple Choice**: How many hours are there in three days?
+
+   (A) 24 hours
+   
+   (B) 48 hours
+   
+   (C) 72 hours
+   
+   (D) 96 hours
+
+   **Answer**: C (72 hours)
+
+Remember to practice regularly and review the concepts you are struggling with. If you had difficulty with any of the practice test questions, go back to the relevant sections in your Math Practice Book to strengthen your understanding. Good luck with your math practice!

@@ -1,0 +1,66 @@
+## Understanding Place Values
+
+**Introduction to Numbers: Chapter 1, Section 2**
+
+Welcome to the "Understanding Place Values" section! In this part of your math practice book, you'll learn about the importance of place values in numbers and how they help us determine the value of digits in different positions. This fundamental concept is crucial for mastering math skills, such as addition, subtraction, multiplication, and division.
+
+### What is a Place Value?
+
+A place value system is used to determine the value of a digit based on its position in a number. In the base-10 system, which we use every day, the value of a digit increases ten times as it moves one place to the left. Conversely, the value decreases ten times as it moves one place to the right.
+
+### The Positions
+
+Here are the place values for a number in the base-10 system, starting from the right.
+
+- **Ones**: The first digit from the right represents how many 'ones' we have.
+- **Tens**: The second digit from the right represents how many 'tens.'
+- **Hundreds**: The third digit from the right represents how many 'hundreds.'
+- **Thousands**: The fourth digit from the right represents how many 'thousands,' and so on.
+
+### Example:
+
+Let’s look at the number 3,572.
+
+- The '2' is in the **Ones** place and means 2 ones (or just '2').
+- The '7' is in the **Tens** place and means 7 tens (or '70').
+- The '5' is in the **Hundreds** place and means 5 hundreds (or '500').
+- The '3' is in the **Thousands** place and means 3 thousands (or '3000').
+
+When you combine these values, the number 3,572 can be understood as:
+3,000 + 500 + 70 + 2.
+
+### Exercises:
+
+Let's try to understand place values with a couple of exercises. Look at the number and write down what each digit represents.
+
+**Exercise 1:** What is the place value of each digit in the number 4,861?
+
+**Exercise 2:** What is the place value of each digit in the number 9,237?
+
+**Answers:**
+
+**Exercise 1:** The number 4,861 can be broken down into:
+
+- 4 in the Thousands place: 4,000
+- 8 in the Hundreds place: 800
+- 6 in the Tens place: 60
+- 1 in the Ones place: 1
+
+So, 4,861 is equal to 4,000 + 800 + 60 + 1.
+
+**Exercise 2:** The number 9,237 can be broken down into:
+
+- 9 in the Thousands place: 9,000
+- 2 in the Hundreds place: 200
+- 3 in the Tens place: 30
+- 7 in the Ones place: 7
+
+So, 9,237 is equal to 9,000 + 200 + 30 + 7.
+
+### Explore More:
+
+Now that you understand how place values work, try to apply this knowledge to some larger numbers, and practice writing them out in expanded form. Remember, each place represents a value that is ten times bigger than the one to its right!
+
+As you progress in your math journey, you'll find that understanding place values is a key skill that will help you with all sorts of number operations. Keep practicing, and you'll become a place value pro in no time!
+
+This concludes the "Understanding Place Values" section of your math practice book. Great job on completing the exercises and training your understanding of place values!

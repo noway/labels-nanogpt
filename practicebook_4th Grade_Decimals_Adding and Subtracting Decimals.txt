@@ -1,0 +1,73 @@
+# Adding and Subtracting Decimals
+
+## Introduction
+Welcome to the exciting world of decimals! Understanding decimals is important because they are used everywhere – from measuring lengths to dealing with money. In this section, we will learn how to add and subtract decimals, both essential skills in math and everyday life.
+
+Before you begin these exercises, remember that when you work with decimals, you need to line up the decimal points vertically before adding or subtracting. This will allow you to add or subtract the numbers as if they were whole numbers, and then put the decimal point in the correct place in the answer.
+
+## Exercises
+
+### Exercise 1: Adding Decimals
+
+#### Instructions:
+Add the following pairs of decimals. Make sure to line up the decimal points before adding.
+
+1. 0.7 + 0.15 =
+2. 3.6 + 2.47 =
+3. 12.09 + 0.83 =
+4. 4.56 + 7.328 =
+5. 8.2 + 0.492 =
+
+#### Answers:
+
+1. 0.7 + 0.15 = 0.85
+2. 3.6 + 2.47 = 6.07
+3. 12.09 + 0.83 = 12.92
+4. 4.56 + 7.328 = 11.888
+5. 8.2 + 0.492 = 8.692
+
+### Exercise 2: Subtracting Decimals
+
+#### Instructions:
+Subtract the second decimal from the first. Be sure to align the decimal points first.
+
+1. 2.5 - 0.34 =
+2. 7.8 - 1.29 =
+3. 15.67 - 3.8 =
+4. 10.01 - 2.474 =
+5. 9.05 - 0.789 =
+
+#### Answers:
+
+1. 2.5 - 0.34 = 2.16
+2. 7.8 - 1.29 = 6.51
+3. 15.67 - 3.8 = 11.87
+4. 10.01 - 2.474 = 7.536
+5. 9.05 - 0.789 = 8.261
+
+### Exercise 3: Mixed Practice
+Now that you've practiced adding and subtracting separately, let's try some problems that involve both adding and subtracting decimals.
+
+#### Instructions:
+Solve the following problems involving both addition and subtraction of decimals.
+
+1. 6.32 + 3.8 - 1.4 =
+2. 4.56 - 2.8 + 0.34 =
+3. 8.001 + 1.234 - 5.67 =
+4. 6.789 - 3.2 + 2.011 =
+5. 10.1 + 2.02 - 4.98 =
+
+#### Answers:
+
+1. 6.32 + 3.8 - 1.4 = 6.32 + 3.8 = 10.12 - 1.4 = 8.72
+2. 4.56 - 2.8 + 0.34 = 4.56 - 2.8 = 1.76 + 0.34 = 2.10
+3. 8.001 + 1.234 - 5.67 = 8.001 + 1.234 = 9.235 - 5.67 = 3.565
+4. 6.789 - 3.2 + 2.011 = 6.789 - 3.2 = 3.589 + 2.011 = 5.600
+5. 10.1 + 2.02 - 4.98 = 10.1 + 2.02 = 12.12 - 4.98 = 7.14
+
+## Tips for Success
+- Always line up the decimal points when adding or subtracting.
+- Write extra zeros if needed to help line up decimal places.
+- Remember to bring down the decimal point in your answer to the same column where the decimal points line up in the problem.
+
+Practice these problems, and soon, you'll be a pro at adding and subtracting decimals! Keep up the great work!

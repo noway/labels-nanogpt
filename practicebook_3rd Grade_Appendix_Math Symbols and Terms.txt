@@ -1,0 +1,145 @@
+## Appendix
+
+### Math Symbols and Terms
+
+In this section, you will find a list of common math symbols and terms used in third-grade mathematics. This handy reference is designed to help you understand various concepts as you encounter them in your math practice.
+
+---
+
+#### Symbols
+
+1. **Addition (+)**
+   - The addition symbol '+' is used when you want to combine two or more numbers.
+   - **Example:** 4 + 3 = 7
+
+2. **Subtraction (−)**
+   - The subtraction symbol '−' indicates that you want to take one number away from another.
+   - **Example:** 5 − 2 = 3
+
+3. **Multiplication (× or ·)**
+   - The multiplication symbol '×' or '·' shows that a number is to be multiplied by another.
+   - **Example:** 6 × 4 = 24
+
+4. **Division (÷ or /)**
+   - The division symbol '÷' or '/' means one number is to be divided by another.
+   - **Example:** 8 ÷ 2 = 4
+
+5. **Equal (=)**
+   - The equal symbol '=' shows that the value on the left side is the same as the value on the right side.
+   - **Example:** 9 + 1 = 10
+
+6. **Not Equal (≠)**
+   - The not equal symbol '≠' indicates that the value on the left is different from the value on the right.
+   - **Example:** 4 + 2 ≠ 7
+
+7. **Less Than (<)**
+   - The less than symbol '<' denotes that the number on the left is smaller than the number on the right.
+   - **Example:** 3 < 5
+
+8. **Greater Than (>)**
+   - The greater than symbol '>' shows that the number on the left is larger than the number on the right.
+   - **Example:** 6 > 4
+
+9. **Less Than or Equal To (≤)**
+   - The less than or equal to symbol '≤' means the number on the left is smaller or equal to the number on the right.
+   - **Example:** 4 ≤ 4
+
+10. **Greater Than or Equal To (≥)**
+    - The greater than or equal to symbol '≥' denotes that the number on the left is larger or equal to the number on the right.
+    - **Example:** 5 ≥ 3
+
+11. **Parentheses (())**
+    - Parentheses are used to indicate which operations should be performed first.
+    - **Example:** (2 + 3) × 4 = 20
+
+12. **Number Line**
+    - A visual representation of numbers on a straight line, showing their order and spacing.
+    - **Example:** A number line with points labeled 0 through 10.
+
+#### Terms
+
+1. **Addend**
+   - An addend is any number being added.
+   - **Example Answer:** In 5 + 9 = 14, both 5 and 9 are addends.
+
+2. **Sum**
+   - The sum is the result of adding two or more addends.
+   - **Example Answer:** The sum of 5 + 9 is 14.
+
+3. **Minuend**
+   - The minuend is the number from which another number (the subtrahend) is subtracted.
+   - **Example Answer:** In 10 − 4 = 6, 10 is the minuend.
+
+4. **Subtrahend**
+   - The subtrahend is the number that is being subtracted from the minuend.
+   - **Example Answer:** In 10 − 4 = 6, 4 is the subtrahend.
+
+5. **Difference**
+   - The difference is the result of subtracting one number from another.
+   - **Example Answer:** The difference of 10 − 4 is 6.
+
+6. **Multiplier**
+   - The multiplier is the number that is multiplying another number (the multiplicand).
+   - **Example Answer:** In 3 × 7 = 21, 3 is the multiplier.
+
+7. **Multiplicand**
+   - The multiplicand is the number being multiplied by the multiplier.
+   - **Example Answer:** In 3 × 7 = 21, 7 is the multiplicand.
+
+8. **Product**
+   - The product is the result of multiplying two or more numbers.
+   - **Example Answer:** The product of 3 × 7 is 21.
+
+9. **Dividend**
+   - The dividend is the number that is being divided.
+   - **Example Answer:** In 12 ÷ 3 = 4, 12 is the dividend.
+
+10. **Divisor**
+    - The divisor is the number by which another number (the dividend) is divided.
+    - **Example Answer:** In 12 ÷ 3 = 4, 3 is the divisor.
+
+11. **Quotient**
+    - The quotient is the result of a division problem.
+    - **Example Answer:** The quotient of 12 ÷ 3 is 4.
+
+12. **Fraction**
+    - A way to express a number that represents a part of a whole.
+    - **Example Answer:** In the fraction ½, 1 is the numerator and 2 is the denominator.
+
+13. **Numerator**
+    - The top part of a fraction which indicates how many parts are taken from the whole.
+    - **Example Answer:** In ¾, 3 is the numerator.
+
+14. **Denominator**
+    - The bottom part of a fraction which shows how many equal parts the whole is divided into.
+    - **Example Answer:** In ¾, 4 is the denominator.
+
+15. **Equivalent Fractions**
+    - Fractions that have different numerators and denominators but represent the same value.
+    - **Example Answer:** ½ and 2/4 are equivalent fractions.
+
+16. **Decimal**
+    - A number that has a whole part and a fractional part separated by a decimal point.
+    - **Example Answer:** 7.25 is a decimal.
+
+17. **Place Value**
+    - The value of where the digit is in the number, such as ones, tens, hundreds, etc.
+    - **Example Answer:** In the number 345, the place value of 5 is 'ones', 4 is 'tens', and 3 is 'hundreds'.
+
+18. **Round**
+    - To approximate a number to the nearest place value.
+    - **Example Answer:** Rounding 16 to the nearest ten gives 20.
+
+19. **Array**
+    - A set of objects or numbers arranged in rows and columns that is often used to represent multiplication.
+    - **Example Answer:** An array with 3 rows and 5 columns represents the multiplication fact 3 × 5 = 15.
+
+20. **Area**
+    - The amount of space inside a two-dimensional shape, such as a rectangle or square (often measured in square units).
+    - **Example Answer:** The area of a rectangle that is 3 units long and 4 units wide is 12 square units (3 × 4 = 12).
+
+21. **Perimeter**
+    - The total length around a two-dimensional shape.
+    - **Example Answer:** The perimeter of a rectangle that is 3 units long and 4 units wide is 14 units (3 + 4 + 3 + 4 = 14).
+
+These are the primary mathematical symbols and terms you will encounter in the third grade. Always refer back to this list if you come across something you're not sure about, and remember that practicing these will help improve your math skills!

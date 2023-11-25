@@ -1,0 +1,104 @@
+## Definitions of Key Math Terms for 2nd Grade K-12
+
+### Addition
+**Addition** is a math operation that combines two or more numbers together to make a bigger number. The numbers that are combined are called addends, and the result of adding them is called the sum.
+
+Example:
+3 + 4 = 7
+(3 and 4 are addends, and 7 is the sum)
+
+### Subtraction
+**Subtraction** is taking one number away from another. The number from which you are subtracting is called the minuend, the number you are subtracting is the subtrahend, and the result is the difference.
+
+Example:
+8 - 3 = 5
+(8 is the minuend, 3 is the subtrahend, and 5 is the difference)
+
+### Number Sentence
+A **number sentence** is a way to write a mathematical calculation using numbers and symbols. It can show an operation like addition, subtraction, multiplication, or division.
+
+Example:
+7 + 5 = 12
+
+### Even Numbers
+**Even Numbers** are numbers that can be divided into two equal groups with no leftovers. Another way to recognize even numbers is that they end in 0, 2, 4, 6, or 8.
+
+Example:
+2, 4, 6 are even numbers.
+
+### Odd Numbers
+**Odd Numbers** are numbers that cannot be divided into two equal groups without leftovers. They end in 1, 3, 5, 7, or 9.
+
+Example:
+1, 3, 5 are odd numbers.
+
+### Place Value
+**Place Value** indicates the value of a digit based on its position in a number. In a multi-digit number, each digit has a different place value (ones, tens, hundreds, etc.).
+
+Example:
+In the number 235, the place value of 5 is 'ones', 3 is 'tens', and 2 is 'hundreds'.
+
+### Comparing Numbers
+**Comparing Numbers** means to look at two numbers to decide which one is bigger, smaller, or if they are equal. This can be done using the symbols '>', '<', or '='.
+
+Example:
+36 > 24
+(36 is greater than 24)
+
+### Counting By Twos, Fives, Tens
+This is a counting method in which you add 2, 5, or 10 to the previous number to get to the next one.
+
+Example:
+Counting by twos: 2, 4, 6, 8, 10...
+Counting by fives: 5, 10, 15, 20, 25...
+Counting by tens: 10, 20, 30, 40, 50...
+
+### Bar Graph
+A **bar graph** is a way to show data visually using bars of different lengths or heights. Each bar represents a quantity.
+
+Example:
+A graph showing how many apples and oranges are in the basket (if there are 5 apples and 3 oranges, the bar above apples would be longer than that above oranges).
+
+### Measurement
+**Measurement** is determining the length, height, weight, or volume of something using units like inches, feet, pounds, or liters.
+
+Example:
+Measuring the length of a pencil in inches.
+
+### Data
+**Data** is information, especially numerical information. It can be collected, analyzed, and used to make graphs or charts.
+
+Example:
+The number of pets each student has in a class could be a set of data.
+
+### Patterns
+**Patterns** are repeating sequences that follow a rule or a set of rules. Identifying patterns is a way to predict what comes next in the sequence.
+
+Example:
+An AB pattern with colors could be red, blue, red, blue, and so on.
+
+### Fractions
+A **fraction** represents a part of a whole. It has a numerator (the top number indicating how many parts are being considered) and a denominator (the bottom number indicating the number of equal parts the whole is divided into).
+
+Example:
+1/2 means one part out of two equal parts, which is the same as one half.
+
+### Time
+**Time** is a system of measuring the passing of days, hours, minutes, and seconds. Clocks and watches are used to track time.
+
+Example:
+The big hand on 12 and the small hand on 3 mean it is 3 o'clock.
+
+### Money
+**Money** refers to coins and bills used to pay for goods and services. Understanding money involves recognizing coins and bills, knowing their value, and learning to count them.
+
+Example:
+4 quarters, 10 dimes, or 20 nickels all have a value of 1 dollar.
+
+### Geometry
+**Geometry** is the area of mathematics that studies shapes, sizes, and properties of space. In 2nd grade, this usually includes understanding the properties of two-dimensional shapes like squares and triangles, as well as three-dimensional shapes like cubes and spheres.
+
+Example:
+A triangle has three sides and three angles.
+
+This glossary provides the foundation for understanding the terms used throughout your math practice. Remember, practice makes perfect, so make sure to go through your exercises repeatedly to become comfortable with these key math terms!
