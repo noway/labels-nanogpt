@@ -47,7 +47,7 @@ Shape Exploration:
 
 Measuring Up:
 1. Measure the length of your desk using a ruler.
-   - Answer: The answer will vary based on the student's desk. Typical desk lengths may range from 24 to 48 inches.
+   - Answer: <|unsolvedproblem|>
 
 Telling Time and Counting Money:
 1. What time does the clock show? (Picture of a clock showing 3:00)

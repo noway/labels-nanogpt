@@ -31,8 +31,6 @@ Bingo can be adapted to help you with your addition, subtraction, multiplication
 **Game:** Math Bingo
 Create bingo cards, but instead of numbers, fill the spaces with math problems. As you solve the problems, if the answer is on your card, you can cover that space. Try doing this with friends and see who can get bingo first!
 
-_Answers will vary based on the math problems selected. Ensure that the answers fit the problems and correlate with the bingo card setup._
-
 ### 4. Clock Reading Race
 
 Telling time is an essential math skill that you use in everyday life.

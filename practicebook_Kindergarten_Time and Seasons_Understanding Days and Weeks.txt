@@ -115,7 +115,7 @@ Activities:
 
 (Assign activities to the following days: Monday, Wednesday, Friday, Saturday, Sunday)
 
-**Possible Answers to Exercise 6:** (Answers may vary)
+**Possible Answers to Exercise 6:**
 
 1. Monday: Go to school
 2. Wednesday: Do homework

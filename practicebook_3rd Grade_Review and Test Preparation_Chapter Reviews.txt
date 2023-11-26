@@ -14,9 +14,6 @@
   Understand the relationship between addition and subtraction with fact families. 
   Example: 8 + 9 = 17, 9 + 8 = 17, 17 - 8 = 9, and 17 - 9 = 8
 
-Answers for Review Exercises 1.1 - 1.3:
-- Answers will vary as they are dependent on the specific problems provided in the book. (Example answers are provided above.)
-
 **Chapter 2: Place Value and Number Sense**
 
 - **Review 2.1: Understanding Place Value**
@@ -31,9 +28,6 @@ Answers for Review Exercises 1.1 - 1.3:
   Round numbers to the nearest ten or hundred.
   Example: Round 654 to the nearest hundred: 700.
 
-Answers for Review Exercises 2.1 - 2.3:
-- Answers will vary. Examples are provided for general understanding.
-
 **Chapter 3: Addition and Subtraction with Regrouping**
 
 - **Review 3.1: Adding with Regrouping**
@@ -43,9 +37,6 @@ Answers for Review Exercises 2.1 - 2.3:
 - **Review 3.2: Subtracting with Regrouping**
   Practice subtraction problems that require regrouping (borrowing).
   Example: 64 - 29 = 35.
-
-Answers for Review Exercises 3.1 - 3.2:
-- Answers will vary. Standard algorithms for addition and subtraction with regrouping apply.
 
 **Chapter 4: Understanding Multiplication**
 
@@ -57,9 +48,6 @@ Answers for Review Exercises 3.1 - 3.2:
   Memorize multiplication facts through 10x10.
   Example: 7 x 8 = 56.
 
-Answers for Review Exercises 4.1 - 4.2:
-- Answers will vary. Multiplication tables up to 10 should be used as a guide.
-
 **Chapter 5: Understanding Division**
 
 - **Review 5.1: Introduction to Division**
@@ -70,9 +58,6 @@ Answers for Review Exercises 4.1 - 4.2:
   Practice basic division facts related to multiplication facts.
   Example: 35 ÷ 7 = 5.
 
-Answers for Review Exercises 5.1 - 5.2:
-- Answers will vary. Understanding the relationship between division and multiplication is essential.
-
 **Chapter 6: Data and Probability**
 
 - **Review 6.1: Reading and Creating Graphs**
@@ -82,9 +67,6 @@ Answers for Review Exercises 5.1 - 5.2:
 - **Review 6.2: Basic Probability**
   Understand the likelihood of events happening using simple probability.
   Example: The probability of rolling a 3 on a six-sided die is 1/6.
-
-Answers for Review Exercises 6.1 - 6.2:
-- Answers will vary. Examples of graphs and events will dictate specific answers.
 
 ---
 
