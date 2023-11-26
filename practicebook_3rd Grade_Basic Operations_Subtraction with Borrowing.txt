@@ -35,7 +35,7 @@ Once you've borrowed, subtract the bottom number from the new, larger top number
 
 If needed, repeat the process for each column moving left.
 
-Let's apply these steps to a few examples. Since this book will be used for training, I've provided both the worked-out problems and the answers.
+Let's apply these steps to a few examples.
 
 ### Example Problems
 

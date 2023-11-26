@@ -116,7 +116,3 @@ Now, let's try some more exercises to help you become a counting expert.
 ### You Did It!
 
 Wonderful work! You're now able to count to 20, fill in missing numbers, and even determine which number comes next in a sequence. Remember, practice makes perfect, so keep counting whenever you can.
-
----
-
-Note: In an actual math practice book, you would probably include more exercises, perhaps with pictures or interactive elements, and leave spaces for children to write the answers, rather than providing them as this would be meant for actual practice rather than training.
