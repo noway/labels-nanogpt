@@ -91,5 +91,3 @@ Remember, finding shapes in the world is like going on a treasure hunt where the
 - Square Items: Window Pane, Floor Tile, Alphabet Rug.
 - Rectangle Items: Door, Book, Whiteboard.
 - Triangle Items: Roof, Sandwich, Hanger.
-
-**Note:** These answers provided are examples based on a typical classroom setting. Actual answers may vary depending on the objects present in your classroom. Encourage students to explore and identify as many shapes as possible for a richer learning experience.
