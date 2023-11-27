@@ -1,4 +1,3 @@
-
 # Welcome to Math!
 
 ## Chapter 1: Introduction to Numbers
@@ -75,4 +74,3 @@ Did you fill in the blanks correctly? Amazing work!
 Counting is lots of fun and very useful. Now that you know your numbers well, you can count almost anything! Count your toys, the steps in your house, or even the stars in the night sky!
 
 Keep exploring, keep counting, and most importantly, keep enjoying math!
-

@@ -55,4 +55,3 @@ Table of Contents
 
 13. Glossary
 13.1. Definitions of Key Math Terms
-

@@ -1,4 +1,3 @@
-
 # Understanding Time (Clocks and Calendars)
 
 Welcome to the exciting world of understanding time! Time helps us organize our day, remember important events, and plan for the future. In this section, we will learn how to read clocks and understand calendars. Let's get started!
@@ -95,4 +94,3 @@ Answer the questions based on what you know about months and years.
 **Answer:** 29 days.
 
 Remember, learning to tell time and understanding calendars is a valuable skill that you will use every day. Keep practicing, and you will master time in no time!
-

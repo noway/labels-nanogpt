@@ -1,4 +1,3 @@
-
 # Money Matters
 
 ## Identifying Coins and Bills

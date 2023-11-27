@@ -1,4 +1,3 @@
-
 # Basic Division Concepts
 
 Division is one of the four basic mathematical operations. It is the process of splitting a number into equal parts. Imagine you have a pizza and you want to share it fairly with your friends. If you cut the pizza into smaller pieces of the same size, you are dividing it!
@@ -100,4 +99,3 @@ Remember to check your answers by multiplying the quotient by the divisor. If th
 - Sometimes division has a remainder when the numbers don't divide evenly.
 
 Division is an important math skill that you'll use all the time, so practice as much as you can!
-
