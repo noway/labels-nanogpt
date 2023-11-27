@@ -4,10 +4,10 @@ Welcome to the Chapter Review section of our 4th Grade Math Textbook. This secti
 
 ---
 
-**Chapter 1: Place Value and Number Sense**
+**Chapter: Place Value and Number Sense**
 
 Review Summary: 
-In Chapter 1, we learned about place value and how it helps us understand the value of digits in a number based on their position. We also delved into comparing and ordering whole numbers, and we explored rounding numbers to the nearest ten, hundred, and thousand. 
+In Chapter, we learned about place value and how it helps us understand the value of digits in a number based on their position. We also delved into comparing and ordering whole numbers, and we explored rounding numbers to the nearest ten, hundred, and thousand. 
 
 Key Terms: Place Value, Digit, Value, Compare, Order, Round
 
@@ -21,10 +21,10 @@ Answers:
 
 ---
 
-**Chapter 2: Addition and Subtraction**
+**Chapter: Addition and Subtraction**
 
 Review Summary:
-Chapter 2 focused on mastering addition and subtraction of multi-digit numbers. We covered using strategies like the standard algorithm, estimating to check our work, and solving word problems involving addition and subtraction.
+Chapter focused on mastering addition and subtraction of multi-digit numbers. We covered using strategies like the standard algorithm, estimating to check our work, and solving word problems involving addition and subtraction.
 
 Key Terms: Addition, Subtraction, Algorithm, Estimate, Word Problem
 
@@ -38,10 +38,10 @@ Answers:
 
 ---
 
-**Chapter 3: Multiplication and Division**
+**Chapter: Multiplication and Division**
 
 Review Summary:
-In Chapter 3, we learned about multiplication and division. We worked on understanding the concepts of multiplying and dividing numbers, including multi-digit multiplication and long division. We also practiced solving word problems involving these operations.
+In Chapter, we learned about multiplication and division. We worked on understanding the concepts of multiplying and dividing numbers, including multi-digit multiplication and long division. We also practiced solving word problems involving these operations.
 
 Key Terms: Multiplication, Division, Multi-digit Multiplication, Long Division
 
@@ -55,10 +55,10 @@ Answers:
 
 ---
 
-**Chapter 4: Fractions**
+**Chapter: Fractions**
 
 Review Summary:
-Chapter 4 was all about fractions. We learned to identify, compare, and represent fractions. We also focused on equivalent fractions, adding and subtracting fractions with like denominators, and understanding mixed numbers.
+Chapter was all about fractions. We learned to identify, compare, and represent fractions. We also focused on equivalent fractions, adding and subtracting fractions with like denominators, and understanding mixed numbers.
 
 Key Terms: Fraction, Denominator, Equivalent Fractions, Mixed Number
 
@@ -72,10 +72,10 @@ Answers:
 
 ---
 
-**Chapter 5: Geometry and Measurement**
+**Chapter: Geometry and Measurement**
 
 Review Summary:
-In Chapter 5, we explored basic geometry and measurement. We looked at different types of lines, angles, and shapes. We also learned how to measure length, area, and perimeter using standard units of measurement.
+In Chapter, we explored basic geometry and measurement. We looked at different types of lines, angles, and shapes. We also learned how to measure length, area, and perimeter using standard units of measurement.
 
 Key Terms: Lines, Angles, Shapes, Length, Area, Perimeter
 

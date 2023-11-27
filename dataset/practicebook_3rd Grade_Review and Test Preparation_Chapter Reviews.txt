@@ -1,6 +1,6 @@
 # Chapter Reviews
 
-**Chapter 1: Addition and Subtraction Facts**
+**Chapter: Addition and Subtraction Facts**
 
 - **Review 1.1: Addition Facts to 20**
   Practice adding numbers with sums up to 20. 
@@ -14,7 +14,7 @@
   Understand the relationship between addition and subtraction with fact families. 
   Example: 8 + 9 = 17, 9 + 8 = 17, 17 - 8 = 9, and 17 - 9 = 8
 
-**Chapter 2: Place Value and Number Sense**
+**Chapter: Place Value and Number Sense**
 
 - **Review 2.1: Understanding Place Value**
   Recognize the place values of digits in numbers up to 1000.
@@ -28,7 +28,7 @@
   Round numbers to the nearest ten or hundred.
   Example: Round 654 to the nearest hundred: 700.
 
-**Chapter 3: Addition and Subtraction with Regrouping**
+**Chapter: Addition and Subtraction with Regrouping**
 
 - **Review 3.1: Adding with Regrouping**
   Practice addition problems that require regrouping (carrying) across place values.
@@ -38,7 +38,7 @@
   Practice subtraction problems that require regrouping (borrowing).
   Example: 64 - 29 = 35.
 
-**Chapter 4: Understanding Multiplication**
+**Chapter: Understanding Multiplication**
 
 - **Review 4.1: Introduction to Multiplication**
   Learn the concept of multiplication as repeated addition.
@@ -48,7 +48,7 @@
   Memorize multiplication facts through 10x10.
   Example: 7 x 8 = 56.
 
-**Chapter 5: Understanding Division**
+**Chapter: Understanding Division**
 
 - **Review 5.1: Introduction to Division**
   Understand division as the inverse operation of multiplication.
@@ -58,7 +58,7 @@
   Practice basic division facts related to multiplication facts.
   Example: 35 ÷ 7 = 5.
 
-**Chapter 6: Data and Probability**
+**Chapter: Data and Probability**
 
 - **Review 6.1: Reading and Creating Graphs**
   Learn to read and create bar graphs and pictographs.

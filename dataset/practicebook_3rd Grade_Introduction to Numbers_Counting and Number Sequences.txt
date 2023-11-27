@@ -1,6 +1,6 @@
 # Introduction to Numbers
 
-## Chapter 1: Counting and Number Sequences
+## Chapter: Counting and Number Sequences
 
 Welcome to the exciting world of numbers! In this section, we’ll explore how to count and understand number sequences. Counting is the basic building block of all mathematics, and sequences help us understand the patterns numbers can make. Get ready to count your way to math mastery!
 

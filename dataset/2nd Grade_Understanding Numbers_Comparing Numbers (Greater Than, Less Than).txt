@@ -1,6 +1,6 @@
 # Understanding Numbers
 
-## Chapter 2: Comparing Numbers (Greater Than, Less Than)
+## Chapter: Comparing Numbers (Greater Than, Less Than)
 
 ### What are Comparing Numbers?
 Comparing numbers is the process of looking at two numbers and deciding if one is larger, smaller, or equal to the other. This is a very important skill in math because it helps us understand the relationships between numbers.

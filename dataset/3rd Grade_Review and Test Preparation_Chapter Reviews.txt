@@ -1,6 +1,6 @@
 # Chapter Reviews
 
-## Chapter 1: Introduction to Numbers
+## Chapter: Introduction to Numbers
 
 **Key Concepts:**
 - Counting 1 to 1000
@@ -11,7 +11,7 @@
 
 **Answer:** The number 572 in words is "five hundred seventy-two." Expanded, it is 500 + 70 + 2.
 
-## Chapter 2: Addition Basics
+## Chapter: Addition Basics
 
 **Key Concepts:**
 - Single-digit addition
@@ -22,7 +22,7 @@
 
 **Answer:** 35 + 27 = 62
 
-## Chapter 3: Subtraction Basics
+## Chapter: Subtraction Basics
 
 **Key Concepts:**
 - Single-digit subtraction
@@ -33,7 +33,7 @@
 
 **Answer:** 89 - 43 = 46
 
-## Chapter 4: Working with Addition and Subtraction
+## Chapter: Working with Addition and Subtraction
 
 **Key Concepts:**
 - Addition with regrouping
@@ -44,7 +44,7 @@
 
 **Answer:** The missing number is 58, because 67 + 58 = 125.
 
-## Chapter 5: Introduction to Multiplication
+## Chapter: Introduction to Multiplication
 
 **Key Concepts:**
 - Understanding multiplication as repeated addition
@@ -55,7 +55,7 @@
 
 **Answer:** 7 * 6 = 42
 
-## Chapter 6: Introduction to Division
+## Chapter: Introduction to Division
 
 **Key Concepts:**
 - Understanding division as repeated subtraction
@@ -66,7 +66,7 @@
 
 **Answer:** You can make 5 groups, because 25 / 5 = 5.
 
-## Chapter 7: Fractions
+## Chapter: Fractions
 
 **Key Concepts:**
 - Understanding halves, thirds, and fourths
@@ -77,7 +77,7 @@
 
 **Answer:** ½ is greater than ⅓.
 
-## Chapter 8: Time and Measurement
+## Chapter: Time and Measurement
 
 **Key Concepts:**
 - Telling time to the nearest hour and half-hour
@@ -88,7 +88,7 @@
 
 **Answer:** It will be 12:00 PM (noon).
 
-## Chapter 9: Geometry and Shapes
+## Chapter: Geometry and Shapes
 
 **Key Concepts:**
 - Names and properties of 2D shapes (e.g., squares, rectangles, circles)
@@ -99,7 +99,7 @@
 
 **Answer:** A rectangle has 4 sides.
 
-## Chapter 10: Money and Financial Literacy
+## Chapter: Money and Financial Literacy
 
 **Key Concepts:**
 - Identifying coins and their values

@@ -2,7 +2,7 @@
 
 The "Chapter Reviews" section of the "Review and Test Preparation" chapter is a crucial part of your learning journey. It helps you to reinforce the concepts you have learned throughout the different chapters of this workbook. Make sure you have gone through all the exercises and have at least attempted every problem before checking the answers provided here. Let's take a look at what you should have learned, and you can assess your understanding by reviewing the answers to the exercises you completed.
 
-### Chapter 1: Place Value and Number Sense
+### Chapter: Place Value and Number Sense
 
 #### Review Points:
 1. Understanding the place value of digits in a number (ones, tens, hundreds).
@@ -17,7 +17,7 @@ The "Chapter Reviews" section of the "Review and Test Preparation" chapter is a 
 3. Place the following numbers in order from least to greatest: 211, 123, 321.
     - Answer: 123, 211, 321
 
-### Chapter 2: Addition and Subtraction
+### Chapter: Addition and Subtraction
 
 #### Review Points:
 1. Adding and subtracting numbers within 1,000.
@@ -32,7 +32,7 @@ The "Chapter Reviews" section of the "Review and Test Preparation" chapter is a 
 3. Jamie has 123 marbles, and Diego has 87 marbles. How many marbles do they have together?
     - Answer: 210 marbles
 
-### Chapter 3: Introduction to Multiplication
+### Chapter: Introduction to Multiplication
 
 #### Review Points:
 1. Understanding the concept of multiplication as repeated addition.
@@ -47,7 +47,7 @@ The "Chapter Reviews" section of the "Review and Test Preparation" chapter is a 
 3. Use multiplication to find the total number of fingers on 5 hands.
     - Answer: 50 fingers (5 hands x 10 fingers/hand = 50 fingers)
 
-### Chapter 4: Introduction to Division
+### Chapter: Introduction to Division
 
 #### Review Points:
 1. Understanding division as the inverse of multiplication.
@@ -63,7 +63,7 @@ The "Chapter Reviews" section of the "Review and Test Preparation" chapter is a 
     - Answer: Each friend gets 6 cookies; 1 cookie is left over.
 
 
-### Chapter 5: Fractions
+### Chapter: Fractions
 
 #### Review Points:
 1. Understanding the concept of a fraction as part of a whole.
@@ -78,7 +78,7 @@ The "Chapter Reviews" section of the "Review and Test Preparation" chapter is a 
 3. Which is larger: 3/6 or 2/6?
     - Answer: 3/6 is larger.
 
-### Chapter 6: Measurement and Data
+### Chapter: Measurement and Data
 
 #### Review Points:
 1. Measuring length to the nearest inch and centimeter.
@@ -93,7 +93,7 @@ The "Chapter Reviews" section of the "Review and Test Preparation" chapter is a 
 3. If a bar graph shows 4 apples, 3 bananas, and 5 carrots, which fruit or vegetable has the highest count?
     - Answer: Carrots
 
-### Chapter 7: Geometry
+### Chapter: Geometry
 
 #### Review Points:
 1. Identifying and classifying 2D shapes (e.g., circles, squares, rectangles, triangles).

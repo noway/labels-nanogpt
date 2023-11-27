@@ -1,6 +1,6 @@
 # Welcome to Math!
 
-## Chapter 1: Introduction to Numbers
+## Chapter: Introduction to Numbers
 
 Hello young mathematician! Welcome to the exciting world of numbers! This book is going to be your best friend as you start your journey into the land of math. Math is all around us—in the shapes of our favorite toys, in the number of apples in our fruit bowl, and even in the hours we play each day. And the very first step in learning about all this is to understand numbers.
 

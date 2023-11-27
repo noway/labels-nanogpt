@@ -4,63 +4,63 @@ As we come to the conclusion of our 4th Grade math journey, it's important to re
 
 ---
 
-Chapter 1: Place Value and Rounding
+Chapter: Place Value and Rounding
 - Review: Understanding the value of each digit in a multi-digit number, and being able to round numbers to a specified place value.
 - Example Exercise: What is the value of the digit 6 in the number 5,648?
   Answer: 600 (as it is in the hundreds place)
 - Example Exercise: Round the number 3,282 to the nearest hundred.
   Answer: 3,300
 
-Chapter 2: Addition and Subtraction
+Chapter: Addition and Subtraction
 - Review: Mastery of addition and subtraction facts, and applying regrouping (borrowing or carrying) with multi-digit numbers.
 - Example Exercise: Solve 5,743 + 2,668.
   Answer: 8,411
 - Example Exercise: Subtract 4,795 from 9,004.
   Answer: 4,209
 
-Chapter 3: Multiplication and Division
+Chapter: Multiplication and Division
 - Review: Understanding and using multiplication and division facts, and interpreting remainders in simple division problems.
 - Example Exercise: Multiply 238 by 7.
   Answer: 1,666
 - Example Exercise: Divide 5,678 by 9.
   Answer: 630 R8
 
-Chapter 4: Factors and Multiples
+Chapter: Factors and Multiples
 - Review: Identifying factors of numbers and finding common multiples, including least common multiples (LCM).
 - Example Exercise: What are the factors of 36?
   Answer: 1, 2, 3, 4, 6, 9, 12, 18, 36
 - Example Exercise: Find the LCM of 6 and 9.
   Answer: 18
 
-Chapter 5: Fractions
+Chapter: Fractions
 - Review: Understanding fractions as parts of a whole, equivalent fractions, and comparing fractions.
 - Example Exercise: Simplify the fraction 8/12 to its lowest terms.
   Answer: 2/3
 - Example Exercise: Which is greater: 3/7 or 4/9?
   Answer: 3/7 is greater than 4/9
 
-Chapter 6: Decimals
+Chapter: Decimals
 - Review: Reading, writing, and comparing decimals, and understanding the relationship between fractions and decimals.
 - Example Exercise: Write the decimal 0.37 as a fraction.
   Answer: 37/100
 - Example Exercise: Compare the decimals: 0.5 and 0.65, which is larger?
   Answer: 0.65 is larger than 0.5
 
-Chapter 7: Measurement
+Chapter: Measurement
 - Review: Measuring length, weight, and volume using appropriate units and tools, converting between units, and solving word problems involving measurement.
 - Example Exercise: Convert 3 feet to inches.
   Answer: 36 inches
 - Example Exercise: How many cups are in 2 gallons?
   Answer: 32 cups
 
-Chapter 8: Geometry
+Chapter: Geometry
 - Review: Understanding properties of two-dimensional shapes, symmetry, and problem-solving with perimeter and area.
 - Example Exercise: What is the perimeter of a rectangle with length 8 inches and width 5 inches?
   Answer: 26 inches
 - Example Exercise: Find the area of a square with side length 7 inches.
   Answer: 49 square inches
 
-Chapter 9: Data and Probability
+Chapter: Data and Probability
 - Review: Collecting, organizing, displaying, and interpreting data using charts and graphs, and exploring the basic concepts of probability.
 - Example Exercise: What is the probability of flipping a coin and it landing on heads?
   Answer: 1/2

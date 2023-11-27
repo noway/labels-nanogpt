@@ -1,4 +1,4 @@
-# Chapter 2: Colors and Numbers
+# Chapter: Colors and Numbers
 
 ## Section 2.3: Colorful Patterns
 

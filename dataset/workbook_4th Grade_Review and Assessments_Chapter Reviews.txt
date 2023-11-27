@@ -2,7 +2,7 @@
 
 Congratulations on completing the chapters in your 4th Grade Math Workbook! Itâ€™s time to review what weâ€™ve learned before taking the assessments. This chapter review section will help you reinforce the skills and concepts you've been working on. 
 
-**Chapter 1: Place Value and Number Sense**
+**Chapter: Place Value and Number Sense**
 
 * Review:
   - Understanding and reading multi-digit numbers.
@@ -16,7 +16,7 @@ Congratulations on completing the chapters in your 4th Grade Math Workbook! Itâ€
   2. Round the number 3,276 to the nearest hundred.
      - Answer: 3,300.
 
-**Chapter 2: Addition and Subtraction**
+**Chapter: Addition and Subtraction**
 
 * Review:
   - Adding and subtracting up to 4-digit numbers with regrouping.
@@ -29,7 +29,7 @@ Congratulations on completing the chapters in your 4th Grade Math Workbook! Itâ€
   2. Solve: Alex has 400 marbles. He gave 75 to his friend and bought 150 more. How many marbles does Alex have now?
      - Answer: 475 marbles.
 
-**Chapter 3: Multiplication**
+**Chapter: Multiplication**
 
 * Review:
   - Multiplying one-digit numbers by up to four-digit numbers.
@@ -42,7 +42,7 @@ Congratulations on completing the chapters in your 4th Grade Math Workbook! Itâ€
   2. A garden has 25 rows of flowers with 8 flowers in each row. How many flowers are there in total?
      - Answer: 200 flowers.
 
-**Chapter 4: Division**
+**Chapter: Division**
 
 * Review:
   - Dividing up to four-digit numbers by one-digit divisors.
@@ -55,7 +55,7 @@ Congratulations on completing the chapters in your 4th Grade Math Workbook! Itâ€
   2. If you have 345 stickers and want to put an equal number in 5 albums, how many stickers will you put in each album, and how many will be left over?
      - Answer: 69 stickers in each album, with none left over.
 
-**Chapter 5: Fractions**
+**Chapter: Fractions**
 
 * Review:
   - Understanding fractions as parts of a whole.
@@ -68,7 +68,7 @@ Congratulations on completing the chapters in your 4th Grade Math Workbook! Itâ€
   2. Which is greater: 4/9 or 5/9?
      - Answer: 5/9 is greater.
 
-**Chapter 6: Measurement and Data**
+**Chapter: Measurement and Data**
 
 * Review:
   - Understanding and converting measurements (length, weight, volume).
@@ -81,7 +81,7 @@ Congratulations on completing the chapters in your 4th Grade Math Workbook! Itâ€
   2. If an event starts at 2:30 PM and ends at 4:45 PM, how long is the event?
      - Answer: 2 hours and 15 minutes.
 
-**Chapter 7: Geometry**
+**Chapter: Geometry**
 
 * Review:
   - Identifying and classifying geometric shapes.
