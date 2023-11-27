@@ -5,6 +5,7 @@
 Division is one of the four basic operations in mathematics, along with addition, subtraction, and multiplication. It can be thought of as the process of splitting a number into equal parts or groups. Division tells us how many times one number is contained within another number.
 
 ---
+
 ## Understanding Division Terms
 
 When we divide, we use specific terms to describe the parts of our division equation:
@@ -17,6 +18,7 @@ When we divide, we use specific terms to describe the parts of our division equa
 For example, in the division problem `20 ÷ 4 = 5`, 20 is the dividend, 4 is the divisor, and 5 is the quotient.
 
 ---
+
 ## Division Equations
 
 Let's practice writing division equations. Note that these examples are structured to show how multiplication and division are inverse operations.
@@ -25,6 +27,7 @@ _Multiplication Equation_: `3 x 4 = 12`
 _Division Equation_: `12 ÷ 3 = 4` or `12 ÷ 4 = 3`
 
 ---
+
 ## Dividing By 1 and the Number Itself
 
 Dividing a number by 1 always gives the number itself as the quotient.
@@ -36,6 +39,7 @@ Dividing a number by itself always gives 1 as the quotient.
 _Example_: `9 ÷ 9 = 1`
 
 ---
+
 ## Exercises: Division Facts
 
 Complete the following division facts by filling in the blanks. Check your answers afterward.
@@ -64,6 +68,7 @@ _Answers:_
 10. _6_
 
 ---
+
 ## Division without Remainders
 
 When a dividend can be divided by the divisor without any leftovers, we say there is no remainder.
@@ -71,6 +76,7 @@ When a dividend can be divided by the divisor without any leftovers, we say ther
 _Example_: `28 ÷ 7 = 4` with no remainder.
 
 ---
+
 ## Division with Remainders
 
 Sometimes division will not result in a whole number. When this happens, the number left over is called the remainder.
@@ -78,6 +84,7 @@ Sometimes division will not result in a whole number. When this happens, the num
 _Example_: `29 ÷ 7 = 4 R1`, where 4 is the quotient, and 1 is the remainder.
 
 ---
+
 ## Exercises: Division with Remainders
 
 Find the quotients and remainders for the following division problems.
@@ -96,6 +103,7 @@ _Answers:_
 5. _8_ R _1_
 
 ---
+
 ## Zero as a Divisor
 
 It is important to remember that division by zero is undefined. You cannot divide a number by zero.
@@ -103,6 +111,7 @@ It is important to remember that division by zero is undefined. You cannot divid
 _Example_: `7 ÷ 0 = undefined`
 
 ---
+
 ## Review Questions
 
 Answer the following questions to review what you've learned.
@@ -117,6 +126,7 @@ _Answers:_
 3. No, a number cannot be divided by zero. Division by zero is undefined because there is no number that you can multiply by zero to get any number other than zero.
 
 ---
+
 ## Practice Problems
 
 Solve the following division problems:
