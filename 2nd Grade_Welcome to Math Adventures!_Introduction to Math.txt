@@ -1,4 +1,3 @@
----
 
 Welcome to Math Adventures!
 
@@ -42,4 +41,3 @@ Ready to explore more? Let's turn the page and dive into the magical world of nu
 
 And remember, always ask questions if something doesn't make sense. Math is all about learning and growing. Happy calculating, young adventurer!
 
----

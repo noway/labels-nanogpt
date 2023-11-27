@@ -1,4 +1,3 @@
----
 # Welcome to Math Adventures!
 
 ## Introduction to Math

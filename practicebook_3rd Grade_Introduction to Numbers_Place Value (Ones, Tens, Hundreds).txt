@@ -1,4 +1,3 @@
----
 # Introduction to Numbers
 ## Place Value (Ones, Tens, Hundreds)
 

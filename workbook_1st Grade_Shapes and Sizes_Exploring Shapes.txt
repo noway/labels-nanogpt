@@ -1,4 +1,3 @@
----
 
 # Shapes and Sizes
 
@@ -96,4 +95,3 @@ Good job on learning about simple shapes! Remember, shapes are everywhere, and k
 
 Keep this section as a reference and have fun exploring the shapes all around you!
 
----

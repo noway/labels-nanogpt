@@ -1,4 +1,3 @@
----
 **How to Use This Book**
 
 Hello, young mathematicians, and welcome to "Math Adventures!" This book is your guide to explore the fascinating world of numbers, shapes, and patterns. Here's how to make the most out of your math journey:
@@ -50,4 +49,3 @@ Not every math problem will be easy, and that's okay! If you make a mistake, it'
 
 As you go through "Math Adventures," remember that math is a journey. Each new skill you learn is like discovering a treasure. So grab your pencil, turn the page, and let's embark on this adventure together!
 
----

@@ -1,4 +1,3 @@
----
 ### **Creating and Reading Simple Graphs**
 
 #### **Introduction to Graphs**

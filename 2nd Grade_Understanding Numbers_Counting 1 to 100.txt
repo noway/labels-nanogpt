@@ -1,4 +1,3 @@
----
 
 ## Understanding Numbers
 
@@ -117,4 +116,3 @@ You made it to 100! That's like ten sets of ten. We call this a "hundred." Great
 
 Keep practicing, and soon you'll be able to count to 100 quickly and easily!
 
----

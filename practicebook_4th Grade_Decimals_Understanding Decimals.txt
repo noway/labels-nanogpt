@@ -1,4 +1,3 @@
----
 ## Understanding Decimals
 
 ### What Are Decimals?
@@ -69,4 +68,3 @@ For example, to round 3.746 to the nearest tenth:
    - 0.761 rounds up to 0.8 because 6 in the hundredths place is 5 or more.
 
 Remember, understanding decimals is all about practice. Keep working through examples and exercises to become more comfortable with decimals!
----

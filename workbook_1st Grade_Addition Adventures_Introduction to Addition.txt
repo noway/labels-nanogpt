@@ -1,4 +1,3 @@
----
 # Addition Adventures
 ## Introduction to Addition
 

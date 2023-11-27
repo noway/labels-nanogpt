@@ -1,4 +1,3 @@
---- 
 # Geometry 
 
 ## Chapter X: Introduction to Area 
