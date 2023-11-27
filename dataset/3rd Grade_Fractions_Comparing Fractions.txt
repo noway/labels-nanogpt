@@ -1,4 +1,4 @@
-## Comparing Fractions
+# Comparing Fractions
 
 ### Understanding Fractions
 Before we learn how to compare fractions, let's remember what a fraction is! A fraction is a part of a whole. It is made up of two numbers: the numerator, which is the top number, and the denominator, which is the bottom number. The denominator tells us into how many equal parts the whole is divided, and the numerator tells us how many of those parts we have.

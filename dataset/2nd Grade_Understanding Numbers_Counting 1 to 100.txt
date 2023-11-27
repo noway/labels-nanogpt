@@ -1,4 +1,4 @@
-## Understanding Numbers
+# Understanding Numbers
 
 ### Counting 1 to 100
 
