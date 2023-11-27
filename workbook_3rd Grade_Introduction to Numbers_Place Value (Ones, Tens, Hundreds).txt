@@ -11,8 +11,8 @@ Place value is the value of each digit in a number based on its position. In a n
 For example, in the number 435:
 
 - The '5' is in the Ones place and means just 5.
-- The '3' is in the Tens place and means 3 tens, which is the same as \(3 \times 10 = 30\).
-- The '4' is in the Hundreds place and means 4 hundreds, which is the same as \(4 \times 100 = 400\).
+- The '3' is in the Tens place and means 3 tens, which is the same as 3 * 10 = 30.
+- The '4' is in the Hundreds place and means 4 hundreds, which is the same as 4 * 100 = 400.
 
 ---
 
@@ -29,14 +29,14 @@ A place value chart helps us understand the position of each digit in a number. 
 **Let's Practice Place Value!**
 
 Exercise 1: Write the value of the underlined digit.
-1. \( \underline{6}42 \) - The underlined digit is in the Hundreds place. Its value is 600.
-2. 3\underline{5}7 - The underlined digit is in the Tens place. Its value is 50.
-3. 28\underline{9} - The underlined digit is in the Ones place. Its value is 9.
+1. _6_42 - The underlined digit is in the Hundreds place. Its value is 600.
+2. 3_5_7 - The underlined digit is in the Tens place. Its value is 50.
+3. 28_9_ - The underlined digit is in the Ones place. Its value is 9.
 
 Exercise 2: What is the place value of the bold digit?
-1. \( 1\mathbf{7}3 \) - The bold digit is in the Tens place. Its place value is Tens.
-2. \( \mathbf{2}65 \) - The bold digit is in the Hundreds place. Its place value is Hundreds.
-3. \( 480\mathbf{1} \) - The bold digit is in the Ones place. Its place value is Ones.
+1. 1*7*3 - The bold digit is in the Tens place. Its place value is Tens.
+2. *2*65 - The bold digit is in the Hundreds place. Its place value is Hundreds.
+3. 480*1* - The bold digit is in the Ones place. Its place value is Ones.
 
 Exercise 3: Use a place value chart to show the number 726.
 
@@ -48,9 +48,9 @@ Exercise 3: Use a place value chart to show the number 726.
 
 Exercise 4: Write the number for the given place values.
 
-1. 5 Hundreds, 0 Tens, 3 Ones - The number is \( 5 \times 100 + 0 \times 10 + 3 \times 1 = \) **503**.
-2. 8 Hundreds, 2 Tens, 7 Ones - The number is \( 8 \times 100 + 2 \times 10 + 7 \times 1 = \) **827**.
-3. 1 Hundred, 9 Tens, 4 Ones - The number is \( 1 \times 100 + 9 \times 10 + 4 \times 1 = \) **194**.
+1. 5 Hundreds, 0 Tens, 3 Ones - The number is 5 * 100 + 0 * 10 + 3 * 1 = 503.
+2. 8 Hundreds, 2 Tens, 7 Ones - The number is 8 * 100 + 2 * 10 + 7 * 1 = 827.
+3. 1 Hundred, 9 Tens, 4 Ones - The number is 1 * 100 + 9 * 10 + 4 * 1 = 194.
 
 Exercise 5: For the number 381, identify the Hundreds, Tens, and Ones.
 

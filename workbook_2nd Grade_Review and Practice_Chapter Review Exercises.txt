@@ -8,21 +8,21 @@
 
 2. **Addition Fun:** Solve the following addition problems.
    
-    a. \(5 + 3 = \)  
-    b. \(9 + 6 = \)  
-    c. \(12 + 7 = \)
+    a. 5 + 3 =   
+    b. 9 + 6 =   
+    c. 12 + 7 = 
 
 3. **Subtraction Time:** Solve the following subtraction problems.
    
-    a. \(8 - 5 = \)  
-    b. \(15 - 4 = \)  
-    c. \(20 - 9 = \)
+    a. 8 - 5 =   
+    b. 15 - 4 =   
+    c. 20 - 9 = 
 
 4. **Missing Numbers:** Fill in the missing number in each equation.
 
-    a. \( 2 + \_\_ = 7 \)  
-    b. \( \_\_ - 3 = 10 \)  
-    c. \( 5 + \_\_ = 14 \)
+    a.  2 + __ = 7   
+    b.  __ - 3 = 10   
+    c.  5 + __ = 14 
 
 5. **Word Problems:** Solve these word problems.
 
@@ -38,8 +38,8 @@
 
 7. **Sizing Up:** Measure the following lines to the nearest inch.
 
-    a. Line A: \_\_\_ inches long. (Show a line that is approximately 3 inches long)  
-    b. Line B: \_\_\_ inches long. (Show a line that is approximately 5 inches long)
+    a. Line A: ___ inches long. (Show a line that is approximately 3 inches long)  
+    b. Line B: ___ inches long. (Show a line that is approximately 5 inches long)
 
 8. **Time Challenge:** What time do the following clocks show?
    
@@ -66,26 +66,26 @@
 
 2. Addition Fun: 
    
-    a. \(5 + 3 = 8\)  
-    b. \(9 + 6 = 15\)  
-    c. \(12 + 7 = 19\)
+    a. 5 + 3 = 8  
+    b. 9 + 6 = 15  
+    c. 12 + 7 = 19
 
 3. Subtraction Time:
    
-    a. \(8 - 5 = 3\)  
-    b. \(15 - 4 = 11\)  
-    c. \(20 - 9 = 11\)
+    a. 8 - 5 = 3  
+    b. 15 - 4 = 11  
+    c. 20 - 9 = 11
 
 4. Missing Numbers:
    
-    a. \(2 + 5 = 7\)  
-    b. \(13 - 3 = 10\)  
-    c. \(5 + 9 = 14\)
+    a. 2 + 5 = 7  
+    b. 13 - 3 = 10  
+    c. 5 + 9 = 14
 
 5. Word Problems:
    
-    a. Emma has \(3 + 5 = 8\) apples.  
-    b. Alex gave away \(10 - 4 = 6\) candies to his friend.
+    a. Emma has 3 + 5 = 8 apples.  
+    b. Alex gave away 10 - 4 = 6 candies to his friend.
 
 ### Geometry and Measurement
 
@@ -106,6 +106,6 @@
 
 ### Data and Probability
 
-9. Bar graph: There are \(5 - 2 = 3\) more fish than birds.
+9. Bar graph: There are 5 - 2 = 3 more fish than birds.
 
 10. Probability Play: Blue is most likely to be picked because there are more blue balls than any other color.

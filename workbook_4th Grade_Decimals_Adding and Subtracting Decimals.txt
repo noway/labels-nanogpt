@@ -40,7 +40,7 @@ Add 4.56 and 3.789.
 Your Answer:  
 4.560  
 +3.789  
-\-------  
+-------  
 8.349
 
 #### Exercise 2:
@@ -50,7 +50,7 @@ Your Answer:
 15.250  
 +0.750  
 +2.005  
-\-------  
+-------  
 18.005
 
 Good work! Now, let's move to subtracting decimals.
@@ -71,7 +71,7 @@ Subtract 6.4 from 10.5.
 
 10.5  
 -6.4 (we can add a zero to make the decimal places equal)  
-\-----  
+-----  
 4.1
 
 ### Example 2:
@@ -79,7 +79,7 @@ Subtract 2.356 from 8.4.
 
 8.400 (adding two zeros to make the decimal places equal)  
 -2.356  
-\-------  
+-------  
 6.044
 
 Now it's your turn again:
@@ -90,7 +90,7 @@ Subtract 1.789 from 7.6.
 Your Answer:  
 7.600  
 -1.789  
-\-------  
+-------  
 5.811
 
 #### Exercise 2:
@@ -99,7 +99,7 @@ Subtract 3.75 from 20.005.
 Your Answer:  
 20.005  
 -3.750  
-\-------  
+-------  
 16.255
 
 That’s great! Remember, the key to adding and subtracting decimals is lining up the decimal points and making sure the number of digits after the decimal point is the same. Always double-check that the decimal point in your answer is in the correct place, directly under the other decimal points in the problem. Keep practicing, and you'll become a pro at adding and subtracting decimals in no time!

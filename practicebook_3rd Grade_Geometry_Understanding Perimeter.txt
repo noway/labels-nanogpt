@@ -14,27 +14,27 @@ Since rectangles and squares have sides opposite to each other that are equal in
 
 A rectangle has two pairs of equal sides. To find the perimeter of a rectangle, you can use the formula:
 
-\[ P = 2 \times (length + width) \]
+P = 2 * (length + width)
 
-where \( P \) stands for perimeter, the length is the longer side of the rectangle, and the width is the shorter side.
+where P stands for perimeter, the length is the longer side of the rectangle, and the width is the shorter side.
 
 **Exercise 1:**
 Find the perimeter of a rectangle with a length of 8 inches and a width of 3 inches.
 
 **Answer:**
-\[ P = 2 \times (8 + 3) = 2 \times 11 = 22 \text{ inches} \]
+P = 2 * (8 + 3) = 2 * 11 = 22 inches
 
 #### Squares
 
 A square has four sides of equal length. To find the perimeter of a square, multiply the length of one side by 4.
 
-\[ P = 4 \times side \]
+P = 4 * side
 
 **Exercise 2:**
 Calculate the perimeter of a square whose side is 5 inches long.
 
 **Answer:**
-\[ P = 4 \times 5 = 20 \text{ inches} \]
+P = 4 * 5 = 20 inches
 
 ### Perimeter of Triangles
 
@@ -44,19 +44,19 @@ The perimeter of a triangle is the sum of the lengths of its three sides.
 Find the perimeter of a triangle with side lengths of 4 inches, 5 inches, and 6 inches.
 
 **Answer:**
-\[ P = 4 + 5 + 6 = 15 \text{ inches} \]
+P = 4 + 5 + 6 = 15 inches
 
 ### Perimeter of Regular Polygons
 
 A regular polygon is a shape where all the sides and angles are the same. The formula to find the perimeter is:
 
-\[ P = number \: of \: sides \times length \: of \: one \: side \]
+P = number_of_sides * length_of_one_side
 
 **Exercise 4:**
 Calculate the perimeter of a regular hexagon (a six-sided polygon) with each side measuring 3 inches.
 
 **Answer:**
-\[ P = 6 \times 3 = 18 \text{ inches} \]
+P = 6 * 3 = 18 inches
 
 ### Practice Problems
 
@@ -64,23 +64,23 @@ Let's work on some exercises to practice finding perimeters. Remember, add up al
 
 1. Find the perimeter of a rectangle with a length of 7 meters and a width of 2 meters.
    
-   **Answer:** \( P = 2 \times (7 + 2) = 2 \times 9 = 18 \text{ meters} \)
+   **Answer:** P = 2 * (7 + 2) = 2 * 9 = 18 meters
 
 2. A square garden has a side length of 12 feet. What is its perimeter?
    
-   **Answer:** \( P = 4 \times 12 = 48 \text{ feet} \)
+   **Answer:** P = 4 * 12 = 48 feet
 
 3. Find the perimeter of a triangle with sides of 7 inches, 8 inches, and 9 inches.
    
-   **Answer:** \( P = 7 + 8 + 9 = 24 \text{ inches} \)
+   **Answer:** P = 7 + 8 + 9 = 24 inches
 
 4. Calculate the perimeter of a regular octagon (an eight-sided polygon) with each side measuring 5 centimeters.
    
-   **Answer:** \( P = 8 \times 5 = 40 \text{ centimeters} \)
+   **Answer:** P = 8 * 5 = 40 centimeters
 
 5. Your classroom's rectangular door measures 80 centimeters wide and 200 centimeters high. What is the perimeter of the door?
    
-   **Answer:** \( P = 2 \times (80 + 200) = 2 \times 280 = 560 \text{ centimeters} \)
+   **Answer:** P = 2 * (80 + 200) = 2 * 280 = 560 centimeters
 
 ### Real-World Applications
 

@@ -31,11 +31,11 @@ Now, let’s try some exercises to apply what we've learned.
 
 1. Write down the value of the underlined digit:
 
-   a) 4\underline{7}2
+   a) 4_7_2
     
-   b) \underline{6}35
+   b) _6_35
     
-   c) 28\underline{9}
+   c) 28_9_
 
 2. Place the following numbers in the place value chart:
 

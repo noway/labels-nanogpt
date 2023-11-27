@@ -20,7 +20,7 @@
 
 **Example Exercise:** Add 35 + 27.
 
-**Answer:** \( 35 + 27 = 62 \)
+**Answer:** 35 + 27 = 62
 
 ## Chapter 3: Subtraction Basics
 
@@ -31,7 +31,7 @@
 
 **Example Exercise:** Subtract 43 from 89.
 
-**Answer:** \( 89 - 43 = 46 \)
+**Answer:** 89 - 43 = 46
 
 ## Chapter 4: Working with Addition and Subtraction
 
@@ -42,7 +42,7 @@
 
 **Example Exercise:** Find the missing number: 67 + ___ = 125.
 
-**Answer:** The missing number is 58, because \( 67 + 58 = 125 \).
+**Answer:** The missing number is 58, because 67 + 58 = 125.
 
 ## Chapter 5: Introduction to Multiplication
 
@@ -53,7 +53,7 @@
 
 **Example Exercise:** Calculate 7 times 6.
 
-**Answer:** \( 7 \times 6 = 42 \)
+**Answer:** 7 * 6 = 42
 
 ## Chapter 6: Introduction to Division
 
@@ -64,7 +64,7 @@
 
 **Example Exercise:** How many groups of 5 can you make with 25?
 
-**Answer:** You can make 5 groups, because \( 25 \div 5 = 5 \).
+**Answer:** You can make 5 groups, because 25 / 5 = 5.
 
 ## Chapter 7: Fractions
 

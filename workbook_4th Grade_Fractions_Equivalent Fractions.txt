@@ -15,11 +15,11 @@ Equivalent fractions are fractions that may have different numerators and denomi
 
 Look at each pair of fractions and determine if they are equivalent. Write Yes or No.
 
-1. \( \frac{1}{2} \) and \( \frac{2}{4} \)
-2. \( \frac{3}{5} \) and \( \frac{9}{15} \)
-3. \( \frac{4}{7} \) and \( \frac{8}{14} \)
-4. \( \frac{5}{8} \) and \( \frac{20}{32} \)
-5. \( \frac{6}{10} \) and \( \frac{3}{5} \)
+1. 1/2 and 2/4
+2. 3/5 and 9/15
+3. 4/7 and 8/14
+4. 5/8 and 20/32
+5. 6/10 and 3/5
 
 **Answers:**
 
@@ -35,54 +35,54 @@ All the pairs listed are equivalent because if you simplify the fractions or fin
 
 Create an equivalent fraction by multiplying both the numerator and the denominator by the same number.
 
-1. Multiply \( \frac{1}{3} \) by 2.
-2. Multiply \( \frac{2}{5} \) by 3.
-3. Multiply \( \frac{4}{7} \) by 4.
-4. Multiply \( \frac{3}{6} \) by 5.
-5. Multiply \( \frac{5}{9} \) by 6.
+1. Multiply 1/3 by 2.
+2. Multiply 2/5 by 3.
+3. Multiply 4/7 by 4.
+4. Multiply 3/6 by 5.
+5. Multiply 5/9 by 6.
 
 **Answers:**
 
-1. \( \frac{2}{6} \)
-2. \( \frac{6}{15} \)
-3. \( \frac{16}{28} \)
-4. \( \frac{15}{30} \)
-5. \( \frac{30}{54} \)
+1. 2/6
+2. 6/15
+3. 16/28
+4. 15/30
+5. 30/54
 
 ### Exercise 3: Simplifying to Find Equivalent Fractions
 
 Simplify the following fractions to find an equivalent fraction with the smallest numerator and denominator possible.
 
-1. Simplify \( \frac{6}{8} \).
-2. Simplify \( \frac{10}{15} \).
-3. Simplify \( \frac{12}{16} \).
-4. Simplify \( \frac{20}{25} \).
-5. Simplify \( \frac{9}{12} \).
+1. Simplify 6/8.
+2. Simplify 10/15.
+3. Simplify 12/16.
+4. Simplify 20/25.
+5. Simplify 9/12.
 
 **Answers:**
 
-1. \( \frac{3}{4} \)
-2. \( \frac{2}{3} \)
-3. \( \frac{3}{4} \)
-4. \( \frac{4}{5} \)
-5. \( \frac{3}{4} \)
+1. 3/4
+2. 2/3
+3. 3/4
+4. 4/5
+5. 3/4
 
 ### Exercise 4: Fill in the Missing Number
 
 Find the number that makes the two fractions equivalent.
 
-1. \( \frac{5}{?} \) = \( \frac{10}{20} \)
-2. \( \frac{?}{9} \) = \( \frac{6}{27} \)
-3. \( \frac{7}{?} \) = \( \frac{28}{32} \)
-4. \( \frac{?}{11} \) = \( \frac{4}{22} \)
-5. \( \frac{3}{?} \) = \( \frac{9}{18} \)
+1. 5/? = 10/20
+2. ?/9 = 6/27
+3. 7/? = 28/32
+4. ?/11 = 4/22
+5. 3/? = 9/18
 
 **Answers:**
 
-1. \( 10 \) (Because 5 times 2 equals 10, and 10 times 2 equals 20)
-2. \( 3 \) (Because 9 times 3 equals 27, and 6 divided by 2 equals 3)
-3. \( 8 \) (Because 28 divided by 4 equals 7, and 32 divided by 4 equals 8)
-4. \( 2 \) (Because 11 times 2 equals 22, and 4 divided by 2 equals 2)
-5. \( 6 \) (Because 3 times 3 equals 9, and 6 times 3 equals 18)
+1. 10 (Because 5 times 2 equals 10, and 10 times 2 equals 20)
+2. 3 (Because 9 times 3 equals 27, and 6 divided by 2 equals 3)
+3. 8 (Because 28 divided by 4 equals 7, and 32 divided by 4 equals 8)
+4. 2 (Because 11 times 2 equals 22, and 4 divided by 2 equals 2)
+5. 6 (Because 3 times 3 equals 9, and 6 times 3 equals 18)
 
 Great job! You are now becoming a master of equivalent fractions. Keep practicing, and remember patience and practice make progress!
