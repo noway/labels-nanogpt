@@ -9,6 +9,11 @@ def remove_dashes(file_path):
     while lines and lines[-1].strip() == "---":
         lines.pop()
 
+    while lines and lines[0].strip() == "----":
+        lines.pop(0)
+    while lines and lines[-1].strip() == "----":
+        lines.pop()
+
     with open(file_path, 'w') as file:
         file.writelines(lines)
 
