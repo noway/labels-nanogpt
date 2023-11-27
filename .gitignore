@@ -2,3 +2,4 @@ venv
 deploy.zip
 .env
 dataset_md2md
+trainingdata.txt

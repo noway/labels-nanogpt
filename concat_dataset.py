@@ -37,9 +37,18 @@ def get_grade_books_content(level_codename, book_type):
                     concatenated_contents += modified_content
     return concatenated_contents
 
-with open('grade_0_concatenated.txt', 'w') as file:
+def get_grade_full_content(level_codename):
     result = ""
-    result += get_grade_books_content('grade_0', 'textbook')
-    result += get_grade_books_content('grade_0', 'workbook')
-    result += get_grade_books_content('grade_0', 'practicebook')
-    file.write(result)
+    result += get_grade_books_content(level_codename, 'textbook')
+    result += get_grade_books_content(level_codename, 'workbook')
+    result += get_grade_books_content(level_codename, 'practicebook')
+    return result
+
+def get_all_grades_full_content():
+    result = ""
+    for level_codename in ['grade_0', 'grade_1', 'grade_2', 'grade_3', 'grade_4']:
+        result += get_grade_full_content(level_codename)
+    return result
+
+with open(f'./trainingdata.txt', 'w') as file:
+    file.write(get_all_grades_full_content())
