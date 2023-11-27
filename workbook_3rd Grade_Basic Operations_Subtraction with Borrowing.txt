@@ -1,4 +1,4 @@
-### Subtraction with Borrowing
+# Subtraction with Borrowing
 
 Hello young mathematicians! Today we are going to learn about an important skill called "Subtraction with Borrowing." Sometimes, when we subtract one number from another, the top number isn't large enough to subtract the bottom number in one of the columns. This is where borrowing comes in! Let's dive in and master this skill together.
 

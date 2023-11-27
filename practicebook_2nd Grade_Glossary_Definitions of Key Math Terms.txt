@@ -1,4 +1,4 @@
-## Definitions of Key Math Terms for 2nd Grade K-12
+# Definitions of Key Math Terms for 2nd Grade K-12
 
 ### Addition
 **Addition** is a math operation that combines two or more numbers together to make a bigger number. The numbers that are combined are called addends, and the result of adding them is called the sum.

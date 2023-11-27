@@ -1,4 +1,4 @@
-## Counting 1 to 100
+# Counting 1 to 100
 
 Welcome to the exciting world of numbers! In this section, we will learn how to count from 1 all the way up to 100. Counting is the foundation of math, and it helps us understand the concept of quantity. Let's get started with our counting adventure!
 

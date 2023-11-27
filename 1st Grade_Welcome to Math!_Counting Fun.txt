@@ -1,4 +1,4 @@
-## Welcome to Math! 
+# Welcome to Math! 
 
 ### Chapter 1: Counting Fun
 

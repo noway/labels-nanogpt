@@ -1,4 +1,4 @@
-## Comparing Lengths
+# Comparing Lengths
 
 ### Introduction
 

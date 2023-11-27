@@ -1,4 +1,4 @@
-## Basic Probability Concepts
+# Basic Probability Concepts
 
 ### Understanding Probability
 

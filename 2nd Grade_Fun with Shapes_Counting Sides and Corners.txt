@@ -1,4 +1,4 @@
-## Chapter 3: Fun with Shapes
+# Chapter 3: Fun with Shapes
 ### Section 3.2: Counting Sides and Corners
 
 Hello young mathematicians! Today we are going to learn about something fun with shapes: counting their sides and corners. Do you know that every shape around us has a different number of sides and corners? It's true! So let's start exploring this interesting world of shapes together.

@@ -1,4 +1,4 @@
-## Understanding Perimeter
+# Understanding Perimeter
 
 Welcome to the section on understanding perimeter! Perimeter is an important concept in geometry that refers to the distance around a two-dimensional shape. Imagine you are walking along the border of a garden or running around a soccer field – the path you travel is similar to the shape's perimeter. We will explore how to find the perimeter of different shapes.
 

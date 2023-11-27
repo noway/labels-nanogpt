@@ -1,4 +1,4 @@
-## Definitions of Key Math Terms
+# Definitions of Key Math Terms
 
 ### Addition
 Addition is the process of combining two or more numbers to find their total amount. The symbol for addition is +. For example, 3 + 2 = 5.

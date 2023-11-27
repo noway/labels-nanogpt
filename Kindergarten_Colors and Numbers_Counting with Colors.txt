@@ -1,4 +1,4 @@
-## Chapter: Colors and Numbers
+# Chapter: Colors and Numbers
 
 ### Section: Counting with Colors
 

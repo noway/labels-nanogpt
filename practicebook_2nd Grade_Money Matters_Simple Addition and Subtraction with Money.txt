@@ -1,4 +1,4 @@
-## Money Matters
+# Money Matters
 
 ### Simple Addition and Subtraction with Money
 

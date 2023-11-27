@@ -1,4 +1,4 @@
-## Fun with Shapes
+# Fun with Shapes
 
 ### Counting Sides and Corners
 

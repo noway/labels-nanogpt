@@ -1,4 +1,4 @@
-## Understanding Time (Clocks and Calendars)
+# Understanding Time (Clocks and Calendars)
 
 ### Learning Objectives:
 - Learn to read time on analog and digital clocks 

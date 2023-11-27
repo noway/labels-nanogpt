@@ -1,4 +1,4 @@
-## Geometry: Symmetry and Transformations
+# Geometry: Symmetry and Transformations
 
 In this section, we'll learn about the beauty of symmetry and transformations that you see in objects around us or in patterns. So let's get started!
 

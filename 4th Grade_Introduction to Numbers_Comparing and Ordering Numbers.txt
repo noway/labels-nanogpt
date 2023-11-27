@@ -1,4 +1,4 @@
-## Comparing and Ordering Numbers
+# Comparing and Ordering Numbers
 
 Welcome, young mathematicians, to the section on Comparing and Ordering Numbers! Learning how to compare and order numbers is essential because it helps us understand their size relative to each other. This skill will be a great tool when you're solving problems inside and outside the math classroom.
 

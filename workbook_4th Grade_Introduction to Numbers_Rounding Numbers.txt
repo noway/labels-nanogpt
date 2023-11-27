@@ -1,4 +1,4 @@
-## Rounding Numbers
+# Rounding Numbers
 
 Welcome to the "Rounding Numbers" section of the "Introduction to Numbers" chapter. Rounding numbers is a useful math skill that can help you estimate or simplify numbers to make them easier to work with.
 

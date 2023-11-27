@@ -1,4 +1,4 @@
-## Rounding Numbers
+# Rounding Numbers
 
 ### What is Rounding?
 

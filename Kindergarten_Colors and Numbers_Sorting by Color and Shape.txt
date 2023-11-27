@@ -1,4 +1,4 @@
-## Colors and Numbers
+# Colors and Numbers
 
 ### Sorting by Color and Shape
 

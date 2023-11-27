@@ -1,4 +1,4 @@
-## Subtraction with Borrowing
+# Subtraction with Borrowing
 
 ### Introduction
 

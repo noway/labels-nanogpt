@@ -1,4 +1,4 @@
-## Simple Subtraction (1-20)
+# Simple Subtraction (1-20)
 
 In this section, we are going to practice subtracting numbers from 1 to 20. Subtraction is taking one number away from another. It is the opposite of addition. When we subtract, the number we start with is called the "minuend" and the number we take away is the "subtrahend." The answer we get is the "difference." Let’s get started with some examples!
 

@@ -1,4 +1,4 @@
-### Simple Addition and Subtraction Games
+# Simple Addition and Subtraction Games
 
 ---
 

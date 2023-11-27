@@ -1,4 +1,4 @@
-## Simple Addition and Subtraction with Money
+# Simple Addition and Subtraction with Money
 
 ### Introduction
 

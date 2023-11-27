@@ -1,4 +1,4 @@
-## Definitions of Key Math Terms
+# Definitions of Key Math Terms
 
 ### Addition
 Addition is a mathematical operation that represents combining collections of objects together into a larger collection. It is signified by the plus sign (+). For example, if you have 3 apples and you get 2 more, you have 3 + 2 apples, which equals 5 apples.
