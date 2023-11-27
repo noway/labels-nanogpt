@@ -1,4 +1,4 @@
-Basic Probability Concepts
+# Basic Probability Concepts
 
 Welcome, young mathematicians, to the fascinating world of probability! Probability helps us figure out the likelihood, or chance, of something happening. It's like predicting what might happen when we roll a dice, flip a coin, or pick a card from a deck. Let's dive into some of the basic concepts you need to understand probability.
 

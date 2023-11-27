@@ -1,4 +1,4 @@
-**Subtracting Numbers up to 10**
+# Subtracting Numbers up to 10
 
 Hey there, young mathematicians! Today we are going to become subtraction detectives and solve some fun subtraction stories! Subtraction is just a way of finding out how many are left when we take some away. Always remember, when we subtract, the number gets smaller.
 

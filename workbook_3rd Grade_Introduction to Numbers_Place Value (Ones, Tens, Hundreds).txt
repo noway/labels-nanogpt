@@ -1,4 +1,4 @@
-**Introduction to Numbers: Place Value (Ones, Tens, Hundreds)**
+# Introduction to Numbers: Place Value (Ones, Tens, Hundreds)
 
 Welcome to the exciting world of numbers! Understanding place value is like discovering the secret code that makes numbers work. It helps you see how numbers are built and how their value can change depending on their position. Let’s dive in!
 

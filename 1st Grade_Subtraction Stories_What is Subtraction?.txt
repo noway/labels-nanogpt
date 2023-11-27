@@ -1,4 +1,4 @@
-**What is Subtraction?**
+# What is Subtraction?
 
 Welcome to the wonderful world of subtraction! Subtraction is one of the fundamental operations in mathematics, like addition, which you have already learned. While addition helps us find out how many things we have when we put them together, subtraction helps us find out how many things are left when we take some away.
 

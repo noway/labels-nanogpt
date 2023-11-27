@@ -1,4 +1,4 @@
-**Data and Probability - Chapter 3: Mean, Median, Mode**
+# Data and Probability - Chapter 3: Mean, Median, Mode
 
 Understanding how to analyze data is an essential skill. In this chapter, we will learn about three basic statistical concepts that will help us describe and interpret data: Mean, Median, and Mode.
 

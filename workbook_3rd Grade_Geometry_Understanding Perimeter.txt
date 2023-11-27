@@ -1,4 +1,4 @@
-**UNDERSTANDING PERIMETER**
+# UNDERSTANDING PERIMETER
 
 Hello, young mathematicians! Today, we're going to explore the concept of perimeter. Perimeter is a very important part of geometry, which is the area of math dealing with shapes and spaces. But before we dive into finding the perimeter of shapes, let's understand what perimeter really means.
 

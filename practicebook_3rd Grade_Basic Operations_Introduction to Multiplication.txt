@@ -1,4 +1,4 @@
-**Introduction to Multiplication**
+# Introduction to Multiplication
 
 Welcome to the exciting world of multiplication! In this section, we’re going to learn all about this very important mathematical operation. Multiplication is one of the four basic operations in math, along with addition, subtraction, and division. It is like a shortcut for repeated addition and is used in many different kinds of real-world situations.
 

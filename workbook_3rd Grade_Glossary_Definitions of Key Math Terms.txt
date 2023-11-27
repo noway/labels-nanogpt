@@ -1,4 +1,4 @@
-**Definitions of Key Math Terms**
+# Definitions of Key Math Terms
 
 1. **Addition (+):** The math operation of finding the total or sum by combining two or more numbers. Example: 2 + 3 = 5.
 

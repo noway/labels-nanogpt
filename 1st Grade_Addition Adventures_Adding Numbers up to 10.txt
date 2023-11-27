@@ -1,4 +1,4 @@
-Welcome to "Addition Adventures"!
+# Welcome to "Addition Adventures"!
 
 Adding Numbers Up to 10
 

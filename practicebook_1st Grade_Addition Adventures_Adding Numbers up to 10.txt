@@ -1,4 +1,4 @@
-Adding Numbers up to 10
+# Adding Numbers up to 10
 
 Welcome to "Addition Adventures"! As we embark on this exciting journey, you'll discover how to add numbers together to make new ones. We're going to practice adding numbers all the way up to 10. Remember, when we add, we're putting groups of things together to find out how many we have in total.
 

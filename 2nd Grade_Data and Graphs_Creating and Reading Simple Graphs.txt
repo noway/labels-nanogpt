@@ -1,4 +1,4 @@
-Creating and Reading Simple Graphs
+# Creating and Reading Simple Graphs
 -------------------------------
 
 ### What is a Graph?

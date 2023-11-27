@@ -1,4 +1,4 @@
-**Sorting by Color and Shape**
+# Sorting by Color and Shape
 
 *Colors and Numbers Chapter*
 

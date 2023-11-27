@@ -1,4 +1,4 @@
-**Using Rulers**
+# Using Rulers
 
 **Introduction to Rulers**
 

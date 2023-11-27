@@ -1,4 +1,4 @@
-Welcome to Math Adventures!
+# Welcome to Math Adventures!
 
 Introduction to Math
 

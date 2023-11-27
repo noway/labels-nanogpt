@@ -1,4 +1,4 @@
-**Understanding Decimals**
+# Understanding Decimals
 
 Welcome to the section on Understanding Decimals! Decimals are a way to show parts of a whole number, similar to fractions. They are very useful, especially when you want to be precise, such as when dealing with money.
 

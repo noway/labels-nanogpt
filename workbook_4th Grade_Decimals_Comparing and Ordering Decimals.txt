@@ -1,4 +1,4 @@
-**Comparing and Ordering Decimals**
+# Comparing and Ordering Decimals
 
 Welcome to the "Comparing and Ordering Decimals" section of our Decimals chapter! Understanding how to compare and order decimals is a key skill in mathematics, and by the end of this section, you will confidently be able to put any list of decimal numbers in order from smallest to greatest or greatest to smallest.
 

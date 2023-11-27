@@ -1,4 +1,4 @@
-**Section: Multiplying Numbers up to 5**
+# Section: Multiplying Numbers up to 5
 
 ---
 

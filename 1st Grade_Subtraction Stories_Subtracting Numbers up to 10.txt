@@ -1,4 +1,4 @@
-**Subtracting Numbers up to 10**
+# Subtracting Numbers up to 10
 
 Welcome to the world of subtraction, little mathematicians! Subtraction is just like taking some things away from a group, and then seeing how many things you have left. Imagine you have a bunch of apples or your favorite toys in front of you and someone asks to borrow a few. After you give them away, you count what's left — that's subtraction!
 

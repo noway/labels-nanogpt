@@ -1,4 +1,4 @@
-**Simple Addition (1-20)**
+# Simple Addition (1-20)
 
 Welcome to the Simple Addition section, young mathematicians! Addition is a way of finding out how much you have in total when you put groups of things together. Imagine you have some delicious apples and you get some more from a friend. If you want to know how many apples you have altogether, you would use addition to find out!
 
