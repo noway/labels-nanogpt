@@ -24,3 +24,10 @@ remove encourangements
 - look for "(provide [done]
 - look for "the student" or "student"
 - might have to regenerate the review chapter or delete
+- look for "*Note" again [done]
+- look for "Please note" [done]
+- look for "will vary" [done]
+
+*sharp edges*
+- there's some stuff like environment (classroom) specfic games where answer is random. can't learn much from it
+- there should be a mechanism to determine where model struggles to learn
