@@ -10,7 +10,7 @@ consistent formatting in textbooks/workbooks/etc
 actually review textbooks/worksbooks/etc
 make sure textbook answer key is ALWAYS provided
 render md -> html -> elinks (would this work for highlighting bold?) (maybe convert terminal seqs back to md-light?)
-render latex somehow?
+- render latex somehow? [done]
 start token for every section/chapter
 remove encourangements
 - look for "the actual" and "will vary" or "depend" - replace them with an "unsolved problem" or something [done]
