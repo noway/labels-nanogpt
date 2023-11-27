@@ -40,8 +40,6 @@ Now that we’ve introduced fractions, let's start practicing them! There will b
 
 **Exercise Answers:**
 
-*Note: Since students have not completed these exercises, the below answers are examples based on typical practice questions.*
-
 1. Identify the fraction of the shaded area:
    - Example Question: A shape is divided into 4 equal parts. 1 part is shaded.
      - **Answer**: The fraction is 1/4.
