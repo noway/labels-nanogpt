@@ -1,6 +1,6 @@
 ## Chapter: Introduction to Numbers
 
-### Section 3: Comparing and Ordering Numbers
+### Section: Comparing and Ordering Numbers
 
 Understanding how to compare and order numbers is an important skill in math. It helps us determine if one number is greater than, less than, or equal to another number. When we order numbers, we arrange them from the smallest to the largest or vice versa.
 

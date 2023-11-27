@@ -8,7 +8,7 @@ Welcome to the section of our math textbook where we explore how math is all aro
 
 ---
 
-#### Section 1: Morning Math
+#### Section: Morning Math
 
 When you wake up in the morning, math is already there! You might look at the clock and see that it is 7 o'clock. Time is part of math! When you count the hours until you get to go play after school, that's math too!
 
@@ -20,7 +20,7 @@ Answer: 4 apple slices
 
 ---
 
-#### Section 2: Math at School
+#### Section: Math at School
 
 During school, you use math when you line up with your friends. If you are the 3rd person in line and 2 more friends line up behind you, what place in line are you now?
 
@@ -32,7 +32,7 @@ Answer: 3 crayons
 
 ---
 
-#### Section 3: Playground Math
+#### Section: Playground Math
 
 The playground is full of math! You might count how many times you can jump rope or how many swings there are.
 
@@ -44,7 +44,7 @@ Answer: 6 slides and swings in total
 
 ---
 
-#### Section 4: Math at Home
+#### Section: Math at Home
 
 Home is a cozy place to find math. If you help set the table and you need to put out 4 plates for your family's dinner, and you already put out 2 plates, how many more do you need?
 
@@ -56,7 +56,7 @@ Answer: 4 cookies
 
 ---
 
-#### Section 5: Math Before Bed
+#### Section: Math Before Bed
 
 Even before bed, we use math! You might take a bath, and count the rubber ducks in the tub. Let's say there are 3 rubber ducks.
 

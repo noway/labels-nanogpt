@@ -1,6 +1,6 @@
 # Units of Weight and Volume
 
-## Section 1: Introduction to Weight
+## Section: Introduction to Weight
 
 Welcome to the "Units of Weight and Volume" section of our "Measurement" chapter! In this part, you will learn how to measure and compare the weight and volume of different objects which is an essential skill not only in math but also in real life.
 
@@ -25,7 +25,7 @@ Let's start with some practice problems involving weight!
 4. **How many kilograms are in 4,500 grams?**
    4,500 grams ÷ 1,000 grams/kilogram = 4.5 kilograms 
 
-## Section 2: Introduction to Volume
+## Section: Introduction to Volume
 
 **Volume** is the amount of space an object or substance occupies. In the U.S., we typically use gallons (gal), quarts (qt), pints (pt), cups (c), and fluid ounces (fl oz) to measure volume. The metric system primarily uses liters (L) and milliliters (mL).
 
@@ -51,7 +51,7 @@ Let's apply what you've learned with some volume exercises!
 4. **Change 2.5 liters into milliliters.**
    2.5 liters × 1,000 milliliters/liter = 2,500 milliliters
 
-## Section 3: Comparing and Estimating Weight and Volume
+## Section: Comparing and Estimating Weight and Volume
 
 Being able to compare and estimate the weight and volume of different items is a useful skill.
 

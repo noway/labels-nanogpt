@@ -2,7 +2,7 @@
 
 ---
 
-### **Section 1.2: Counting Objects in Our Surroundings**
+### **Section: Counting Objects in Our Surroundings**
 
 Welcome, young mathematicians! Today, we're going to play a counting game. Counting is a way to find out how many of something there are. We can count our toys, trees, friends, and so many other things! 
 

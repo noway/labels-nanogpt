@@ -6,7 +6,7 @@ Welcome to the exciting world of data and graphing! In this chapter, you will le
 
 ---
 
-## Section 1: Understanding Data
+## Section: Understanding Data
 
 Data is information, especially numerical information. It can be about almost anything—like the number of books you read in a month, the number of apples picked from a tree, or how many times you jump rope.
 
@@ -19,7 +19,7 @@ Imagine you asked your classmates about their favorite fruit. Here are the fruit
 
 ---
 
-## Section 2: Picture Graphs
+## Section: Picture Graphs
 
 A picture graph, also known as a pictogram, represents data with pictures where each picture stands for a number of things.
 
@@ -37,7 +37,7 @@ Favorite Fruit Picture Graph:
 
 ---
 
-## Section 3: Reading a Picture Graph
+## Section: Reading a Picture Graph
 
 Picture graphs can also be used to answer questions about the data.
 
@@ -54,7 +54,7 @@ Look at the Picture Graph you created and answer the following questions:
 
 ---
 
-## Section 4: Bar Graphs
+## Section: Bar Graphs
 
 A bar graph uses rectangular bars to represent data values. The length of the bar shows how many times that data value appears.
 
@@ -72,7 +72,7 @@ Favorite Fruit Bar Graph:
 
 ---
 
-## Section 5: Reading a Bar Graph
+## Section: Reading a Bar Graph
 
 Bar graphs are great for comparing data.
 

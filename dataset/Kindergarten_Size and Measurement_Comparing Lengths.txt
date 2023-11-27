@@ -4,10 +4,10 @@
 ### Introduction
 Hello, wonderful young learners! Today, we are going to become length detectives! We will learn how to compare the lengths of different things, like how long a pencil is compared to a book, or how tall you are compared to your best friend. Are you ready? Let's start our measuring adventure!
 
-### Section 1: Understanding Length
+### Section: Understanding Length
 Length is how long something is from one end to the other. We can measure how long things are using units like inches or centimeters, but for now, we will just look and compare without measuring with numbers!
 
-### Section 2: Comparing Lengths Directly
+### Section: Comparing Lengths Directly
 To compare lengths, you can place two objects next to each other. When they start at the same point, or line, we can easily see which one is longer and which one is shorter.
 
 #### Example Exercise:
@@ -21,7 +21,7 @@ To compare lengths, you can place two objects next to each other. When they star
    - Question: What do you notice about their lengths?
    - Answer: The book and the paper might be the same length, or one might be longer than the other. It depends on the size of your book and paper!
 
-### Section 3: Using Words to Compare Lengths
+### Section: Using Words to Compare Lengths
 When we want to talk about how long things are, we use special words like "longer," "shorter," and "the same length." 
 
 - Longer: When one thing stretches out more than another thing, it is longer.
@@ -34,7 +34,7 @@ When we want to talk about how long things are, we use special words like "longe
    - Question: Use your words to compare the two toys. Which is longer and which is shorter?
    - Answer: <|unsolvedproblem|>
 
-### Section 4: Comparing Lengths with Your Body
+### Section: Comparing Lengths with Your Body
 You can also use parts of your body to compare lengths!
 
 #### Example Exercise:
@@ -48,7 +48,7 @@ You can also use parts of your body to compare lengths!
    - Question: Who is taller?
    - Answer: [The child will observe and decide who is taller.]
 
-### Section 5: Practice Problems
+### Section: Practice Problems
 Now it's your turn to practice your new skill! Here are some problems for you to solve:
 
 1. Compare a spoon and a fork. Which is longer?
@@ -60,7 +60,7 @@ Now it's your turn to practice your new skill! Here are some problems for you to
 3. Look at your school ruler and a crayon. Without measuring, decide: Is the crayon longer, shorter, or the same length as the ruler?
    - Answer: Typically, the ruler is longer than the crayon, but it depends on the crayon size!
 
-### Section 6: Detective Challenge
+### Section: Detective Challenge
 As a final challenge, find three different objects in your home. Line them up at the same starting point.
 
 Now, use your length detective skills to:
