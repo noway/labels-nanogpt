@@ -3,7 +3,7 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
-with open('input.txt', 'r') as f:
+with open('trainingdata.txt', 'r') as f:
     text = f.read()
 
 chars = list(set(text))
