@@ -1,11 +1,4 @@
-title: Understanding Fractions
-grade: 3rd Grade
-subject: Mathematics
-chapter: Fractions
-
----
-
-## Understanding Fractions
+# Understanding Fractions
 
 Welcome to the world of fractions! Fractions are a way to represent parts of a whole. Just like you can share a pizza with your friends, fractions show how you can divide things into equal parts. Let's explore what fractions are all about.
 
