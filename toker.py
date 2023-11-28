@@ -293,33 +293,22 @@ text = text.replace('✔', ' ') # TODO: same as ✓
 
 # replace numbers
 
-
 tokens = text.split()
 token_counts = Counter(tokens)
 most_common_tokens = token_counts.most_common()
-# most_common_tokens = [token for token, count in most_common_tokens]
-# all_tokens_joined = ''.join(most_common_tokens)
-# all_tokens_joined = list(all_tokens_joined)
-# unique_chars = set(all_tokens_joined)
-# unique_chars = sorted(unique_chars)
-# print(most_common_tokens)
-dic = pyphen.Pyphen(lang='en_US', left=0, right=0)
-# syllables = dic.inserted('word')
-# print(syllables.split('-'))
+dic = pyphen.Pyphen(lang='en_US')
 
 all_syllables = {}
 for token, count in most_common_tokens:
     token = token.strip("'")
     syllables = dic.inserted(token)
-    print (syllables, token, count)
-    syllables = syllables.split('-')
+    syllables = "'".join(syllables.split('-')).split("'")
     for syllable in syllables:
         if syllable not in all_syllables:
             all_syllables[syllable] = 0
         all_syllables[syllable] += count
 
 all_syllables_items = all_syllables.items()
-sorted_all_syllables_items = sorted(all_syllables_items, key=lambda x: x[1], reverse=True)
+sorted_all_syllables_items = sorted(all_syllables_items, key=lambda x: len(x[0]), reverse=True)
 for syllable, count in sorted_all_syllables_items:
-    if count < 3:
-        pass
+    print (syllable, count)
