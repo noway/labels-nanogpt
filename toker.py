@@ -295,9 +295,9 @@ text = text.replace('✔', ' ') # TODO: same as ✓
 tokens = text.split()
 token_counts = Counter(tokens)
 most_common_tokens = token_counts.most_common()
-most_common_tokens = [token for token, count in most_common_tokens]
-all_tokens_joined = ''.join(most_common_tokens)
-all_tokens_joined = list(all_tokens_joined)
-unique_chars = set(all_tokens_joined)
-unique_chars = sorted(unique_chars)
-print(unique_chars)
+# most_common_tokens = [token for token, count in most_common_tokens]
+# all_tokens_joined = ''.join(most_common_tokens)
+# all_tokens_joined = list(all_tokens_joined)
+# unique_chars = set(all_tokens_joined)
+# unique_chars = sorted(unique_chars)
+print(most_common_tokens)
