@@ -308,11 +308,26 @@ for token, count in most_common_tokens:
             all_syllables[syllable] = 0
         all_syllables[syllable] += count
 
-all_syllables_items = all_syllables.items()
-sorted_all_syllables_items = sorted(all_syllables_items, key=lambda x: len(x[0]), reverse=True)
-for syllable, count in sorted_all_syllables_items:
-    print (syllable, count)
+# all_syllables_items = all_syllables
+# print (all_syllables_items)
+# sorted_all_syllables_items = sorted(all_syllables_items, key=lambda x: len(x[0]), reverse=True)
+# for syllable, count in sorted_all_syllables_items:
+#     print (syllable, count)
 
+# sorted_all_syllables_items to dict
+# sorted_all_syllables_items_dict = {}
+# for syllable, count in sorted_all_syllables_items:
+#     sorted_all_syllables_items_dict[syllable] = count
+
+splits = {
+    word: [c if i == 0 else f"##{c}" for i, c in enumerate(word)]
+    for word in all_syllables.keys()
+}
+
+# print(sorted_all_syllables_items)
+print(splits)
+
+# def compute_pair_scores()
 
 syllables_joined = sorted(set(''.join(all_syllables.keys())))
 print (syllables_joined)
