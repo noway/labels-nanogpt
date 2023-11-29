@@ -323,7 +323,7 @@ print (all_syllables)
 #     sorted_all_syllables_items_dict[syllable] = count
 
 splits = {
-    word: [c if i == 0 else f"##{c}" for i, c in enumerate(word)]
+    word: [ f"##{c}" if i == 0 else f"##{c}" for i, c in enumerate(word)]
     for word in all_syllables.keys()
 }
 
@@ -331,7 +331,8 @@ def compute_pair_scores(splits):
     letter_freqs = defaultdict(int)
     pair_freqs = defaultdict(int)
     for word, _freq in all_syllables.items():
-        freq = 1 # every word has a weight of 1 - this is divergent from wordpiece/bpe
+        # freq = 1 # every word has a weight of 1 - this is divergent from wordpiece/bpe
+        freq = _freq
         split = splits[word]
         if len(split) == 1:
             letter_freqs[split[0]] += freq
@@ -382,7 +383,7 @@ def merge_pair(a, b, splits):
 
 vocab = list()
 
-vocab_size = 70
+vocab_size = 100
 while len(vocab) < vocab_size:
     scores = compute_pair_scores(splits)
     best_pair, max_score = "", None
