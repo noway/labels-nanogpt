@@ -312,3 +312,7 @@ all_syllables_items = all_syllables.items()
 sorted_all_syllables_items = sorted(all_syllables_items, key=lambda x: len(x[0]), reverse=True)
 for syllable, count in sorted_all_syllables_items:
     print (syllable, count)
+
+
+syllables_joined = sorted(set(''.join(all_syllables.keys())))
+print (syllables_joined)
