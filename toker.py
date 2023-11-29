@@ -1,7 +1,7 @@
 from collections import Counter
 import re
 import pyphen
-
+from collections import defaultdict
 
 with open('trainingdata.txt', 'r') as f:
     text = f.read()
@@ -304,10 +304,13 @@ for token, count in most_common_tokens:
     syllables = dic.inserted(token)
     syllables = "'".join(syllables.split('-')).split("'")
     for syllable in syllables:
+        if len(syllable) == 0:
+            continue
         if syllable not in all_syllables:
             all_syllables[syllable] = 0
         all_syllables[syllable] += count
 
+# print (all_syllables)
 # all_syllables_items = all_syllables
 # print (all_syllables_items)
 # sorted_all_syllables_items = sorted(all_syllables_items, key=lambda x: len(x[0]), reverse=True)
@@ -324,10 +327,30 @@ splits = {
     for word in all_syllables.keys()
 }
 
+def compute_pair_scores(splits):
+    letter_freqs = defaultdict(int)
+    pair_freqs = defaultdict(int)
+    for word, freq in all_syllables.items():
+        split = splits[word]
+        if len(split) == 1:
+            letter_freqs[split[0]] += freq
+            continue
+        for i in range(len(split) - 1):
+            pair = (split[i], split[i + 1])
+            letter_freqs[split[i]] += freq
+            pair_freqs[pair] += freq
+        letter_freqs[split[-1]] += freq
+    scores = {
+        pair: freq / (letter_freqs[pair[0]] * letter_freqs[pair[1]])
+        for pair, freq in pair_freqs.items()
+    }
+    return scores
+
+print(compute_pair_scores(splits))
 # print(sorted_all_syllables_items)
-print(splits)
+# print(splits)
 
 # def compute_pair_scores()
 
-syllables_joined = sorted(set(''.join(all_syllables.keys())))
-print (syllables_joined)
+# syllables_joined = sorted(set(''.join(all_syllables.keys())))
+# print (syllables_joined)
