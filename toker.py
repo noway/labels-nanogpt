@@ -182,6 +182,7 @@ special_tokens = [
     '\\<\\|unsolvedproblem\\|\\>',
     '*',
     '.',
+    ' ',
     '-',
     '#',
     '=',
@@ -348,9 +349,19 @@ while len(vocab) < vocab_size:
 # print(vocab)
 
 
+def special_token_split(s, delimiters):
+    delimiters.sort(key=len, reverse=True)
+    pattern = re.compile('(' + '|'.join(map(re.escape, delimiters)) + ')')
+    result = []
+    for part in pattern.split(s):
+        if part:
+            result.append(part)
+    return result
+
 def tokenize(text, splits):
     tokens = []
-    for token in text.split():
+    for token in special_token_split(text, special_tokens):
+        print (token)
         if token in splits:
             tokens.extend(splits[token])
         else:
@@ -358,7 +369,7 @@ def tokenize(text, splits):
     return tokens
 
 toks = tokenize(initial_text.lower(), splits)
-print (toks)
+# print (toks)
 print(len(initial_text))
 print(len(toks))
 
