@@ -187,6 +187,7 @@ special_tokens = [
     '-',
     '#',
     '=',
+    '\n',
     '\\\n',
     '\\ ',
     '\\_',
@@ -359,10 +360,25 @@ def special_token_split(s, delimiters):
             result.append(part)
     return result
 
+def syllable_split(tokens):
+    result = []
+    for token in tokens:
+        if token.isalpha():
+            syllables = dic.inserted(token)
+            syllables = "'".join(syllables.split('-')).split("'")
+            for syllable in syllables:
+                if len(syllable) == 0:
+                    continue
+                result.append(syllable)
+        else:
+            result.append(token)
+    return result
+
+
 def tokenize(text, splits):
     tokens = []
-    for token in special_token_split(text, special_tokens):
-        print (token)
+    for token in syllable_split(special_token_split(text, special_tokens)):
+        # print (token)
         if token in splits:
             tokens.extend(splits[token])
         else:
