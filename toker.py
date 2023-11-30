@@ -262,9 +262,9 @@ special_tokens = [
 print(len(special_tokens))
 
 text = text.lower()
-text = re.sub(r'\d+', ' ', text)
 for special_token in special_tokens:
     text = text.replace(special_token, ' ')
+text = re.sub(r'\d+', ' ', text)
 
 # replace numbers
 
@@ -331,6 +331,8 @@ def merge_pair(a, b, splits):
         splits[word] = split
     return splits
 
+alphabet_vocab = map(lambda c: f"##{c}", list("abcdefghijklmnopqrstuvwxyz"))
+digit_vocab = list("0123456789")
 vocab = list()
 
 vocab_size = 100
@@ -417,9 +419,10 @@ toks = tokenize(initial_text.lower(), splits)
 # print (toks)
 set_toks = set(toks)
 set_toks_without_special_tokens = set_toks - set(special_tokens)
-set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab)
+set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab) - set(alphabet_vocab) - set(digit_vocab)
 print (len(set_toks))
-print (set_toks_without_special_tokens_and_vocab)
+sorted_set_toks_without_special_tokens_and_vocab = sorted(set_toks_without_special_tokens_and_vocab)
+print (sorted_set_toks_without_special_tokens_and_vocab, len(sorted_set_toks_without_special_tokens_and_vocab))
 print(len(initial_text))
 print(len(toks))
 
