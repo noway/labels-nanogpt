@@ -258,6 +258,7 @@ special_tokens = [
     '✓',
     '✔', # TODO: same as ✓
 ]
+print(len(special_tokens))
 
 text = text.lower()
 text = re.sub(r'\d+', ' ', text)
@@ -349,7 +350,7 @@ while len(vocab) < vocab_size:
     vocab.append(new_token)
 
 # print(splits)
-# print(vocab)
+print(len(vocab))
 
 
 def special_token_split(s, delimiters):
@@ -387,7 +388,12 @@ def tokenize(text, splits):
     return tokens
 
 toks = tokenize(initial_text.lower(), splits)
-print (toks)
+# print (toks)
+set_toks = set(toks)
+set_toks_without_special_tokens = set_toks - set(special_tokens)
+set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab)
+print (len(set_toks))
+print (set_toks_without_special_tokens_and_vocab)
 print(len(initial_text))
 print(len(toks))
 
