@@ -178,6 +178,7 @@ special_tokens = [
     '★',
     '☑',
     '\u200d',
+    '\xa0',
     '\\<\\|image\\|\\>',
     '\\<\\|document\\|\\>',
     '\\<\\|unsolvedproblem\\|\\>',
