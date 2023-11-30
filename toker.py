@@ -6,251 +6,257 @@ from collections import defaultdict
 with open('trainingdata.txt', 'r') as f:
     text = f.read()
 
+
+special_tokens = [
+    '*️⃣',
+    '1️⃣',
+    '2️⃣',
+    '3️⃣',
+    '4️⃣',
+    '5️⃣',
+    '6️⃣',
+    '7️⃣',
+    '8️⃣',
+    '9️⃣',
+    '🔟',
+    '⚪',
+    '⚫',
+    '⚽',
+    '⚾',
+    '✂',
+    '✅',
+    '✈',
+    '✋',
+    '✏',
+    '✦',
+    '✨',
+    '✪',
+    '❄',
+    '❌',
+    '❏',
+    '❤',
+    '➡',
+    '⬅',
+    '⬜',
+    '⬡',
+    '⭐',
+    '️',
+    '🌟',
+    '🌱',
+    '🌲',
+    '🌳',
+    '🌴',
+    '🌵',
+    '🌷',
+    '🌸',
+    '🌹',
+    '🌺',
+    '🌻',
+    '🌼',
+    '🌾',
+    '🍀',
+    '🍂',
+    '🍃',
+    '🍇',
+    '🍉',
+    '🍊',
+    '🍌',
+    '🍎',
+    '🍏',
+    '🍐',
+    '🍒',
+    '🍓',
+    '🍕',
+    '🍞',
+    '🍦',
+    '🍩',
+    '🍪',
+    '🍬',
+    '🍳',
+    '🍴',
+    '🍽',
+    '🎈',
+    '🎉',
+    '🎒',
+    '🎨',
+    '🎵',
+    '🎸',
+    '🏀',
+    '🏎',
+    '🏘',
+    '🏠',
+    '🏡',
+    '🏢',
+    '🏰',
+    '🐁',
+    '🐈',
+    '🐌',
+    '🐘',
+    '🐙',
+    '🐝',
+    '🐟',
+    '🐠',
+    '🐤',
+    '🐦',
+    '🐭',
+    '🐰',
+    '🐱',
+    '🐳',
+    '🐵',
+    '🐶',
+    '🐷',
+    '🐸',
+    '🐻',
+    '👉',
+    '👟',
+    '👧',
+    '👨',
+    '👩',
+    '💦',
+    '💧',
+    '💼',
+    '📏',
+    '📖',
+    '📘',
+    '📚',
+    '🔍',
+    '🔎',
+    '🔟',
+    '🔢',
+    '🔥',
+    '🔮',
+    '🔴',
+    '🔵',
+    '🔶',
+    '🔺',
+    '🔼',
+    '🕊',
+    '🕓',
+    '🖍',
+    '🖐',
+    '😄',
+    '😊',
+    '🚀',
+    '🚌',
+    '🚒',
+    '🚓',
+    '🚕',
+    '🚗',
+    '🚙',
+    '🚛',
+    '🚜',
+    '🚧',
+    '🚲',
+    '🛑',
+    '🛴',
+    '🟠',
+    '🟡',
+    '🟢',
+    '🟣',
+    '🟥',
+    '🟦',
+    '🟨',
+    '🟩',
+    '🤚',
+    '🥕',
+    '🥚',
+    '🥣',
+    '🥤',
+    '🦆',
+    '🦩',
+    '🧀',
+    '🧐',
+    '🧒',
+    '🧦',
+    '🧸',
+    '🪁',
+    '●',
+    '☀',
+    '★',
+    '☑',
+    '\u200d',
+    '\\<\\|image\\|\\>',
+    '\\<\\|document\\|\\>',
+    '\\<\\|unsolvedproblem\\|\\>',
+    '*',
+    '.',
+    '-',
+    '#',
+    '=',
+    '\\\n',
+    '\\ ',
+    '\\_',
+    '\\]',
+    '\\[',
+    '\\[',
+    '\\^',
+    '\\|',
+    '\\/',
+    '\\$',
+    '\\<',
+    '\\>',
+    ':',
+    '+',
+    '-',
+    '÷',
+    '·',
+    '⋅', # TODO: same as ⋅
+    '×',
+    '/',
+    ',',
+    '`',
+    '(',
+    ')',
+    '!',
+    '?',
+    '~',
+    ';',
+    '"',
+    '_',
+    '∠',
+    '|',
+    '[',
+    ']',
+    '{',
+    '}',
+    '<',
+    '>',
+    'π',
+    '%',
+    '&',
+    '¢',
+    '°',
+    '•',
+    '^',
+    '\\',
+    '½', # TODO: should be 1/2
+    '¼', # TODO: should be 1/4
+    '¾', # TODO: should be 3/4
+    '⅓', # TODO: should be 1/3
+    '↑',
+    '→',
+    '↓',
+    '⇒',
+    '√',
+    '≈',
+    '≠',
+    '≤',
+    '≥',
+    '□',
+    '▢',
+    '△',
+    '○',
+    '−', # TODO: should be -
+    '²',
+    '³',
+    '✓',
+    '✔', # TODO: same as ✓
+]
+
 text = text.lower()
-text = text.replace('*️⃣', ' ')
-text = text.replace('1️⃣', ' ')
-text = text.replace('2️⃣', ' ')
-text = text.replace('3️⃣', ' ')
-text = text.replace('4️⃣', ' ')
-text = text.replace('5️⃣', ' ')
-text = text.replace('6️⃣', ' ')
-text = text.replace('7️⃣', ' ')
-text = text.replace('8️⃣', ' ')
-text = text.replace('9️⃣', ' ')
-text = text.replace('🔟', ' ')
-text = text.replace('⚪', ' ')
-text = text.replace('⚫', ' ')
-text = text.replace('⚽', ' ')
-text = text.replace('⚾', ' ')
-text = text.replace('✂', ' ')
-text = text.replace('✅', ' ')
-text = text.replace('✈', ' ')
-text = text.replace('✋', ' ')
-text = text.replace('✏', ' ')
-text = text.replace('✦', ' ')
-text = text.replace('✨', ' ')
-text = text.replace('✪', ' ')
-text = text.replace('❄', ' ')
-text = text.replace('❌', ' ')
-text = text.replace('❏', ' ')
-text = text.replace('❤', ' ')
-text = text.replace('➡', ' ')
-text = text.replace('⬅', ' ')
-text = text.replace('⬜', ' ')
-text = text.replace('⬡', ' ')
-text = text.replace('⭐', ' ')
-text = text.replace('️', ' ')
-text = text.replace('🌟', ' ')
-text = text.replace('🌱', ' ')
-text = text.replace('🌲', ' ')
-text = text.replace('🌳', ' ')
-text = text.replace('🌴', ' ')
-text = text.replace('🌵', ' ')
-text = text.replace('🌷', ' ')
-text = text.replace('🌸', ' ')
-text = text.replace('🌹', ' ')
-text = text.replace('🌺', ' ')
-text = text.replace('🌻', ' ')
-text = text.replace('🌼', ' ')
-text = text.replace('🌾', ' ')
-text = text.replace('🍀', ' ')
-text = text.replace('🍂', ' ')
-text = text.replace('🍃', ' ')
-text = text.replace('🍇', ' ')
-text = text.replace('🍉', ' ')
-text = text.replace('🍊', ' ')
-text = text.replace('🍌', ' ')
-text = text.replace('🍎', ' ')
-text = text.replace('🍏', ' ')
-text = text.replace('🍐', ' ')
-text = text.replace('🍒', ' ')
-text = text.replace('🍓', ' ')
-text = text.replace('🍕', ' ')
-text = text.replace('🍞', ' ')
-text = text.replace('🍦', ' ')
-text = text.replace('🍩', ' ')
-text = text.replace('🍪', ' ')
-text = text.replace('🍬', ' ')
-text = text.replace('🍳', ' ')
-text = text.replace('🍴', ' ')
-text = text.replace('🍽', ' ')
-text = text.replace('🎈', ' ')
-text = text.replace('🎉', ' ')
-text = text.replace('🎒', ' ')
-text = text.replace('🎨', ' ')
-text = text.replace('🎵', ' ')
-text = text.replace('🎸', ' ')
-text = text.replace('🏀', ' ')
-text = text.replace('🏎', ' ')
-text = text.replace('🏘', ' ')
-text = text.replace('🏠', ' ')
-text = text.replace('🏡', ' ')
-text = text.replace('🏢', ' ')
-text = text.replace('🏰', ' ')
-text = text.replace('🐁', ' ')
-text = text.replace('🐈', ' ')
-text = text.replace('🐌', ' ')
-text = text.replace('🐘', ' ')
-text = text.replace('🐙', ' ')
-text = text.replace('🐝', ' ')
-text = text.replace('🐟', ' ')
-text = text.replace('🐠', ' ')
-text = text.replace('🐤', ' ')
-text = text.replace('🐦', ' ')
-text = text.replace('🐭', ' ')
-text = text.replace('🐰', ' ')
-text = text.replace('🐱', ' ')
-text = text.replace('🐳', ' ')
-text = text.replace('🐵', ' ')
-text = text.replace('🐶', ' ')
-text = text.replace('🐷', ' ')
-text = text.replace('🐸', ' ')
-text = text.replace('🐻', ' ')
-text = text.replace('👉', ' ')
-text = text.replace('👟', ' ')
-text = text.replace('👧', ' ')
-text = text.replace('👨', ' ')
-text = text.replace('👩', ' ')
-text = text.replace('💦', ' ')
-text = text.replace('💧', ' ')
-text = text.replace('💼', ' ')
-text = text.replace('📏', ' ')
-text = text.replace('📖', ' ')
-text = text.replace('📘', ' ')
-text = text.replace('📚', ' ')
-text = text.replace('🔍', ' ')
-text = text.replace('🔎', ' ')
-text = text.replace('🔟', ' ')
-text = text.replace('🔢', ' ')
-text = text.replace('🔥', ' ')
-text = text.replace('🔮', ' ')
-text = text.replace('🔴', ' ')
-text = text.replace('🔵', ' ')
-text = text.replace('🔶', ' ')
-text = text.replace('🔺', ' ')
-text = text.replace('🔼', ' ')
-text = text.replace('🕊', ' ')
-text = text.replace('🕓', ' ')
-text = text.replace('🖍', ' ')
-text = text.replace('🖐', ' ')
-text = text.replace('😄', ' ')
-text = text.replace('😊', ' ')
-text = text.replace('🚀', ' ')
-text = text.replace('🚌', ' ')
-text = text.replace('🚒', ' ')
-text = text.replace('🚓', ' ')
-text = text.replace('🚕', ' ')
-text = text.replace('🚗', ' ')
-text = text.replace('🚙', ' ')
-text = text.replace('🚛', ' ')
-text = text.replace('🚜', ' ')
-text = text.replace('🚧', ' ')
-text = text.replace('🚲', ' ')
-text = text.replace('🛑', ' ')
-text = text.replace('🛴', ' ')
-text = text.replace('🟠', ' ')
-text = text.replace('🟡', ' ')
-text = text.replace('🟢', ' ')
-text = text.replace('🟣', ' ')
-text = text.replace('🟥', ' ')
-text = text.replace('🟦', ' ')
-text = text.replace('🟨', ' ')
-text = text.replace('🟩', ' ')
-text = text.replace('🤚', ' ')
-text = text.replace('🥕', ' ')
-text = text.replace('🥚', ' ')
-text = text.replace('🥣', ' ')
-text = text.replace('🥤', ' ')
-text = text.replace('🦆', ' ')
-text = text.replace('🦩', ' ')
-text = text.replace('🧀', ' ')
-text = text.replace('🧐', ' ')
-text = text.replace('🧒', ' ')
-text = text.replace('🧦', ' ')
-text = text.replace('🧸', ' ')
-text = text.replace('🪁', ' ')
-text = text.replace('●', ' ')
-text = text.replace('☀', ' ')
-text = text.replace('★', ' ')
-text = text.replace('☑', ' ')
-text = text.replace('\u200d', ' ')
-text = text.replace('\\<\\|image\\|\\>', ' ')
-text = text.replace('\\<\\|document\\|\\>', ' ')
-text = text.replace('\\<\\|unsolvedproblem\\|\\>', ' ')
 text = re.sub(r'\d+', ' ', text)
-text = text.replace('*', ' ')
-text = text.replace('.', ' ')
-text = text.replace('-', ' ')
-text = text.replace('#', ' ')
-text = text.replace('=', ' ')
-text = text.replace('\\\n', ' ')
-text = text.replace('\\ ', ' ')
-text = text.replace('\\_', ' ')
-text = text.replace('\\]', ' ')
-text = text.replace('\\[', ' ')
-text = text.replace('\\[', ' ')
-text = text.replace('\\^', ' ')
-text = text.replace('\\|', ' ')
-text = text.replace('\\/', ' ')
-text = text.replace('\\$', ' ')
-text = text.replace('\\<', ' ')
-text = text.replace('\\>', ' ')
-text = text.replace(':', ' ')
-text = text.replace('+', ' ')
-text = text.replace('-', ' ')
-text = text.replace('÷', ' ')
-text = text.replace('·', ' ')
-text = text.replace('⋅', ' ') # TODO: same as ⋅
-text = text.replace('×', ' ')
-text = text.replace('/', ' ')
-text = text.replace(',', ' ')
-text = text.replace('`', ' ')
-text = text.replace('(', ' ')
-text = text.replace(')', ' ')
-text = text.replace('!', ' ')
-text = text.replace('?', ' ')
-text = text.replace('~', ' ')
-text = text.replace(';', ' ')
-text = text.replace('"', ' ')
-text = text.replace('_', ' ')
-text = text.replace('∠', ' ')
-text = text.replace('|', ' ')
-text = text.replace('[', ' ')
-text = text.replace(']', ' ')
-text = text.replace('{', ' ')
-text = text.replace('}', ' ')
-text = text.replace('<', ' ')
-text = text.replace('>', ' ')
-text = text.replace('π', ' ')
-text = text.replace('%', ' ')
-text = text.replace('&', ' ')
-text = text.replace('¢', ' ')
-text = text.replace('°', ' ')
-text = text.replace('•', ' ')
-text = text.replace('^', ' ')
-text = text.replace('\\', ' ')
-text = text.replace('½', ' ') # TODO: should be 1/2
-text = text.replace('¼', ' ') # TODO: should be 1/4
-text = text.replace('¾', ' ') # TODO: should be 3/4
-text = text.replace('⅓', ' ') # TODO: should be 1/3
-text = text.replace('↑', ' ')
-text = text.replace('→', ' ')
-text = text.replace('↓', ' ')
-text = text.replace('⇒', ' ')
-text = text.replace('√', ' ')
-text = text.replace('≈', ' ')
-text = text.replace('≠', ' ')
-text = text.replace('≤', ' ')
-text = text.replace('≥', ' ')
-text = text.replace('□', ' ')
-text = text.replace('▢', ' ')
-text = text.replace('△', ' ')
-text = text.replace('○', ' ')
-text = text.replace('−', ' ') # TODO: should be -
-text = text.replace('²', ' ')
-text = text.replace('³', ' ')
-text = text.replace('✓', ' ')
-text = text.replace('✔', ' ') # TODO: same as ✓
+for special_token in special_tokens:
+    text = text.replace(special_token, ' ')
 
 # replace numbers
 
