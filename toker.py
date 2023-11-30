@@ -334,7 +334,7 @@ alphabet_vocab = map(lambda c: f"##{c}", list("abcdefghijklmnopqrstuvwxyz"))
 digit_vocab = list("0123456789")
 vocab = list()
 
-vocab_size = 831
+vocab_size = 831 # should this be number of phonemes or syllables? thinking 44, 100 or something.
 while len(vocab) < vocab_size:
     scores = compute_pair_scores(splits)
     best_pair, max_score = "", None
