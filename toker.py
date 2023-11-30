@@ -363,6 +363,31 @@ def special_token_split(s, delimiters):
             result.append(part)
     return result
 
+def split_to_digits(s):
+    result = []
+    current_segment = ''
+    for char in s:
+        if char.isdigit():
+            if current_segment:
+                result.append(current_segment)
+                current_segment = ''
+            result.append(char)
+        else:
+            current_segment += char
+    if current_segment:
+        result.append(current_segment)
+    return result
+
+def digit_split(tokens):
+    digit_pattern = re.compile(r'\d')
+    result = []
+    for token in tokens:
+        if bool(digit_pattern.search(token)):
+            result.extend(split_to_digits(token))
+        else:
+            result.append(token)
+    return result
+
 def syllable_split(tokens):
     result = []
     for token in tokens:
@@ -380,7 +405,7 @@ def syllable_split(tokens):
 
 def tokenize(text, splits):
     tokens = []
-    for token in syllable_split(special_token_split(text, special_tokens)):
+    for token in syllable_split(digit_split(special_token_split(text, special_tokens))):
         # print (token)
         if token in splits:
             tokens.extend(splits[token])
