@@ -4,8 +4,10 @@ import pyphen
 from collections import defaultdict
 
 with open('trainingdata.txt', 'r') as f:
-    text = f.read()
+    initial_text = f.read()
 
+print(len(initial_text))
+text = initial_text
 
 special_tokens = [
     '*️⃣',
@@ -277,7 +279,7 @@ for token, count in most_common_tokens:
             all_syllables[syllable] = 0
         all_syllables[syllable] += count
 
-print (all_syllables)
+# print (all_syllables)
 
 splits = {
     word: [ f"##{c}" if i == 0 else f"##{c}" for i, c in enumerate(word)]
@@ -342,8 +344,23 @@ while len(vocab) < vocab_size:
     )
     vocab.append(new_token)
 
-print(splits)
-print(vocab)
+# print(splits)
+# print(vocab)
+
+
+def tokenize(text, splits):
+    tokens = []
+    for token in text.split():
+        if token in splits:
+            tokens.extend(splits[token])
+        else:
+            tokens.append(token)
+    return tokens
+
+toks = tokenize(initial_text.lower(), splits)
+print (toks)
+print(len(initial_text))
+print(len(toks))
 
 # splits = merge_pair(best_pair[0], best_pair[1], splits)
 # print(splits)
