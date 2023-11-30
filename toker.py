@@ -11,7 +11,6 @@ text = initial_text
 
 special_tokens = [
     '------------------------------------------------------------------------',
-    '*️⃣',
     '1️⃣',
     '2️⃣',
     '3️⃣',
@@ -335,7 +334,7 @@ alphabet_vocab = map(lambda c: f"##{c}", list("abcdefghijklmnopqrstuvwxyz"))
 digit_vocab = list("0123456789")
 vocab = list()
 
-vocab_size = 100
+vocab_size = 831
 while len(vocab) < vocab_size:
     scores = compute_pair_scores(splits)
     best_pair, max_score = "", None
@@ -352,7 +351,7 @@ while len(vocab) < vocab_size:
     )
     vocab.append(new_token)
 
-# print(splits)
+print(splits)
 print(len(vocab))
 
 
@@ -420,8 +419,8 @@ toks = tokenize(initial_text.lower(), splits)
 # print (toks)
 set_toks = set(toks)
 set_toks_without_special_tokens = set_toks - set(special_tokens)
-set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab) - set(alphabet_vocab) - set(digit_vocab)
-print (len(set_toks))
+set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab) - set(digit_vocab)# - set(alphabet_vocab)
+print ("set_toks", len(set_toks))
 sorted_set_toks_without_special_tokens_and_vocab = sorted(set_toks_without_special_tokens_and_vocab)
 print (sorted_set_toks_without_special_tokens_and_vocab, len(sorted_set_toks_without_special_tokens_and_vocab))
 print(len(initial_text))
