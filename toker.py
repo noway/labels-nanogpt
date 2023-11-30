@@ -6,7 +6,6 @@ from collections import defaultdict
 with open('trainingdata.txt', 'r') as f:
     text = f.read()
 
-# lowercase
 text = text.lower()
 text = text.replace('*️⃣', ' ')
 text = text.replace('1️⃣', ' ')
@@ -273,16 +272,6 @@ for token, count in most_common_tokens:
         all_syllables[syllable] += count
 
 print (all_syllables)
-# all_syllables_items = all_syllables
-# print (all_syllables_items)
-# sorted_all_syllables_items = sorted(all_syllables_items, key=lambda x: len(x[0]), reverse=True)
-# for syllable, count in sorted_all_syllables_items:
-#     print (syllable, count)
-
-# sorted_all_syllables_items to dict
-# sorted_all_syllables_items_dict = {}
-# for syllable, count in sorted_all_syllables_items:
-#     sorted_all_syllables_items_dict[syllable] = count
 
 splits = {
     word: [ f"##{c}" if i == 0 else f"##{c}" for i, c in enumerate(word)]
@@ -312,21 +301,6 @@ def compute_pair_scores(splits):
         for pair, freq in pair_freqs.items()
     }
     return scores
-
-# pair_scores = compute_pair_scores(splits)
-# # for i, key in enumerate(pair_scores.keys()):
-# #     print(f"{key}: {pair_scores[key]}")
-# #     if i >= 5:
-# #         break
-
-# best_pair = ""
-# max_score = None
-# for pair, score in pair_scores.items():
-#     if max_score is None or max_score < score:
-#         best_pair = pair
-#         max_score = score
-
-# print("best", best_pair, max_score)
 
 def merge_pair(a, b, splits):
     for word in all_syllables:
