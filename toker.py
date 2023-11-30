@@ -10,6 +10,7 @@ print(len(initial_text))
 text = initial_text
 
 special_tokens = [
+    '------------------------------------------------------------------------',
     '*️⃣',
     '1️⃣',
     '2️⃣',
@@ -386,7 +387,7 @@ def tokenize(text, splits):
     return tokens
 
 toks = tokenize(initial_text.lower(), splits)
-# print (toks)
+print (toks)
 print(len(initial_text))
 print(len(toks))
 
