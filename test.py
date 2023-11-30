@@ -9,7 +9,7 @@ def special_token_split(s, delimiters):
             result.append(part)
     return result
 
-test_string = "Hello, world! This is a test-string."
-delimiters = [',', ' ', '-', '!', 'lo']
+test_string = "Hello, world! This is a test-string's."
+delimiters = [',', ' ', '-', '!', 'lo', "'"]
 result = special_token_split(test_string, delimiters)
 print(result)
