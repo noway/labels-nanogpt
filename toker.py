@@ -5,45 +5,7 @@ from collections import defaultdict
 
 with open('trainingdata.txt', 'r') as f:
     text = f.read()
-special_tokens = ["<|document|>"]
-common_words = {"the", "and", "is", "in", "on", "at", "of", "------------------------------------------------------------------------"}
 
-# Token patterns
-token_patterns = {
-    "special_token": re.compile(r"^<\|document\|>"),
-    "space": re.compile(r"^\s+"),
-    "number": re.compile(r"^\d+"),
-    "dot": re.compile(r"^\."),
-    "equals": re.compile(r"^="),
-    "minus": re.compile(r"^-"),
-    "plus": re.compile(r"^\+"),
-    "comma": re.compile(r"^,"),
-    "colon": re.compile(r"^:"),
-    "underscore_slash": re.compile(r"^_/"),
-    "double_asterisk": re.compile(r"^\*\*"),
-    "word": re.compile(r"^(?:{})\b".format("|".join(re.escape(word) for word in common_words)))
-}
-
-def match_token(text, cursor):
-    for token_type, pattern in token_patterns.items():
-        match = pattern.match(text[cursor:cursor+10])
-        if match:
-            return match.group(), cursor + len(match.group())
-    return text[cursor:cursor+2], cursor + 2
-
-def custom_tokenize(text):
-    tokens = []
-    cursor = 0
-
-    while cursor < len(text):
-        token, cursor = match_token(text, cursor)
-        if token:
-            tokens.append(token)
-
-    return tokens
-
-
-# tokens = custom_tokenize(text)
 # lowercase
 text = text.lower()
 text = text.replace('*️⃣', ' ')
