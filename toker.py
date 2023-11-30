@@ -313,20 +313,20 @@ def compute_pair_scores(splits):
     }
     return scores
 
-pair_scores = compute_pair_scores(splits)
-# for i, key in enumerate(pair_scores.keys()):
-#     print(f"{key}: {pair_scores[key]}")
-#     if i >= 5:
-#         break
+# pair_scores = compute_pair_scores(splits)
+# # for i, key in enumerate(pair_scores.keys()):
+# #     print(f"{key}: {pair_scores[key]}")
+# #     if i >= 5:
+# #         break
 
-best_pair = ""
-max_score = None
-for pair, score in pair_scores.items():
-    if max_score is None or max_score < score:
-        best_pair = pair
-        max_score = score
+# best_pair = ""
+# max_score = None
+# for pair, score in pair_scores.items():
+#     if max_score is None or max_score < score:
+#         best_pair = pair
+#         max_score = score
 
-print("best", best_pair, max_score)
+# print("best", best_pair, max_score)
 
 def merge_pair(a, b, splits):
     for word in all_syllables:
