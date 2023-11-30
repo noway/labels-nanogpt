@@ -182,7 +182,7 @@ special_tokens = [
     '\\<\\|unsolvedproblem\\|\\>',
     '*',
     '.',
-    ' '
+    ' ',
     "'",
     '-',
     '#',
