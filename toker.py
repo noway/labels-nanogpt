@@ -384,7 +384,8 @@ def digit_split(tokens):
     digit_pattern = re.compile(r'\d')
     result = []
     for token in tokens:
-        if bool(digit_pattern.search(token)):
+        is_in_special_tokens = token in special_tokens
+        if bool(digit_pattern.search(token)) and not is_in_special_tokens:
             result.extend(split_to_digits(token))
         else:
             result.append(token)
