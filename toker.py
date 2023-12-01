@@ -423,6 +423,7 @@ def tokens_to_array_of_numbers(tokens):
     full_vocab += digit_vocab
     full_vocab += special_tokens
     full_vocab += vocab
+    full_vocab = list(dict.fromkeys(full_vocab))
     print (full_vocab)
     result = []
     for token in tokens:
