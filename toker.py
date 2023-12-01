@@ -424,6 +424,10 @@ def tokens_to_array_of_numbers(tokens):
     full_vocab += special_tokens
     full_vocab += vocab
     full_vocab = list(dict.fromkeys(full_vocab))
+    full_vocab_from_tokens = list(set(tokens))
+    not_needed = set(full_vocab) - set(full_vocab_from_tokens)
+    full_vocab = [token for token in full_vocab if token not in not_needed]
+    print(len(full_vocab))
     print (full_vocab)
     result = []
     for token in tokens:
