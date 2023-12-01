@@ -5,7 +5,7 @@ include .env
 all: scp_to_lambda
 
 deploy.zip:
-	zip -r deploy.zip input.txt train.py
+	zip -r deploy.zip input.txt train.py tokens.json
 
 scp_to_lambda: deploy.zip
 	scp deploy.zip ubuntu@$(IP_ADDR):$(FILESYSTEM_PATH)
