@@ -14,7 +14,9 @@ batch_size = 32
 block_size = 256
 max_iters = 5000
 num_embeddings = 32
-device = 'mps'
+device = ('cuda' if torch.cuda.is_available()
+          else 'mps' if hasattr(torch.backends, 'mps') and torch.backends.mps.is_available()
+          else 'cpu')
 learning_rate = 3e-4
 eval_iters = 25
 n_layer = 4
