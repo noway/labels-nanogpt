@@ -29,6 +29,8 @@ remove encourangements
 - look for "will vary" [done]
 - · should be ×
 - replace ¼ with 1/4 
+- should learn on the dataset sequentially
+- 10% from the end of the dataset is actually not very representative of the whole dataset.
 
 *sharp edges*
 - there's some stuff like environment (classroom) specfic games where answer is random. can't learn much from it
