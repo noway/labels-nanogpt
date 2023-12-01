@@ -425,6 +425,7 @@ def tokens_to_array_of_numbers(tokens):
     full_vocab += vocab
     full_vocab = list(dict.fromkeys(full_vocab))
     full_vocab_from_tokens = list(set(tokens))
+    # TODO: I'm not sure why not_needed is actually non-empty. Should be always empty - somehow some BPE tokens are never used.
     not_needed = set(full_vocab) - set(full_vocab_from_tokens)
     full_vocab = [token for token in full_vocab if token not in not_needed]
     print(len(full_vocab))
