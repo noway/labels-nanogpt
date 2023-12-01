@@ -10,17 +10,17 @@ encoded = eval(json_str)
 chars = list(set(encoded))
 vocab_size = len(chars)
 
-batch_size = 32
+batch_size = 32*4
 block_size = 256
 max_iters = 5000
-num_embeddings = 32
+num_embeddings = 128
 device = ('cuda' if torch.cuda.is_available()
           else 'mps' if hasattr(torch.backends, 'mps') and torch.backends.mps.is_available()
           else 'cpu')
 learning_rate = 3e-4
 eval_iters = 25
-n_layer = 4
-n_head = 4
+n_layer = 6
+n_head = 8
 dropout = 0.2
 
 
