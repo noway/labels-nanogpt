@@ -3,18 +3,12 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
-with open('trainingdata.txt', 'r') as f:
-    text = f.read()
+with open('tokens.json', 'r') as f:
+    json_str = f.read()
+encoded = eval(json_str)
 
-chars = list(set(text))
+chars = list(set(encoded))
 vocab_size = len(chars)
-stoi = { ch:i for i,ch in enumerate(chars) }
-itos = { i:ch for i,ch in enumerate(chars) }
-
-def encode(s):
-    return [stoi[ch] for ch in s]
-def decode(x):
-    return ''.join([itos[i] for i in x])
 
 batch_size = 32
 block_size = 256
@@ -28,7 +22,6 @@ n_head = 4
 dropout = 0.2
 
 
-encoded = encode(text)
 data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
 
@@ -212,4 +205,4 @@ print(loss.item())
 idx = torch.zeros(1, 1, dtype=torch.long)
 idx = idx.to(device)
 print(idx.shape)
-print(decode(m.generate(idx, 1000)[0].tolist()))
+print(m.generate(idx, 1000)[0].tolist())
