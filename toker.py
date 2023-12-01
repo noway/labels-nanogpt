@@ -435,9 +435,9 @@ def tokens_to_array_of_numbers(tokens):
             result.append(full_vocab.index(token))
         else:
             raise Exception(f"Token {token} not in vocab")
-    return result
+    return [result, full_vocab]
 
-tokens = tokens_to_array_of_numbers(toks)
+tokens, full_vocab = tokens_to_array_of_numbers(toks)
 
 import json
 with open('tokens.json', 'w') as f:
@@ -451,3 +451,11 @@ sorted_set_toks_without_special_tokens_and_vocab = sorted(set_toks_without_speci
 print (sorted_set_toks_without_special_tokens_and_vocab, len(sorted_set_toks_without_special_tokens_and_vocab))
 print(len(initial_text))
 print(len(toks))
+
+def decode(tokens):
+    tokens = [full_vocab[token] for token in tokens]
+    tokens = [token[2:] if token.startswith("##") else token for token in tokens]
+    return ''.join(tokens)
+
+model_output = []
+print(decode(model_output))
