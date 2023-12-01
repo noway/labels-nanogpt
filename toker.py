@@ -343,7 +343,6 @@ while len(vocab) < vocab_size:
             best_pair = pair
             max_score = score
     splits = merge_pair(*best_pair, splits)
-    # print(splits)
     new_token = (
         best_pair[0] + best_pair[1][2:]
         if best_pair[1].startswith("##")
@@ -416,6 +415,28 @@ def tokenize(text, splits):
     return tokens
 
 toks = tokenize(initial_text.lower(), splits)
+
+def tokens_to_array_of_numbers(tokens):
+    full_vocab = list()
+    full_vocab += alphabet_vocab
+    full_vocab += digit_vocab
+    full_vocab += special_tokens
+    full_vocab += vocab
+    print (full_vocab)
+    result = []
+    for token in tokens:
+        if token in full_vocab:
+            result.append(full_vocab.index(token))
+        else:
+            raise Exception(f"Token {token} not in vocab")
+    return result
+
+tokens = tokens_to_array_of_numbers(toks)
+
+import json
+with open('tokens.json', 'w') as f:
+    json.dump(tokens, f)
+
 # print (toks)
 set_toks = set(toks)
 set_toks_without_special_tokens = set_toks - set(special_tokens)
