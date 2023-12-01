@@ -437,26 +437,11 @@ import json
 with open('tokens.json', 'w') as f:
     json.dump(tokens, f)
 
-# print (toks)
 set_toks = set(toks)
 set_toks_without_special_tokens = set_toks - set(special_tokens)
-set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab) - set(digit_vocab)# - set(alphabet_vocab)
+set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab) - set(digit_vocab) - set(alphabet_vocab)
 print ("set_toks", len(set_toks))
 sorted_set_toks_without_special_tokens_and_vocab = sorted(set_toks_without_special_tokens_and_vocab)
 print (sorted_set_toks_without_special_tokens_and_vocab, len(sorted_set_toks_without_special_tokens_and_vocab))
 print(len(initial_text))
 print(len(toks))
-
-# splits = merge_pair(best_pair[0], best_pair[1], splits)
-# print(splits)
-# splits["about"]
-
-
-# print(compute_pair_scores(splits))
-# print(sorted_all_syllables_items)
-# print(splits)
-
-# def compute_pair_scores()
-
-# syllables_joined = sorted(set(''.join(all_syllables.keys())))
-# print (syllables_joined)
