@@ -453,6 +453,9 @@ print (sorted_set_toks_without_special_tokens_and_vocab, len(sorted_set_toks_wit
 print(len(initial_text))
 print(len(toks))
 
+with open('full_vocab.json', 'w') as f:
+    json.dump(full_vocab, f)
+
 def decode(tokens):
     tokens = [full_vocab[token] for token in tokens]
     tokens = [token[2:] if token.startswith("##") else token for token in tokens]

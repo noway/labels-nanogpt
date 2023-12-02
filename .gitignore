@@ -4,3 +4,4 @@ deploy.zip
 dataset_md2md
 trainingdata.txt
 tokens.json
+full_vocab.json
