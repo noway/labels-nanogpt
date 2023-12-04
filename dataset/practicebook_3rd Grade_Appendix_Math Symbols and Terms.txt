@@ -108,11 +108,11 @@ In this section, you will find a list of common math symbols and terms used in t
 
 13. **Numerator**
     - The top part of a fraction which indicates how many parts are taken from the whole.
-    - **Example Answer:** In ¾, 3 is the numerator.
+    - **Example Answer:** In 3/4, 3 is the numerator.
 
 14. **Denominator**
     - The bottom part of a fraction which shows how many equal parts the whole is divided into.
-    - **Example Answer:** In ¾, 4 is the denominator.
+    - **Example Answer:** In 3/4, 4 is the denominator.
 
 15. **Equivalent Fractions**
     - Fractions that have different numerators and denominators but represent the same value.
