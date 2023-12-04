@@ -24,9 +24,9 @@ Below are some lines. Use an inch ruler to measure them to the nearest half-inch
 
 *Answers*
 
-1. Line A: 3½ inches
+1. Line A: 3 and 1/2 inches
 2. Line B: 2 inches
-3. Line C: 4½ inches
+3. Line C: 4 and 1/2 inches
 4. Line D: 1 inch
 
 ## Exercise 2: Measure the Objects
@@ -59,9 +59,9 @@ First, make an estimate of the length of the objects below. Then, measure them t
 *Answers*
 
 1. Key: Estimate: 8 cm | Actual: 7 cm
-2. Spoon: Estimate: 6 inches | Actual: 6½ inches
+2. Spoon: Estimate: 6 inches | Actual: 6 and 1/2 inches
 3. Mobile phone: Estimate: 15 cm | Actual: 14 cm
-4. Marker: Estimate: 5 inches | Actual: 5½ inches
+4. Marker: Estimate: 5 inches | Actual: 5 and 1/2 inches
 
 ## Exercise 4: Reading a Ruler
 Draw a line on your paper that matches each measurement listed below.
@@ -69,7 +69,7 @@ Draw a line on your paper that matches each measurement listed below.
 ### Line Drawings
 
 1. 2 inches
-2. 4½ inches
+2. 4 and 1/2 inches
 3. 8 cm
 4. 12 cm
 

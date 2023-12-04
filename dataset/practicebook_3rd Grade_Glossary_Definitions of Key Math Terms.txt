@@ -19,7 +19,7 @@ A bar graph is a chart that uses bars to show data visually. Each bar represents
 The Commutative Property states that you can change the order of the numbers in an addition or multiplication problem, and the result will be the same. For example, 4 + 5 = 5 + 4.
 
 ### Decimal
-A decimal is a way to represent fractions using place value in tenths, hundredths, etc. For example, 0.5 is a decimal that equals 5/10 or ½.
+A decimal is a way to represent fractions using place value in tenths, hundredths, etc. For example, 0.5 is a decimal that equals 5/10 or 1/2.
 
 ### Difference
 The difference is the result of a subtraction problem. For example, the difference between 8 and 3 is 5.
@@ -43,7 +43,7 @@ Expanded form is a way of writing numbers to show the value of each digit. For e
 A factor is a number that divides into another number exactly, without leaving a remainder. For example, the factors of 6 are 1, 2, 3, and 6.
 
 ### Fraction
-A fraction is a way to describe a part of a whole or a part of a group by using two numbers, the numerator and the denominator. For example, in the fraction ½, 1 is the numerator and 2 is the denominator.
+A fraction is a way to describe a part of a whole or a part of a group by using two numbers, the numerator and the denominator. For example, in the fraction 1/2, 1 is the numerator and 2 is the denominator.
 
 ### Graph
 A graph is a visual way to represent data or mathematical relationships. It can include bar graphs, line graphs, and pie charts, among others.

@@ -39,12 +39,12 @@
    *Exercise*: What is the place value of 6 in the number 356?
    *Answer*: 50.
 
-10. **Fraction** - A way to describe a part of a whole or a part of a group by using two numbers, the numerator (top number) and the denominator (bottom number). Example: ½ means 1 part out of 2 equal parts.
+10. **Fraction** - A way to describe a part of a whole or a part of a group by using two numbers, the numerator (top number) and the denominator (bottom number). Example: 1/2 means 1 part out of 2 equal parts.
 
     *Exercise*: What fraction represents half of a cake?
     *Answer*: 1/2.
 
-11. **Decimal** - A number that includes a decimal point to represent a whole number plus a fraction of a whole number. Example: 2.5 represents 2 whole and ½.
+11. **Decimal** - A number that includes a decimal point to represent a whole number plus a fraction of a whole number. Example: 2.5 represents 2 whole and 1/2.
 
     *Exercise*: Write 3/4 as a decimal.
     *Answer*: 0.75.

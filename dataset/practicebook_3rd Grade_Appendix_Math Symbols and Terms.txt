@@ -104,7 +104,7 @@ In this section, you will find a list of common math symbols and terms used in t
 
 12. **Fraction**
     - A way to express a number that represents a part of a whole.
-    - **Example Answer:** In the fraction ½, 1 is the numerator and 2 is the denominator.
+    - **Example Answer:** In the fraction 1/2, 1 is the numerator and 2 is the denominator.
 
 13. **Numerator**
     - The top part of a fraction which indicates how many parts are taken from the whole.
@@ -116,7 +116,7 @@ In this section, you will find a list of common math symbols and terms used in t
 
 15. **Equivalent Fractions**
     - Fractions that have different numerators and denominators but represent the same value.
-    - **Example Answer:** ½ and 2/4 are equivalent fractions.
+    - **Example Answer:** 1/2 and 2/4 are equivalent fractions.
 
 16. **Decimal**
     - A number that has a whole part and a fractional part separated by a decimal point.

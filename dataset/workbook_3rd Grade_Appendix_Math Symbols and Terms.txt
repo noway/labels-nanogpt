@@ -95,7 +95,7 @@ Example: In 234, the place value of 4 is ones, 3 is tens, and 2 is hundreds.
 
 **Fraction**  
 A way to represent parts of a whole. It has a numerator (top number) and a denominator (bottom number).  
-Example: ½, ¾
+Example: 1/2, ¾
 
 **Decimal**  
 A number with a decimal point, which denotes values less than one.  

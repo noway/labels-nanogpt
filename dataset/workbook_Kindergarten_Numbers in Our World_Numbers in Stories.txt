@@ -23,7 +23,7 @@ Answer:
 
 Two little mice, Mickey and Minnie, found one big piece of cheese. They decided to share the cheese. They split it into two equal parts so each mouse would have a piece.
 
-🐭🧀 -> 🐭½🧀 🐭½🧀
+🐭🧀 -> 🐭1/2🧀 🐭1/2🧀
 
 📘 Exercise: How many pieces of cheese did they start with? How many pieces were there after they split it?
 
