@@ -255,7 +255,6 @@ special_tokens = [
     '²',
     '³',
     '✓',
-    '✔', # TODO: same as ✓
 ]
 print(len(special_tokens))
 
