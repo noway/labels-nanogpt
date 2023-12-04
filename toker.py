@@ -206,7 +206,6 @@ special_tokens = [
     '-',
     '÷',
     '·',
-    '⋅', # TODO: same as ⋅
     '×',
     '/',
     ',',
