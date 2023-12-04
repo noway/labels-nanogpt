@@ -234,7 +234,6 @@ special_tokens = [
     '•',
     '^',
     '\\',
-    '⅓', # TODO: should be 1/3
     '↑',
     '→',
     '↓',
