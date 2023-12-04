@@ -350,6 +350,16 @@ while len(vocab) < vocab_size:
         if best_pair[1].startswith("##")
         else best_pair[0] + best_pair[1]
     )
+
+    # check that best_pair[0] is still in splits. remove from vocab if not.
+    is_best_pair_0_removed_now = not any([best_pair[0] in split for split in splits.values()])
+    if is_best_pair_0_removed_now:
+        vocab.remove(best_pair[0])
+    # check that best_pair[1] is still in splits. remove from vocab if not.
+    is_best_pair_1_removed_now = not any([best_pair[1] in split for split in splits.values()])
+    if is_best_pair_1_removed_now:
+        vocab.remove(best_pair[1])
+
     vocab.append(new_token)
 
 print(splits)
