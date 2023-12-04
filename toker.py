@@ -287,6 +287,7 @@ for token, count in most_common_tokens:
 # print (all_syllables)
 
 splits = {
+    # FYI: we don't differentiate between pieces at the beginning of a word and pieces from any other part of the word.
     word: [ f"##{c}" if i == 0 else f"##{c}" for i, c in enumerate(word)]
     for word in all_syllables.keys()
 }
