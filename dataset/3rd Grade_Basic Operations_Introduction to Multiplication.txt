@@ -23,7 +23,7 @@ Instead of adding 2 stars + 2 stars + 2 stars + 2 stars + 2 stars, we can simply
 
 ### Symbols
 
-In multiplication, we use the multiplication sign, which looks like a small "x" (×) or sometimes a small asterisk (*) or a dot (⋅).
+In multiplication, we use the multiplication sign, which looks like a small "x" (×) or sometimes a small asterisk (*) or a dot (·).
 
 ### Let's Practice!
 
