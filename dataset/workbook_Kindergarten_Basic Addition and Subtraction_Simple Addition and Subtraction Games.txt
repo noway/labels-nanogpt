@@ -54,7 +54,7 @@ Welcome to the exciting world of addition and subtraction, young learners! Math 
 **Instructions:**
 
 1. Take turns rolling two dice.
-2. The first die will tell you whether to add or subtract with '+' or '−' sign.
+2. The first die will tell you whether to add or subtract with '+' or '-' sign.
 3. The second die will give you a number to work with.
 4. Decide if you need to add or subtract based on the first die, then perform the operation with the number from the second die and the number 5.
 5. Say your answer out loud. If you are correct, you earn a point.
@@ -62,9 +62,9 @@ Welcome to the exciting world of addition and subtraction, young learners! Math 
 
 **Example of a Completed Round:**
 - Roll 1: '+' and '3' (5 + 3 = 8)
-- Roll 2: '−' and '4' (5 - 4 = 1)
+- Roll 2: '-' and '4' (5 - 4 = 1)
 - Roll 3: '+' and '2' (5 + 2 = 7)
-- Roll 4: '−' and '1' (5 - 1 = 4)
+- Roll 4: '-' and '1' (5 - 1 = 4)
 
 **Total Score after 4 Rounds:** 4 points
 
@@ -79,16 +79,16 @@ Welcome to the exciting world of addition and subtraction, young learners! Math 
 1. Draw a number line from 0 to 10 on the ground with chalk or use tape indoors.
 2. Toss a small stone or bean bag onto the number line.
 3. The number it lands closest to is your starting number.
-4. Draw an addition (+) or subtraction (−) flashcard.
+4. Draw an addition (+) or subtraction (-) flashcard.
 5. Hop forward for addition or backward for subtraction to find your answer.
 6. Shout your answer out loud!
 
 **Example Hop Sequence:**
 - Start number: 2
 - Card: +3 (2 + 3 = 5)
-- Card: −1 (5 − 1 = 4)
+- Card: -1 (5 - 1 = 4)
 - Card: +2 (4 + 2 = 6)
-- Card: −4 (6 − 4 = 2)
+- Card: -4 (6 - 4 = 2)
 
 **Final Answer After Sequence:** 2
 

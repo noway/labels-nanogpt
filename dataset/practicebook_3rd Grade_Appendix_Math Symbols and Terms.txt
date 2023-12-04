@@ -12,9 +12,9 @@ In this section, you will find a list of common math symbols and terms used in t
    - The addition symbol '+' is used when you want to combine two or more numbers.
    - **Example:** 4 + 3 = 7
 
-2. **Subtraction (−)**
-   - The subtraction symbol '−' indicates that you want to take one number away from another.
-   - **Example:** 5 − 2 = 3
+2. **Subtraction (-)**
+   - The subtraction symbol '-' indicates that you want to take one number away from another.
+   - **Example:** 5 - 2 = 3
 
 3. **Multiplication (× or ·)**
    - The multiplication symbol '×' or '·' shows that a number is to be multiplied by another.
@@ -68,15 +68,15 @@ In this section, you will find a list of common math symbols and terms used in t
 
 3. **Minuend**
    - The minuend is the number from which another number (the subtrahend) is subtracted.
-   - **Example Answer:** In 10 − 4 = 6, 10 is the minuend.
+   - **Example Answer:** In 10 - 4 = 6, 10 is the minuend.
 
 4. **Subtrahend**
    - The subtrahend is the number that is being subtracted from the minuend.
-   - **Example Answer:** In 10 − 4 = 6, 4 is the subtrahend.
+   - **Example Answer:** In 10 - 4 = 6, 4 is the subtrahend.
 
 5. **Difference**
    - The difference is the result of subtracting one number from another.
-   - **Example Answer:** The difference of 10 − 4 is 6.
+   - **Example Answer:** The difference of 10 - 4 is 6.
 
 6. **Multiplier**
    - The multiplier is the number that is multiplying another number (the multiplicand).

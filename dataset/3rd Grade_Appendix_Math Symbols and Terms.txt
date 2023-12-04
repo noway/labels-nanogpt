@@ -14,10 +14,10 @@ Welcome to the "Math Symbols and Terms" section of the Appendix. This section wi
    - **Example Exercise:** What is 5 + 3?
    - **Answer:** The sum of 5 and 3 is 8.
 
-2. **Subtraction (−)**
-   - **Symbol:** −
+2. **Subtraction (-)**
+   - **Symbol:** -
    - **Meaning:** Indicates that one number should be subtracted from another.
-   - **Example Exercise:** What is 9 − 4?
+   - **Example Exercise:** What is 9 - 4?
    - **Answer:** The difference between 9 and 4 is 5.
 
 3. **Multiplication (× or *)**

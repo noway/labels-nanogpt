@@ -2,7 +2,7 @@
 
 1. **Addition (+):** The math operation of finding the total or sum by combining two or more numbers. Example: 2 + 3 = 5.
 
-2. **Subtraction (−):** The math operation of finding the difference when one number is taken away from another. Example: 6 − 4 = 2.
+2. **Subtraction (-):** The math operation of finding the difference when one number is taken away from another. Example: 6 - 4 = 2.
 
 3. **Multiplication (×):** The math operation of combining equal groups to find the total number of items. This is often described as repeated addition. Example: 3 × 4 means 3 groups of 4, which equals 12.
 

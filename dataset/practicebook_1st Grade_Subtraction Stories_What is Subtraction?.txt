@@ -8,7 +8,7 @@ Subtraction is an important math skill that you will be learning about. It means
 
 Imagine you have a basket of apples. If you take some out, your basket doesn't have as many apples as before. That's subtraction!
 
-We use a special sign for subtraction—the minus sign (−). When you see this sign, it means that you need to subtract one number from another. The answer you get after subtracting is called the "difference."
+We use a special sign for subtraction—the minus sign (-). When you see this sign, it means that you need to subtract one number from another. The answer you get after subtracting is called the "difference."
 
 ---
 

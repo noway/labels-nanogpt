@@ -7,7 +7,7 @@ Addition is the process of combining two or more numbers to find their total amo
 The sum is the answer you get when you add two or more numbers together. For example, when we add 4 + 3, the sum is 7.
 
 ### Subtraction
-Subtraction is the process of taking one number away from another to find out how much more one is than the other. The symbol for subtraction is −. For example, 5 − 2 = 3.
+Subtraction is the process of taking one number away from another to find out how much more one is than the other. The symbol for subtraction is -. For example, 5 - 2 = 3.
 
 ### Difference
 The difference is the answer you get when you subtract one number from another. For example, if we subtract 6 from 9, the difference is 3.
@@ -85,7 +85,7 @@ A graph is a visual representation of data that shows the relationships between 
 1. Addition Problem: 3 + 2
    Answer: 5
 
-2. Subtraction Problem: 6 − 4
+2. Subtraction Problem: 6 - 4
    Answer: 2
 
 3. Multiplication Problem: 7 × 3
