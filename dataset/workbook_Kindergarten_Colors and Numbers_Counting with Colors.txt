@@ -17,21 +17,21 @@ Look at the pictures below. Each picture has a certain number of colorful items.
    [3 Red Apples]
 
    - _Coloring Instruction:_ Red
-   - _Count:_ 3 ✔️
+   - _Count:_ 3 ✓️
 
 2. **Blue Balls:** Color each of the balls blue. How many balls do you see?
 
    [5 Blue Balls]
 
    - _Coloring Instruction:_ Blue
-   - _Count:_ 5 ✔️
+   - _Count:_ 5 ✓️
 
 3. **Yellow Suns:** Color each of the suns yellow. How many suns are there?
 
    [2 Yellow Suns]
 
    - _Coloring Instruction:_ Yellow
-   - _Count:_ 2 ✔️
+   - _Count:_ 2 ✓️
 
 ---
 
@@ -44,21 +44,21 @@ Here you will color groups of items based on how many there are.
    [4 Flowers]
 
    - _Number to Color:_ 4
-   - _Color Used:_ Purple ✔️
+   - _Color Used:_ Purple ✓️
 
 2. There are 6 stars. Color them orange.
 
    [6 Stars]
 
    - _Number to Color:_ 6
-   - _Color Used:_ Orange ✔️
+   - _Color Used:_ Orange ✓️
 
 3. There are 7 hearts. Color them pink.
 
    [7 Hearts]
 
    - _Number to Color:_ 7
-   - _Color Used:_ Pink ✔️
+   - _Color Used:_ Pink ✓️
 
 ---
 
@@ -71,14 +71,14 @@ In this exercise, you will see groups of items with two different colors. Count 
    [2 red cars and 3 green cars]
 
    - _Coloring Instruction:_ Red, Green
-   - _Count:_ 5 ✔️ (2 Red, 3 Green)
+   - _Count:_ 5 ✓️ (2 Red, 3 Green)
 
 2. There are fish. Some are orange and some are yellow. Color the fish and write how many fish there are in total.
 
    [4 orange fish and 1 yellow fish]
 
    - _Coloring Instruction:_ Orange, Yellow
-   - _Count:_ 5 ✔️ (4 Orange, 1 Yellow)
+   - _Count:_ 5 ✓️ (4 Orange, 1 Yellow)
 
 Congratulations on completing the "Counting with Colors" section! You did an amazing job learning how to count and use colors at the same time. Always remember the numbers and the wonderful colors that you see around you every day.
 

@@ -61,9 +61,9 @@ Now it's time to practice writing numbers. Trace the dotted lines to write each 
 
 Let's count together to 10! Count the objects below and write the correct number in the box provided.
 
-Object | ✔️ | Number
+Object | ✓️ | Number
 :-: | :-: | :-:
-🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎 | [ ✔️ ] | 11
+🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎 | [ ✓️ ] | 11
 
 *Answers*: The correct number to write in the box is 11.
 
