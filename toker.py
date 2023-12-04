@@ -252,7 +252,6 @@ special_tokens = [
     '▢',
     '△',
     '○',
-    '−', # TODO: should be -
     '²',
     '³',
     '✓',
