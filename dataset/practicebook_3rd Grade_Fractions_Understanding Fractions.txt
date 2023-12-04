@@ -22,7 +22,7 @@ A fraction has two numbers, with one on top and one on the bottom, separated by 
 There are different types of fractions that we can have:
 
 1. **Proper Fractions** - The numerator is smaller than the denominator (e.g., 3/8).
-2. **Improper Fractions** - The numerator is larger than the denominator (e.g., 9/4). This can also be written as a mixed number which has a whole number and a proper fraction (e.g., 2¼).
+2. **Improper Fractions** - The numerator is larger than the denominator (e.g., 9/4). This can also be written as a mixed number which has a whole number and a proper fraction (e.g., 2 and 1/4).
 3. **Mixed Numbers** - A combination of a whole number and a proper fraction (e.g., 3 and 1/2).
 4. **Equivalent Fractions** - Different fractions that represent the same amount (e.g., 1/2 is the same as 2/4 or 4/8).
 
