@@ -423,10 +423,10 @@ toks = tokenize(initial_text.lower(), splits)
 
 def tokens_to_array_of_numbers(tokens):
     full_vocab = list()
-    full_vocab += alphabet_vocab
     full_vocab += digit_vocab
-    full_vocab += special_tokens
+    full_vocab += alphabet_vocab
     full_vocab += vocab
+    full_vocab += special_tokens
     full_vocab = list(dict.fromkeys(full_vocab))
     full_vocab_from_tokens = list(set(tokens))
     # FYI: not_needed must always be empty
