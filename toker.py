@@ -428,6 +428,7 @@ def tokens_to_array_of_numbers(tokens):
     full_vocab_from_tokens = list(set(tokens))
     # TODO: I'm not sure why not_needed is actually non-empty. Should be always empty - somehow some BPE tokens are never used.
     # TODO: maybe this is where BPE breaks down - like how GPT4 breaks down on " davidjl" token. do not_needed become blind tokens?
+    # TODO: actually, no, thought about this a bit more - we're removing tokens that are not used. this is not " davidjl" problem, this is a "twe" problem and "twe" will just get encoded by alphabet_vocab. In short, this is not a problem.
     not_needed = set(full_vocab) - set(full_vocab_from_tokens)
     print('not_needed set:', not_needed)
     full_vocab = [token for token in full_vocab if token not in not_needed]
