@@ -427,6 +427,7 @@ def tokens_to_array_of_numbers(tokens):
     full_vocab_from_tokens = list(set(tokens))
     # TODO: I'm not sure why not_needed is actually non-empty. Should be always empty - somehow some BPE tokens are never used.
     not_needed = set(full_vocab) - set(full_vocab_from_tokens)
+    print('not_needed set:', not_needed)
     full_vocab = [token for token in full_vocab if token not in not_needed]
     print(len(full_vocab))
     print (full_vocab)
