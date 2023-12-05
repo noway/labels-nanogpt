@@ -23,6 +23,7 @@ n_layer = 3
 n_head = 4
 dropout = 0.2
 
+compute_unit_count = torch.cuda.device_count() if device == 'cuda' else 1
 
 data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
@@ -193,13 +194,13 @@ for steps in range(max_iters):
     xb, yb = get_batch()
     logits, loss = m(xb, yb)
     optimizer.zero_grad(set_to_none=True)
-    (loss.sum()/8).backward()
+    (loss.sum()/compute_unit_count).backward()
     optimizer.step()
     if steps % eval_iters == 0:
-        training_data_loss = (loss.sum()/8).item()
+        training_data_loss = (loss.sum()/compute_unit_count).item()
         validation_batch = get_batch_val()
         logits, loss = m(*validation_batch)
-        val_loss = (loss.sum()/8).item()
+        val_loss = (loss.sum()/compute_unit_count).item()
         print(f"steps={steps} training_data_loss={training_data_loss} val_loss={val_loss}")
 
 print(loss.item())
