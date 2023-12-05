@@ -183,7 +183,7 @@ class Head(nn.Module):
         return out
 
 print (vocab_size)
-m = BigramLanguageModel()
+m = nn.DataParallel(BigramLanguageModel())
 m.to(device)
 
 print(sum(p.numel() for p in m.parameters() if p.requires_grad)/1e6, "M parameters")
@@ -193,13 +193,13 @@ for steps in range(max_iters):
     xb, yb = get_batch()
     logits, loss = m(xb, yb)
     optimizer.zero_grad(set_to_none=True)
-    loss.backward()
+    (loss.sum()/8).backward()
     optimizer.step()
     if steps % eval_iters == 0:
-        training_data_loss = loss.item()
+        training_data_loss = (loss.sum()/8).item()
         validation_batch = get_batch_val()
         logits, loss = m(*validation_batch)
-        val_loss = loss.item()
+        val_loss = (loss.sum()/8).item()
         print(f"steps={steps} training_data_loss={training_data_loss} val_loss={val_loss}")
 
 print(loss.item())
@@ -207,4 +207,4 @@ print(loss.item())
 idx = torch.zeros(1, 1, dtype=torch.long)
 idx = idx.to(device)
 print(idx.shape)
-print(m.generate(idx, 1000)[0].tolist())
+print(m.generate(idx, 10000)[0].tolist())
