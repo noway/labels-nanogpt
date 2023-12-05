@@ -10,17 +10,17 @@ encoded = eval(json_str)
 chars = list(set(encoded))
 vocab_size = len(chars)
 
-batch_size = 32*4
+batch_size = 32
 block_size = 256
 max_iters = 5000
-num_embeddings = 512
+num_embeddings = 64
 device = ('cuda' if torch.cuda.is_available()
           else 'mps' if hasattr(torch.backends, 'mps') and torch.backends.mps.is_available()
           else 'cpu')
 learning_rate = 3e-4
 eval_iters = 25
-n_layer = 24
-n_head = 16
+n_layer = 3
+n_head = 4
 dropout = 0.2
 
 
@@ -207,4 +207,4 @@ print(loss.item())
 idx = torch.zeros(1, 1, dtype=torch.long)
 idx = idx.to(device)
 print(idx.shape)
-print(m.generate(idx, 10000)[0].tolist())
+print(m.generate(idx, 1000)[0].tolist())
