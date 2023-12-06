@@ -35,7 +35,6 @@ val_data = data[first_90_percent:]
 x = train_data[:block_size]
 y = train_data[1:block_size+1]
 
-
 def get_batch():
     data = train_data
     ix = torch.randint(len(data) - block_size, (batch_size,))

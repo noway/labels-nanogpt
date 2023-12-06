@@ -1,18 +1,23 @@
-generate practice book
+generate practice book [done]
+generate Workbooks [done]
 generate Teacher's Edition Textbooks
-generate Workbooks
 generate interactive activities (agentic)
 generate educational games (agentic)
 generate project-based learning activities
 generate advanced problem sets
 
-consistent formatting in textbooks/workbooks/etc
-actually review textbooks/worksbooks/etc
-make sure textbook answer key is ALWAYS provided
-render md -> html -> elinks (would this work for highlighting bold?) (maybe convert terminal seqs back to md-light?)
+*todo*
+- consistent formatting in textbooks/workbooks/etc
+- actually review textbooks/worksbooks/etc
+- make sure textbook answer key is ALWAYS provided
+- remove encourangements
+- look for "the student" or "student"
+- might have to regenerate the review chapter or delete
+- should learn on the dataset sequentially
+- 10% from the end of the dataset is actually not very representative of the whole dataset.
+- render md -> html -> elinks (would this work for highlighting bold?) (maybe convert terminal seqs back to md-light?) [done]
 - render latex somehow? [done]
-start token for every section/chapter
-remove encourangements
+- start token for every section/chapter [done]
 - look for "the actual" and "will vary" or "depend" - replace them with an "unsolved problem" or something [done]
 - :apple: - might need to replace with proper emoji? [done]
 - look for "next exciting chapter" strings somehow [done]
@@ -22,15 +27,11 @@ remove encourangements
 - look for "[Insert" [done]
 - look for "*Note" [done]
 - look for "(provide [done]
-- look for "the student" or "student"
-- might have to regenerate the review chapter or delete
 - look for "*Note" again [done]
 - look for "Please note" [done]
 - look for "will vary" [done]
-- · should be ×
-- replace ¼ with 1/4 
-- should learn on the dataset sequentially
-- 10% from the end of the dataset is actually not very representative of the whole dataset.
+- · should be × [no]
+- replace ¼ with 1/4 [done]
 
 *sharp edges*
 - there's some stuff like environment (classroom) specfic games where answer is random. can't learn much from it
