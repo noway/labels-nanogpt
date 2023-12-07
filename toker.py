@@ -264,31 +264,31 @@ token_counts = Counter(tokens)
 most_common_tokens = token_counts.most_common()
 # dic = pyphen.Pyphen(lang='en_US')
 
-all_syllables = {}
+words = {}
 for token, count in most_common_tokens:
     token = token.strip("'")
-    if token not in all_syllables:
-        all_syllables[token] = 0
-    all_syllables[token] += count
+    if token not in words:
+        words[token] = 0
+    words[token] += count
     # syllables = dic.inserted(token)
     # syllables = "'".join(syllables.split('-')).split("'")
     # for syllable in syllables:
     #     if len(syllable) == 0:
     #         continue
-    #     if syllable not in all_syllables:
-    #         all_syllables[syllable] = 0
-    #     all_syllables[syllable] += count
+    #     if syllable not in words:
+    #         words[syllable] = 0
+    #     words[syllable] += count
 
 splits = {
     # FYI: we don't differentiate between pieces at the beginning of a word and pieces from any other part of the word.
     word: [ f"##{c}" if i == 0 else f"##{c}" for i, c in enumerate(word)]
-    for word in all_syllables.keys()
+    for word in words.keys()
 }
 
 def compute_pair_scores(splits):
     letter_freqs = defaultdict(int)
     pair_freqs = defaultdict(int)
-    for word, _freq in all_syllables.items():
+    for word, _freq in words.items():
         # freq = 1 # every word has a weight of 1 - this is divergent from wordpiece/bpe
         freq = _freq
         split = splits[word]
@@ -310,7 +310,7 @@ def compute_pair_scores(splits):
     return scores
 
 def merge_pair(a, b, splits):
-    for word in all_syllables:
+    for word in words:
         split = splits[word]
         if len(split) == 1:
             continue
