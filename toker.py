@@ -256,9 +256,8 @@ print(len(special_tokens))
 text = text.lower()
 for special_token in special_tokens:
     text = text.replace(special_token, ' ')
-text = re.sub(r'\d+', ' ', text)
-
 # replace numbers
+text = re.sub(r'\d+', ' ', text)
 
 tokens = text.split()
 token_counts = Counter(tokens)
@@ -276,8 +275,6 @@ for token, count in most_common_tokens:
         if syllable not in all_syllables:
             all_syllables[syllable] = 0
         all_syllables[syllable] += count
-
-# print (all_syllables)
 
 splits = {
     # FYI: we don't differentiate between pieces at the beginning of a word and pieces from any other part of the word.
@@ -358,7 +355,6 @@ while len(vocab) < vocab_size:
 print(splits)
 print(len(vocab))
 
-
 def special_token_split(s, delimiters):
     delimiters.sort(key=len, reverse=True)
     pattern = re.compile('(' + '|'.join(map(re.escape, delimiters)) + ')')
@@ -407,7 +403,6 @@ def syllable_split(tokens):
         else:
             result.append(token)
     return result
-
 
 def tokenize(text, splits):
     tokens = []
