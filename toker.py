@@ -6,7 +6,7 @@ from collections import defaultdict
 with open('trainingdata.txt', 'r') as f:
     initial_text = f.read()
 
-print(len(initial_text))
+# print(len(initial_text))
 text = initial_text
 
 special_tokens = [
@@ -251,7 +251,7 @@ special_tokens = [
     '³',
     '✓',
 ]
-print(len(special_tokens))
+# print(len(special_tokens))
 
 text = text.lower()
 for special_token in special_tokens:
@@ -355,8 +355,8 @@ while len(vocab) < vocab_size:
 
     vocab.append(new_token)
 
-print(splits)
-print(len(vocab))
+# print(splits)
+# print(len(vocab))
 
 def special_token_split(s, delimiters):
     delimiters.sort(key=len, reverse=True)
@@ -429,10 +429,10 @@ def tokens_to_array_of_numbers(tokens):
     full_vocab_from_tokens = list(set(tokens))
     # FYI: not_needed must always be empty
     not_needed = set(full_vocab) - set(full_vocab_from_tokens)
-    print('not_needed set:', not_needed)
+    # print('not_needed set:', not_needed)
     full_vocab = [token for token in full_vocab if token not in not_needed]
-    print(len(full_vocab))
-    print (full_vocab)
+    # print(len(full_vocab))
+    # print (full_vocab)
     result = []
     for token in tokens:
         if token in full_vocab:
@@ -450,11 +450,11 @@ with open('tokens.json', 'w') as f:
 set_toks = set(toks)
 set_toks_without_special_tokens = set_toks - set(special_tokens)
 set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab) - set(digit_vocab) - set(alphabet_vocab)
-print ("set_toks", len(set_toks))
+# print ("set_toks", len(set_toks))
 sorted_set_toks_without_special_tokens_and_vocab = sorted(set_toks_without_special_tokens_and_vocab)
-print (sorted_set_toks_without_special_tokens_and_vocab, len(sorted_set_toks_without_special_tokens_and_vocab))
-print(len(initial_text))
-print(len(toks))
+# print (sorted_set_toks_without_special_tokens_and_vocab, len(sorted_set_toks_without_special_tokens_and_vocab))
+# print(len(initial_text))
+# print(len(toks))
 
 with open('full_vocab.json', 'w') as f:
     json.dump(full_vocab, f)
