@@ -417,7 +417,17 @@ def tokenize(text, splits):
             tokens.append(token)
     return tokens
 
-toks = tokenize(initial_text.lower(), splits)
+
+spelling_map_text = ""
+spelling_map_text += "# word map\n"
+for word in splits:
+    if len(splits[word]) > 1:
+        split = splits[word]
+        split_parts_without_hashes = [part[2:] if part.startswith("##") else part for part in split]
+        spelling_map_text += f'{word}: {"-".join(split_parts_without_hashes)}\n'
+spelling_map_text += '\n\n\n'
+
+toks = tokenize(spelling_map_text + initial_text.lower(), splits)
 
 def tokens_to_array_of_numbers(tokens):
     full_vocab = list()
