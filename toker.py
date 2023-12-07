@@ -436,8 +436,14 @@ for word in splits:
         word_split_to_letters = list(word)
         spelling_map_text += f'{word}: {"-".join(word_split_to_letters)}\n'
 
-print (spelling_map_text)
-# TODO: do the same as the above, but not for words, but for any splits that are longer than 1 character.
+splits_more_than_one = [splits[word] for word in splits if len(splits[word]) > 1]
+flattened_splits_more_than_one = [item for sublist in splits_more_than_one for item in sublist]
+uniq_flattened_splits_more_than_one = list(dict.fromkeys(flattened_splits_more_than_one))
+for piece in uniq_flattened_splits_more_than_one:
+    piece = piece[2:] if piece.startswith("##") else piece
+    piece_split_to_letters = list(piece)
+    spelling_map_text += f'{piece}: {"-".join(piece_split_to_letters)}\n'
+
 spelling_map_text += '\n\n\n'
 
 word_map_toks = tokenize_word_map(spelling_map_text, splits)
