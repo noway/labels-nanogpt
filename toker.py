@@ -430,7 +430,7 @@ def tokenize_word_map(text, splits):
     return tokens
 
 spelling_map_text = ""
-spelling_map_text += "# letter map for words\n"
+spelling_map_text += "\<\|document\|\>letter map for words\n"
 for word in splits:
     if len(splits[word]) == 1:
         word_split_to_letters = list(word)
