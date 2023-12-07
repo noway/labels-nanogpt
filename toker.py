@@ -480,7 +480,7 @@ with open('tokens.json', 'w') as f:
 set_toks = set(word_map_toks + toks)
 set_toks_without_special_tokens = set_toks - set(special_tokens)
 set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab) - set(digit_vocab) - set(alphabet_vocab)
-# print ("set_toks", len(set_toks))
+print ("set_toks", len(set_toks))
 sorted_set_toks_without_special_tokens_and_vocab = sorted(set_toks_without_special_tokens_and_vocab)
 # print (sorted_set_toks_without_special_tokens_and_vocab, len(sorted_set_toks_without_special_tokens_and_vocab))
 # print(len(initial_text))
