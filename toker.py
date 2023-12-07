@@ -433,10 +433,7 @@ spelling_map_text = ""
 spelling_map_text += "# letter map for words\n"
 for word in splits:
     if len(splits[word]) == 1:
-        # split word to letter using regular python facilities
         word_split_to_letters = list(word)
-        # split = splits[word]
-        # split_parts_without_hashes = [part[2:] if part.startswith("##") else part for part in split]
         spelling_map_text += f'{word}: {"-".join(word_split_to_letters)}\n'
 
 print (spelling_map_text)
