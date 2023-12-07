@@ -1,6 +1,6 @@
 from collections import Counter
 import re
-import pyphen
+# import pyphen
 from collections import defaultdict
 
 with open('trainingdata.txt', 'r') as f:
@@ -262,19 +262,22 @@ text = re.sub(r'\d+', ' ', text)
 tokens = text.split()
 token_counts = Counter(tokens)
 most_common_tokens = token_counts.most_common()
-dic = pyphen.Pyphen(lang='en_US')
+# dic = pyphen.Pyphen(lang='en_US')
 
 all_syllables = {}
 for token, count in most_common_tokens:
     token = token.strip("'")
-    syllables = dic.inserted(token)
-    syllables = "'".join(syllables.split('-')).split("'")
-    for syllable in syllables:
-        if len(syllable) == 0:
-            continue
-        if syllable not in all_syllables:
-            all_syllables[syllable] = 0
-        all_syllables[syllable] += count
+    if token not in all_syllables:
+        all_syllables[token] = 0
+    all_syllables[token] += count
+    # syllables = dic.inserted(token)
+    # syllables = "'".join(syllables.split('-')).split("'")
+    # for syllable in syllables:
+    #     if len(syllable) == 0:
+    #         continue
+    #     if syllable not in all_syllables:
+    #         all_syllables[syllable] = 0
+    #     all_syllables[syllable] += count
 
 splits = {
     # FYI: we don't differentiate between pieces at the beginning of a word and pieces from any other part of the word.
@@ -393,15 +396,15 @@ def digit_split(tokens):
 def syllable_split(tokens):
     result = []
     for token in tokens:
-        if token.isalpha():
-            syllables = dic.inserted(token)
-            syllables = "'".join(syllables.split('-')).split("'")
-            for syllable in syllables:
-                if len(syllable) == 0:
-                    continue
-                result.append(syllable)
-        else:
-            result.append(token)
+        # if token.isalpha():
+        #     syllables = dic.inserted(token)
+        #     syllables = "'".join(syllables.split('-')).split("'")
+        #     for syllable in syllables:
+        #         if len(syllable) == 0:
+        #             continue
+        #         result.append(syllable)
+        # else:
+        result.append(token)
     return result
 
 def tokenize(text, splits):
