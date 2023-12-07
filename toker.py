@@ -417,6 +417,17 @@ def tokenize(text, splits):
             tokens.append(token)
     return tokens
 
+def tokenize_word_map(text, splits):
+    tokens = []
+    for token in special_token_split(text, special_tokens):
+        token_with_hashes = f'##{token}'
+        if token in splits:
+            tokens.extend(splits[token])
+        elif any([token_with_hashes in split for split in splits.values()]):
+            tokens.append(token_with_hashes)
+        else:
+            tokens.append(token)
+    return tokens
 
 spelling_map_text = ""
 spelling_map_text += "# word map\n"
@@ -427,7 +438,8 @@ for word in splits:
         spelling_map_text += f'{word}: {"-".join(split_parts_without_hashes)}\n'
 spelling_map_text += '\n\n\n'
 
-toks = tokenize(spelling_map_text + initial_text.lower(), splits)
+word_map_toks = tokenize_word_map(spelling_map_text, splits)
+toks = tokenize(initial_text.lower(), splits)
 
 def tokens_to_array_of_numbers(tokens):
     full_vocab = list()
@@ -451,13 +463,13 @@ def tokens_to_array_of_numbers(tokens):
             raise Exception(f"Token {token} not in vocab")
     return [result, full_vocab]
 
-tokens, full_vocab = tokens_to_array_of_numbers(toks)
+tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
 
 import json
 with open('tokens.json', 'w') as f:
     json.dump(tokens, f)
 
-set_toks = set(toks)
+set_toks = set(word_map_toks + toks)
 set_toks_without_special_tokens = set_toks - set(special_tokens)
 set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab) - set(digit_vocab) - set(alphabet_vocab)
 # print ("set_toks", len(set_toks))
