@@ -2,7 +2,7 @@
 
 SOUND_FILE="/System/Library/Sounds/Funk.aiff"
 getCurrentOutput() {
-    ./track_instance_types.sh | jq '.data.gpu_1x_h100_pcie.regions_with_capacity_available | length'
+    ./track_instance_types.sh | jq '.data.gpu_1x_h100_pcie.regions_with_capacity_available'
 }
 previous_output=$(getCurrentOutput)
 while true; do
