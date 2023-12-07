@@ -430,13 +430,16 @@ def tokenize_word_map(text, splits):
     return tokens
 
 spelling_map_text = ""
-spelling_map_text += "# word map\n"
+spelling_map_text += "# letter map for words\n"
 for word in splits:
     if len(splits[word]) == 1:
-        split = splits[word]
-        split_parts_without_hashes = [part[2:] if part.startswith("##") else part for part in split]
-        spelling_map_text += f'{word}: # TODO: map it to characters'
+        # split word to letter using regular python facilities
+        word_split_to_letters = list(word)
+        # split = splits[word]
+        # split_parts_without_hashes = [part[2:] if part.startswith("##") else part for part in split]
+        spelling_map_text += f'{word}: {"-".join(word_split_to_letters)}\n'
 
+print (spelling_map_text)
 # TODO: do the same as the above, but not for words, but for any splits that are longer than 1 character.
 spelling_map_text += '\n\n\n'
 
