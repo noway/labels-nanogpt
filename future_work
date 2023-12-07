@@ -32,6 +32,8 @@ generate advanced problem sets
 - look for "will vary" [done]
 - · should be × [no]
 - replace ¼ with 1/4 [done]
+- implement abbreviation/hiraginazition idea
+- remove pyhyphen (doesn't work that well for English)
 
 *sharp edges*
 - there's some stuff like environment (classroom) specfic games where answer is random. can't learn much from it
