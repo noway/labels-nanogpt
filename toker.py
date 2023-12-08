@@ -1,12 +1,10 @@
-from collections import Counter
 import re
-# import pyphen
+from collections import Counter
 from collections import defaultdict
 
 with open('trainingdata.txt', 'r') as f:
     initial_text = f.read()
 
-# print(len(initial_text))
 text = initial_text
 
 special_tokens = [
@@ -251,7 +249,6 @@ special_tokens = [
     '³',
     '✓',
 ]
-# print(len(special_tokens))
 
 text = text.lower()
 for special_token in special_tokens:
@@ -262,7 +259,6 @@ text = re.sub(r'\d+', ' ', text)
 tokens = text.split()
 token_counts = Counter(tokens)
 most_common_tokens = token_counts.most_common()
-# dic = pyphen.Pyphen(lang='en_US')
 
 words = {}
 for token, count in most_common_tokens:
@@ -270,14 +266,6 @@ for token, count in most_common_tokens:
     if token not in words:
         words[token] = 0
     words[token] += count
-    # syllables = dic.inserted(token)
-    # syllables = "'".join(syllables.split('-')).split("'")
-    # for syllable in syllables:
-    #     if len(syllable) == 0:
-    #         continue
-    #     if syllable not in words:
-    #         words[syllable] = 0
-    #     words[syllable] += count
 
 splits = {
     # FYI: we don't differentiate between pieces at the beginning of a word and pieces from any other part of the word.
@@ -289,7 +277,7 @@ def compute_pair_scores(splits):
     letter_freqs = defaultdict(int)
     pair_freqs = defaultdict(int)
     for word, _freq in words.items():
-        # freq = 1 # every word has a weight of 1 - this is divergent from wordpiece/bpe
+        # freq = 1 # comment in for every word to be a weight of 1 - this is divergent from wordpiece/bpe
         freq = _freq
         split = splits[word]
         if len(split) == 1:
@@ -348,15 +336,13 @@ while len(vocab) < vocab_size:
     is_best_pair_0_removed_now = not any([best_pair[0] in split for split in splits.values()])
     if is_best_pair_0_removed_now:
         vocab.remove(best_pair[0])
+
     # check that best_pair[1] is still in splits. remove from vocab if not.
     is_best_pair_1_removed_now = not any([best_pair[1] in split for split in splits.values()])
     if is_best_pair_1_removed_now:
         vocab.remove(best_pair[1])
 
     vocab.append(new_token)
-
-# print(splits)
-# print(len(vocab))
 
 def special_token_split(s, delimiters):
     delimiters.sort(key=len, reverse=True)
@@ -394,23 +380,15 @@ def digit_split(tokens):
     return result
 
 def syllable_split(tokens):
+    # FYI: a pass-through function since we removed syllable splitting
     result = []
     for token in tokens:
-        # if token.isalpha():
-        #     syllables = dic.inserted(token)
-        #     syllables = "'".join(syllables.split('-')).split("'")
-        #     for syllable in syllables:
-        #         if len(syllable) == 0:
-        #             continue
-        #         result.append(syllable)
-        # else:
         result.append(token)
     return result
 
 def tokenize(text, splits):
     tokens = []
     for token in syllable_split(digit_split(special_token_split(text, special_tokens))):
-        # print (token)
         if token in splits:
             tokens.extend(splits[token])
         else:
@@ -459,16 +437,14 @@ def tokens_to_array_of_numbers(tokens):
     full_vocab_from_tokens = list(set(tokens))
     # FYI: not_needed must always be empty
     not_needed = set(full_vocab) - set(full_vocab_from_tokens)
-    # print('not_needed set:', not_needed)
+    print('not_needed set (should always be empty):', not_needed)
     full_vocab = [token for token in full_vocab if token not in not_needed]
-    # print(len(full_vocab))
-    # print (full_vocab)
     result = []
     for token in tokens:
         if token in full_vocab:
             result.append(full_vocab.index(token))
         else:
-            raise Exception(f"Token {token} not in vocab")
+            raise Exception(f"Token {token} is not in vocab")
     return [result, full_vocab]
 
 tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
@@ -480,11 +456,8 @@ with open('tokens.json', 'w') as f:
 set_toks = set(word_map_toks + toks)
 set_toks_without_special_tokens = set_toks - set(special_tokens)
 set_toks_without_special_tokens_and_vocab = set_toks_without_special_tokens - set(vocab) - set(digit_vocab) - set(alphabet_vocab)
-print ("set_toks", len(set_toks))
+print ("set_toks (vocab_size)", len(set_toks))
 sorted_set_toks_without_special_tokens_and_vocab = sorted(set_toks_without_special_tokens_and_vocab)
-# print (sorted_set_toks_without_special_tokens_and_vocab, len(sorted_set_toks_without_special_tokens_and_vocab))
-# print(len(initial_text))
-# print(len(toks))
 
 with open('full_vocab.json', 'w') as f:
     json.dump(full_vocab, f)
