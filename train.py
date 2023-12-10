@@ -35,9 +35,6 @@ first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
-x = train_data[:block_size]
-y = train_data[1 : block_size + 1]
-
 
 def get_batch():
     data = train_data
@@ -53,15 +50,6 @@ def get_batch_val():
     x = torch.stack([data[i : i + block_size] for i in ix])
     y = torch.stack([data[i + 1 : i + block_size + 1] for i in ix])
     return x, y
-
-
-xb, yb = get_batch()
-
-# for b in range(batch_size):
-#     for t in range(block_size):
-#         context = xb[b,:t+1]
-#         target = yb[b,t]
-#         print(f"t={t} context={decode(context.tolist())} target={decode([target.item()])}")
 
 
 class MultiHeadAttention(nn.Module):
