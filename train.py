@@ -224,6 +224,10 @@ for steps in range(max_iters):
 
 print(loss.item())
 
+PATH = "model_weights.pth"
+print(f"Saving model to {PATH}")
+torch.save(m.module.state_dict(), PATH)
+
 idx = torch.zeros(1, 1, dtype=torch.long)
 idx = idx.to(device)
 print(idx.shape)
