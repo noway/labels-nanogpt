@@ -9,7 +9,7 @@ encoded = eval(json_str)
 chars = list(set(encoded))
 vocab_size = len(chars)
 
-batch_size = 32 * 6
+batch_size = 32 * 4
 block_size = 256
 max_iters = 5000
 num_embeddings = 512
