@@ -1,5 +1,6 @@
 import os
 
+
 def clean_text_files_v2(directory):
     for filename in os.listdir(directory):
         if filename.endswith('.txt'):
@@ -16,5 +17,6 @@ def clean_text_files_v2(directory):
             with open(filepath, 'w') as file:
                 file.writelines(lines)
 
-directory = "."
+
+directory = '.'
 clean_text_files_v2(directory)

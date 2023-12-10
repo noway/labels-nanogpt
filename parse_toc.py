@@ -1,6 +1,9 @@
 import json
+
 section_count = 0
-def parse_toc(filename): 
+
+
+def parse_toc(filename):
     global section_count
     with open(filename, 'r') as f:
         text = f.read()
@@ -27,6 +30,7 @@ def parse_toc(filename):
                     book_structure[current_chapter_title].append(section_title)
                     section_count += 1
     return book_structure
+
 
 res_0 = parse_toc('grade_0_toc.txt')
 res_1 = parse_toc('grade_1_toc.txt')

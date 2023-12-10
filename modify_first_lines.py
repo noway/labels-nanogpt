@@ -1,8 +1,9 @@
 import os
 
+
 def modify_files_in_directory(directory):
     for filename in os.listdir(directory):
-        if filename.endswith(".txt"):
+        if filename.endswith('.txt'):
             filepath = os.path.join(directory, filename)
 
             with open(filepath, 'r') as file:
@@ -20,6 +21,7 @@ def modify_files_in_directory(directory):
 
                     with open(filepath, 'w') as file:
                         file.writelines(lines)
+
 
 directory_path = '.'
 modify_files_in_directory(directory_path)
