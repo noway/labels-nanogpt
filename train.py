@@ -36,9 +36,27 @@ train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
 
+def compute_ix_one(i, block_size, data):
+    return (i * block_size) % (len(data) - block_size)
+
+
+def compute_ix(j, block_size, data):
+    return torch.tensor(
+        [
+            compute_ix_one(i + batch_size * j, block_size, data)
+            for i in range(batch_size)
+        ]
+    )
+
+
+j = 0
+
+
 def get_batch():
+    global j
     data = train_data
-    ix = torch.randint(len(data) - block_size, (batch_size,))
+    ix = compute_ix(j, block_size, data)
+    j += 1
     x = torch.stack([data[i : i + block_size] for i in ix])
     y = torch.stack([data[i + 1 : i + block_size + 1] for i in ix])
     return x, y
