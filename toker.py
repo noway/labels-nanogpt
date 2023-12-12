@@ -1,5 +1,6 @@
 import re
 import json
+import numpy as np
 from collections import Counter
 from collections import defaultdict
 
@@ -390,6 +391,34 @@ def digit_split(tokens):
             result.append(token)
     return result
 
+
+##### WIP #####
+
+# print('words',words)
+counts = np.array(list(words.values()))
+# counts_adjusted = counts - np.max(counts)
+# print ('counts_adjusted',counts_adjusted)
+# exp = np.exp(counts_adjusted)
+# probabilities = exp / np.sum(exp)
+# print('probabilities',probabilities)
+
+counts_log = np.log1p(counts)  # np.log1p(x) returns log(1 + x), providing greater precision for small values of x.
+
+print('counts_log',counts_log)
+
+exp = np.exp(counts_log - np.max(counts_log))
+probabilities = exp / np.sum(exp)
+
+print ('probabilities',probabilities)
+print ('np.sum(probabilities)',np.sum(probabilities))
+
+very_common_threshold = np.percentile(probabilities, 80)
+common_threshold = np.percentile(probabilities, 50)
+
+print('very_common_threshold',very_common_threshold)
+print('common_threshold',common_threshold)
+
+##### .WIP #####
 
 def tokenize(text, splits):
     tokens = []
