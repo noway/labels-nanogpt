@@ -403,22 +403,48 @@ counts = np.array(list(words.values()))
 # print('probabilities',probabilities)
 
 
-# TODO: just divide by max?
-counts_log = np.log1p(counts)  # np.log1p(x) returns log(1 + x), providing greater precision for small values of x.
+# # TODO: just divide by max?
+# counts_log = np.log1p(counts)  # np.log1p(x) returns log(1 + x), providing greater precision for small values of x.
 
-print('counts_log',counts_log)
+# print('counts_log',counts_log)
 
-exp = np.exp(counts_log - np.max(counts_log))
-probabilities = exp / np.sum(exp)
+# exp = np.exp(counts_log - np.max(counts_log))
+# probabilities = exp / np.sum(exp)
 
-print ('probabilities',probabilities)
-print ('np.sum(probabilities)',np.sum(probabilities))
+# print ('probabilities',probabilities)
+# print ('np.sum(probabilities)',np.sum(probabilities))
 
-very_common_threshold = np.percentile(probabilities, 80)
-common_threshold = np.percentile(probabilities, 50)
+# very_common_threshold = np.percentile(probabilities, 80)
+# common_threshold = np.percentile(probabilities, 50)
 
-print('very_common_threshold',very_common_threshold)
-print('common_threshold',common_threshold)
+# print('very_common_threshold',very_common_threshold)
+# print('common_threshold',common_threshold)
+
+
+
+sorted_words = sorted(words, key=words.get, reverse=True)
+
+total_words = len(sorted_words)
+boundary_1 = total_words // 5
+boundary_2 = boundary_1 * 2
+boundary_3 = boundary_1 * 3
+boundary_4 = boundary_1 * 4
+
+commonality_map = {}
+
+for i in range(total_words):
+    if i < boundary_1:
+        commonality_map[sorted_words[i]] = 'extremely_common'
+    elif i < boundary_2:
+        commonality_map[sorted_words[i]] = 'very_common'
+    elif i < boundary_3:
+        commonality_map[sorted_words[i]] = 'moderately_common'
+    elif i < boundary_4:
+        commonality_map[sorted_words[i]] = 'less_common'
+    else:
+        commonality_map[sorted_words[i]] = 'rare'
+
+print(commonality_map)
 
 ##### .WIP #####
 
