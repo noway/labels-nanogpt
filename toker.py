@@ -391,17 +391,9 @@ def digit_split(tokens):
     return result
 
 
-def syllable_split(tokens):
-    # FYI: a pass-through function since we removed syllable splitting
-    result = []
-    for token in tokens:
-        result.append(token)
-    return result
-
-
 def tokenize(text, splits):
     tokens = []
-    for token in syllable_split(digit_split(special_token_split(text, special_tokens))):
+    for token in digit_split(special_token_split(text, special_tokens)):
         if token in splits:
             tokens.extend(splits[token])
         else:
