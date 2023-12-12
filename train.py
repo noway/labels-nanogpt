@@ -11,7 +11,7 @@ vocab_size = len(chars)
 
 batch_size = 18
 block_size = 1024
-max_iters = 5000*4
+max_iters = 5000 * 4
 num_embeddings = 512
 device = (
     'cuda'
@@ -224,8 +224,8 @@ for steps in range(max_iters):
 
 print(loss.item())
 
-PATH = "model_weights.pth"
-print(f"Saving model to {PATH}")
+PATH = 'model_weights.pth'
+print(f'Saving model to {PATH}')
 torch.save(m.module.state_dict(), PATH)
 
 idx = torch.zeros(1, 1, dtype=torch.long)
