@@ -402,6 +402,8 @@ counts = np.array(list(words.values()))
 # probabilities = exp / np.sum(exp)
 # print('probabilities',probabilities)
 
+
+# TODO: just divide by max?
 counts_log = np.log1p(counts)  # np.log1p(x) returns log(1 + x), providing greater precision for small values of x.
 
 print('counts_log',counts_log)
