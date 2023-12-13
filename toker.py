@@ -394,33 +394,7 @@ def digit_split(tokens):
 
 ##### WIP #####
 
-# print('words',words)
 counts = np.array(list(words.values()))
-# counts_adjusted = counts - np.max(counts)
-# print ('counts_adjusted',counts_adjusted)
-# exp = np.exp(counts_adjusted)
-# probabilities = exp / np.sum(exp)
-# print('probabilities',probabilities)
-
-
-# # TODO: just divide by max?
-# counts_log = np.log1p(counts)  # np.log1p(x) returns log(1 + x), providing greater precision for small values of x.
-
-# print('counts_log',counts_log)
-
-# exp = np.exp(counts_log - np.max(counts_log))
-# probabilities = exp / np.sum(exp)
-
-# print ('probabilities',probabilities)
-# print ('np.sum(probabilities)',np.sum(probabilities))
-
-# very_common_threshold = np.percentile(probabilities, 80)
-# common_threshold = np.percentile(probabilities, 50)
-
-# print('very_common_threshold',very_common_threshold)
-# print('common_threshold',common_threshold)
-
-
 
 sorted_words = sorted(words, key=words.get, reverse=True)
 
