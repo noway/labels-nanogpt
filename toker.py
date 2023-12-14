@@ -403,20 +403,19 @@ boundary_1 = total_words // 5
 boundary_2 = boundary_1 * 2
 boundary_3 = boundary_1 * 3
 boundary_4 = boundary_1 * 4
-
 commonality_map = {}
 
 for i in range(total_words):
     if i < boundary_1:
-        commonality_map[sorted_words[i]] = 'extremely_common'
+        commonality_map[sorted_words[i]] = '@extremely_common@'
     elif i < boundary_2:
-        commonality_map[sorted_words[i]] = 'very_common'
+        commonality_map[sorted_words[i]] = '@very_common@'
     elif i < boundary_3:
-        commonality_map[sorted_words[i]] = 'moderately_common'
+        commonality_map[sorted_words[i]] = '@moderately_common@'
     elif i < boundary_4:
-        commonality_map[sorted_words[i]] = 'less_common'
+        commonality_map[sorted_words[i]] = '@less_common@'
     else:
-        commonality_map[sorted_words[i]] = 'rare'
+        commonality_map[sorted_words[i]] = '@rare@'
 
 print(commonality_map)
 
