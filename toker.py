@@ -255,7 +255,8 @@ special_tokens = [
     '@moderately_common@',
     '@less_common@',
     '@rare@',
-    '@special_token@'
+    '@special_token@',
+    '@split_explainer@',
 ]
 
 text = text.lower()
@@ -327,7 +328,7 @@ alphabet_vocab = map(lambda c: f'##{c}', list('abcdefghijklmnopqrstuvwxyz'))
 digit_vocab = list('0123456789')
 vocab = list()
 
-vocab_size = 745  # should this be number of phonemes or syllables? thinking 44, 100 or something.
+vocab_size = 744  # should this be number of phonemes or syllables? thinking 44, 100 or something.
 # now going for 1024 total vocab size
 while len(vocab) < vocab_size:
     scores = compute_pair_scores(splits)
@@ -454,6 +455,8 @@ def tokenize_word_map(text, splits):
             tokens.append(commonality_label)
             tokens.extend(splits[token])
         elif any([token_with_hashes in split for split in splits.values()]):
+            # TODO: not sure what to put here... just another special token.
+            tokens.append('@split_explainer@')
             tokens.append(token_with_hashes)
         else:
             # TODO: should be either digit or other, maybe emoji
