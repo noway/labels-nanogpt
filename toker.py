@@ -448,10 +448,16 @@ def tokenize_word_map(text, splits):
     for token in special_token_split(text, special_tokens):
         token_with_hashes = f'##{token}'
         if token in splits:
+            commonality_label = commonality_map[token]
+            if commonality_label is None:
+                exit(f'commonality_label is None for token {token}')
+            tokens.append(commonality_label)
             tokens.extend(splits[token])
         elif any([token_with_hashes in split for split in splits.values()]):
             tokens.append(token_with_hashes)
         else:
+            # TODO: should be either digit or other, maybe emoji
+            tokens.append('@special_token@')
             tokens.append(token)
     return tokens
 
