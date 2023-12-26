@@ -7,6 +7,13 @@ with open('full_vocab.json', 'r') as f:
 def decode(tokens):
     tokens = [full_vocab[token] for token in tokens]
     tokens = [token[2:] if token.startswith('##') else token for token in tokens]
+    tokens = [token for token in tokens if token != '@moderately_common@']
+    tokens = [token for token in tokens if token != '@extremely_common@']
+    tokens = [token for token in tokens if token != '@split_explainer@']
+    tokens = [token for token in tokens if token != '@special_token@']
+    tokens = [token for token in tokens if token != '@very_common@']
+    tokens = [token for token in tokens if token != '@less_common@']
+    tokens = [token for token in tokens if token != '@rare@']
     return ''.join(tokens)
 
 
