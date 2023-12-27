@@ -11,9 +11,9 @@ chars = list(set(encoded))
 vocab_size = len(chars)
 
 batch_size = 18
-block_size = 1024
+block_size = 256
 max_iters = 5000 * 4
-num_embeddings = 512
+num_embeddings = 128
 device = (
     'cuda'
     if torch.cuda.is_available()
@@ -23,8 +23,8 @@ device = (
 )
 learning_rate = 3e-4
 eval_iters = 25
-n_layer = 12
-n_head = 16
+n_layer = 6
+n_head = 8
 dropout = 0.2
 
 compute_unit_count = torch.cuda.device_count() if device == 'cuda' else 1
