@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
+import os
 
 with open('tokens.json', 'r') as f:
     json_str = f.read()
@@ -206,6 +207,10 @@ m.to(device)
 
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
+
+if 'model_weights.pth' in os.listdir():
+    print('Loading model weights')
+    m.module.load_state_dict(torch.load('model_weights.pth'))
 
 for steps in range(max_iters):
     xb, yb = get_batch()
