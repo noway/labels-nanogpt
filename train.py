@@ -21,6 +21,7 @@ device = (
     if hasattr(torch.backends, 'mps') and torch.backends.mps.is_available()
     else 'cpu'
 )
+print ('device',device)
 learning_rate = 3e-4
 eval_iters = 25
 n_layer = 12
@@ -208,32 +209,30 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
 
-if 'model_weights.pth' in os.listdir():
+PATH = 'bigmodel/model_weights.pth'
+if os.path.exists(PATH):
     print('Loading model weights')
-    m.module.load_state_dict(torch.load('model_weights.pth'))
+    m.module.load_state_dict(torch.load(PATH, map_location=torch.device('mps')))
+else:
+    print('No model weights found')
 
-for steps in range(max_iters):
-    xb, yb = get_batch()
-    logits, loss = m(xb, yb)
-    optimizer.zero_grad(set_to_none=True)
-    (loss.sum() / compute_unit_count).backward()
-    optimizer.step()
-    if steps % eval_iters == 0:
-        training_data_loss = (loss.sum() / compute_unit_count).item()
-        validation_batch = get_batch_val()
-        logits, loss = m(*validation_batch)
-        val_loss = (loss.sum() / compute_unit_count).item()
-        print(
-            f'steps={steps} training_data_loss={training_data_loss} val_loss={val_loss}'
-        )
+if __name__ == '__main__':
+    for steps in range(max_iters):
+        xb, yb = get_batch()
+        logits, loss = m(xb, yb)
+        optimizer.zero_grad(set_to_none=True)
+        (loss.sum() / compute_unit_count).backward()
+        optimizer.step()
+        if steps % eval_iters == 0:
+            training_data_loss = (loss.sum() / compute_unit_count).item()
+            validation_batch = get_batch_val()
+            logits, loss = m(*validation_batch)
+            val_loss = (loss.sum() / compute_unit_count).item()
+            print(
+                f'steps={steps} training_data_loss={training_data_loss} val_loss={val_loss}'
+            )
 
-print(loss.item())
+    print(loss.item())
+    print(f'Saving model to {PATH}')
+    torch.save(m.module.state_dict(), PATH)
 
-PATH = 'model_weights.pth'
-print(f'Saving model to {PATH}')
-torch.save(m.module.state_dict(), PATH)
-
-idx = torch.zeros(1, 1, dtype=torch.long)
-idx = idx.to(device)
-print(idx.shape)
-print(m.module.generate(idx, 10000)[0].tolist())
