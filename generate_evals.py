@@ -47,8 +47,5 @@ def generate_1_eval(filepath):
 
 
 if __name__ == '__main__':
-    generate_1_eval('eval_1.json')
-    generate_1_eval('eval_2.json')
-    generate_1_eval('eval_3.json')
-    generate_1_eval('eval_4.json')
-    generate_1_eval('eval_5.json')
+    for i in range(1, 6):
+        generate_1_eval(f'eval_{i}.json')
