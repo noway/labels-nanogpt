@@ -42,4 +42,4 @@ for i in range(1):
 
 # Save generated examples and problems into a JSON file
 with open('math_problems.json', 'w') as f:
-    json.dump({"examples": examples, "problems": problems_dict}, f)
+    json.dump({"examples": examples, "problems": problems_dict}, f, indent=4)
