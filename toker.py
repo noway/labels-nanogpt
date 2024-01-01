@@ -9,9 +9,7 @@ with open('trainingdata.txt', 'r') as f:
 
 text = initial_text
 
-special_tokens = [
-
-    # emoji & symbols
+emoji_and_symbols_tokens = [
     '1️⃣',
     '2️⃣',
     '3️⃣',
@@ -183,9 +181,9 @@ special_tokens = [
     '▢',
     '△',
     'π',
+]
 
-
-    # super special
+super_special_tokens = [
     '------------------------------------------------------------------------',
     '\u200d',
     '\xa0',
@@ -196,8 +194,9 @@ special_tokens = [
     '\n',
     '\\',
     '️',
+]
 
-    # typographic
+typographic_tokens = [
     '$',
     '*',
     '.',
@@ -246,6 +245,8 @@ special_tokens = [
     '²',
     '³',
 ]
+
+special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_tokens
 
 COMMONALITY_LABEL_ENABLED = False
 
