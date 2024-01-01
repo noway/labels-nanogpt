@@ -406,8 +406,6 @@ def digit_split(tokens):
     return result
 
 
-##### WIP #####
-
 counts = np.array(list(words.values()))
 
 sorted_words = sorted(words, key=words.get, reverse=True)
@@ -430,8 +428,6 @@ for i in range(total_words):
         commonality_map[sorted_words[i]] = '@less_common@'
     else:
         commonality_map[sorted_words[i]] = '@rare@'
-
-##### .WIP #####
 
 
 def tokenize(text, splits):
