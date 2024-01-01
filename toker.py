@@ -265,6 +265,17 @@ label_tokens = [
 
 special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_tokens
 
+def special_token_to_label_mapper(special_token):
+    if special_token in emoji_and_symbols_tokens:
+        return '@emoji_and_symbols_tokens@'
+    if special_token in super_special_tokens:
+        return '@super_special_tokens@'
+    if special_token in typographic_tokens:
+        return '@typographic_tokens@'
+    if special_token.isdigit():
+        return '@digit_tokens@'
+    return None
+
 if COMMONALITY_LABEL_ENABLED:
     special_tokens += label_tokens
 
@@ -448,7 +459,7 @@ def tokenize(text, splits):
         else:
             # TODO: should be either digit or other, maybe emoji
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append('@special_token@')
+                tokens.append(special_token_to_label_mapper(token))
             tokens.append(token)
     return tokens
 
@@ -472,7 +483,7 @@ def tokenize_word_map(text, splits):
         else:
             # TODO: should be either digit or other, maybe emoji
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append('@special_token@')
+                tokens.append(special_token_to_label_mapper(token))
             tokens.append(token)
     return tokens
 
