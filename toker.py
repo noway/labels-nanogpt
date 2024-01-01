@@ -431,8 +431,6 @@ for i in range(total_words):
     else:
         commonality_map[sorted_words[i]] = '@rare@'
 
-print(commonality_map)
-
 ##### .WIP #####
 
 
