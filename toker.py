@@ -255,15 +255,17 @@ special_tokens = [
 COMMONALITY_LABEL_ENABLED = False
 
 if COMMONALITY_LABEL_ENABLED:
-    special_tokens.extend([
-        '@extremely_common@',
-        '@very_common@',
-        '@moderately_common@',
-        '@less_common@',
-        '@rare@',
-        '@special_token@',
-        '@split_explainer@',
-    ])
+    special_tokens.extend(
+        [
+            '@extremely_common@',
+            '@very_common@',
+            '@moderately_common@',
+            '@less_common@',
+            '@rare@',
+            '@special_token@',
+            '@split_explainer@',
+        ]
+    )
 
 
 text = text.lower()
@@ -335,7 +337,9 @@ alphabet_vocab = map(lambda c: f'##{c}', list('abcdefghijklmnopqrstuvwxyz'))
 digit_vocab = list('0123456789')
 vocab = list()
 
-vocab_size = 744 if COMMONALITY_LABEL_ENABLED else 751  # should this be number of phonemes or syllables? thinking 44, 100 or something.
+vocab_size = (
+    744 if COMMONALITY_LABEL_ENABLED else 751
+)  # should this be number of phonemes or syllables? thinking 44, 100 or something.
 # now going for 1024 total vocab size
 while len(vocab) < vocab_size:
     scores = compute_pair_scores(splits)

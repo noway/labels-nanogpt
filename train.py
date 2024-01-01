@@ -21,7 +21,7 @@ device = (
     if hasattr(torch.backends, 'mps') and torch.backends.mps.is_available()
     else 'cpu'
 )
-print ('device',device)
+print('device', device)
 learning_rate = 3e-4
 eval_iters = 25
 n_layer = 12
@@ -171,7 +171,7 @@ class BigramLanguageModel(nn.Module):
             probs = F.softmax(logits, dim=-1)
             idx_next = torch.multinomial(probs, num_samples=1)
             idx_result = torch.cat([idx_result, idx_next], dim=-1)
-            print (idx_next)
+            print(idx_next)
             idx = torch.cat([idx, idx_next], dim=-1)
             # clip idx to block_size so that we're not feeding the model tokens past it's context window
             idx = idx[:, -block_size:]
@@ -239,4 +239,3 @@ if __name__ == '__main__':
     print(loss.item())
     print(f'Saving model to {PATH}')
     torch.save(m.module.state_dict(), PATH)
-
