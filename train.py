@@ -210,7 +210,10 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
 
+
 PATH = 'bigmodel/model_weights_no_labels.pth'
+os.makedirs(os.path.dirname(PATH), exist_ok=True)
+
 if os.path.exists(PATH):
     print('Loading model weights')
     m.module.load_state_dict(torch.load(PATH, map_location=torch.device('mps')))
