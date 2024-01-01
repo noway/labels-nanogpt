@@ -10,18 +10,6 @@ with open('trainingdata.txt', 'r') as f:
 text = initial_text
 
 special_tokens = [
-    # super special
-    '------------------------------------------------------------------------',
-
-    # special
-    '\u200d',
-    '\xa0',
-    '\\<\\|image\\|\\>',
-    '\\<\\|document\\|\\>',
-    '\\<\\|unsolvedproblem\\|\\>',
-    ' ',
-    '\n',
-    '\\',
 
     # emoji & symbols
     '1️⃣',
@@ -35,10 +23,6 @@ special_tokens = [
     '9️⃣',
     '🔟',
     '🔢',
-
-
-    '️', # another special character
-
 
     '⚪',
     '⚫',
@@ -200,6 +184,21 @@ special_tokens = [
     '▢',
     '△',
     'π',
+
+    '️', # another special character
+
+    # super special
+    '------------------------------------------------------------------------',
+
+    # special
+    '\u200d',
+    '\xa0',
+    '\\<\\|image\\|\\>',
+    '\\<\\|document\\|\\>',
+    '\\<\\|unsolvedproblem\\|\\>',
+    ' ',
+    '\n',
+    '\\',
 
     # typographic
     '$',
