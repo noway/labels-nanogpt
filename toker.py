@@ -351,7 +351,7 @@ digit_vocab = list('0123456789')
 vocab = list()
 
 vocab_size = (
-    744 if COMMONALITY_LABEL_ENABLED else 751
+    751 if COMMONALITY_LABEL_ENABLED else 761
 )  # should this be number of phonemes or syllables? thinking 44, 100 or something.
 # now going for 1024 total vocab size
 while len(vocab) < vocab_size:
