@@ -256,7 +256,10 @@ label_tokens = [
     '@moderately_common@',
     '@less_common@',
     '@rare@',
-    '@special_token@',
+    '@emoji_and_symbols_tokens@',
+    '@super_special_tokens@',
+    '@typographic_tokens@',
+    '@digit_tokens@',
     '@split_explainer@',
 ]
 
