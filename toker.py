@@ -9,7 +9,7 @@ with open('trainingdata.txt', 'r') as f:
 
 text = initial_text
 
-COMMONALITY_LABEL_ENABLED = False
+COMMONALITY_LABEL_ENABLED = True
 
 emoji_and_symbols_tokens = [
     '1️⃣',

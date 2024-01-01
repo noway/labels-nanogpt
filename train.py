@@ -10,7 +10,7 @@ encoded = eval(json_str)
 chars = list(set(encoded))
 vocab_size = len(chars)
 
-batch_size = 10
+batch_size = 18
 block_size = 1024
 max_iters = 5000 * 4
 num_embeddings = 512
@@ -211,7 +211,7 @@ print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parame
 optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
 
 
-PATH = 'bigmodel/model_weights_no_labels.pth'
+PATH = 'bigmodel/model_weights_with_labels.pth'
 os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
 if os.path.exists(PATH):
