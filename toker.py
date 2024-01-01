@@ -250,14 +250,21 @@ special_tokens = [
     '²',
     '³',
     '✓',
-    '@extremely_common@',
-    '@very_common@',
-    '@moderately_common@',
-    '@less_common@',
-    '@rare@',
-    '@special_token@',
-    '@split_explainer@',
 ]
+
+COMMONALITY_LABEL_ENABLED = False
+
+if COMMONALITY_LABEL_ENABLED:
+    special_tokens.extend([
+        '@extremely_common@',
+        '@very_common@',
+        '@moderately_common@',
+        '@less_common@',
+        '@rare@',
+        '@special_token@',
+        '@split_explainer@',
+    ])
+
 
 text = text.lower()
 for special_token in special_tokens:
@@ -328,7 +335,7 @@ alphabet_vocab = map(lambda c: f'##{c}', list('abcdefghijklmnopqrstuvwxyz'))
 digit_vocab = list('0123456789')
 vocab = list()
 
-vocab_size = 744  # should this be number of phonemes or syllables? thinking 44, 100 or something.
+vocab_size = 744 if COMMONALITY_LABEL_ENABLED else 751  # should this be number of phonemes or syllables? thinking 44, 100 or something.
 # now going for 1024 total vocab size
 while len(vocab) < vocab_size:
     scores = compute_pair_scores(splits)
@@ -436,11 +443,13 @@ def tokenize(text, splits):
             commonality_label = commonality_map[token]
             if commonality_label is None:
                 exit(f'commonality_label is None for token {token}')
-            tokens.append(commonality_label)
+            if COMMONALITY_LABEL_ENABLED:
+                tokens.append(commonality_label)
             tokens.extend(splits[token])
         else:
             # TODO: should be either digit or other, maybe emoji
-            tokens.append('@special_token@')
+            if COMMONALITY_LABEL_ENABLED:
+                tokens.append('@special_token@')
             tokens.append(token)
     return tokens
 
@@ -453,15 +462,18 @@ def tokenize_word_map(text, splits):
             commonality_label = commonality_map[token]
             if commonality_label is None:
                 exit(f'commonality_label is None for token {token}')
-            tokens.append(commonality_label)
+            if COMMONALITY_LABEL_ENABLED:
+                tokens.append(commonality_label)
             tokens.extend(splits[token])
         elif any([token_with_hashes in split for split in splits.values()]):
             # TODO: not sure what to put here... just another special token.
-            tokens.append('@split_explainer@')
+            if COMMONALITY_LABEL_ENABLED:
+                tokens.append('@split_explainer@')
             tokens.append(token_with_hashes)
         else:
             # TODO: should be either digit or other, maybe emoji
-            tokens.append('@special_token@')
+            if COMMONALITY_LABEL_ENABLED:
+                tokens.append('@special_token@')
             tokens.append(token)
     return tokens
 
