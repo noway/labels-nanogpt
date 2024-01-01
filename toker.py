@@ -248,7 +248,6 @@ typographic_tokens = [
     '³',
 ]
 
-
 label_tokens = [
     # commonality labels
     '@extremely_common@',
@@ -265,6 +264,7 @@ label_tokens = [
 
 special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_tokens
 
+
 def special_token_to_label_mapper(special_token):
     if special_token in emoji_and_symbols_tokens:
         return '@emoji_and_symbols_tokens@'
@@ -275,6 +275,7 @@ def special_token_to_label_mapper(special_token):
     if special_token.isdigit():
         return '@digit_tokens@'
     return None
+
 
 if COMMONALITY_LABEL_ENABLED:
     special_tokens += label_tokens
