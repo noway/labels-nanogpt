@@ -216,7 +216,7 @@ os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
 if os.path.exists(PATH):
     print('Loading model weights')
-    m.module.load_state_dict(torch.load(PATH, map_location=torch.device('mps')))
+    m.module.load_state_dict(torch.load(PATH, map_location=torch.device(device)))
 else:
     print('No model weights found')
 
