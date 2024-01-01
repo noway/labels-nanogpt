@@ -457,7 +457,6 @@ def tokenize(text, splits):
                 tokens.append(commonality_label)
             tokens.extend(splits[token])
         else:
-            # TODO: should be either digit or other, maybe emoji
             if COMMONALITY_LABEL_ENABLED:
                 tokens.append(special_token_to_label_mapper(token))
             tokens.append(token)
@@ -476,12 +475,10 @@ def tokenize_word_map(text, splits):
                 tokens.append(commonality_label)
             tokens.extend(splits[token])
         elif any([token_with_hashes in split for split in splits.values()]):
-            # TODO: not sure what to put here... just another special token.
             if COMMONALITY_LABEL_ENABLED:
                 tokens.append('@split_explainer@')
             tokens.append(token_with_hashes)
         else:
-            # TODO: should be either digit or other, maybe emoji
             if COMMONALITY_LABEL_ENABLED:
                 tokens.append(special_token_to_label_mapper(token))
             tokens.append(token)
