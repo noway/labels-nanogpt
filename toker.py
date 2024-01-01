@@ -9,6 +9,8 @@ with open('trainingdata.txt', 'r') as f:
 
 text = initial_text
 
+COMMONALITY_LABEL_ENABLED = False
+
 emoji_and_symbols_tokens = [
     '1️⃣',
     '2️⃣',
@@ -246,23 +248,22 @@ typographic_tokens = [
     '³',
 ]
 
+
+label_tokens = [
+    # commonality labels
+    '@extremely_common@',
+    '@very_common@',
+    '@moderately_common@',
+    '@less_common@',
+    '@rare@',
+    '@special_token@',
+    '@split_explainer@',
+]
+
 special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_tokens
 
-COMMONALITY_LABEL_ENABLED = False
-
 if COMMONALITY_LABEL_ENABLED:
-    special_tokens.extend(
-        [
-            # commonality labels
-            '@extremely_common@',
-            '@very_common@',
-            '@moderately_common@',
-            '@less_common@',
-            '@rare@',
-            '@special_token@',
-            '@split_explainer@',
-        ]
-    )
+    special_tokens += label_tokens
 
 
 text = text.lower()
