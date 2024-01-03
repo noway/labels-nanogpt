@@ -412,157 +412,158 @@ def tokens_to_array_of_numbers(tokens):
             raise Exception(f'Token {token} is not in vocab')
     return [result, full_vocab]
 
+if __name__ == '__main__':
 
-#################### LOAD TEXT ####################
-with open('trainingdata.txt', 'r') as f:
-    initial_text = f.read()
+    #################### LOAD TEXT ####################
+    with open('trainingdata.txt', 'r') as f:
+        initial_text = f.read()
 
-text = initial_text
-#################### /LOAD TEXT ####################
+    text = initial_text
+    #################### /LOAD TEXT ####################
 
-#################### GENERATE WORD SPLITS ####################
-text = text.lower()
-for special_token in special_tokens:
-    text = text.replace(special_token, ' ')
-# replace numbers
-text = re.sub(r'\d+', ' ', text)
+    #################### GENERATE WORD SPLITS ####################
+    text = text.lower()
+    for special_token in special_tokens:
+        text = text.replace(special_token, ' ')
+    # replace numbers
+    text = re.sub(r'\d+', ' ', text)
 
-tokens = text.split()
-token_counts = Counter(tokens)
-most_common_tokens = token_counts.most_common()
+    tokens = text.split()
+    token_counts = Counter(tokens)
+    most_common_tokens = token_counts.most_common()
 
-words = {}
-for token, count in most_common_tokens:
-    token = token.strip("'")
-    if token not in words:
-        words[token] = 0
-    words[token] += count
+    words = {}
+    for token, count in most_common_tokens:
+        token = token.strip("'")
+        if token not in words:
+            words[token] = 0
+        words[token] += count
 
-splits = {
-    # FYI: we don't differentiate between pieces at the beginning of a word and pieces from any other part of the word.
-    word: [f'##{c}' if i == 0 else f'##{c}' for i, c in enumerate(word)]
-    for word in words.keys()
-}
-#################### /GENERATE WORD SPLITS ####################
+    splits = {
+        # FYI: we don't differentiate between pieces at the beginning of a word and pieces from any other part of the word.
+        word: [f'##{c}' if i == 0 else f'##{c}' for i, c in enumerate(word)]
+        for word in words.keys()
+    }
+    #################### /GENERATE WORD SPLITS ####################
 
-#################### BPE MERGE UP TO VOCAB SIZE ####################
-alphabet_vocab = map(lambda c: f'##{c}', list('abcdefghijklmnopqrstuvwxyz'))
-digit_vocab = list('0123456789')
-vocab = list()
+    #################### BPE MERGE UP TO VOCAB SIZE ####################
+    alphabet_vocab = map(lambda c: f'##{c}', list('abcdefghijklmnopqrstuvwxyz'))
+    digit_vocab = list('0123456789')
+    vocab = list()
 
-vocab_size = (
-    751 if COMMONALITY_LABEL_ENABLED else 761
-)  # should this be number of phonemes or syllables? thinking 44, 100 or something.
-# now going for 1024 total vocab size
-while len(vocab) < vocab_size:
-    scores = compute_pair_scores(splits)
-    best_pair, max_score = '', None
-    for pair, score in scores.items():
-        if max_score is None or max_score < score:
-            best_pair = pair
-            max_score = score
-    splits = merge_pair(*best_pair, splits)
-    new_token = (
-        best_pair[0] + best_pair[1][2:]
-        if best_pair[1].startswith('##')
-        else best_pair[0] + best_pair[1]
+    vocab_size = (
+        751 if COMMONALITY_LABEL_ENABLED else 761
+    )  # should this be number of phonemes or syllables? thinking 44, 100 or something.
+    # now going for 1024 total vocab size
+    while len(vocab) < vocab_size:
+        scores = compute_pair_scores(splits)
+        best_pair, max_score = '', None
+        for pair, score in scores.items():
+            if max_score is None or max_score < score:
+                best_pair = pair
+                max_score = score
+        splits = merge_pair(*best_pair, splits)
+        new_token = (
+            best_pair[0] + best_pair[1][2:]
+            if best_pair[1].startswith('##')
+            else best_pair[0] + best_pair[1]
+        )
+
+        # check that best_pair[0] is still in splits. remove from vocab if not.
+        is_best_pair_0_removed_now = not any(
+            [best_pair[0] in split for split in splits.values()]
+        )
+        if is_best_pair_0_removed_now:
+            vocab.remove(best_pair[0])
+
+        # check that best_pair[1] is still in splits. remove from vocab if not.
+        is_best_pair_1_removed_now = not any(
+            [best_pair[1] in split for split in splits.values()]
+        )
+        if is_best_pair_1_removed_now:
+            vocab.remove(best_pair[1])
+
+        vocab.append(new_token)
+
+    #################### /BPE MERGE UP TO VOCAB SIZE ####################
+
+    #################### GENERATE COMMONALITY MAP ####################
+    counts = np.array(list(words.values()))
+
+    sorted_words = sorted(words, key=words.get, reverse=True)
+
+    total_words = len(sorted_words)
+    boundary_1 = total_words // 5
+    boundary_2 = boundary_1 * 2
+    boundary_3 = boundary_1 * 3
+    boundary_4 = boundary_1 * 4
+    commonality_map = {}
+
+    for i in range(total_words):
+        if i < boundary_1:
+            commonality_map[sorted_words[i]] = '@extremely_common@'
+        elif i < boundary_2:
+            commonality_map[sorted_words[i]] = '@very_common@'
+        elif i < boundary_3:
+            commonality_map[sorted_words[i]] = '@moderately_common@'
+        elif i < boundary_4:
+            commonality_map[sorted_words[i]] = '@less_common@'
+        else:
+            commonality_map[sorted_words[i]] = '@rare@'
+
+    #################### /GENERATE COMMONALITY MAP ####################
+
+    #################### TOKENIZE WORD MAP AND THE TEXT ####################
+    spelling_map_text = ''
+    spelling_map_text += '\<\|document\|\>letter map for words\n'
+    for word in splits:
+        if len(splits[word]) == 1:
+            word_split_to_letters = list(word)
+            spelling_map_text += f'{word}: {"-".join(word_split_to_letters)}\n'
+
+    splits_more_than_one = [splits[word] for word in splits if len(splits[word]) > 1]
+    flattened_splits_more_than_one = [
+        item for sublist in splits_more_than_one for item in sublist
+    ]
+    uniq_flattened_splits_more_than_one = list(
+        dict.fromkeys(flattened_splits_more_than_one)
+    )
+    for piece in uniq_flattened_splits_more_than_one:
+        piece = piece[2:] if piece.startswith('##') else piece
+        piece_split_to_letters = list(piece)
+        spelling_map_text += f'{piece}: {"-".join(piece_split_to_letters)}\n'
+
+    spelling_map_text += '\n\n\n'
+
+    word_map_toks = tokenize_word_map(spelling_map_text, splits)
+    toks = tokenize(initial_text.lower(), splits)
+
+    #################### /TOKENIZE WORD MAP AND THE TEXT ####################
+
+    #################### SAVE TOKENS AND FULL VOCAB ####################
+    tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
+
+    with open('tokens.json', 'w') as f:
+        json.dump(tokens, f)
+
+    set_toks = set(word_map_toks + toks)
+    set_toks_without_special_tokens = set_toks - set(special_tokens)
+    set_toks_without_special_tokens_and_vocab = (
+        set_toks_without_special_tokens
+        - set(vocab)
+        - set(digit_vocab)
+        - set(alphabet_vocab)
+    )
+    print('set_toks (vocab_size)', len(set_toks))
+    sorted_set_toks_without_special_tokens_and_vocab = sorted(
+        set_toks_without_special_tokens_and_vocab
     )
 
-    # check that best_pair[0] is still in splits. remove from vocab if not.
-    is_best_pair_0_removed_now = not any(
-        [best_pair[0] in split for split in splits.values()]
-    )
-    if is_best_pair_0_removed_now:
-        vocab.remove(best_pair[0])
+    # FYI: one is used for decode and one is used for encode. can probably refactor to use the same.
+    with open('full_vocab.json', 'w') as f:
+        json.dump(full_vocab, f)
 
-    # check that best_pair[1] is still in splits. remove from vocab if not.
-    is_best_pair_1_removed_now = not any(
-        [best_pair[1] in split for split in splits.values()]
-    )
-    if is_best_pair_1_removed_now:
-        vocab.remove(best_pair[1])
+    with open('splits.json', 'w') as f:
+        json.dump(splits, f)
 
-    vocab.append(new_token)
-
-#################### /BPE MERGE UP TO VOCAB SIZE ####################
-
-#################### GENERATE COMMONALITY MAP ####################
-counts = np.array(list(words.values()))
-
-sorted_words = sorted(words, key=words.get, reverse=True)
-
-total_words = len(sorted_words)
-boundary_1 = total_words // 5
-boundary_2 = boundary_1 * 2
-boundary_3 = boundary_1 * 3
-boundary_4 = boundary_1 * 4
-commonality_map = {}
-
-for i in range(total_words):
-    if i < boundary_1:
-        commonality_map[sorted_words[i]] = '@extremely_common@'
-    elif i < boundary_2:
-        commonality_map[sorted_words[i]] = '@very_common@'
-    elif i < boundary_3:
-        commonality_map[sorted_words[i]] = '@moderately_common@'
-    elif i < boundary_4:
-        commonality_map[sorted_words[i]] = '@less_common@'
-    else:
-        commonality_map[sorted_words[i]] = '@rare@'
-
-#################### /GENERATE COMMONALITY MAP ####################
-
-#################### TOKENIZE WORD MAP AND THE TEXT ####################
-spelling_map_text = ''
-spelling_map_text += '\<\|document\|\>letter map for words\n'
-for word in splits:
-    if len(splits[word]) == 1:
-        word_split_to_letters = list(word)
-        spelling_map_text += f'{word}: {"-".join(word_split_to_letters)}\n'
-
-splits_more_than_one = [splits[word] for word in splits if len(splits[word]) > 1]
-flattened_splits_more_than_one = [
-    item for sublist in splits_more_than_one for item in sublist
-]
-uniq_flattened_splits_more_than_one = list(
-    dict.fromkeys(flattened_splits_more_than_one)
-)
-for piece in uniq_flattened_splits_more_than_one:
-    piece = piece[2:] if piece.startswith('##') else piece
-    piece_split_to_letters = list(piece)
-    spelling_map_text += f'{piece}: {"-".join(piece_split_to_letters)}\n'
-
-spelling_map_text += '\n\n\n'
-
-word_map_toks = tokenize_word_map(spelling_map_text, splits)
-toks = tokenize(initial_text.lower(), splits)
-
-#################### /TOKENIZE WORD MAP AND THE TEXT ####################
-
-#################### SAVE TOKENS AND FULL VOCAB ####################
-tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
-
-with open('tokens.json', 'w') as f:
-    json.dump(tokens, f)
-
-set_toks = set(word_map_toks + toks)
-set_toks_without_special_tokens = set_toks - set(special_tokens)
-set_toks_without_special_tokens_and_vocab = (
-    set_toks_without_special_tokens
-    - set(vocab)
-    - set(digit_vocab)
-    - set(alphabet_vocab)
-)
-print('set_toks (vocab_size)', len(set_toks))
-sorted_set_toks_without_special_tokens_and_vocab = sorted(
-    set_toks_without_special_tokens_and_vocab
-)
-
-# FYI: one is used for decode and one is used for encode. can probably refactor to use the same.
-with open('full_vocab.json', 'w') as f:
-    json.dump(full_vocab, f)
-
-with open('splits.json', 'w') as f:
-    json.dump(splits, f)
-
-#################### /SAVE TOKENS AND FULL VOCAB ####################
+    #################### /SAVE TOKENS AND FULL VOCAB ####################
