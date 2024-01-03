@@ -8,3 +8,4 @@ full_vocab.json
 track_instance_types.sh
 model_weights.pth*
 */model_weights*.pth
+*/model_weights*.pth*
