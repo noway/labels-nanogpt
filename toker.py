@@ -4,11 +4,6 @@ import numpy as np
 from collections import Counter
 from collections import defaultdict
 
-with open('trainingdata.txt', 'r') as f:
-    initial_text = f.read()
-
-text = initial_text
-
 COMMONALITY_LABEL_ENABLED = True
 
 emoji_and_symbols_tokens = [
@@ -264,6 +259,8 @@ label_tokens = [
 
 special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_tokens
 
+if COMMONALITY_LABEL_ENABLED:
+    special_tokens += label_tokens
 
 def special_token_to_label_mapper(special_token):
     if special_token in emoji_and_symbols_tokens:
@@ -275,34 +272,6 @@ def special_token_to_label_mapper(special_token):
     if special_token.isdigit():
         return '@digit_tokens@'
     return None
-
-
-if COMMONALITY_LABEL_ENABLED:
-    special_tokens += label_tokens
-
-
-text = text.lower()
-for special_token in special_tokens:
-    text = text.replace(special_token, ' ')
-# replace numbers
-text = re.sub(r'\d+', ' ', text)
-
-tokens = text.split()
-token_counts = Counter(tokens)
-most_common_tokens = token_counts.most_common()
-
-words = {}
-for token, count in most_common_tokens:
-    token = token.strip("'")
-    if token not in words:
-        words[token] = 0
-    words[token] += count
-
-splits = {
-    # FYI: we don't differentiate between pieces at the beginning of a word and pieces from any other part of the word.
-    word: [f'##{c}' if i == 0 else f'##{c}' for i, c in enumerate(word)]
-    for word in words.keys()
-}
 
 
 def compute_pair_scores(splits):
@@ -346,45 +315,6 @@ def merge_pair(a, b, splits):
     return splits
 
 
-alphabet_vocab = map(lambda c: f'##{c}', list('abcdefghijklmnopqrstuvwxyz'))
-digit_vocab = list('0123456789')
-vocab = list()
-
-vocab_size = (
-    751 if COMMONALITY_LABEL_ENABLED else 761
-)  # should this be number of phonemes or syllables? thinking 44, 100 or something.
-# now going for 1024 total vocab size
-while len(vocab) < vocab_size:
-    scores = compute_pair_scores(splits)
-    best_pair, max_score = '', None
-    for pair, score in scores.items():
-        if max_score is None or max_score < score:
-            best_pair = pair
-            max_score = score
-    splits = merge_pair(*best_pair, splits)
-    new_token = (
-        best_pair[0] + best_pair[1][2:]
-        if best_pair[1].startswith('##')
-        else best_pair[0] + best_pair[1]
-    )
-
-    # check that best_pair[0] is still in splits. remove from vocab if not.
-    is_best_pair_0_removed_now = not any(
-        [best_pair[0] in split for split in splits.values()]
-    )
-    if is_best_pair_0_removed_now:
-        vocab.remove(best_pair[0])
-
-    # check that best_pair[1] is still in splits. remove from vocab if not.
-    is_best_pair_1_removed_now = not any(
-        [best_pair[1] in split for split in splits.values()]
-    )
-    if is_best_pair_1_removed_now:
-        vocab.remove(best_pair[1])
-
-    vocab.append(new_token)
-
-
 def special_token_split(s, delimiters):
     delimiters.sort(key=len, reverse=True)
     pattern = re.compile('(' + '|'.join(map(re.escape, delimiters)) + ')')
@@ -421,30 +351,6 @@ def digit_split(tokens):
         else:
             result.append(token)
     return result
-
-
-counts = np.array(list(words.values()))
-
-sorted_words = sorted(words, key=words.get, reverse=True)
-
-total_words = len(sorted_words)
-boundary_1 = total_words // 5
-boundary_2 = boundary_1 * 2
-boundary_3 = boundary_1 * 3
-boundary_4 = boundary_1 * 4
-commonality_map = {}
-
-for i in range(total_words):
-    if i < boundary_1:
-        commonality_map[sorted_words[i]] = '@extremely_common@'
-    elif i < boundary_2:
-        commonality_map[sorted_words[i]] = '@very_common@'
-    elif i < boundary_3:
-        commonality_map[sorted_words[i]] = '@moderately_common@'
-    elif i < boundary_4:
-        commonality_map[sorted_words[i]] = '@less_common@'
-    else:
-        commonality_map[sorted_words[i]] = '@rare@'
 
 
 def tokenize(text, splits):
@@ -486,6 +392,116 @@ def tokenize_word_map(text, splits):
     return tokens
 
 
+def tokens_to_array_of_numbers(tokens):
+    full_vocab = list()
+    full_vocab += digit_vocab
+    full_vocab += alphabet_vocab
+    full_vocab += vocab
+    full_vocab += special_tokens
+    full_vocab = list(dict.fromkeys(full_vocab))
+    full_vocab_from_tokens = list(set(tokens))
+    # FYI: not_needed must always be empty
+    not_needed = set(full_vocab) - set(full_vocab_from_tokens)
+    print('not_needed set (should always be empty):', not_needed)
+    full_vocab = [token for token in full_vocab if token not in not_needed]
+    result = []
+    for token in tokens:
+        if token in full_vocab:
+            result.append(full_vocab.index(token))
+        else:
+            raise Exception(f'Token {token} is not in vocab')
+    return [result, full_vocab]
+
+
+with open('trainingdata.txt', 'r') as f:
+    initial_text = f.read()
+
+text = initial_text
+
+text = text.lower()
+for special_token in special_tokens:
+    text = text.replace(special_token, ' ')
+# replace numbers
+text = re.sub(r'\d+', ' ', text)
+
+tokens = text.split()
+token_counts = Counter(tokens)
+most_common_tokens = token_counts.most_common()
+
+words = {}
+for token, count in most_common_tokens:
+    token = token.strip("'")
+    if token not in words:
+        words[token] = 0
+    words[token] += count
+
+splits = {
+    # FYI: we don't differentiate between pieces at the beginning of a word and pieces from any other part of the word.
+    word: [f'##{c}' if i == 0 else f'##{c}' for i, c in enumerate(word)]
+    for word in words.keys()
+}
+
+alphabet_vocab = map(lambda c: f'##{c}', list('abcdefghijklmnopqrstuvwxyz'))
+digit_vocab = list('0123456789')
+vocab = list()
+
+vocab_size = (
+    751 if COMMONALITY_LABEL_ENABLED else 761
+)  # should this be number of phonemes or syllables? thinking 44, 100 or something.
+# now going for 1024 total vocab size
+while len(vocab) < vocab_size:
+    scores = compute_pair_scores(splits)
+    best_pair, max_score = '', None
+    for pair, score in scores.items():
+        if max_score is None or max_score < score:
+            best_pair = pair
+            max_score = score
+    splits = merge_pair(*best_pair, splits)
+    new_token = (
+        best_pair[0] + best_pair[1][2:]
+        if best_pair[1].startswith('##')
+        else best_pair[0] + best_pair[1]
+    )
+
+    # check that best_pair[0] is still in splits. remove from vocab if not.
+    is_best_pair_0_removed_now = not any(
+        [best_pair[0] in split for split in splits.values()]
+    )
+    if is_best_pair_0_removed_now:
+        vocab.remove(best_pair[0])
+
+    # check that best_pair[1] is still in splits. remove from vocab if not.
+    is_best_pair_1_removed_now = not any(
+        [best_pair[1] in split for split in splits.values()]
+    )
+    if is_best_pair_1_removed_now:
+        vocab.remove(best_pair[1])
+
+    vocab.append(new_token)
+
+counts = np.array(list(words.values()))
+
+sorted_words = sorted(words, key=words.get, reverse=True)
+
+total_words = len(sorted_words)
+boundary_1 = total_words // 5
+boundary_2 = boundary_1 * 2
+boundary_3 = boundary_1 * 3
+boundary_4 = boundary_1 * 4
+commonality_map = {}
+
+for i in range(total_words):
+    if i < boundary_1:
+        commonality_map[sorted_words[i]] = '@extremely_common@'
+    elif i < boundary_2:
+        commonality_map[sorted_words[i]] = '@very_common@'
+    elif i < boundary_3:
+        commonality_map[sorted_words[i]] = '@moderately_common@'
+    elif i < boundary_4:
+        commonality_map[sorted_words[i]] = '@less_common@'
+    else:
+        commonality_map[sorted_words[i]] = '@rare@'
+
 spelling_map_text = ''
 spelling_map_text += '\<\|document\|\>letter map for words\n'
 for word in splits:
@@ -509,28 +525,6 @@ spelling_map_text += '\n\n\n'
 
 word_map_toks = tokenize_word_map(spelling_map_text, splits)
 toks = tokenize(initial_text.lower(), splits)
-
-
-def tokens_to_array_of_numbers(tokens):
-    full_vocab = list()
-    full_vocab += digit_vocab
-    full_vocab += alphabet_vocab
-    full_vocab += vocab
-    full_vocab += special_tokens
-    full_vocab = list(dict.fromkeys(full_vocab))
-    full_vocab_from_tokens = list(set(tokens))
-    # FYI: not_needed must always be empty
-    not_needed = set(full_vocab) - set(full_vocab_from_tokens)
-    print('not_needed set (should always be empty):', not_needed)
-    full_vocab = [token for token in full_vocab if token not in not_needed]
-    result = []
-    for token in tokens:
-        if token in full_vocab:
-            result.append(full_vocab.index(token))
-        else:
-            raise Exception(f'Token {token} is not in vocab')
-    return [result, full_vocab]
-
 
 tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
 
