@@ -353,7 +353,7 @@ def digit_split(tokens):
     return result
 
 
-def tokenize(text, splits):
+def tokenize(text, splits, commonality_map):
     tokens = []
     for token in digit_split(special_token_split(text, special_tokens)):
         if token in splits:
@@ -370,7 +370,7 @@ def tokenize(text, splits):
     return tokens
 
 
-def tokenize_word_map(text, splits):
+def tokenize_word_map(text, splits, commonality_map):
     tokens = []
     for token in special_token_split(text, special_tokens):
         token_with_hashes = f'##{token}'
@@ -535,8 +535,8 @@ if __name__ == '__main__':
 
     spelling_map_text += '\n\n\n'
 
-    word_map_toks = tokenize_word_map(spelling_map_text, splits)
-    toks = tokenize(initial_text.lower(), splits)
+    word_map_toks = tokenize_word_map(spelling_map_text, splits, commonality_map)
+    toks = tokenize(initial_text.lower(), splits, commonality_map)
 
     #################### /TOKENIZE WORD MAP AND THE TEXT ####################
 
@@ -565,5 +565,8 @@ if __name__ == '__main__':
 
     with open('splits.json', 'w') as f:
         json.dump(splits, f)
+
+    with open('commonality_map.json', 'w') as f:
+        json.dump(commonality_map, f)
 
     #################### /SAVE TOKENS AND FULL VOCAB ####################
