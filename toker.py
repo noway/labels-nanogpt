@@ -558,7 +558,11 @@ sorted_set_toks_without_special_tokens_and_vocab = sorted(
     set_toks_without_special_tokens_and_vocab
 )
 
+# FYI: one is used for decode and one is used for encode. can probably refactor to use the same.
 with open('full_vocab.json', 'w') as f:
     json.dump(full_vocab, f)
+
+with open('splits.json', 'w') as f:
+    json.dump(splits, f)
 
 #################### /SAVE TOKENS AND FULL VOCAB ####################
