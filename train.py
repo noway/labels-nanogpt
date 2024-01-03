@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 import os
+from toker_decode import decode_one_token
 
 with open('tokens.json', 'r') as f:
     json_str = f.read()
@@ -171,7 +172,7 @@ class BigramLanguageModel(nn.Module):
             probs = F.softmax(logits, dim=-1)
             idx_next = torch.multinomial(probs, num_samples=1)
             idx_result = torch.cat([idx_result, idx_next], dim=-1)
-            print(idx_next)
+            print(decode_one_token(idx_next[0][0].item()), end='', flush=True)
             idx = torch.cat([idx, idx_next], dim=-1)
             # clip idx to block_size so that we're not feeding the model tokens past it's context window
             idx = idx[:, -block_size:]
@@ -211,7 +212,7 @@ print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parame
 optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
 
 
-PATH = 'bigmodel/model_weights_with_labels.pth'
+PATH = 'bigmodel/model_weights_with_labels.pth_trained_twice'
 os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
 if os.path.exists(PATH):
