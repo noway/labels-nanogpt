@@ -412,6 +412,16 @@ def tokens_to_array_of_numbers(tokens):
             raise Exception(f'Token {token} is not in vocab')
     return [result, full_vocab]
 
+
+def tokens_to_array_of_numbers_without_full_vocab(tokens, full_vocab):
+    result = []
+    for token in tokens:
+        if token in full_vocab:
+            result.append(full_vocab.index(token))
+        else:
+            raise Exception(f'Token {token} is not in vocab')
+    return result
+
 if __name__ == '__main__':
 
     #################### LOAD TEXT ####################
