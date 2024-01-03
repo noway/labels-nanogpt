@@ -413,11 +413,14 @@ def tokens_to_array_of_numbers(tokens):
     return [result, full_vocab]
 
 
+#################### LOAD TEXT ####################
 with open('trainingdata.txt', 'r') as f:
     initial_text = f.read()
 
 text = initial_text
+#################### /LOAD TEXT ####################
 
+#################### GENERATE WORD SPLITS ####################
 text = text.lower()
 for special_token in special_tokens:
     text = text.replace(special_token, ' ')
@@ -440,7 +443,9 @@ splits = {
     word: [f'##{c}' if i == 0 else f'##{c}' for i, c in enumerate(word)]
     for word in words.keys()
 }
+#################### /GENERATE WORD SPLITS ####################
 
+#################### BPE MERGE UP TO VOCAB SIZE ####################
 alphabet_vocab = map(lambda c: f'##{c}', list('abcdefghijklmnopqrstuvwxyz'))
 digit_vocab = list('0123456789')
 vocab = list()
@@ -479,6 +484,9 @@ while len(vocab) < vocab_size:
 
     vocab.append(new_token)
 
+#################### /BPE MERGE UP TO VOCAB SIZE ####################
+
+#################### GENERATE COMMONALITY MAP ####################
 counts = np.array(list(words.values()))
 
 sorted_words = sorted(words, key=words.get, reverse=True)
@@ -502,6 +510,9 @@ for i in range(total_words):
     else:
         commonality_map[sorted_words[i]] = '@rare@'
 
+#################### /GENERATE COMMONALITY MAP ####################
+
+#################### TOKENIZE WORD MAP AND THE TEXT ####################
 spelling_map_text = ''
 spelling_map_text += '\<\|document\|\>letter map for words\n'
 for word in splits:
@@ -526,6 +537,9 @@ spelling_map_text += '\n\n\n'
 word_map_toks = tokenize_word_map(spelling_map_text, splits)
 toks = tokenize(initial_text.lower(), splits)
 
+#################### /TOKENIZE WORD MAP AND THE TEXT ####################
+
+#################### SAVE TOKENS AND FULL VOCAB ####################
 tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
 
 with open('tokens.json', 'w') as f:
@@ -546,3 +560,5 @@ sorted_set_toks_without_special_tokens_and_vocab = sorted(
 
 with open('full_vocab.json', 'w') as f:
     json.dump(full_vocab, f)
+
+#################### /SAVE TOKENS AND FULL VOCAB ####################
