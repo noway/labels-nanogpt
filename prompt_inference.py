@@ -1,5 +1,7 @@
 from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab
 from toker_decode import decode
+import torch
+from train import m
 
 text = """\_\_\_\_\_\_\_\_\_\_\_\_\_
 2.  object: triangle, rectangle triangle, rectangle colored rectangle, rectangle. (what pattern would be kind to the pattern?)
@@ -36,5 +38,21 @@ with open('full_vocab.json', 'r') as f:
     full_vocab = eval(f.read())
 
 tokens = tokens_to_array_of_numbers_without_full_vocab(tokenize(text.lower(), splits, commonality_map), full_vocab)
+idx = torch.tensor(tokens).unsqueeze(1)
+
+print (idx.shape)
 
 print (decode(tokens))
+
+
+
+device = (
+    'cuda'
+    if torch.cuda.is_available()
+    else 'mps'
+    if hasattr(torch.backends, 'mps') and torch.backends.mps.is_available()
+    else 'cpu'
+)
+
+idx = idx.to(device)
+print(m.module.generate(idx, 1000)[0].tolist())
