@@ -167,7 +167,7 @@ class BigramLanguageModel(nn.Module):
         # we'll stop when we reach max_new_tokens
         # idx_result = idx.clone().detach()
         for _ in range(max_new_tokens):
-            logits, loss = self(idx)
+            logits, _ = self(idx, targets=None)
             logits = logits[:, -1, :]
             probs = F.softmax(logits, dim=-1)
             idx_next = torch.multinomial(probs, num_samples=1)
