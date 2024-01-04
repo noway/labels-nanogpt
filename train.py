@@ -31,6 +31,13 @@ dropout = 0.2
 
 compute_unit_count = torch.cuda.device_count() if device == 'cuda' else 1
 
+data = torch.tensor(encoded, dtype=torch.long)
+data = data.to(device)
+
+first_90_percent = int(len(data) * 0.9)
+train_data = data[:first_90_percent]
+val_data = data[first_90_percent:]
+
 
 def compute_ix_one(i, block_size, data):
     return (i * block_size) % (len(data) - block_size)
@@ -145,32 +152,32 @@ class BigramLanguageModel(nn.Module):
         x = self.ln_f(x)
         logits = self.lm_head(x)  # B x T x vocab_size
 
-        # if targets is None:
-        loss = None
-        # else:
-        #     B, T, C = logits.shape
-        #     logits = logits.view(B * T, C)
-        #     targets = targets.view(B * T)
-        #     loss = F.cross_entropy(logits, targets)
+        if targets is None:
+            loss = None
+        else:
+            B, T, C = logits.shape
+            logits = logits.view(B * T, C)
+            targets = targets.view(B * T)
+            loss = F.cross_entropy(logits, targets)
         return logits, loss
 
     def generate(self, idx, max_new_tokens):
         # this is an array for the generated tokens
         # we'll keep appending to it as we generate more tokens
         # we'll stop when we reach max_new_tokens
-        for i in range(max_new_tokens):
-            # print ('i', i)
-            logits, _ = self(idx)
-            # print ('logits', logits.shape)
+        # idx_result = idx.clone().detach()
+        for _ in range(max_new_tokens):
+            logits, loss = self(idx)
             logits = logits[:, -1, :]
-            # print ('logits', logits.shape)
             probs = F.softmax(logits, dim=-1)
             idx_next = torch.multinomial(probs, num_samples=1)
+            # idx_result = torch.cat([idx_result, idx_next], dim=-1)
             print(decode_one_token(idx_next[0][0].item()), end='', flush=True)
             idx = torch.cat([idx, idx_next], dim=-1)
             # clip idx to block_size so that we're not feeding the model tokens past it's context window
             idx = idx[:, -block_size:]
         return True
+        # return idx_result
 
 
 class Head(nn.Module):
@@ -199,31 +206,23 @@ class Head(nn.Module):
 
 
 print(vocab_size)
-# m = nn.DataParallel(BigramLanguageModel())
-m = BigramLanguageModel()
+m = nn.DataParallel(BigramLanguageModel())
 m.to(device)
 
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
+optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
+
 
 PATH = 'bigmodel/model_weights_with_labels.pth_trained_twice'
 os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
 if os.path.exists(PATH):
     print('Loading model weights')
-    m.load_state_dict(torch.load(PATH, map_location=torch.device(device)))
+    m.module.load_state_dict(torch.load(PATH, map_location=torch.device(device)))
 else:
     print('No model weights found')
 
 if __name__ == '__main__':
-    data = torch.tensor(encoded, dtype=torch.long)
-    data = data.to(device)
-
-    first_90_percent = int(len(data) * 0.9)
-    train_data = data[:first_90_percent]
-    val_data = data[first_90_percent:]
-
-    optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
-
     for steps in range(max_iters):
         xb, yb = get_batch()
         logits, loss = m(xb, yb)
