@@ -7,15 +7,15 @@ load_dotenv()
 
 client = OpenAI(api_key=os.getenv('KEY'))
 
-FEW_SHOT_COUNT = 'three'
+FEW_SHOT_COUNT = 'fourteen'
 
 def generate_1_eval(filepath):
     # Generate 3 examples
     examples = client.completions.create(model="text-davinci-003",
         prompt=f"Generate ${FEW_SHOT_COUNT} simple math problems along with their answers suitable Grade 4 K-12 students.",
         temperature=0.5,
-        max_tokens=100).choices[0].text.strip()
-    print ('examples', examples)
+        max_tokens=800).choices[0].text.strip()
+    print (examples)
     # Format the examples into the prompt for the next generation
     prompt = f'''Generate a simple math problem along with its answer suitable Grade 4 K-12 students.
 
@@ -30,9 +30,10 @@ def generate_1_eval(filepath):
         response = client.completions.create(model="text-davinci-003",
             prompt=prompt,
             temperature=0.5,
-            max_tokens=50)
+            max_tokens=200)
             
-        print ('response.choices[0].text', response.choices[0].text)
+        print (f'\n15. {response.choices[0].text.strip()}')
+        print ('-----------------------------------')
 
         # Splits into problem and answer, and stores in dictionary
         problem_answer = response.choices[0].text.strip().split('\n')
