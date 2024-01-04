@@ -210,7 +210,6 @@ m = nn.DataParallel(BigramLanguageModel())
 m.to(device)
 
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
-optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
 
 
 PATH = 'bigmodel/model_weights_with_labels.pth_trained_twice'
@@ -223,6 +222,7 @@ else:
     print('No model weights found')
 
 if __name__ == '__main__':
+    optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
     for steps in range(max_iters):
         xb, yb = get_batch()
         logits, loss = m(xb, yb)
