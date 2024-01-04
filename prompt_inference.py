@@ -55,8 +55,6 @@ device = (
 )
 
 idx = idx.to(device)
-# print(m.generate(idx, 1000)[0].tolist())
 with torch.no_grad():
-    # output = model(input)
-    print(m.generate(idx, 1000)[0].tolist())
+    print(m.module.generate(idx, 1000)[0].tolist())
 
