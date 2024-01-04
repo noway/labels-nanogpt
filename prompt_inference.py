@@ -3,30 +3,44 @@ from toker_decode import decode
 import torch
 from train import m
 
-text = """\_\_\_\_\_\_\_\_\_\_\_\_\_
-2.  object: triangle, rectangle triangle, rectangle colored rectangle, rectangle. (what pattern would be kind to the pattern?)
-3.  circle, triangle, circle, square, triangle, circle, \_\_\_\_\_\_, \_\_\_\_\_\_, \_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_
-4.  red, rectangle, triangle, circle, rectangle, square, triangle, rectangle, rectangle, \_\_\_\_\_\_\_, \_\_\_\_\_\_\_
+text = """1. What is the sum of 5 + 3?
+Answer: 8
 
-**answers
-to activity 3:**
+2. What is the difference between 11 and 8?
+Answer: 3
 
-1.  circle, square
-2.  rectangle, rectangle
-3.  hexagon, circle
-4.  triangle, pentagon
+3. What is the product of 5 and 4?
+Answer: 20
 
-## describing shape patterns
+4. What is the quotient of 18 divided by 3?
+Answer: 6
 
-patterns can get trickier! some patterns increase or decrease in size or change colors and sequences. let's learn how to describe such patterns.
+5. What is the sum of 7 + 9 + 4?
+Answer: 20
 
-### activity 3: describe the pattern
+6. What is the difference between 15 and 11?
+Answer: 4
 
-tell us what the pattern is doing in each sequence below.
+7. What is the product of 5 and 7?
+Answer: 35
 
-1.  small circle, big circle, small circle, big circle, big circle, \_\_\_\_\_\_
-2.  blue square, blue square, red square, blue square, red square, \_\_\_
-"""
+8. What is the quotient of 21 divided by 3?
+Answer: 7
+
+9. What is the sum of 6 + 8 + 3?
+Answer: 17
+
+10. What is the difference between 16 and 10?
+Answer: 6
+
+11. What is the product of 4 and 6?
+Answer: 24
+
+12. What is the quotient of 24 divided by 4?
+Answer: 6
+
+13. What is the sum of 10 + 4?
+Answer: """
 
 with open('splits.json', 'r') as f:
     splits = eval(f.read())
