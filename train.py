@@ -165,18 +165,19 @@ class BigramLanguageModel(nn.Module):
         # this is an array for the generated tokens
         # we'll keep appending to it as we generate more tokens
         # we'll stop when we reach max_new_tokens
-        idx_result = idx.clone().detach()
+        # idx_result = idx.clone().detach()
         for _ in range(max_new_tokens):
             logits, loss = self(idx)
             logits = logits[:, -1, :]
             probs = F.softmax(logits, dim=-1)
             idx_next = torch.multinomial(probs, num_samples=1)
-            idx_result = torch.cat([idx_result, idx_next], dim=-1)
+            # idx_result = torch.cat([idx_result, idx_next], dim=-1)
             print(decode_one_token(idx_next[0][0].item()), end='', flush=True)
             idx = torch.cat([idx, idx_next], dim=-1)
             # clip idx to block_size so that we're not feeding the model tokens past it's context window
             idx = idx[:, -block_size:]
-        return idx_result
+        return True
+        # return idx_result
 
 
 class Head(nn.Module):

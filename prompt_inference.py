@@ -38,11 +38,11 @@ with open('full_vocab.json', 'r') as f:
     full_vocab = eval(f.read())
 
 tokens = tokens_to_array_of_numbers_without_full_vocab(tokenize(text.lower(), splits, commonality_map), full_vocab)
-idx = torch.tensor(tokens).unsqueeze(1)
+idx = torch.tensor(tokens).unsqueeze(0)
 
 print (idx.shape)
 
-print (decode(tokens))
+print (decode(tokens), end='', flush=True)
 
 
 
