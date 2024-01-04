@@ -3,44 +3,47 @@ from toker_decode import decode
 import torch
 from train import m
 
-text = """1. What is the sum of 5 + 3?
-Answer: 8
+# text = """
+# 1. 1 + 1 = 2
+# 2. 1 + 2 = 3
+# 3. 1 + 3 = 4
+# 4. 1 + 4 = 5
+# 5. 1 + 5 = 6
+# 6. 1 + 6 = 7
+# 7. 1 + 7 = 8
+# 8. 1 + 8 = 9
+# 9. 1 + 9 = 10
+# 10. 1 + 10 = 11
+# 11. 1 + 11 = 12
+# 12. 1 + 12 = """
 
-2. What is the difference between 11 and 8?
-Answer: 3
+# text = """1. 2 + 1 = 3
+# 2. 2 + 2 = 4
+# 3. 2 + 3 = 5
+# 4. 2 + 4 = 6
+# 5. 2 + 5 = 7
+# 6. 2 + 6 = 8
+# 7. 2 + 7 = 9
+# 8. 2 + 8 = 10
+# 9. 2 + 9 = 11
+# 10. 2 + 10 = 12
+# 11. 2 + 11 = 13
+# 12. 3 + 3 = """
 
-3. What is the product of 5 and 4?
-Answer: 20
+text = """1. 2 + 1 = 3
+2. 2 + 2 = 4
+3. 2 + 3 = 5
+4. 2 + 4 = 6
+5. 2 + 5 = 7
+6. 2 + 6 = 8
+7. 2 + 7 = 9
+8. 2 + 8 = 10
+9. 2 + 9 = 11
+10. 2 + 10 = 12
+11. 2 + 11 = 13
+12. 3 + 2 = """
 
-4. What is the quotient of 18 divided by 3?
-Answer: 6
 
-5. What is the sum of 7 + 9 + 4?
-Answer: 20
-
-6. What is the difference between 15 and 11?
-Answer: 4
-
-7. What is the product of 5 and 7?
-Answer: 35
-
-8. What is the quotient of 21 divided by 3?
-Answer: 7
-
-9. What is the sum of 6 + 8 + 3?
-Answer: 17
-
-10. What is the difference between 16 and 10?
-Answer: 6
-
-11. What is the product of 4 and 6?
-Answer: 24
-
-12. What is the quotient of 24 divided by 4?
-Answer: 6
-
-13. What is the sum of 10 + 4?
-Answer: """
 
 with open('splits.json', 'r') as f:
     splits = eval(f.read())
