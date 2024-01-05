@@ -77,3 +77,5 @@ with torch.no_grad():
     for token in m.module.generate(idx, 1000):
         token_str = decode_one_token(token)
         print(token_str, end='', flush=True)
+        if token_str == '\n':
+            break
