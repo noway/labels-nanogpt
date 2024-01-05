@@ -4,19 +4,19 @@ import torch
 from train import m
 from toker_decode import decode_one_token
 
-text = """
-1. 1 + 1 = 2
-2. 1 + 2 = 3
-3. 1 + 3 = 4
-4. 1 + 4 = 5
-5. 1 + 5 = 6
-6. 1 + 6 = 7
-7. 1 + 7 = 8
-8. 1 + 8 = 9
-9. 1 + 9 = 10
-10. 1 + 10 = 11
-11. 1 + 11 = 12
-12. 1 + 13 = """
+# text = """
+# 1. 1 + 1 = 2
+# 2. 1 + 2 = 3
+# 3. 1 + 3 = 4
+# 4. 1 + 4 = 5
+# 5. 1 + 5 = 6
+# 6. 1 + 6 = 7
+# 7. 1 + 7 = 8
+# 8. 1 + 8 = 9
+# 9. 1 + 9 = 10
+# 10. 1 + 10 = 11
+# 11. 1 + 11 = 12
+# 12. 1 + 13 = """
 
 # text = """1. 2 + 1 = 3
 # 2. 2 + 2 = 4
@@ -44,6 +44,35 @@ text = """
 # 11. 2 + 11 = 13
 # 12. 3 + 2 = """
 
+
+text = """
+1. **Exercise**: 5 + 1 = ?
+Let's count:
+1, 2, 3, 4, 5
+Count 1 more:
+6
+**Answer**: 5 + 1 = 6
+
+2. **Exercise**: 5 + 2 = ?
+Let's count:
+1, 2, 3, 4, 5
+Count 2 more:
+6, 7
+**Answer**: 5 + 2 = 7
+
+3. **Exercise**: 5 + 3 = ?
+Let's count:
+1, 2, 3, 4, 5
+Count 3 more:
+6, 7, 8
+**Answer**: 5 + 3 = 8
+
+4. **Exercise**: 3 + 4 = ?
+Let's count:
+1, 2, 3
+Count 4 more:
+4, 5, 6, 7
+**Answer**: 3 + 4 = """
 
 
 with open('splits.json', 'r') as f:
