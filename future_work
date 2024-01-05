@@ -44,6 +44,7 @@ generate advanced problem sets
 - better data
 - make sure the model is not overfitting so much
 - validation data is not representative of the test data
+- uncertainty routing for evals
 
 *sharp edges*
 - there's some stuff like environment (classroom) specfic games where answer is random. can't learn much from it
