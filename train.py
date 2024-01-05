@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 import os
+from toker_decode import decode_one_token
 
 with open('tokens.json', 'r') as f:
     json_str = f.read()
@@ -171,6 +172,8 @@ class BigramLanguageModel(nn.Module):
             probs = F.softmax(logits, dim=-1)
             # idx_next = torch.multinomial(probs, num_samples=1)
             idx_next = torch.argmax(probs, dim=-1, keepdim=True)
+            values, indices = torch.topk(probs, 5)
+            print ('indices', [decode_one_token(tok) for tok in indices[0].tolist()], 'values', values[0].tolist())
             yield idx_next[0][0].item()
             idx = torch.cat([idx, idx_next], dim=-1)
             # clip idx to block_size so that we're not feeding the model tokens past it's context window
