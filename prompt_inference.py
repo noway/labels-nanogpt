@@ -75,6 +75,36 @@ from toker_decode import decode_one_token
 # **Answer**: 3 + 4 = """
 
 
+text = """
+1. **Exercise**: 5 - 1 = ?
+Let's count:
+1, 2, 3, 4, 5
+Count 1 less:
+4
+**Answer**: 5 - 1 = 4
+
+2. **Exercise**: 5 - 2 = ?
+Let's count:
+1, 2, 3, 4, 5
+Count 2 less:
+4, 3
+**Answer**: 5 - 2 = 3
+
+3. **Exercise**: 5 - 3 = ?
+Let's count:
+1, 2, 3, 4, 5
+Count 3 less:
+4, 3, 2
+**Answer**: 5 - 3 = 2
+
+4. **Exercise**: 9 - 4 = ?
+Let's count:
+1, 2, 3, 4, 5, 6, 7, 8, 9
+Count 4 less:
+8, 7, 6, 5
+**Answer**: 9 - 4 = """
+
+
 with open('splits.json', 'r') as f:
     splits = eval(f.read())
 
