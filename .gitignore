@@ -11,3 +11,4 @@ model_weights.pth*
 */model_weights*.pth*
 splits.json
 commonality_map.json
+*.pyc
