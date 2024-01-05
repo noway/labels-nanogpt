@@ -45,34 +45,34 @@ from toker_decode import decode_one_token
 # 12. 3 + 2 = """
 
 
-text = """
-1. **Exercise**: 5 + 1 = ?
-Let's count:
-1, 2, 3, 4, 5
-Count 1 more:
-6
-**Answer**: 5 + 1 = 6
+# text = """
+# 1. **Exercise**: 5 + 1 = ?
+# Let's count:
+# 1, 2, 3, 4, 5
+# Count 1 more:
+# 6
+# **Answer**: 5 + 1 = 6
 
-2. **Exercise**: 5 + 2 = ?
-Let's count:
-1, 2, 3, 4, 5
-Count 2 more:
-6, 7
-**Answer**: 5 + 2 = 7
+# 2. **Exercise**: 5 + 2 = ?
+# Let's count:
+# 1, 2, 3, 4, 5
+# Count 2 more:
+# 6, 7
+# **Answer**: 5 + 2 = 7
 
-3. **Exercise**: 5 + 3 = ?
-Let's count:
-1, 2, 3, 4, 5
-Count 3 more:
-6, 7, 8
-**Answer**: 5 + 3 = 8
+# 3. **Exercise**: 5 + 3 = ?
+# Let's count:
+# 1, 2, 3, 4, 5
+# Count 3 more:
+# 6, 7, 8
+# **Answer**: 5 + 3 = 8
 
-4. **Exercise**: 3 + 4 = ?
-Let's count:
-1, 2, 3
-Count 4 more:
-4, 5, 6, 7
-**Answer**: 3 + 4 = """
+# 4. **Exercise**: 3 + 4 = ?
+# Let's count:
+# 1, 2, 3
+# Count 4 more:
+# 4, 5, 6, 7
+# **Answer**: 3 + 4 = """
 
 
 with open('splits.json', 'r') as f:
