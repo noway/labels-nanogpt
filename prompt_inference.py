@@ -2,6 +2,7 @@ from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab
 from toker_decode import decode
 import torch
 from train import m
+from toker_decode import decode_one_token
 
 text = """
 1. 1 + 1 = 2
@@ -73,5 +74,6 @@ device = (
 
 idx = idx.to(device)
 with torch.no_grad():
-    m.module.generate(idx, 1000)
-
+    for token in m.module.generate(idx, 1000):
+        token_str = decode_one_token(token)
+        print(token_str, end='', flush=True)
