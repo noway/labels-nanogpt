@@ -126,6 +126,7 @@ class BigramLanguageModel(nn.Module):
         super().__init__()
         self.token_embedding_table = nn.Embedding(vocab_size, num_embeddings)
         self.position_embedding_table = nn.Embedding(block_size, num_embeddings)
+        self.label_embedding_table = nn.Embedding(label_size, num_embeddings)
         self.blocks = nn.Sequential(
             *[Block(num_embeddings, n_head=n_head) for _ in range(n_layer)]
         )
@@ -144,6 +145,9 @@ class BigramLanguageModel(nn.Module):
 
     def forward(self, idx, targets=None):
         B, T = idx.shape
+        # C is the embedding dimension (size)
+        # T is the number of tokens in the sequence (context window)
+        # B is the batch size
         # idx and targets are both B x T
         tok_emb = self.token_embedding_table(idx)  # B x T x C
         pos_emb = self.position_embedding_table(torch.arange(T, device=device))  # T x C
