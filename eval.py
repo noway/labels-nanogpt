@@ -52,4 +52,10 @@ def check_one_eval(eval_file):
 
 
 if __name__ == "__main__":
-    check_one_eval('exercises0_0.yml')
+    for num1 in range(10):
+        for num2 in range(10):
+            if num1 < num2:
+                continue
+            file_path = f'exercises{num1}_{num2}.yml'
+            print ('file_path', (file_path,))
+            check_one_eval(file_path)
