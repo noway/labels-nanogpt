@@ -38,6 +38,8 @@ first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
+train_data_labels = torch.tensor([], dtype=torch.long) # TODO: implement labels
+
 
 def compute_ix_one(i, block_size, data):
     return (i * block_size) % (len(data) - block_size)
@@ -58,11 +60,13 @@ j = 0
 def get_batch():
     global j
     data = train_data
+    data_labels = train_data_labels
     ix = compute_ix(j, block_size, data)
     j += 1
     x = torch.stack([data[i : i + block_size] for i in ix])
+    labels = torch.stack([data_labels[i : i + block_size] for i in ix])
     y = torch.stack([data[i + 1 : i + block_size + 1] for i in ix])
-    return x, y
+    return x, labels, y
 
 
 def get_batch_val():
@@ -230,8 +234,8 @@ else:
 if __name__ == '__main__':
     optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
     for steps in range(max_iters):
-        xb, yb = get_batch()
-        logits, loss = m(xb, yb)
+        xb, labelsb, yb = get_batch()
+        logits, loss = m(xb, labelsb, yb)
         optimizer.zero_grad(set_to_none=True)
         (loss.sum() / compute_unit_count).backward()
         optimizer.step()
