@@ -355,23 +355,25 @@ def digit_split(tokens):
 
 def tokenize(text, splits, commonality_map):
     tokens = []
+    labels = []
     for token in digit_split(special_token_split(text, special_tokens)):
         if token in splits:
             commonality_label = commonality_map[token]
             if commonality_label is None:
                 exit(f'commonality_label is None for token {token}')
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append(commonality_label)
+                labels.append(commonality_label)
             tokens.extend(splits[token])
         else:
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append(special_token_to_label_mapper(token))
+                labels.append(special_token_to_label_mapper(token))
             tokens.append(token)
-    return tokens
+    return tokens, labels
 
 
 def tokenize_word_map(text, splits, commonality_map):
     tokens = []
+    labels = []
     for token in special_token_split(text, special_tokens):
         token_with_hashes = f'##{token}'
         if token in splits:
@@ -379,17 +381,17 @@ def tokenize_word_map(text, splits, commonality_map):
             if commonality_label is None:
                 exit(f'commonality_label is None for token {token}')
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append(commonality_label)
+                labels.append(commonality_label)
             tokens.extend(splits[token])
         elif any([token_with_hashes in split for split in splits.values()]):
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append('@split_explainer@')
+                labels.append('@split_explainer@')
             tokens.append(token_with_hashes)
         else:
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append(special_token_to_label_mapper(token))
+                labels.append(special_token_to_label_mapper(token))
             tokens.append(token)
-    return tokens
+    return tokens, labels
 
 
 def tokens_to_array_of_numbers(tokens):
@@ -545,16 +547,20 @@ if __name__ == '__main__':
 
     spelling_map_text += '\n\n\n'
 
-    word_map_toks = tokenize_word_map(spelling_map_text, splits, commonality_map)
-    toks = tokenize(initial_text.lower(), splits, commonality_map)
+    word_map_toks, word_map_lbls = tokenize_word_map(spelling_map_text, splits, commonality_map)
+    toks, lbls = tokenize(initial_text.lower(), splits, commonality_map)
 
     #################### /TOKENIZE WORD MAP AND THE TEXT ####################
 
     #################### SAVE TOKENS AND FULL VOCAB ####################
     tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
+    labels = labels_to_array_of_numbers(word_map_lbls + lbls)
 
     with open('tokens.json', 'w') as f:
         json.dump(tokens, f)
+
+    with open('labels.json', 'w') as f:
+        json.dump(labels, f)
 
     set_toks = set(word_map_toks + toks)
     set_toks_without_special_tokens = set_toks - set(special_tokens)
