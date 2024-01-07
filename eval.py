@@ -20,6 +20,7 @@ def check_one_eval(eval_file):
         data = yaml.safe_load(f)
         text = data['exercises']
         answer = data['answer']
+        eval_type = data['eval_type']
 
     # print ('text',(text,))
     tokens = tokens_to_array_of_numbers_without_full_vocab(tokenize(text.lower(), splits, commonality_map), full_vocab)
@@ -49,21 +50,23 @@ def check_one_eval(eval_file):
     print ('the_answer', (the_answer,))
     is_correct = the_answer.strip() == str(answer)
     print ('is_correct', (is_correct,))
-    return is_correct
+    return is_correct, eval_type
 
 
 if __name__ == "__main__":
     correct_count = 0
     all_count = 0
+    eval_type = ''
     for num1 in range(10):
         for num2 in range(10):
             if num1 < num2:
                 continue
             file_path = f'exercises{num1}_{num2}.yml'
             print ('file_path', (file_path,))
-            is_correct = check_one_eval(file_path)
+            is_correct, eval_type = check_one_eval(file_path)
             if is_correct:
                 correct_count += 1
             all_count += 1
+    print ('eval_type', (eval_type,))
     print ('correct_count', (correct_count,))
     print ('all_count', (all_count,))
