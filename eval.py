@@ -47,8 +47,9 @@ def check_one_eval(eval_file):
                 break
             the_answer += token_str
 
+    the_answer = the_answer.strip().replace('*', '')
     print ('the_answer', (the_answer,))
-    is_correct = the_answer.strip() == str(answer)
+    is_correct = the_answer == str(answer)
     print ('is_correct', (is_correct,))
     return is_correct, eval_type
 
