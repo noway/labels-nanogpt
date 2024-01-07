@@ -105,13 +105,13 @@ Count 4 less:
 **Answer**: 9 - 4 = """
 
 
-with open('splits.json', 'r') as f:
+with open('bigmodel/no_labels_toker/splits.json', 'r') as f:
     splits = eval(f.read())
 
-with open('commonality_map.json', 'r') as f:
+with open('bigmodel/no_labels_toker/commonality_map.json', 'r') as f:
     commonality_map = eval(f.read())
 
-with open('full_vocab.json', 'r') as f:
+with open('bigmodel/no_labels_toker/full_vocab.json', 'r') as f:
     full_vocab = eval(f.read())
 
 tokens = tokens_to_array_of_numbers_without_full_vocab(tokenize(text.lower(), splits, commonality_map), full_vocab)

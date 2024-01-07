@@ -4,7 +4,7 @@ import numpy as np
 from collections import Counter
 from collections import defaultdict
 
-COMMONALITY_LABEL_ENABLED = True
+COMMONALITY_LABEL_ENABLED = False
 
 emoji_and_symbols_tokens = [
     '1️⃣',
