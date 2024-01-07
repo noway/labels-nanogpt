@@ -37,15 +37,15 @@ def generate_and_sort_nums():
     return num1, num2
 
 def generate_eval():
-    num1, num2 = generate_and_sort_nums()
-    print("First number: ", num1)
-    print("Second number: ", num2)
+    for num1 in range(10):
+        for num2 in range(10):
+            if num1 < num2:
+                continue
+            exer, answer = generate_exercises(num1, num2)
 
-    exer, answer = generate_exercises(num2, num1)
-
-    with open(f'exercises{num2}_{num1}.json', 'w') as f:
-        json_str = json.dumps({'exer': exer, 'answer': answer})
-        f.write(json_str)
+            with open(f'exercises{num1}_{num2}.json', 'w') as f:
+                json_str = json.dumps({'exer': exer, 'answer': answer})
+                f.write(json_str)
 
 
 if __name__ == "__main__":
