@@ -15,6 +15,9 @@ encoded_labels = eval(json_str)
 chars = list(set(encoded))
 vocab_size = len(chars)
 
+labels_set_list = list(set(encoded_labels))
+label_size = len(labels_set_list)
+
 batch_size = 18
 block_size = 256
 max_iters = 5000 * 4
