@@ -45,6 +45,7 @@ generate advanced problem sets
 - make sure the model is not overfitting so much
 - uncertainty routing for evals
 - add label embedding
+- add word-filler label for the label model, similar to the one i'm doing for label embedding model
 
 *sharp edges*
 - there's some stuff like environment (classroom) specfic games where answer is random. can't learn much from it
