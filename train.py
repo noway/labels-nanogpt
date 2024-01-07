@@ -8,6 +8,10 @@ with open('tokens.json', 'r') as f:
     json_str = f.read()
 encoded = eval(json_str)
 
+with open('labels.json', 'r') as f:
+    json_str = f.read()
+encoded_labels = eval(json_str)
+
 chars = list(set(encoded))
 vocab_size = len(chars)
 
@@ -34,11 +38,14 @@ compute_unit_count = torch.cuda.device_count() if device == 'cuda' else 1
 data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
 
+data_labels = torch.tensor(encoded_labels, dtype=torch.long)
+data_labels = data_labels.to(device)
+
 first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
-train_data_labels = torch.tensor([], dtype=torch.long) # TODO: implement labels
+train_data_labels = data_labels[:first_90_percent]
 
 
 def compute_ix_one(i, block_size, data):
