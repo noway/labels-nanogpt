@@ -260,7 +260,9 @@ label_tokens = [
 special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_tokens
 
 if COMMONALITY_LABEL_ENABLED:
-    special_tokens += label_tokens
+    # No longer needed because we are using the labels embedding table
+    # special_tokens += label_tokens
+    pass
 
 def special_token_to_label_mapper(special_token):
     if special_token in emoji_and_symbols_tokens:
@@ -480,7 +482,8 @@ if __name__ == '__main__':
     vocab = list()
 
     vocab_size = (
-        751 if COMMONALITY_LABEL_ENABLED else 761
+        # always 761 because we are using the labels embedding table
+        761 # if COMMONALITY_LABEL_ENABLED else 761
     )  # should this be number of phonemes or syllables? thinking 44, 100 or something.
     # now going for 1024 total vocab size
     while len(vocab) < vocab_size:
