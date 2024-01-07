@@ -1,3 +1,6 @@
+import random
+import json
+
 def subtraction_exercise(n, m, drop_answer=False):
     exercise = "**Exercise**: {} - {} = ?\n".format(n, m)
     
@@ -24,10 +27,6 @@ def generate_exercises(k, l):
     excerise, answer = subtraction_exercise(k, l)
     result += excerise
     return result, answer
-
-
-import random
-import json
 
 def generate_and_sort_nums():
     num1 = random.randint(0, 9)
