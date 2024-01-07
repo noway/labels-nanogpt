@@ -49,6 +49,7 @@ train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
 train_data_labels = data_labels[:first_90_percent]
+val_data_labels = data_labels[first_90_percent:]
 
 
 def compute_ix_one(i, block_size, data):
@@ -81,10 +82,12 @@ def get_batch():
 
 def get_batch_val():
     data = val_data
+    data_labels = val_data_labels
     ix = torch.randint(len(data) - block_size, (batch_size,))
     x = torch.stack([data[i : i + block_size] for i in ix])
+    labels = torch.stack([data_labels[i : i + block_size] for i in ix])
     y = torch.stack([data[i + 1 : i + block_size + 1] for i in ix])
-    return x, y
+    return x, labels, y
 
 
 class MultiHeadAttention(nn.Module):
