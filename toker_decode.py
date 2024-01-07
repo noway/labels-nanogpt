@@ -1,6 +1,6 @@
 import json
 
-with open('bigmodel/no_labels_toker/full_vocab.json', 'r') as f:
+with open('full_vocab.json', 'r') as f:
     full_vocab = json.load(f)
 
 

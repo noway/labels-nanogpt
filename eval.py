@@ -5,13 +5,13 @@ from train import m
 from toker_decode import decode_one_token
 import yaml
 
-with open('bigmodel/no_labels_toker/splits.json', 'r') as f:
+with open('splits.json', 'r') as f:
     splits = eval(f.read())
 
-with open('bigmodel/no_labels_toker/commonality_map.json', 'r') as f:
+with open('commonality_map.json', 'r') as f:
     commonality_map = eval(f.read())
 
-with open('bigmodel/no_labels_toker/full_vocab.json', 'r') as f:
+with open('full_vocab.json', 'r') as f:
     full_vocab = eval(f.read())
 
 
