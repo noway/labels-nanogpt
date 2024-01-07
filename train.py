@@ -143,15 +143,16 @@ class BigramLanguageModel(nn.Module):
         elif isinstance(module, nn.Embedding):
             torch.nn.init.normal_(module.weight, mean=0.0, std=0.02)
 
-    def forward(self, idx, targets=None):
+    def forward(self, idx, idx_labels, targets=None):
         B, T = idx.shape
         # C is the embedding dimension (size)
         # T is the number of tokens in the sequence (context window)
         # B is the batch size
         # idx and targets are both B x T
         tok_emb = self.token_embedding_table(idx)  # B x T x C
+        label_emb = self.label_embedding_table(idx_labels)  # B x T x C
         pos_emb = self.position_embedding_table(torch.arange(T, device=device))  # T x C
-        x = tok_emb + pos_emb  # B x T x C
+        x = tok_emb + label_emb + pos_emb  # B x T x C
         x = self.blocks(x)
         x = self.ln_f(x)
         logits = self.lm_head(x)  # B x T x vocab_size
