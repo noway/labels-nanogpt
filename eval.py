@@ -49,13 +49,21 @@ def check_one_eval(eval_file):
     print ('the_answer', (the_answer,))
     is_correct = the_answer.strip() == str(answer)
     print ('is_correct', (is_correct,))
+    return is_correct
 
 
 if __name__ == "__main__":
+    correct_count = 0
+    all_count = 0
     for num1 in range(10):
         for num2 in range(10):
             if num1 < num2:
                 continue
             file_path = f'exercises{num1}_{num2}.yml'
             print ('file_path', (file_path,))
-            check_one_eval(file_path)
+            is_correct = check_one_eval(file_path)
+            if is_correct:
+                correct_count += 1
+            all_count += 1
+    print ('correct_count', (correct_count,))
+    print ('all_count', (all_count,))
