@@ -13,3 +13,4 @@ splits.json
 commonality_map.json
 *.pyc
 exercises*.yml
+labels.json
