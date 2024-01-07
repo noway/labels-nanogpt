@@ -415,6 +415,22 @@ def tokens_to_array_of_numbers(tokens):
     return [result, full_vocab]
 
 
+def labels_to_array_of_numbers(labels):
+    all_labels = set()
+    for label in labels:
+        if label not in all_labels:
+            all_labels.add(label)
+    all_labels_list = list(all_labels)
+
+    result = []
+    for label in labels:
+        if label in all_labels_list:
+            result.append(all_labels_list.index(label))
+        else:
+            raise Exception(f'Label {label} is not in all_labels_list')
+    return result
+
+
 def tokens_to_array_of_numbers_without_full_vocab(tokens, full_vocab):
     result = []
     for token in tokens:
