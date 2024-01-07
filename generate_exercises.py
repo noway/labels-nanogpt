@@ -13,8 +13,7 @@ def subtraction_exercise(n, m, drop_answer=False):
     exercise += reduced_values + "\n"
 
     answer = n - m
-    exercise += "**Answer**: {} - {} ={}\n".format(n, m, f' {answer}' if not drop_answer else "")
-    exercise += "\n"
+    exercise += "**Answer**: {} - {} = {}".format(n, m, f'{answer}\n\n' if not drop_answer else "")
     return exercise, answer
 
 def generate_exercises(k, l):
@@ -40,7 +39,7 @@ def generate_eval():
             exer, answer = generate_exercises(num1, num2)
 
             with open(f'exercises{num1}_{num2}.yml', 'w') as f:
-                dict_exer = {'exercises': exer.strip(), 'answer': answer}
+                dict_exer = {'exercises': exer, 'answer': answer}
                 yaml_str = yaml.dump(dict_exer, f)
 
 
