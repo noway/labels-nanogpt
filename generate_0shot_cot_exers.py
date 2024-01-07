@@ -39,7 +39,7 @@ def generate_eval():
             exer, answer = generate_exercises(num1, num2)
 
             with open(f'exercises{num1}_{num2}.yml', 'w') as f:
-                dict_exer = {'exercises': exer, 'answer': answer, eval_type: '0shot_cot'}
+                dict_exer = {'exercises': exer, 'answer': answer, 'eval_type': '0shot_cot'}
                 yaml_str = yaml.dump(dict_exer, f)
 
 
