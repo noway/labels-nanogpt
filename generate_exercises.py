@@ -14,7 +14,7 @@ def subtraction_exercise(n, m, drop_answer=False):
     exercise += reduced_values + "\n"
 
     answer = n - m
-    exercise += "**Answer**: {} - {} = {}\n".format(n, m, answer if not drop_answer else "")
+    exercise += "**Answer**: {} - {} ={}\n".format(n, m, f' {answer}' if not drop_answer else "")
     exercise += "\n"
     return exercise, answer
 
@@ -25,7 +25,7 @@ def generate_exercises(k, l):
         excerise, _ = subtraction_exercise(5, i+1)
         result += excerise
 
-    excerise, answer = subtraction_exercise(k, l)
+    excerise, answer = subtraction_exercise(k, l, drop_answer=True)
     result += excerise
     return result, answer
 
