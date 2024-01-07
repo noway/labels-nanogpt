@@ -42,7 +42,7 @@ def check_one_eval(eval_file):
         for token in m.module.generate(idx, 1000):
             token_str = decode_one_token(token)
             # print(token_str, end='', flush=True)
-            if token_str == '\n':
+            if token_str == '\n' or token_str == ' ' or token_str == ',':
                 break
             the_answer += token_str
 
