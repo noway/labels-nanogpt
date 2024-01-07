@@ -29,13 +29,6 @@ def generate_exercises(k, l):
     result += excerise
     return result, answer
 
-def generate_and_sort_nums():
-    num1 = random.randint(0, 9)
-    num2 = random.randint(0, 9)
-    
-    num1, num2 = sorted([num1, num2])
-
-    return num1, num2
 
 def generate_eval():
     for num1 in range(10):
