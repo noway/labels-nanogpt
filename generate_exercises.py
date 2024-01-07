@@ -1,6 +1,5 @@
 import random
-# import json
-import yaml
+from ruamel.yaml import YAML
 
 def subtraction_exercise(n, m, drop_answer=False):
     exercise = "**Exercise**: {} - {} = ?\n".format(n, m)
@@ -30,6 +29,9 @@ def generate_exercises(k, l):
     return result, answer
 
 
+yaml = YAML()
+yaml.default_style = '|'
+
 def generate_eval():
     for num1 in range(10):
         for num2 in range(10):
@@ -38,8 +40,8 @@ def generate_eval():
             exer, answer = generate_exercises(num1, num2)
 
             with open(f'exercises{num1}_{num2}.yml', 'w') as f:
-                yaml_str = yaml.dump({'exercises': exer, 'answer': answer})
-                f.write(yaml_str)
+                dict_exer = {'exercises': exer, 'answer': answer}
+                yaml_str = yaml.dump(dict_exer, f)
 
 
 if __name__ == "__main__":
