@@ -46,6 +46,7 @@ generate advanced problem sets
 - validation data is not representative of the test data
 - uncertainty routing for evals
 - add label embedding
+- is rolling data training better than random sampling training?
 
 *sharp edges*
 - there's some stuff like environment (classroom) specfic games where answer is random. can't learn much from it
