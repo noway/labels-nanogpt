@@ -233,7 +233,8 @@ print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parame
 
 
 PATH = 'model_weights.pth'
-os.makedirs(os.path.dirname(PATH), exist_ok=True)
+if os.path.dirname(PATH) != '':
+    os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
 if os.path.exists(PATH):
     print('Loading model weights')
