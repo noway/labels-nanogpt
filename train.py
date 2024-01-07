@@ -17,6 +17,7 @@ vocab_size = len(chars)
 
 labels_set_list = list(set(encoded_labels))
 label_size = len(labels_set_list)
+print('label_size', label_size)
 
 batch_size = 18
 block_size = 256
@@ -40,9 +41,11 @@ compute_unit_count = torch.cuda.device_count() if device == 'cuda' else 1
 
 data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
+print ('data', data.shape)
 
 data_labels = torch.tensor(encoded_labels, dtype=torch.long)
 data_labels = data_labels.to(device)
+print ('data_labels', data_labels.shape)
 
 first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
