@@ -365,12 +365,13 @@ def tokenize(text, splits, commonality_map):
                 exit(f'commonality_label is None for token {token}')
             if COMMONALITY_LABEL_ENABLED:
                 labels.append(commonality_label)
+            is_first = True
             for split_token in splits[token]:
-                is_not_first = split_token != splits[token][0]
-                if is_not_first:
+                if not is_first:
                     if COMMONALITY_LABEL_ENABLED:
                         labels.append('@word_filler@')                
                 tokens.append(split_token)
+                is_first = False
         else:
             if COMMONALITY_LABEL_ENABLED:
                 labels.append(special_token_to_label_mapper(token))
@@ -389,12 +390,13 @@ def tokenize_word_map(text, splits, commonality_map):
                 exit(f'commonality_label is None for token {token}')
             if COMMONALITY_LABEL_ENABLED:
                 labels.append(commonality_label)
+            is_first = True
             for split_token in splits[token]:
-                is_not_first = split_token != splits[token][0]
-                if is_not_first:
+                if not is_first:
                     if COMMONALITY_LABEL_ENABLED:
                         labels.append('@word_filler@')                
                 tokens.append(split_token)
+                is_first = False
         elif any([token_with_hashes in split for split in splits.values()]):
             if COMMONALITY_LABEL_ENABLED:
                 labels.append('@split_explainer@')
