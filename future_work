@@ -40,11 +40,12 @@ generate advanced problem sets
 - maybe do a word commonality label? like word difficulty in thesaurus
 - measure if seq training/random training is better after commonality label
 - 'tree of models' - this could be revolutionary. one model to parse morphology. another model on top to parse higher order concepts. than even higher order concepts. etc. etc. etc. every single one has its own tokenization. actually no, just sounds like tokenization in between layers [no]
-- add evals
+- add evals [done]
 - better data
 - make sure the model is not overfitting so much
 - validation data is not representative of the test data
 - uncertainty routing for evals
+- add label embedding
 
 *sharp edges*
 - there's some stuff like environment (classroom) specfic games where answer is random. can't learn much from it
