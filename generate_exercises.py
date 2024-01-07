@@ -1,5 +1,6 @@
 import random
-import json
+# import json
+import yaml
 
 def subtraction_exercise(n, m, drop_answer=False):
     exercise = "**Exercise**: {} - {} = ?\n".format(n, m)
@@ -43,9 +44,9 @@ def generate_eval():
                 continue
             exer, answer = generate_exercises(num1, num2)
 
-            with open(f'exercises{num1}_{num2}.json', 'w') as f:
-                json_str = json.dumps({'exer': exer, 'answer': answer})
-                f.write(json_str)
+            with open(f'exercises{num1}_{num2}.yml', 'w') as f:
+                yaml_str = yaml.dump({'exercises': exer, 'answer': answer})
+                f.write(yaml_str)
 
 
 if __name__ == "__main__":
