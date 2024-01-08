@@ -2,7 +2,7 @@ from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab, label
 from toker_decode import decode
 import torch
 from train import m
-from toker_decode import decode_one_token
+from toker_decode import decode_one_token, vectorize_labels_with_map
 
 # text = """
 # 1. 1 + 1 = 2
@@ -114,32 +114,16 @@ with open('commonality_map.json', 'r') as f:
 with open('full_vocab.json', 'r') as f:
     full_vocab = eval(f.read())
 
-with open('labels_map.json', 'r') as f:
-    labels_map = eval(f.read())
-
-
-def labels_to_array_of_numbers_using_map(labels):
-    result = []
-    for label in labels:
-        if label in labels_map:
-            result.append(labels_map[label])
-        else:
-            raise Exception(f'Label {label} is not in all_labels_list')
-    return result
-
-
 toks, lbls = tokenize(text.lower(), splits, commonality_map)
 tokens = tokens_to_array_of_numbers_without_full_vocab(toks, full_vocab)
 idx = torch.tensor(tokens).unsqueeze(0)
-labels = labels_to_array_of_numbers_using_map(lbls)
+labels = vectorize_labels_with_map(lbls)
 idx_labels = torch.tensor(labels).unsqueeze(0)
 
 print (idx.shape)
 print (idx_labels.shape)
 
 print (decode(tokens), end='', flush=True)
-# print (lbls, end='', flush=True)
-# print (labels, end='', flush=True)
 
 
 

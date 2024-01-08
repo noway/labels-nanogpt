@@ -22,14 +22,14 @@ def decode_one_token(token):
     token = '' if token == '@split_explainer@' else token
     return token
 
-
-
 def vectorize_label_with_map(label):
     if label in labels_map:
         return labels_map[label]
     else:
         raise Exception(f'Label {label} is not in labels_map')
 
+def vectorize_labels_with_map(labels):
+    return [vectorize_label_with_map(label) for label in labels]
 
 def decode(tokens):
     result = []
