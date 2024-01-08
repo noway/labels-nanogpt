@@ -14,3 +14,4 @@ commonality_map.json
 *.pyc
 exercises*.yml
 labels.json
+labels_map.json
