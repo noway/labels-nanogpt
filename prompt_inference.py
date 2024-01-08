@@ -1,4 +1,4 @@
-from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab
+from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab, labels_to_array_of_numbers
 from toker_decode import decode
 import torch
 from train import m
@@ -114,12 +114,32 @@ with open('commonality_map.json', 'r') as f:
 with open('full_vocab.json', 'r') as f:
     full_vocab = eval(f.read())
 
-tokens = tokens_to_array_of_numbers_without_full_vocab(tokenize(text.lower(), splits, commonality_map), full_vocab)
+with open('labels_map.json', 'r') as f:
+    labels_map = eval(f.read())
+
+
+def labels_to_array_of_numbers_using_map(labels):
+    result = []
+    for label in labels:
+        if label in labels_map:
+            result.append(labels_map[label])
+        else:
+            raise Exception(f'Label {label} is not in all_labels_list')
+    return result
+
+
+toks, lbls = tokenize(text.lower(), splits, commonality_map)
+tokens = tokens_to_array_of_numbers_without_full_vocab(toks, full_vocab)
 idx = torch.tensor(tokens).unsqueeze(0)
+labels = labels_to_array_of_numbers_using_map(lbls)
+idx_labels = torch.tensor(labels).unsqueeze(0)
 
 print (idx.shape)
+print (idx_labels.shape)
 
 print (decode(tokens), end='', flush=True)
+# print (lbls, end='', flush=True)
+# print (labels, end='', flush=True)
 
 
 
@@ -132,8 +152,9 @@ device = (
 )
 
 idx = idx.to(device)
+idx_labels = idx_labels.to(device)
 with torch.no_grad():
-    for token in m.module.generate(idx, 1000):
+    for token in m.module.generate(idx, idx_labels, 1000):
         token_str = decode_one_token(token)
         print(token_str, end='', flush=True)
         if token_str == '\n':

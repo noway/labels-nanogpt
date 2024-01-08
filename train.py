@@ -2,6 +2,8 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 import os
+from toker_decode import decode_one_token, vectorize_label_with_map
+from toker import special_token_to_label_mapper
 
 with open('tokens.json', 'r') as f:
     json_str = f.read()
@@ -185,22 +187,25 @@ class BigramLanguageModel(nn.Module):
             loss = F.cross_entropy(logits, targets)
         return logits, loss
 
-    def generate(self, idx, max_new_tokens):
+    def generate(self, idx, idx_labels, max_new_tokens):
         # this is an array for the generated tokens
         # we'll keep appending to it as we generate more tokens
         # we'll stop when we reach max_new_tokens
         self.eval()
         for _ in range(max_new_tokens):
-            logits, _ = self(idx, targets=None)
+            logits, _ = self(idx, idx_labels, targets=None)
             logits = logits[:, -1, :]
             probs = F.softmax(logits, dim=-1)
             # idx_next = torch.multinomial(probs, num_samples=1)
             idx_next = torch.argmax(probs, dim=-1, keepdim=True)
+            idx_label_next = vectorize_label_with_map(special_token_to_label_mapper(decode_one_token(idx_next[0][0].item())))
             values, indices = torch.topk(probs, 5)
             yield idx_next[0][0].item()
             idx = torch.cat([idx, idx_next], dim=-1)
+            idx_labels = torch.cat([idx_labels, torch.tensor([[idx_label_next]], dtype=torch.long, device=device)], dim=-1)
             # clip idx to block_size so that we're not feeding the model tokens past it's context window
             idx = idx[:, -block_size:]
+            idx_labels = idx_labels[:, -block_size:]
         return True
 
 
@@ -236,7 +241,7 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 
 
-PATH = 'bigmodel/model_weights_with_label_embedding.pth'
+PATH = 'bigmodel/model_weights_with_label_embedding.pth-8jan0301am'
 if os.path.dirname(PATH) != '':
     os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
