@@ -4,6 +4,9 @@ with open('full_vocab.json', 'r') as f:
     full_vocab = json.load(f)
 
 
+with open('labels_map.json', 'r') as f:
+    labels_map = json.load(f)
+
 def decode_one_token(token):
     token = full_vocab[token]
     token = token[2:] if token.startswith('##') else token
@@ -18,6 +21,15 @@ def decode_one_token(token):
     token = '' if token == '@digit_tokens@' else token
     token = '' if token == '@split_explainer@' else token
     return token
+
+
+
+def vectorize_label_with_map(label):
+    if label in labels_map:
+        return labels_map[label]
+    else:
+        raise Exception(f'Label {label} is not in labels_map')
+
 
 def decode(tokens):
     result = []

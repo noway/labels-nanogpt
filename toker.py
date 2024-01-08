@@ -273,7 +273,7 @@ def special_token_to_label_mapper(special_token):
         return '@typographic_tokens@'
     if special_token.isdigit():
         return '@digit_tokens@'
-    return None
+    exit(f'token {special_token} is not in any of the special token lists')
 
 
 def compute_pair_scores(splits):
@@ -430,6 +430,7 @@ def tokens_to_array_of_numbers(tokens):
 
 
 def labels_to_array_of_numbers(labels):
+    # TODO: don't use set here. use list. we want to preserve order.
     all_labels = set()
     for label in labels:
         if label not in all_labels:
@@ -592,6 +593,11 @@ if __name__ == '__main__':
 
     with open('labels.json', 'w') as f:
         json.dump(labels, f)
+
+    with open('labels_non_vectorized.json', 'w') as f:
+        json.dump(word_map_lbls + lbls, f)
+
+    # TODO: save labels_map.json, while labels_non_vectorized.json is not needed 
 
     set_toks = set(word_map_toks + toks)
     set_toks_without_special_tokens = set_toks - set(special_tokens)
