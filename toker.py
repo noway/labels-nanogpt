@@ -255,6 +255,7 @@ label_tokens = [
     '@typographic_tokens@',
     '@digit_tokens@',
     '@split_explainer@',
+    '@word_filler@',
 ]
 
 special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_tokens
