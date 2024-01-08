@@ -47,11 +47,13 @@ def check_one_eval(eval_file):
         for token in m.module.generate(idx, idx_labels, 1000):
             token_str = decode_one_token(token)
             # print(token_str, end='', flush=True)
-            if token_str == '\n' or token_str == ' ' or token_str == ',' or token_str == '.':
+            if token_str == '\n' or token_str == ' ' or token_str == ',' or token_str == '.' or token_str == '\\':
                 break
             the_answer += token_str
 
     the_answer = the_answer.strip().replace('*', '')
+    if the_answer == 'five':
+        the_answer = '5'
     print ('the_answer', (the_answer,))
     is_correct = the_answer == str(answer)
     print ('is_correct', (is_correct,))
