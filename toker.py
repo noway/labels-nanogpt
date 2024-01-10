@@ -425,8 +425,10 @@ def tokenize(text, splits):
     tokens = []
     for token in digit_split(special_token_split(text, special_tokens)):
         if token in splits:
+            tokens.extend(commonality_map[token])
             tokens.extend(splits[token])
         else:
+            tokens.append('@special_token@')
             tokens.append(token)
     return tokens
 
