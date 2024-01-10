@@ -437,6 +437,7 @@ def tokenize(text, splits):
             tokens.extend(commonality_label)
             tokens.extend(splits[token])
         else:
+            # TODO: should be either digit or other, maybe emoji
             tokens.append('@special_token@')
             tokens.append(token)
     return tokens
