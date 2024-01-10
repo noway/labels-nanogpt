@@ -13,7 +13,6 @@ device = (
 idx = torch.zeros(1, 1, dtype=torch.long)
 idx = idx.to(device)
 print(idx.shape)
-# print(m.module.generate(idx, 1000)[0].tolist())
 
 with torch.no_grad():
     for token in m.module.generate(idx, 1000):
