@@ -434,7 +434,7 @@ def tokenize(text, splits):
             commonality_label = commonality_map[token]
             if commonality_label is None:
                 exit(f'commonality_label is None for token {token}')
-            tokens.extend(commonality_label)
+            tokens.append(commonality_label)
             tokens.extend(splits[token])
         else:
             # TODO: should be either digit or other, maybe emoji
