@@ -250,6 +250,12 @@ special_tokens = [
     '²',
     '³',
     '✓',
+    '@extremely_common@',
+    '@very_common@',
+    '@moderately_common@',
+    '@less_common@',
+    '@rare@',
+    '@special_token@'
 ]
 
 text = text.lower()
