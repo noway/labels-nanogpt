@@ -16,6 +16,24 @@ eval_type ('0shot_direct',)
 correct_count (21,)
 all_count (55,)
 
+big model with labels (word filler fixed), subtraction:
+
+eval_type ('nshot_cot',)
+correct_count (16,)
+all_count (55,)
+
+eval_type ('nshot_direct',)
+correct_count (12,)
+all_count (55,)
+
+eval_type ('0shot_cot',)
+correct_count (16,)
+all_count (55,)
+
+eval_type ('0shot_direct',)
+correct_count (20,)
+all_count (55,)
+
 big model with no labels, subtraction:
 
 eval_type ('nshot_cot',)
