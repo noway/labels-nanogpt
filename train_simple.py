@@ -18,8 +18,8 @@ vocab_size = len(chars)
 # label_size = len(labels_set_list)
 # print('label_size', label_size)
 
-batch_size = 18
-block_size = 1024
+batch_size = 4
+block_size = 1024*2
 max_iters = 5000 * 4
 num_embeddings = 512
 device = (
@@ -235,7 +235,7 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 
 
-PATH = 'bigmodel/model_weights_with_labels.pth-8jan0302am'
+PATH = 'bigmodel/model_weights_with_labels_context2x.pth'
 if os.path.dirname(PATH) != '':
     os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
