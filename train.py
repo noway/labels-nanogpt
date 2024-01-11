@@ -7,16 +7,16 @@ with open('tokens.json', 'r') as f:
     json_str = f.read()
 encoded = eval(json_str)
 
-# with open('labels.json', 'r') as f:
-#     json_str = f.read()
-# encoded_labels = eval(json_str)
+with open('labels.json', 'r') as f:
+    json_str = f.read()
+encoded_labels = eval(json_str)
 
 chars = list(set(encoded))
 vocab_size = len(chars)
 
-# labels_set_list = list(set(encoded_labels))
-# label_size = len(labels_set_list)
-# print('label_size', label_size)
+labels_set_list = list(set(encoded_labels))
+label_size = len(labels_set_list)
+print('label_size', label_size)
 
 batch_size = 18
 block_size = 1024
@@ -42,16 +42,16 @@ data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
 print ('data', data.shape)
 
-# data_labels = torch.tensor(encoded_labels, dtype=torch.long)
-# data_labels = data_labels.to(device)
-# print ('data_labels', data_labels.shape)
+data_labels = torch.tensor(encoded_labels, dtype=torch.long)
+data_labels = data_labels.to(device)
+print ('data_labels', data_labels.shape)
 
 first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
-# train_data_labels = data_labels[:first_90_percent]
-# val_data_labels = data_labels[first_90_percent:]
+train_data_labels = data_labels[:first_90_percent]
+val_data_labels = data_labels[first_90_percent:]
 
 
 def compute_ix_one(i, block_size, data):
@@ -73,23 +73,23 @@ j = 0
 def get_batch():
     global j
     data = train_data
-    # data_labels = train_data_labels
+    data_labels = train_data_labels
     ix = compute_ix(j, block_size, data)
     j += 1
     x = torch.stack([data[i : i + block_size] for i in ix])
-    # labels = torch.stack([data_labels[i : i + block_size] for i in ix])
+    labels = torch.stack([data_labels[i : i + block_size] for i in ix])
     y = torch.stack([data[i + 1 : i + block_size + 1] for i in ix])
-    return x, y
+    return x, labels, y
 
 
 def get_batch_val():
     data = val_data
-    # data_labels = val_data_labels
+    data_labels = val_data_labels
     ix = torch.randint(len(data) - block_size, (batch_size,))
     x = torch.stack([data[i : i + block_size] for i in ix])
-    # labels = torch.stack([data_labels[i : i + block_size] for i in ix])
+    labels = torch.stack([data_labels[i : i + block_size] for i in ix])
     y = torch.stack([data[i + 1 : i + block_size + 1] for i in ix])
-    return x, y
+    return x, labels, y
 
 
 class MultiHeadAttention(nn.Module):
@@ -145,7 +145,7 @@ class BigramLanguageModel(nn.Module):
         super().__init__()
         self.token_embedding_table = nn.Embedding(vocab_size, num_embeddings)
         self.position_embedding_table = nn.Embedding(block_size, num_embeddings)
-        # self.label_embedding_table = nn.Embedding(label_size, num_embeddings)
+        self.label_embedding_table = nn.Embedding(label_size, num_embeddings)
         self.blocks = nn.Sequential(
             *[Block(num_embeddings, n_head=n_head) for _ in range(n_layer)]
         )
@@ -162,15 +162,16 @@ class BigramLanguageModel(nn.Module):
         elif isinstance(module, nn.Embedding):
             torch.nn.init.normal_(module.weight, mean=0.0, std=0.02)
 
-    def forward(self, idx, targets=None):
+    def forward(self, idx, idx_labels, targets=None):
         B, T = idx.shape
         # C is the embedding dimension (size)
         # T is the number of tokens in the sequence (context window)
         # B is the batch size
         # idx and targets are both B x T
         tok_emb = self.token_embedding_table(idx)  # B x T x C
+        label_emb = self.label_embedding_table(idx_labels)  # B x T x C
         pos_emb = self.position_embedding_table(torch.arange(T, device=device))  # T x C
-        x = tok_emb + pos_emb  # B x T x C
+        x = tok_emb + label_emb + pos_emb  # B x T x C
         x = self.blocks(x)
         x = self.ln_f(x)
         logits = self.lm_head(x)  # B x T x vocab_size
@@ -235,7 +236,7 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 
 
-PATH = 'bigmodel/model_weights_with_labels.pth-8jan0302am'
+PATH = 'bigmodel/model_weights_with_label_embedding.pth'
 if os.path.dirname(PATH) != '':
     os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
@@ -248,8 +249,8 @@ else:
 if __name__ == '__main__':
     optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
     for steps in range(max_iters):
-        xb, yb = get_batch()
-        logits, loss = m(xb, yb)
+        xb, labelsb, yb = get_batch()
+        logits, loss = m(xb, labelsb, yb)
         optimizer.zero_grad(set_to_none=True)
         (loss.sum() / compute_unit_count).backward()
         optimizer.step()

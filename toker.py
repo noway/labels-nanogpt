@@ -255,14 +255,14 @@ label_tokens = [
     '@typographic_tokens@',
     '@digit_tokens@',
     '@split_explainer@',
-    '@word_filler@',
 ]
 
 special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_tokens
 
 if COMMONALITY_LABEL_ENABLED:
     # No longer needed because we are using the labels embedding table
-    special_tokens += label_tokens
+    # special_tokens += label_tokens
+    pass
 
 def special_token_to_label_mapper(special_token):
     if special_token in emoji_and_symbols_tokens:
@@ -357,29 +357,31 @@ def digit_split(tokens):
 
 def tokenize(text, splits, commonality_map):
     tokens = []
+    labels = []
     for token in digit_split(special_token_split(text, special_tokens)):
         if token in splits:
             commonality_label = commonality_map[token]
             if commonality_label is None:
                 exit(f'commonality_label is None for token {token}')
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append(commonality_label)
+                labels.append(commonality_label)
             is_first = True
             for split_token in splits[token]:
                 if not is_first:
                     if COMMONALITY_LABEL_ENABLED:
-                        tokens.append('@word_filler@')                
+                        labels.append('@word_filler@')                
                 tokens.append(split_token)
                 is_first = False
         else:
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append(special_token_to_label_mapper(token))
+                labels.append(special_token_to_label_mapper(token))
             tokens.append(token)
-    return tokens, []
+    return tokens, labels
 
 
 def tokenize_word_map(text, splits, commonality_map):
     tokens = []
+    labels = []
     for token in special_token_split(text, special_tokens):
         token_with_hashes = f'##{token}'
         if token in splits:
@@ -387,23 +389,23 @@ def tokenize_word_map(text, splits, commonality_map):
             if commonality_label is None:
                 exit(f'commonality_label is None for token {token}')
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append(commonality_label)
+                labels.append(commonality_label)
             is_first = True
             for split_token in splits[token]:
                 if not is_first:
                     if COMMONALITY_LABEL_ENABLED:
-                        tokens.append('@word_filler@')                
+                        labels.append('@word_filler@')                
                 tokens.append(split_token)
                 is_first = False
         elif any([token_with_hashes in split for split in splits.values()]):
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append('@split_explainer@')
+                labels.append('@split_explainer@')
             tokens.append(token_with_hashes)
         else:
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append(special_token_to_label_mapper(token))
+                labels.append(special_token_to_label_mapper(token))
             tokens.append(token)
-    return tokens, []
+    return tokens, labels
 
 
 def tokens_to_array_of_numbers(tokens):
@@ -492,7 +494,8 @@ if __name__ == '__main__':
     vocab = list()
 
     vocab_size = (
-        750 # if COMMONALITY_LABEL_ENABLED else 761
+        # always 761 because we are using the labels embedding table
+        761 # if COMMONALITY_LABEL_ENABLED else 761
     )  # should this be number of phonemes or syllables? thinking 44, 100 or something.
     # now going for 1024 total vocab size
     while len(vocab) < vocab_size:
@@ -582,13 +585,13 @@ if __name__ == '__main__':
 
     #################### SAVE TOKENS AND FULL VOCAB ####################
     tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
-    # labels = labels_to_array_of_numbers(word_map_lbls + lbls)
+    labels = labels_to_array_of_numbers(word_map_lbls + lbls)
 
     with open('tokens.json', 'w') as f:
         json.dump(tokens, f)
 
-    # with open('labels.json', 'w') as f:
-    #     json.dump(labels, f)
+    with open('labels.json', 'w') as f:
+        json.dump(labels, f)
 
     set_toks = set(word_map_toks + toks)
     set_toks_without_special_tokens = set_toks - set(special_tokens)

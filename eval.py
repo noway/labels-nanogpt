@@ -23,7 +23,7 @@ def check_one_eval(eval_file):
         eval_type = data['eval_type']
 
     # print ('text',(text,))
-    tokens = tokens_to_array_of_numbers_without_full_vocab(tokenize(text.lower(), splits, commonality_map)[0], full_vocab)
+    tokens = tokens_to_array_of_numbers_without_full_vocab(tokenize(text.lower(), splits, commonality_map), full_vocab)
     idx = torch.tensor(tokens).unsqueeze(0)
 
     # print (idx.shape)
