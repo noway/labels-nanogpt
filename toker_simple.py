@@ -588,9 +588,6 @@ if __name__ == '__main__':
     with open('tokens.json', 'w') as f:
         json.dump(tokens, f)
 
-    # with open('labels.json', 'w') as f:
-    #     json.dump(labels, f)
-
     set_toks = set(word_map_toks + toks)
     set_toks_without_special_tokens = set_toks - set(special_tokens)
     set_toks_without_special_tokens_and_vocab = (
