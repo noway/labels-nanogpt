@@ -89,4 +89,4 @@ correct_count (15,)
 all_count (55,)
 
 interpretation:
-- label embedding improves intelligence, but having a separate token for the label is better. having a separate token can be compared with halving the context window and doubling the number of parameters
+- label embedding improves intelligence given the same effective context size. 
