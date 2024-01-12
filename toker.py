@@ -263,8 +263,7 @@ def special_token_to_label_mapper(special_token):
         return '@typographic_tokens@'
     if special_token.isdigit():
         return '@digit_tokens@'
-    print (f"WARNING: token {special_token} is not in any of the special token lists")
-    return '@digit_tokens@'  # TODO: this is a hack just to get eval to pass
+    return None
 
 
 def compute_pair_scores(splits):

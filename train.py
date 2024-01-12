@@ -198,9 +198,10 @@ class BigramLanguageModel(nn.Module):
             probs = F.softmax(logits, dim=-1)
             # idx_next = torch.multinomial(probs, num_samples=1)
             idx_next = torch.argmax(probs, dim=-1, keepdim=True)
-            idx_label_next = vectorize_label_with_map(
-                special_token_to_label_mapper(decode_one_token(idx_next[0][0].item()))
-            )
+            label_str = special_token_to_label_mapper(decode_one_token(idx_next[0][0].item()))
+            if label_str is None:
+                return False # labeler for non-special tokens is not implemented
+            idx_label_next = vectorize_label_with_map(label_str)
             values, indices = torch.topk(probs, 5)
             yield idx_next[0][0].item()
             idx = torch.cat([idx, idx_next], dim=-1)
