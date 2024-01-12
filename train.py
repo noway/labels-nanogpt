@@ -2,8 +2,8 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 import os
-from toker_decode import decode_one_token, vectorize_label_with_map
-from toker import special_token_to_label_mapper
+import datetime
+
 
 with open('tokens.json', 'r') as f:
     json_str = f.read()
@@ -22,7 +22,7 @@ print('label_size', label_size)
 
 batch_size = 18
 block_size = 1024
-max_iters = 5000 * 4
+max_iters = 1000
 num_embeddings = 512
 device = (
     'cuda'
@@ -191,6 +191,9 @@ class BigramLanguageModel(nn.Module):
         # this is an array for the generated tokens
         # we'll keep appending to it as we generate more tokens
         # we'll stop when we reach max_new_tokens
+        from toker_decode import decode_one_token, vectorize_label_with_map
+        from toker import special_token_to_label_mapper
+
         self.eval()
         for _ in range(max_new_tokens):
             logits, _ = self(idx, idx_labels, targets=None)
@@ -198,9 +201,11 @@ class BigramLanguageModel(nn.Module):
             probs = F.softmax(logits, dim=-1)
             # idx_next = torch.multinomial(probs, num_samples=1)
             idx_next = torch.argmax(probs, dim=-1, keepdim=True)
-            label_str = special_token_to_label_mapper(decode_one_token(idx_next[0][0].item()))
+            label_str = special_token_to_label_mapper(
+                decode_one_token(idx_next[0][0].item())
+            )
             if label_str is None:
-                return False # labeler for non-special tokens is not implemented
+                return False  # labeler for non-special tokens is not implemented
             idx_label_next = vectorize_label_with_map(label_str)
             values, indices = torch.topk(probs, 5)
             yield idx_next[0][0].item()
@@ -260,6 +265,9 @@ if os.path.exists(PATH):
 else:
     print('No model weights found')
 
+start_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
+print('start_time', start_time)
+
 if __name__ == '__main__':
     optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
     for steps in range(max_iters):
@@ -280,3 +288,6 @@ if __name__ == '__main__':
     print(loss.item())
     print(f'Saving model to {PATH}')
     torch.save(m.module.state_dict(), PATH)
+
+end_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
+print('end_time', end_time)
