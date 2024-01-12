@@ -1,4 +1,8 @@
-from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab, labels_to_array_of_numbers
+from toker import (
+    tokenize,
+    tokens_to_array_of_numbers_without_full_vocab,
+    labels_to_array_of_numbers,
+)
 from toker_decode import decode
 import torch
 from train import m
@@ -120,11 +124,10 @@ idx = torch.tensor(tokens).unsqueeze(0)
 labels = vectorize_labels_with_map(lbls)
 idx_labels = torch.tensor(labels).unsqueeze(0)
 
-print (idx.shape)
-print (idx_labels.shape)
+print(idx.shape)
+print(idx_labels.shape)
 
-print (decode(tokens), end='', flush=True)
-
+print(decode(tokens), end='', flush=True)
 
 
 device = (

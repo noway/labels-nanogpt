@@ -114,13 +114,14 @@ with open('commonality_map.json', 'r') as f:
 with open('full_vocab.json', 'r') as f:
     full_vocab = eval(f.read())
 
-tokens = tokens_to_array_of_numbers_without_full_vocab(tokenize(text.lower(), splits, commonality_map)[0], full_vocab)
+tokens = tokens_to_array_of_numbers_without_full_vocab(
+    tokenize(text.lower(), splits, commonality_map)[0], full_vocab
+)
 idx = torch.tensor(tokens).unsqueeze(0)
 
-print (idx.shape)
+print(idx.shape)
 
-print (decode(tokens), end='', flush=True)
-
+print(decode(tokens), end='', flush=True)
 
 
 device = (
