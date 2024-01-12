@@ -7,6 +7,7 @@ with open('full_vocab.json', 'r') as f:
 with open('labels_map.json', 'r') as f:
     labels_map = json.load(f)
 
+
 def decode_one_token(token):
     token = full_vocab[token]
     token = token[2:] if token.startswith('##') else token
@@ -23,14 +24,17 @@ def decode_one_token(token):
     token = '' if token == '@word_filler@' else token
     return token
 
+
 def vectorize_label_with_map(label):
     if label in labels_map:
         return labels_map[label]
     else:
         raise Exception(f'Label {label} is not in labels_map')
 
+
 def vectorize_labels_with_map(labels):
     return [vectorize_label_with_map(label) for label in labels]
+
 
 def decode(tokens):
     result = []
@@ -39,4 +43,3 @@ def decode(tokens):
         if token:
             result.append(token)
     return ''.join(result)
-
