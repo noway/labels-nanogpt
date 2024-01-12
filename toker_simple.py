@@ -264,6 +264,7 @@ if COMMONALITY_LABEL_ENABLED:
     # No longer needed because we are using the labels embedding table
     special_tokens += label_tokens
 
+
 def special_token_to_label_mapper(special_token):
     if special_token in emoji_and_symbols_tokens:
         return '@emoji_and_symbols_tokens@'
@@ -368,7 +369,7 @@ def tokenize(text, splits, commonality_map):
             for split_token in splits[token]:
                 if not is_first:
                     if COMMONALITY_LABEL_ENABLED:
-                        tokens.append('@word_filler@')                
+                        tokens.append('@word_filler@')
                 tokens.append(split_token)
                 is_first = False
         else:
@@ -392,7 +393,7 @@ def tokenize_word_map(text, splits, commonality_map):
             for split_token in splits[token]:
                 if not is_first:
                     if COMMONALITY_LABEL_ENABLED:
-                        tokens.append('@word_filler@')                
+                        tokens.append('@word_filler@')
                 tokens.append(split_token)
                 is_first = False
         elif any([token_with_hashes in split for split in splits.values()]):
@@ -452,8 +453,8 @@ def tokens_to_array_of_numbers_without_full_vocab(tokens, full_vocab):
             raise Exception(f'Token {token} is not in vocab')
     return result
 
-if __name__ == '__main__':
 
+if __name__ == '__main__':
     #################### LOAD TEXT ####################
     with open('trainingdata.txt', 'r') as f:
         initial_text = f.read()
@@ -491,9 +492,7 @@ if __name__ == '__main__':
     digit_vocab = list('0123456789')
     vocab = list()
 
-    vocab_size = (
-        750 # if COMMONALITY_LABEL_ENABLED else 761
-    )  # should this be number of phonemes or syllables? thinking 44, 100 or something.
+    vocab_size = 750  # if COMMONALITY_LABEL_ENABLED else 761  # should this be number of phonemes or syllables? thinking 44, 100 or something.
     # now going for 1024 total vocab size
     while len(vocab) < vocab_size:
         scores = compute_pair_scores(splits)
@@ -575,7 +574,9 @@ if __name__ == '__main__':
 
     spelling_map_text += '\n\n\n'
 
-    word_map_toks, word_map_lbls = tokenize_word_map(spelling_map_text, splits, commonality_map)
+    word_map_toks, word_map_lbls = tokenize_word_map(
+        spelling_map_text, splits, commonality_map
+    )
     toks, lbls = tokenize(initial_text.lower(), splits, commonality_map)
 
     #################### /TOKENIZE WORD MAP AND THE TEXT ####################

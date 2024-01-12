@@ -264,6 +264,7 @@ if COMMONALITY_LABEL_ENABLED:
     # special_tokens += label_tokens
     pass
 
+
 def special_token_to_label_mapper(special_token):
     if special_token in emoji_and_symbols_tokens:
         return '@emoji_and_symbols_tokens@'
@@ -273,7 +274,7 @@ def special_token_to_label_mapper(special_token):
         return '@typographic_tokens@'
     if special_token.isdigit():
         return '@digit_tokens@'
-    return '@digit_tokens@' # TODO: this is a hack just to get eval to pass
+    return '@digit_tokens@'  # TODO: this is a hack just to get eval to pass
     exit(f'token {special_token} is not in any of the special token lists')
 
 
@@ -370,7 +371,7 @@ def tokenize(text, splits, commonality_map):
             for split_token in splits[token]:
                 if not is_first:
                     if COMMONALITY_LABEL_ENABLED:
-                        labels.append('@word_filler@')                
+                        labels.append('@word_filler@')
                 tokens.append(split_token)
                 is_first = False
         else:
@@ -395,7 +396,7 @@ def tokenize_word_map(text, splits, commonality_map):
             for split_token in splits[token]:
                 if not is_first:
                     if COMMONALITY_LABEL_ENABLED:
-                        labels.append('@word_filler@')                
+                        labels.append('@word_filler@')
                 tokens.append(split_token)
                 is_first = False
         elif any([token_with_hashes in split for split in splits.values()]):
@@ -456,8 +457,8 @@ def tokens_to_array_of_numbers_without_full_vocab(tokens, full_vocab):
             raise Exception(f'Token {token} is not in vocab')
     return result
 
-if __name__ == '__main__':
 
+if __name__ == '__main__':
     #################### LOAD TEXT ####################
     with open('trainingdata.txt', 'r') as f:
         initial_text = f.read()
@@ -497,7 +498,7 @@ if __name__ == '__main__':
 
     vocab_size = (
         # always 761 because we are using the labels embedding table
-        761 # if COMMONALITY_LABEL_ENABLED else 761
+        761  # if COMMONALITY_LABEL_ENABLED else 761
     )  # should this be number of phonemes or syllables? thinking 44, 100 or something.
     # now going for 1024 total vocab size
     while len(vocab) < vocab_size:
@@ -580,7 +581,9 @@ if __name__ == '__main__':
 
     spelling_map_text += '\n\n\n'
 
-    word_map_toks, word_map_lbls = tokenize_word_map(spelling_map_text, splits, commonality_map)
+    word_map_toks, word_map_lbls = tokenize_word_map(
+        spelling_map_text, splits, commonality_map
+    )
     toks, lbls = tokenize(initial_text.lower(), splits, commonality_map)
 
     #################### /TOKENIZE WORD MAP AND THE TEXT ####################
@@ -598,7 +601,7 @@ if __name__ == '__main__':
     with open('labels_non_vectorized.json', 'w') as f:
         json.dump(word_map_lbls + lbls, f)
 
-    # TODO: save labels_map.json, while labels_non_vectorized.json is not needed 
+    # TODO: save labels_map.json, while labels_non_vectorized.json is not needed
 
     set_toks = set(word_map_toks + toks)
     set_toks_without_special_tokens = set_toks - set(special_tokens)
