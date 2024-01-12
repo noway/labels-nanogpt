@@ -23,15 +23,11 @@ def check_one_eval(eval_file):
         answer = data['answer']
         eval_type = data['eval_type']
 
-    # print ('text',(text,))
     toks, lbls = tokenize(text.lower(), splits, commonality_map)
     tokens = tokens_to_array_of_numbers_without_full_vocab(toks, full_vocab)
     idx = torch.tensor(tokens).unsqueeze(0)
     labels = vectorize_labels_with_map(lbls)
     idx_labels = torch.tensor(labels).unsqueeze(0)
-
-    # print (idx.shape)
-    # print (decode(tokens), end='', flush=True)
 
     device = (
         'cuda'
@@ -47,7 +43,6 @@ def check_one_eval(eval_file):
     with torch.no_grad():
         for token in m.module.generate(idx, idx_labels, 1000):
             token_str = decode_one_token(token)
-            # print(token_str, end='', flush=True)
             if (
                 token_str == '\n'
                 or token_str == ' '
