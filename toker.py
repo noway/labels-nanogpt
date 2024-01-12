@@ -243,26 +243,7 @@ typographic_tokens = [
     '³',
 ]
 
-label_tokens = [
-    # commonality labels
-    '@extremely_common@',
-    '@very_common@',
-    '@moderately_common@',
-    '@less_common@',
-    '@rare@',
-    '@emoji_and_symbols_tokens@',
-    '@super_special_tokens@',
-    '@typographic_tokens@',
-    '@digit_tokens@',
-    '@split_explainer@',
-]
-
 special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_tokens
-
-if COMMONALITY_LABEL_ENABLED:
-    # No longer needed because we are using the labels embedding table
-    # special_tokens += label_tokens
-    pass
 
 
 def special_token_to_label_mapper(special_token):
