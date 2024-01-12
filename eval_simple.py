@@ -1,7 +1,7 @@
-from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab
+from toker_simple import tokenize, tokens_to_array_of_numbers_without_full_vocab
 from toker_decode import decode
 import torch
-from train import m
+from train_simple import m
 from toker_decode import decode_one_token
 import yaml
 

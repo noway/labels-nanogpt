@@ -20,6 +20,7 @@ def decode_one_token(token):
     token = '' if token == '@typographic_tokens@' else token
     token = '' if token == '@digit_tokens@' else token
     token = '' if token == '@split_explainer@' else token
+    token = '' if token == '@word_filler@' else token
     return token
 
 def vectorize_label_with_map(label):

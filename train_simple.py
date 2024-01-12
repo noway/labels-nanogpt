@@ -235,7 +235,7 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 
 
-PATH = 'bigmodel/model_weights_with_labels_context2x.pth'
+PATH = 'bigmodel/model_weights_with_labels_context2x.pth-11jan0840am'
 if os.path.dirname(PATH) != '':
     os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
