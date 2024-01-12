@@ -42,11 +42,11 @@ compute_unit_count = torch.cuda.device_count() if device == 'cuda' else 1
 
 data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
-print ('data', data.shape)
+print('data', data.shape)
 
 data_labels = torch.tensor(encoded_labels, dtype=torch.long)
 data_labels = data_labels.to(device)
-print ('data_labels', data_labels.shape)
+print('data_labels', data_labels.shape)
 
 first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
@@ -198,11 +198,19 @@ class BigramLanguageModel(nn.Module):
             probs = F.softmax(logits, dim=-1)
             # idx_next = torch.multinomial(probs, num_samples=1)
             idx_next = torch.argmax(probs, dim=-1, keepdim=True)
-            idx_label_next = vectorize_label_with_map(special_token_to_label_mapper(decode_one_token(idx_next[0][0].item())))
+            idx_label_next = vectorize_label_with_map(
+                special_token_to_label_mapper(decode_one_token(idx_next[0][0].item()))
+            )
             values, indices = torch.topk(probs, 5)
             yield idx_next[0][0].item()
             idx = torch.cat([idx, idx_next], dim=-1)
-            idx_labels = torch.cat([idx_labels, torch.tensor([[idx_label_next]], dtype=torch.long, device=device)], dim=-1)
+            idx_labels = torch.cat(
+                [
+                    idx_labels,
+                    torch.tensor([[idx_label_next]], dtype=torch.long, device=device),
+                ],
+                dim=-1,
+            )
             # clip idx to block_size so that we're not feeding the model tokens past it's context window
             idx = idx[:, -block_size:]
             idx_labels = idx_labels[:, -block_size:]

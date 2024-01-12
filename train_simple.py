@@ -19,7 +19,7 @@ vocab_size = len(chars)
 # print('label_size', label_size)
 
 batch_size = 4
-block_size = 1024*2
+block_size = 1024 * 2
 max_iters = 5000 * 4
 num_embeddings = 512
 device = (
@@ -40,7 +40,7 @@ compute_unit_count = torch.cuda.device_count() if device == 'cuda' else 1
 
 data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
-print ('data', data.shape)
+print('data', data.shape)
 
 # data_labels = torch.tensor(encoded_labels, dtype=torch.long)
 # data_labels = data_labels.to(device)
