@@ -429,6 +429,8 @@ def labels_to_array_of_numbers(labels):
 
     result = []
     for label in labels:
+        if label is None:
+            raise Exception('label is None')
         if label in all_labels_list:
             result.append(all_labels_list.index(label))
         else:
