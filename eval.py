@@ -4,6 +4,7 @@ import torch
 from train import m
 from toker_decode import decode_one_token, vectorize_labels_with_map
 import yaml
+import re
 
 with open('splits.json', 'r') as f:
     splits = eval(f.read())
@@ -52,6 +53,7 @@ def check_one_eval(eval_file):
             the_answer += token_str
 
     the_answer = the_answer.strip().replace('*', '')
+    the_answer = re.findall(r'^\d+', the_answer)[0]
     if the_answer == 'five':
         the_answer = '5'
     print ('the_answer', (the_answer,))
