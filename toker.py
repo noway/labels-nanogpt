@@ -247,6 +247,14 @@ special_tokens = emoji_and_symbols_tokens + super_special_tokens + typographic_t
 
 
 def special_token_to_label_mapper(special_token):
+    # other labels, processed throughout the code:
+    # '@extremely_common@'
+    # '@very_common@'
+    # '@moderately_common@'
+    # '@less_common@'
+    # '@rare@'
+    # '@word_filler@'
+    # '@split_explainer@'
     if special_token in emoji_and_symbols_tokens:
         return '@emoji_and_symbols_tokens@'
     if special_token in super_special_tokens:
