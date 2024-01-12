@@ -7,16 +7,8 @@ with open('tokens.json', 'r') as f:
     json_str = f.read()
 encoded = eval(json_str)
 
-# with open('labels.json', 'r') as f:
-#     json_str = f.read()
-# encoded_labels = eval(json_str)
-
 chars = list(set(encoded))
 vocab_size = len(chars)
-
-# labels_set_list = list(set(encoded_labels))
-# label_size = len(labels_set_list)
-# print('label_size', label_size)
 
 batch_size = 4
 block_size = 1024 * 2
@@ -42,16 +34,9 @@ data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
 print('data', data.shape)
 
-# data_labels = torch.tensor(encoded_labels, dtype=torch.long)
-# data_labels = data_labels.to(device)
-# print ('data_labels', data_labels.shape)
-
 first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
-
-# train_data_labels = data_labels[:first_90_percent]
-# val_data_labels = data_labels[first_90_percent:]
 
 
 def compute_ix_one(i, block_size, data):
@@ -73,21 +58,17 @@ j = 0
 def get_batch():
     global j
     data = train_data
-    # data_labels = train_data_labels
     ix = compute_ix(j, block_size, data)
     j += 1
     x = torch.stack([data[i : i + block_size] for i in ix])
-    # labels = torch.stack([data_labels[i : i + block_size] for i in ix])
     y = torch.stack([data[i + 1 : i + block_size + 1] for i in ix])
     return x, y
 
 
 def get_batch_val():
     data = val_data
-    # data_labels = val_data_labels
     ix = torch.randint(len(data) - block_size, (batch_size,))
     x = torch.stack([data[i : i + block_size] for i in ix])
-    # labels = torch.stack([data_labels[i : i + block_size] for i in ix])
     y = torch.stack([data[i + 1 : i + block_size + 1] for i in ix])
     return x, y
 
@@ -145,7 +126,6 @@ class BigramLanguageModel(nn.Module):
         super().__init__()
         self.token_embedding_table = nn.Embedding(vocab_size, num_embeddings)
         self.position_embedding_table = nn.Embedding(block_size, num_embeddings)
-        # self.label_embedding_table = nn.Embedding(label_size, num_embeddings)
         self.blocks = nn.Sequential(
             *[Block(num_embeddings, n_head=n_head) for _ in range(n_layer)]
         )
