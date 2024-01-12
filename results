@@ -45,7 +45,7 @@ correct_count (10,)
 all_count (55,)
 
 eval_type ('0shot_cot',)
-correct_count (7,)
+correct_count (8,)
 all_count (55,)
 
 eval_type ('0shot_direct',)
