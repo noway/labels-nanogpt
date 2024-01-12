@@ -54,7 +54,7 @@ def check_one_eval(eval_file):
             the_answer += token_str
 
     the_answer = the_answer.strip().replace('*', '')
-    the_answer = re.findall(r'^\d+', the_answer)[0]
+    the_answer = (re.findall(r'^\d+', the_answer) + [''])[0]
     if the_answer == 'five':
         the_answer = '5'
     print('the_answer', (the_answer,))
