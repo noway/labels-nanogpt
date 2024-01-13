@@ -396,14 +396,17 @@ def tokens_to_array_of_numbers(tokens):
     full_vocab += special_tokens
     full_vocab = list(dict.fromkeys(full_vocab))
     full_vocab_from_tokens = list(set(tokens))
-    # FYI: not_needed must always be empty
     not_needed = set(full_vocab) - set(full_vocab_from_tokens)
     print('not_needed set (should always be empty):', not_needed)
-    full_vocab = [token for token in full_vocab if token not in not_needed]
+    if len(not_needed) != 0:
+        raise Exception('not_needed set is not empty')
+    full_vocab_map = {
+        token: index for token, index in zip(full_vocab, range(len(full_vocab)))
+    }
     result = []
     for token in tokens:
-        if token in full_vocab:
-            result.append(full_vocab.index(token))
+        if token in full_vocab_map:
+            result.append(full_vocab_map[token])
         else:
             raise Exception(f'Token {token} is not in vocab')
     return [result, full_vocab]
