@@ -414,17 +414,18 @@ def tokens_to_array_of_numbers(tokens):
 
 
 def labels_to_array_of_numbers(labels):
-    all_labels_list = list()
+    labels_map = dict()
+    counter = 0
     for label in labels:
-        if label not in all_labels_list:
-            all_labels_list.append(label)
-
+        if label not in labels_map:
+            labels_map[label] = counter
+            counter += 1
     result = []
     for label in labels:
         if label is None:
             raise Exception('label is None')
-        if label in all_labels_list:
-            result.append(all_labels_list.index(label))
+        if label in labels_map:
+            result.append(labels_map[label])
         else:
             raise Exception(f'Label {label} is not in all_labels_list')
     return result
