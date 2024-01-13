@@ -333,8 +333,9 @@ def split_to_digits(s):
 def digit_split(tokens):
     digit_pattern = re.compile(r'\d')
     result = []
+    special_tokens_set = set(special_tokens)
     for token in tokens:
-        is_in_special_tokens = token in special_tokens
+        is_in_special_tokens = token in special_tokens_set
         if bool(digit_pattern.search(token)) and not is_in_special_tokens:
             result.extend(split_to_digits(token))
         else:
