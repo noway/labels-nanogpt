@@ -3,6 +3,7 @@ import torch.nn as nn
 from torch.nn import functional as F
 import os
 import datetime
+import shutil
 
 
 with open('tokens.json', 'r') as f:
@@ -22,7 +23,8 @@ print('label_size', label_size)
 
 batch_size = 18
 block_size = 1024
-max_iters = 1000
+checkpoint1_sec = 11700
+total_train_sec = 23400
 num_embeddings = 512
 device = (
     'cuda'
@@ -255,7 +257,19 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 
 
-PATH = 'bigmodel/model_weights_with_label_embedding.pth-12jan'
+def get_path(checkpoint=False):
+    name = 'bigmodel/model_weights_with_label_embedding_consttime'
+    if checkpoint:
+        return f'{name}_{datetime.datetime.now().strftime("%Y%m%d%H%M%S")}.pth'
+    return f'{name}.pth'
+
+
+def timestamp():
+    return datetime.datetime.now().timestamp()
+
+
+PATH = get_path()
+
 if os.path.dirname(PATH) != '':
     os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
@@ -265,12 +279,12 @@ if os.path.exists(PATH):
 else:
     print('No model weights found')
 
-start_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
-print('start_time', start_time)
+start_timestamp = timestamp()
+made_checkpoint = False
 
 if __name__ == '__main__':
     optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
-    for steps in range(max_iters):
+    while True:
         xb, labelsb, yb = get_batch()
         logits, loss = m(xb, labelsb, yb)
         optimizer.zero_grad(set_to_none=True)
@@ -284,10 +298,20 @@ if __name__ == '__main__':
             print(
                 f'steps={steps} training_data_loss={training_data_loss} val_loss={val_loss}'
             )
+            if timestamp() - start_timestamp > checkpoint1_sec and not made_checkpoint:
+                CHECKPOINT_PATH = get_path(checkpoint=True)
+                print(f'Checkpoint model to {CHECKPOINT_PATH} ...')
+                torch.save(m.module.state_dict(), CHECKPOINT_PATH)
+                print(f'Copy model to {PATH} ...')
+                shutil.copyfile(CHECKPOINT_PATH, PATH)
+                made_checkpoint = True
+            if timestamp() - start_timestamp > total_train_sec:
+                break
 
     print(loss.item())
-    print(f'Saving model to {PATH}')
-    torch.save(m.module.state_dict(), PATH)
 
-end_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
-print('end_time', end_time)
+    CHECKPOINT_PATH = get_path(checkpoint=True)
+    print(f'Checkpoint model to {CHECKPOINT_PATH} ...')
+    torch.save(m.module.state_dict(), CHECKPOINT_PATH)
+    print(f'Copy model to {PATH} ...')
+    shutil.copyfile(CHECKPOINT_PATH, PATH)
