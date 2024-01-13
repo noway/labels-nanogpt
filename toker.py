@@ -586,10 +586,12 @@ if __name__ == '__main__':
     with open('labels.json', 'w') as f:
         json.dump(labels, f)
 
-    with open('labels_non_vectorized.json', 'w') as f:
-        json.dump(word_map_lbls + lbls, f)
-
-    # TODO: save labels_map.json, while labels_non_vectorized.json is not needed
+    labels_map = {
+        label_non_vectorized: label
+        for label, label_non_vectorized in zip(labels, word_map_lbls + lbls)
+    }
+    with open('labels_map.json', 'w') as f:
+        json.dump(labels_map, f, indent=4)
 
     set_toks = set(word_map_toks + toks)
     set_toks_without_special_tokens = set_toks - set(special_tokens)
