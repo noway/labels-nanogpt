@@ -4,8 +4,6 @@ import numpy as np
 from collections import Counter
 from collections import defaultdict
 
-COMMONALITY_LABEL_ENABLED = True
-
 emoji_and_symbols_tokens = [
     '1️⃣',
     '2️⃣',
@@ -353,18 +351,15 @@ def tokenize(text, splits, commonality_map):
             commonality_label = commonality_map[token]
             if commonality_label is None:
                 exit(f'commonality_label is None for token {token}')
-            if COMMONALITY_LABEL_ENABLED:
-                labels.append(commonality_label)
+            labels.append(commonality_label)
             is_first = True
             for split_token in splits[token]:
                 if not is_first:
-                    if COMMONALITY_LABEL_ENABLED:
-                        labels.append('@word_filler@')
+                    labels.append('@word_filler@')
                 tokens.append(split_token)
                 is_first = False
         else:
-            if COMMONALITY_LABEL_ENABLED:
-                labels.append(special_token_to_label_mapper(token))
+            labels.append(special_token_to_label_mapper(token))
             tokens.append(token)
     return tokens, labels
 
@@ -378,22 +373,18 @@ def tokenize_word_map(text, splits, commonality_map):
             commonality_label = commonality_map[token]
             if commonality_label is None:
                 exit(f'commonality_label is None for token {token}')
-            if COMMONALITY_LABEL_ENABLED:
-                labels.append(commonality_label)
+            labels.append(commonality_label)
             is_first = True
             for split_token in splits[token]:
                 if not is_first:
-                    if COMMONALITY_LABEL_ENABLED:
-                        labels.append('@word_filler@')
+                    labels.append('@word_filler@')
                 tokens.append(split_token)
                 is_first = False
         elif any([token_with_hashes in split for split in splits.values()]):
-            if COMMONALITY_LABEL_ENABLED:
-                labels.append('@split_explainer@')
+            labels.append('@split_explainer@')
             tokens.append(token_with_hashes)
         else:
-            if COMMONALITY_LABEL_ENABLED:
-                labels.append(special_token_to_label_mapper(token))
+            labels.append(special_token_to_label_mapper(token))
             tokens.append(token)
     return tokens, labels
 
@@ -486,7 +477,7 @@ if __name__ == '__main__':
 
     vocab_size = (
         # always 761 because we are using the labels embedding table
-        761  # if COMMONALITY_LABEL_ENABLED else 761
+        761
     )  # should this be number of phonemes or syllables? thinking 44, 100 or something.
     # now going for 1024 total vocab size
     while len(vocab) < vocab_size:
