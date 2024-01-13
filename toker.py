@@ -1,6 +1,5 @@
 import re
 import json
-import numpy as np
 from collections import Counter
 from collections import defaultdict
 
@@ -513,7 +512,6 @@ if __name__ == '__main__':
     #################### /BPE MERGE UP TO VOCAB SIZE ####################
 
     #################### GENERATE COMMONALITY MAP ####################
-    counts = np.array(list(words.values()))
 
     sorted_words = sorted(words, key=words.get, reverse=True)
 
