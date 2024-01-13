@@ -253,7 +253,6 @@ label_tokens = [
     '@super_special_tokens@',
     '@typographic_tokens@',
     '@digit_tokens@',
-    '@split_explainer@',
     '@word_filler@',
 ]
 
@@ -399,7 +398,7 @@ def tokenize_word_map(text, splits, commonality_map):
                 is_first = False
         elif token_with_hashes in all_splits_tokens:
             if COMMONALITY_LABEL_ENABLED:
-                tokens.append('@split_explainer@')
+                tokens.append('@word_filler@')
             tokens.append(token_with_hashes)
         else:
             if COMMONALITY_LABEL_ENABLED:
@@ -483,7 +482,7 @@ if __name__ == '__main__':
     digit_vocab = list('0123456789')
     vocab = list()
 
-    vocab_size = 750  # if COMMONALITY_LABEL_ENABLED else 761  # should this be number of phonemes or syllables? thinking 44, 100 or something.
+    vocab_size = 751  # if COMMONALITY_LABEL_ENABLED else 761  # should this be number of phonemes or syllables? thinking 44, 100 or something.
     # now going for 1024 total vocab size
     while len(vocab) < vocab_size:
         scores = compute_pair_scores(splits)

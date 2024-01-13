@@ -46,6 +46,7 @@ generate advanced problem sets
 - uncertainty routing for evals
 - add label embedding [done]
 - add word-filler label for the label model, similar to the one i'm doing for label embedding model [done]
+- remove @split_explainer@ [done]
 
 *sharp edges*
 - there's some stuff like environment (classroom) specfic games where answer is random. can't learn much from it

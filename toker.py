@@ -251,7 +251,6 @@ def special_token_to_label_mapper(special_token):
     # '@less_common@'
     # '@rare@'
     # '@word_filler@'
-    # '@split_explainer@'
     if special_token in emoji_and_symbols_tokens:
         return '@emoji_and_symbols_tokens@'
     if special_token in super_special_tokens:
@@ -382,7 +381,7 @@ def tokenize_word_map(text, splits, commonality_map):
                 tokens.append(split_token)
                 is_first = False
         elif token_with_hashes in all_splits_tokens:
-            labels.append('@split_explainer@')
+            labels.append('@word_filler@')
             tokens.append(token_with_hashes)
         else:
             labels.append(special_token_to_label_mapper(token))
