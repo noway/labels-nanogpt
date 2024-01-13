@@ -366,6 +366,7 @@ def tokenize(text, splits, commonality_map):
 def tokenize_word_map(text, splits, commonality_map):
     tokens = []
     labels = []
+    all_splits_tokens = set([item for sublist in splits.values() for item in sublist])
     for token in special_token_split(text, special_tokens):
         token_with_hashes = f'##{token}'
         if token in splits:
@@ -379,7 +380,7 @@ def tokenize_word_map(text, splits, commonality_map):
                     labels.append('@word_filler@')
                 tokens.append(split_token)
                 is_first = False
-        elif any([token_with_hashes in split for split in splits.values()]):
+        elif token_with_hashes in all_splits_tokens:
             labels.append('@split_explainer@')
             tokens.append(token_with_hashes)
         else:
