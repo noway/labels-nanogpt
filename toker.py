@@ -420,12 +420,10 @@ def tokens_to_array_of_numbers(tokens):
 
 
 def labels_to_array_of_numbers(labels):
-    # TODO: don't use set here. use list. we want to preserve order.
-    all_labels = set()
+    all_labels_list = list()
     for label in labels:
-        if label not in all_labels:
-            all_labels.add(label)
-    all_labels_list = list(all_labels)
+        if label not in all_labels_list:
+            all_labels_list.append(label)
 
     result = []
     for label in labels:
