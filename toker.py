@@ -443,6 +443,7 @@ def tokens_to_array_of_numbers_without_full_vocab(tokens, full_vocab):
 
 if __name__ == '__main__':
     #################### LOAD TEXT ####################
+    print('loading text')
     with open('trainingdata.txt', 'r') as f:
         initial_text = f.read()
 
@@ -450,6 +451,7 @@ if __name__ == '__main__':
     #################### /LOAD TEXT ####################
 
     #################### GENERATE WORD SPLITS ####################
+    print('generating word splits')
     text = text.lower()
     for special_token in special_tokens:
         text = text.replace(special_token, ' ')
@@ -475,6 +477,7 @@ if __name__ == '__main__':
     #################### /GENERATE WORD SPLITS ####################
 
     #################### BPE MERGE UP TO VOCAB SIZE ####################
+    print('bpe merging up to vocab size')
     alphabet_vocab = map(lambda c: f'##{c}', list('abcdefghijklmnopqrstuvwxyz'))
     digit_vocab = list('0123456789')
     vocab = list()
@@ -517,6 +520,7 @@ if __name__ == '__main__':
     #################### /BPE MERGE UP TO VOCAB SIZE ####################
 
     #################### GENERATE COMMONALITY MAP ####################
+    print('generating commonality map')
 
     sorted_words = sorted(words, key=words.get, reverse=True)
 
@@ -542,6 +546,7 @@ if __name__ == '__main__':
     #################### /GENERATE COMMONALITY MAP ####################
 
     #################### TOKENIZE WORD MAP AND THE TEXT ####################
+    print('tokenizing word map and the text')
     spelling_map_text = ''
     spelling_map_text += '\<\|document\|\>letter map for words\n'
     for word in splits:
@@ -571,6 +576,7 @@ if __name__ == '__main__':
     #################### /TOKENIZE WORD MAP AND THE TEXT ####################
 
     #################### SAVE TOKENS AND FULL VOCAB ####################
+    print('saving tokens and full vocab')
     tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
     labels = labels_to_array_of_numbers(word_map_lbls + lbls)
 
