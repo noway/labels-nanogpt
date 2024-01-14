@@ -21,7 +21,7 @@ labels_set_list = list(set(encoded_labels))
 label_size = len(labels_set_list)
 print('label_size', label_size)
 
-batch_size = 4
+batch_size = 18
 block_size = 1024
 checkpoint1_sec = 11700
 total_train_sec = 23400
