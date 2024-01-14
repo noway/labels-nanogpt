@@ -284,6 +284,7 @@ made_checkpoint = False
 
 if __name__ == '__main__':
     optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
+    steps = 0
     while True:
         xb, labelsb, yb = get_batch()
         logits, loss = m(xb, labelsb, yb)
@@ -307,6 +308,7 @@ if __name__ == '__main__':
                 made_checkpoint = True
             if timestamp() - start_timestamp > total_train_sec:
                 break
+        steps += 1
 
     print(loss.item())
 
