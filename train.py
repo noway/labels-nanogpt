@@ -257,10 +257,17 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 
 
+def get_timestring():
+    return (
+        datetime.datetime.now().strftime('%d%b%Y-%I%M%p-')
+        + str(datetime.datetime.now().astimezone().tzinfo)
+    ).lower()
+
+
 def get_path(checkpoint=False):
     name = 'bigmodel/model_weights_with_label_embedding_consttime'
     if checkpoint:
-        return f'{name}_{datetime.datetime.now().strftime("%Y%m%d%H%M%S")}.pth'
+        return f'{name}_{get_timestring()}.pth'
     return f'{name}.pth'
 
 
