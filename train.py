@@ -301,9 +301,9 @@ if __name__ == '__main__':
             )
             if timestamp() - start_timestamp > checkpoint1_sec and not made_checkpoint:
                 CHECKPOINT_PATH = get_path(checkpoint=True)
-                print(f'Checkpoint model to {CHECKPOINT_PATH} ...')
+                print(f'Checkpoint model to {CHECKPOINT_PATH}')
                 torch.save(m.module.state_dict(), CHECKPOINT_PATH)
-                print(f'Copy model to {PATH} ...')
+                print(f'Copy model to {PATH}')
                 shutil.copyfile(CHECKPOINT_PATH, PATH)
                 made_checkpoint = True
             if timestamp() - start_timestamp > total_train_sec:
@@ -313,7 +313,7 @@ if __name__ == '__main__':
     print(loss.item())
 
     CHECKPOINT_PATH = get_path(checkpoint=True)
-    print(f'Checkpoint model to {CHECKPOINT_PATH} ...')
+    print(f'Checkpoint model to {CHECKPOINT_PATH}')
     torch.save(m.module.state_dict(), CHECKPOINT_PATH)
-    print(f'Copy model to {PATH} ...')
+    print(f'Copy model to {PATH}')
     shutil.copyfile(CHECKPOINT_PATH, PATH)
