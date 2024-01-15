@@ -2,8 +2,9 @@ import re
 import json
 from collections import Counter
 from collections import defaultdict
+import sys
 
-COMMONALITY_LABEL_ENABLED = True
+COMMONALITY_LABEL_ENABLED = sys.argv[1] == 'with_labels'
 
 emoji_and_symbols_tokens = [
     '1️⃣',
@@ -576,7 +577,9 @@ if __name__ == '__main__':
     print('saving tokens and full vocab')
     tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
 
-    with open('tokens.json', 'w') as f:
+    suffix = '_with_labels' if COMMONALITY_LABEL_ENABLED else '_no_labels'
+
+    with open(f'tokens{suffix}.json', 'w') as f:
         json.dump(tokens, f)
 
     set_toks = set(word_map_toks + toks)
@@ -593,13 +596,13 @@ if __name__ == '__main__':
     )
 
     # FYI: one is used for decode and one is used for encode. can probably refactor to use the same.
-    with open('full_vocab.json', 'w') as f:
+    with open(f'full_vocab{suffix}.json', 'w') as f:
         json.dump(full_vocab, f)
 
-    with open('splits.json', 'w') as f:
+    with open(f'splits{suffix}.json', 'w') as f:
         json.dump(splits, f)
 
-    with open('commonality_map.json', 'w') as f:
+    with open(f'commonality_map{suffix}.json', 'w') as f:
         json.dump(commonality_map, f)
 
     #################### /SAVE TOKENS AND FULL VOCAB ####################
