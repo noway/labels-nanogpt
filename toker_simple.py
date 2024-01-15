@@ -4,7 +4,7 @@ from collections import Counter
 from collections import defaultdict
 import sys
 
-COMMONALITY_LABEL_ENABLED = sys.argv[1] == 'with_labels'
+COMMONALITY_LABEL_ENABLED = len(sys.argv) > 1 and sys.argv[1] == 'with_labels'
 
 emoji_and_symbols_tokens = [
     '1️⃣',
