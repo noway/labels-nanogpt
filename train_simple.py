@@ -15,7 +15,7 @@ encoded = eval(json_str)
 chars = list(set(encoded))
 vocab_size = len(chars)
 
-batch_size = 4
+batch_size = 1
 block_size = 1024 * 2
 checkpoint1_sec = 11700
 total_train_sec = 23400
