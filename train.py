@@ -4,6 +4,8 @@ from torch.nn import functional as F
 import os
 import datetime
 import shutil
+import signal
+import time
 
 
 with open('tokens.json', 'r') as f:
@@ -291,6 +293,19 @@ if __name__ == '__main__':
     made_checkpoint = False
     optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
     steps = 0
+
+    def handler(signum, frame):
+        print('Signal handler called with signal', signum)
+        CHECKPOINT_PATH = get_path(checkpoint=True)
+        print(f'Checkpoint model to {CHECKPOINT_PATH}')
+        torch.save(m.module.state_dict(), CHECKPOINT_PATH)
+        print(f'Copy model to {PATH}')
+        shutil.copyfile(CHECKPOINT_PATH, PATH)
+        print('Sleep 1 second')
+        time.sleep(1)
+
+    signal.signal(signal.SIGUSR1, handler)
+
     while True:
         xb, labelsb, yb = get_batch()
         logits, loss = m(xb, labelsb, yb)
