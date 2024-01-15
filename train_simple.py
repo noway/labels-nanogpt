@@ -6,17 +6,20 @@ import datetime
 import shutil
 import signal
 import time
+import sys
 
+COMMONALITY_LABEL_ENABLED = len(sys.argv) > 1 and sys.argv[1] == 'with_labels'
+suffix = '-with_labels' if COMMONALITY_LABEL_ENABLED else '-no_labels'
 
-with open('tokens.json', 'r') as f:
+with open(f'tokens{suffix}.json') as f:
     json_str = f.read()
 encoded = eval(json_str)
 
 chars = list(set(encoded))
 vocab_size = len(chars)
 
-batch_size = 4
-block_size = 1024 * 2
+batch_size = 4 if COMMONALITY_LABEL_ENABLED else 18
+block_size = 1024 * 2 if COMMONALITY_LABEL_ENABLED else 1024
 checkpoint1_sec = 11700
 total_train_sec = 23400
 num_embeddings = 512
@@ -229,7 +232,7 @@ def get_timestring():
 
 
 def get_path(checkpoint=False):
-    name = 'bigmodel/model_weights_with_labels_context2x'
+    name = f'bigmodel/model_weights{suffix}'
     if checkpoint:
         return f'{name}_{get_timestring()}.pth'
     return f'{name}.pth'
