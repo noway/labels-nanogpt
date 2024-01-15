@@ -580,7 +580,7 @@ if __name__ == '__main__':
     tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
     labels = labels_to_array_of_numbers(word_map_lbls + lbls)
 
-    suffix = '_label_embeddings'
+    suffix = '-label_embeddings'
 
     with open(f'tokens{suffix}.json', 'w') as f:
         json.dump(tokens, f)

@@ -577,7 +577,7 @@ if __name__ == '__main__':
     print('saving tokens and full vocab')
     tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
 
-    suffix = '_with_labels' if COMMONALITY_LABEL_ENABLED else '_no_labels'
+    suffix = '-with_labels' if COMMONALITY_LABEL_ENABLED else '-no_labels'
 
     with open(f'tokens{suffix}.json', 'w') as f:
         json.dump(tokens, f)
