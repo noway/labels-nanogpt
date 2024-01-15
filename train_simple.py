@@ -2,6 +2,11 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 import os
+import datetime
+import shutil
+import signal
+import time
+
 
 with open('tokens.json', 'r') as f:
     json_str = f.read()
@@ -12,7 +17,8 @@ vocab_size = len(chars)
 
 batch_size = 4
 block_size = 1024 * 2
-max_iters = 5000 * 4
+checkpoint1_sec = 11700
+total_train_sec = 23400
 num_embeddings = 512
 device = (
     'cuda'
@@ -215,7 +221,26 @@ m.to(device)
 print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parameters')
 
 
-PATH = 'bigmodel/model_weights_with_labels_context2x.pth-11jan0840am'
+def get_timestring():
+    return (
+        datetime.datetime.now().strftime('%d%b%Y-%I%M%S%p-')
+        + str(datetime.datetime.now().astimezone().tzinfo)
+    ).lower()
+
+
+def get_path(checkpoint=False):
+    name = 'bigmodel/model_weights_with_labels_context2x'
+    if checkpoint:
+        return f'{name}_{get_timestring()}.pth'
+    return f'{name}.pth'
+
+
+def timestamp():
+    return datetime.datetime.now().timestamp()
+
+
+PATH = get_path()
+
 if os.path.dirname(PATH) != '':
     os.makedirs(os.path.dirname(PATH), exist_ok=True)
 
@@ -226,8 +251,24 @@ else:
     print('No model weights found')
 
 if __name__ == '__main__':
+    start_timestamp = timestamp()
+    made_checkpoint = False
     optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
-    for steps in range(max_iters):
+    steps = 0
+
+    def handler(signum, frame):
+        print('Signal handler called with signal', signum)
+        CHECKPOINT_PATH = get_path(checkpoint=True)
+        print(f'Checkpoint model to {CHECKPOINT_PATH}')
+        torch.save(m.module.state_dict(), CHECKPOINT_PATH)
+        print(f'Copy model to {PATH}')
+        shutil.copyfile(CHECKPOINT_PATH, PATH)
+        print('Sleep 1 second')
+        time.sleep(1)
+
+    signal.signal(signal.SIGUSR1, handler)
+
+    while True:
         xb, yb = get_batch()
         logits, loss = m(xb, yb)
         optimizer.zero_grad(set_to_none=True)
@@ -241,7 +282,21 @@ if __name__ == '__main__':
             print(
                 f'steps={steps} training_data_loss={training_data_loss} val_loss={val_loss}'
             )
+            if timestamp() - start_timestamp > checkpoint1_sec and not made_checkpoint:
+                CHECKPOINT_PATH = get_path(checkpoint=True)
+                print(f'Checkpoint model to {CHECKPOINT_PATH}')
+                torch.save(m.module.state_dict(), CHECKPOINT_PATH)
+                print(f'Copy model to {PATH}')
+                shutil.copyfile(CHECKPOINT_PATH, PATH)
+                made_checkpoint = True
+            if timestamp() - start_timestamp > total_train_sec:
+                break
+        steps += 1
 
     print(loss.item())
-    print(f'Saving model to {PATH}')
-    torch.save(m.module.state_dict(), PATH)
+
+    CHECKPOINT_PATH = get_path(checkpoint=True)
+    print(f'Checkpoint model to {CHECKPOINT_PATH}')
+    torch.save(m.module.state_dict(), CHECKPOINT_PATH)
+    print(f'Copy model to {PATH}')
+    shutil.copyfile(CHECKPOINT_PATH, PATH)
