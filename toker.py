@@ -580,17 +580,19 @@ if __name__ == '__main__':
     tokens, full_vocab = tokens_to_array_of_numbers(word_map_toks + toks)
     labels = labels_to_array_of_numbers(word_map_lbls + lbls)
 
-    with open('tokens.json', 'w') as f:
+    suffix = '_label_embeddings'
+
+    with open(f'tokens{suffix}.json', 'w') as f:
         json.dump(tokens, f)
 
-    with open('labels.json', 'w') as f:
+    with open(f'labels{suffix}.json', 'w') as f:
         json.dump(labels, f)
 
     labels_map = {
         label_non_vectorized: label
         for label, label_non_vectorized in zip(labels, word_map_lbls + lbls)
     }
-    with open('labels_map.json', 'w') as f:
+    with open(f'labels_map{suffix}.json', 'w') as f:
         json.dump(labels_map, f, indent=4)
 
     set_toks = set(word_map_toks + toks)
@@ -607,13 +609,13 @@ if __name__ == '__main__':
     )
 
     # FYI: one is used for decode and one is used for encode. can probably refactor to use the same.
-    with open('full_vocab.json', 'w') as f:
+    with open(f'full_vocab{suffix}.json', 'w') as f:
         json.dump(full_vocab, f)
 
-    with open('splits.json', 'w') as f:
+    with open(f'splits{suffix}.json', 'w') as f:
         json.dump(splits, f)
 
-    with open('commonality_map.json', 'w') as f:
+    with open(f'commonality_map{suffix}.json', 'w') as f:
         json.dump(commonality_map, f)
 
     #################### /SAVE TOKENS AND FULL VOCAB ####################
