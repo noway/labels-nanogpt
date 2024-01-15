@@ -286,10 +286,9 @@ if os.path.exists(PATH):
 else:
     print('No model weights found')
 
-start_timestamp = timestamp()
-made_checkpoint = False
-
 if __name__ == '__main__':
+    start_timestamp = timestamp()
+    made_checkpoint = False
     optimizer = torch.optim.Adam(m.parameters(), lr=learning_rate)
     steps = 0
     while True:
