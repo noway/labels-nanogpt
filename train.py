@@ -7,12 +7,13 @@ import shutil
 import signal
 import time
 
+suffix = '-label_embeddings'
 
-with open('tokens.json', 'r') as f:
+with open(f'tokens{suffix}.json') as f:
     json_str = f.read()
 encoded = eval(json_str)
 
-with open('labels.json', 'r') as f:
+with open(f'labels{suffix}.json') as f:
     json_str = f.read()
 encoded_labels = eval(json_str)
 
@@ -267,7 +268,7 @@ def get_timestring():
 
 
 def get_path(checkpoint=False):
-    name = 'bigmodel/model_weights_with_label_embedding_consttime'
+    name = f'bigmodel/model_weights{suffix}'
     if checkpoint:
         return f'{name}_{get_timestring()}.pth'
     return f'{name}.pth'
