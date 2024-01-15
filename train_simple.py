@@ -18,10 +18,10 @@ encoded = eval(json_str)
 chars = list(set(encoded))
 vocab_size = len(chars)
 
-batch_size = 1 if COMMONALITY_LABEL_ENABLED else 9
+batch_size = 4 if COMMONALITY_LABEL_ENABLED else 18
 block_size = 1024 * 2 if COMMONALITY_LABEL_ENABLED else 1024
-checkpoint1_sec = 117
-total_train_sec = 234
+checkpoint1_sec = 11700
+total_train_sec = 23400
 num_embeddings = 512
 device = (
     'cuda'
