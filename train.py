@@ -261,7 +261,7 @@ print(sum(p.numel() for p in m.parameters() if p.requires_grad) / 1e6, 'M parame
 
 def get_timestring():
     return (
-        datetime.datetime.now().strftime('%d%b%Y-%I%M%p-')
+        datetime.datetime.now().strftime('%d%b%Y-%I%M%S%p-')
         + str(datetime.datetime.now().astimezone().tzinfo)
     ).lower()
 
