@@ -58,9 +58,10 @@ def check_one_eval(eval_file):
     the_answer = (re.findall(r'^\d+', the_answer) + [''])[0]
     if the_answer == 'five':
         the_answer = '5'
-    print('the_answer', (the_answer,))
+    # print('the_answer', (the_answer,))
     is_correct = the_answer == str(answer)
-    print('is_correct', (is_correct,))
+    # print('is_correct', (is_correct,))
+    print('.', end='', flush=True)
     return is_correct, eval_type
 
 
@@ -73,11 +74,12 @@ if __name__ == '__main__':
             if num1 < num2:
                 continue
             file_path = f'exercises{num1}_{num2}.yml'
-            print('file_path', (file_path,))
+            # print('file_path', (file_path,))
             is_correct, eval_type = check_one_eval(file_path)
             if is_correct:
                 correct_count += 1
             all_count += 1
+    print()
     print('eval_type', (eval_type,))
     print('correct_count', (correct_count,))
     print('all_count', (all_count,))
