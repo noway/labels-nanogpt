@@ -8,6 +8,8 @@ import torch
 from train import m
 from toker_decode import decode_one_token, vectorize_labels_with_map
 
+suffix = '-label_embeddings'
+
 # text = """
 # 1. 1 + 1 = 2
 # 2. 1 + 2 = 3
@@ -109,13 +111,13 @@ Count 4 less:
 **Answer**: 9 - 4 = """
 
 
-with open('splits.json', 'r') as f:
+with open(f'splits{suffix}.json', 'r') as f:
     splits = eval(f.read())
 
-with open('commonality_map.json', 'r') as f:
+with open(f'commonality_map{suffix}.json', 'r') as f:
     commonality_map = eval(f.read())
 
-with open('full_vocab.json', 'r') as f:
+with open(f'full_vocab{suffix}.json', 'r') as f:
     full_vocab = eval(f.read())
 
 toks, lbls = tokenize(text.lower(), splits, commonality_map)
