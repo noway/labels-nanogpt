@@ -1,6 +1,10 @@
 import json
+import sys
 
-with open('full_vocab.json', 'r') as f:
+COMMONALITY_LABEL_ENABLED = len(sys.argv) > 1 and sys.argv[1] == 'with_labels'
+suffix = '-with_labels' if COMMONALITY_LABEL_ENABLED else '-no_labels'
+
+with open(f'full_vocab{suffix}.json', 'r') as f:
     full_vocab = json.load(f)
 
 
