@@ -2,6 +2,11 @@ from toker_simple import tokenize, tokens_to_array_of_numbers_without_full_vocab
 from toker_decode_simple import decode, decode_one_token
 import torch
 from train_simple import m
+import sys
+
+COMMONALITY_LABEL_ENABLED = len(sys.argv) > 1 and sys.argv[1] == 'with_labels'
+suffix = '-with_labels' if COMMONALITY_LABEL_ENABLED else '-no_labels'
+
 
 # text = """
 # 1. 1 + 1 = 2
@@ -104,13 +109,13 @@ Count 4 less:
 **Answer**: 9 - 4 = """
 
 
-with open('splits.json', 'r') as f:
+with open(f'splits{suffix}.json', 'r') as f:
     splits = eval(f.read())
 
-with open('commonality_map.json', 'r') as f:
+with open(f'commonality_map{suffix}.json', 'r') as f:
     commonality_map = eval(f.read())
 
-with open('full_vocab.json', 'r') as f:
+with open(f'full_vocab{suffix}.json', 'r') as f:
     full_vocab = eval(f.read())
 
 tokens = tokens_to_array_of_numbers_without_full_vocab(

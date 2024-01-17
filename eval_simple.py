@@ -4,14 +4,18 @@ from toker_decode_simple import decode_one_token
 import torch
 import yaml
 import re
+import sys
 
-with open('splits.json', 'r') as f:
+COMMONALITY_LABEL_ENABLED = len(sys.argv) > 1 and sys.argv[1] == 'with_labels'
+suffix = '-with_labels' if COMMONALITY_LABEL_ENABLED else '-no_labels'
+
+with open(f'splits{suffix}.json', 'r') as f:
     splits = eval(f.read())
 
-with open('commonality_map.json', 'r') as f:
+with open(f'commonality_map{suffix}.json', 'r') as f:
     commonality_map = eval(f.read())
 
-with open('full_vocab.json', 'r') as f:
+with open(f'full_vocab{suffix}.json', 'r') as f:
     full_vocab = eval(f.read())
 
 
