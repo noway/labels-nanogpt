@@ -27,7 +27,7 @@ def check_one_eval(eval_file):
         eval_type = data['eval_type']
 
     tokens = tokens_to_array_of_numbers_without_full_vocab(
-        tokenize(text.lower(), splits, commonality_map)[0], full_vocab
+        tokenize(text.lower(), splits, commonality_map)[0] + ["@digit_tokens@"], full_vocab
     )
     idx = torch.tensor(tokens).unsqueeze(0)
 
@@ -41,7 +41,8 @@ def check_one_eval(eval_file):
 
     idx = idx.to(device)
     the_answer = ''
-    expected_token = tokens_to_array_of_numbers_without_full_vocab(tokenize(str(answer), splits, commonality_map)[0], full_vocab)[0]
+    expected_token = tokens_to_array_of_numbers_without_full_vocab(tokenize(str(answer), splits, commonality_map)[0], full_vocab)[1]
+    # print ('expected_token', (expected_token,))
     the_ranking = 0
     with torch.no_grad():
         the_ranking = m.module.generate(idx, 1000, expected_token)
