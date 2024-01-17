@@ -1,8 +1,7 @@
-from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab
-from toker_decode import decode
-import torch
 from train import m
+from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab
 from toker_decode import decode_one_token, vectorize_labels_with_map
+import torch
 import yaml
 import re
 

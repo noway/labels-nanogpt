@@ -1,8 +1,7 @@
 from toker_simple import tokenize, tokens_to_array_of_numbers_without_full_vocab
-from toker_decode import decode
+from toker_decode_simple import decode, decode_one_token
 import torch
 from train_simple import m
-from toker_decode import decode_one_token
 
 # text = """
 # 1. 1 + 1 = 2
