@@ -1,0 +1,11 @@
+label embedding:
+nshot_cot (391,)
+nshot_direct (320,)
+0shot_cot (387,)
+0shot_direct (232,)
+
+no labels:
+nshot_cot (250,)
+nshot_direct (385,)
+0shot_cot (267,)
+0shot_direct (237,)
