@@ -9,3 +9,9 @@ nshot_cot (250,)
 nshot_direct (385,)
 0shot_cot (267,)
 0shot_direct (237,)
+
+labels:
+nshot_cot (186,)
+nshot_direct (170,)
+0shot_cot (163,)
+0shot_direct (144,)
