@@ -1,10 +1,12 @@
 import json
 
-with open('full_vocab.json', 'r') as f:
+suffix = '-label_embeddings'
+
+with open(f'full_vocab{suffix}.json', 'r') as f:
     full_vocab = json.load(f)
 
 
-with open('labels_map.json', 'r') as f:
+with open(f'labels_map{suffix}.json', 'r') as f:
     labels_map = json.load(f)
 
 
