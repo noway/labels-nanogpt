@@ -8,10 +8,10 @@ Nanogpt with label embeddings implemented. Performance on the task of subtractin
 39M parameter model, 1024 context window
 | eval_type     | correct_count  | all_count  |
 | ------------- |:--------------:| ----------:|
-| nshot_cot     | 4              | 55         |
-| nshot_direct  | 7              | 55         |
-| 0shot_cot     | 7              | 55         |
-| 0shot_direct  | 9              | 55         |
+| nshot_cot     | 9              | 55         |
+| nshot_direct  | 10             | 55         |
+| 0shot_cot     | 10             | 55         |
+| 0shot_direct  | 12             | 55         |
 
 
 ### labels (every second token)
@@ -19,18 +19,18 @@ Nanogpt with label embeddings implemented. Performance on the task of subtractin
 | eval_type     | correct_count  | all_count  |
 | ------------- |:--------------:| ----------:|
 | nshot_cot     | 9              | 55         |
-| nshot_direct  | 10             | 55         |
-| 0shot_cot     | 8              | 55         |
-| 0shot_direct  | 6              | 55         |
+| nshot_direct  | 12             | 55         |
+| 0shot_cot     | 14             | 55         |
+| 0shot_direct  | 13             | 55         |
 
 ### label embeddings
 39M parameter model, 1024 context window, 
 | eval_type     | correct_count  | all_count  |
 | ------------- |:--------------:| ----------:|
-| nshot_cot     | 13             | 55         |
+| nshot_cot     | 7              | 55         |
 | nshot_direct  | 10             | 55         |
-| 0shot_cot     | 8              | 55         |
-| 0shot_direct  | 15             | 55         |
+| 0shot_cot     | 10             | 55         |
+| 0shot_direct  | 13             | 55         |
 
 ## training
 
