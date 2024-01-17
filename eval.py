@@ -41,18 +41,23 @@ def check_one_eval(eval_file):
     idx = idx.to(device)
     idx_labels = idx_labels.to(device)
     the_answer = ''
+    expected_token = tokens_to_array_of_numbers_without_full_vocab(tokenize(str(answer), splits, commonality_map)[0], full_vocab)[0]
+    # print ('expected_token', (expected_token,), 'answer', (answer,))
+    the_ranking = 0
     with torch.no_grad():
-        for token in m.module.generate(idx, idx_labels, 1000):
-            token_str = decode_one_token(token)
-            if (
-                token_str == '\n'
-                or token_str == ' '
-                or token_str == ','
-                or token_str == '.'
-                or token_str == '\\'
-            ):
-                break
-            the_answer += token_str
+        the_ranking = m.module.generate(idx, idx_labels, 1000, expected_token)
+        # for ranking in m.module.generate(idx, idx_labels, 1000, expected_token):
+        #     the_ranking = ranking
+            # token_str = decode_one_token(token)
+            # if (
+            #     token_str == '\n'
+            #     or token_str == ' '
+            #     or token_str == ','
+            #     or token_str == '.'
+            #     or token_str == '\\'
+            # ):
+            #     break
+            # the_answer += token_str
 
     the_answer = the_answer.strip().replace('*', '')
     the_answer = (re.findall(r'^\d+', the_answer) + [''])[0]
@@ -62,24 +67,26 @@ def check_one_eval(eval_file):
     is_correct = the_answer == str(answer)
     # print('is_correct', (is_correct,))
     print('.', end='', flush=True)
-    return is_correct, eval_type
+    return the_ranking, eval_type
 
 
 if __name__ == '__main__':
-    correct_count = 0
+    # correct_count = 0
     all_count = 0
     eval_type = ''
+    ranking_sum = 0
     for num1 in range(10):
         for num2 in range(10):
             if num1 < num2:
                 continue
             file_path = f'exercises{num1}_{num2}.yml'
             # print('file_path', (file_path,))
-            is_correct, eval_type = check_one_eval(file_path)
-            if is_correct:
-                correct_count += 1
+            the_ranking, eval_type = check_one_eval(file_path)
+            ranking_sum += the_ranking
+            # if the_ranking:
+            #     correct_count += 1
             all_count += 1
     print()
     print('eval_type', (eval_type,))
-    print('correct_count', (correct_count,))
+    print('ranking_sum', (ranking_sum,))
     print('all_count', (all_count,))
