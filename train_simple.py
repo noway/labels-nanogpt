@@ -43,7 +43,7 @@ data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
 print('data', data.shape)
 
-first_90_percent = int(len(data) * 0.9)
+first_90_percent = int(len(data) * 1)
 train_data = data[:first_90_percent]
 val_data = data[first_90_percent:]
 
@@ -279,11 +279,11 @@ if __name__ == '__main__':
         optimizer.step()
         if steps % eval_iters == 0:
             training_data_loss = (loss.sum() / compute_unit_count).item()
-            validation_batch = get_batch_val()
-            logits, loss = m(*validation_batch)
-            val_loss = (loss.sum() / compute_unit_count).item()
+            # validation_batch = get_batch_val()
+            # logits, loss = m(*validation_batch)
+            # val_loss = (loss.sum() / compute_unit_count).item()
             print(
-                f'steps={steps} training_data_loss={training_data_loss} val_loss={val_loss}'
+                f'steps={steps} training_data_loss={training_data_loss}'
             )
             if timestamp() - start_timestamp > checkpoint1_sec and not made_checkpoint:
                 CHECKPOINT_PATH = get_path(checkpoint=True)
