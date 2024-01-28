@@ -18,7 +18,7 @@ encoded = eval(json_str)
 chars = list(set(encoded))
 vocab_size = len(chars)
 
-batch_size = 18 if COMMONALITY_LABEL_ENABLED else 18
+batch_size = 19 if COMMONALITY_LABEL_ENABLED else 66
 block_size = 1024 if COMMONALITY_LABEL_ENABLED else 512
 checkpoint1_sec = 11700
 total_train_sec = 23400
