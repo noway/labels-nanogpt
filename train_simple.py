@@ -30,7 +30,7 @@ device = (
     if hasattr(torch.backends, 'mps') and torch.backends.mps.is_available()
     else 'cpu'
 )
-print('device', device)
+# print('device', device)
 learning_rate = 3e-4
 eval_iters = 25
 n_layer = 12
@@ -41,7 +41,7 @@ compute_unit_count = torch.cuda.device_count() if device == 'cuda' else 1
 
 data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
-print('data', data.shape)
+# print('data', data.shape)
 
 first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
@@ -226,7 +226,7 @@ class Head(nn.Module):
         return out
 
 
-print(vocab_size)
+# print(vocab_size)
 m = nn.DataParallel(BigramLanguageModel())
 m.to(device)
 

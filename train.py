@@ -22,7 +22,7 @@ vocab_size = len(chars)
 
 labels_set_list = list(set(encoded_labels))
 label_size = len(labels_set_list)
-print('label_size', label_size)
+# print('label_size', label_size)
 
 batch_size = 18
 block_size = 512
@@ -36,7 +36,7 @@ device = (
     if hasattr(torch.backends, 'mps') and torch.backends.mps.is_available()
     else 'cpu'
 )
-print('device', device)
+# print('device', device)
 learning_rate = 3e-4
 eval_iters = 25
 n_layer = 12
@@ -47,11 +47,11 @@ compute_unit_count = torch.cuda.device_count() if device == 'cuda' else 1
 
 data = torch.tensor(encoded, dtype=torch.long)
 data = data.to(device)
-print('data', data.shape)
+# print('data', data.shape)
 
 data_labels = torch.tensor(encoded_labels, dtype=torch.long)
 data_labels = data_labels.to(device)
-print('data_labels', data_labels.shape)
+# print('data_labels', data_labels.shape)
 
 first_90_percent = int(len(data) * 0.9)
 train_data = data[:first_90_percent]
@@ -265,7 +265,7 @@ class Head(nn.Module):
         return out
 
 
-print(vocab_size)
+# print(vocab_size)
 m = nn.DataParallel(BigramLanguageModel())
 m.to(device)
 
