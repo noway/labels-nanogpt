@@ -1,22 +1,23 @@
 
+# no labels
+eval_type ('nshot_cot',)
+ranking_sum (453,)
+all_count (55,)
+
+eval_type ('nshot_direct',)
+ranking_sum (376,)
+all_count (55,)
+
+eval_type ('0shot_cot',)
+ranking_sum (373,)
+all_count (55,)
+
+eval_type ('0shot_direct',)
+ranking_sum (294,)
+all_count (55,)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# eval_simple.py with_labels
+# labels
 eval_type ('nshot_cot',)
 ranking_sum (178,)
 all_count (55,)
@@ -34,7 +35,7 @@ ranking_sum (142,)
 all_count (55,)
 
 
-# eval
+# label embedding
 eval_type ('nshot_cot',)
 ranking_sum (382,)
 all_count (55,)
