@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# eval_simple.py with_labels
+eval_type ('nshot_cot',)
+ranking_sum (178,)
+all_count (55,)
+
+eval_type ('nshot_direct',)
+ranking_sum (193,)
+all_count (55,)
+
+eval_type ('0shot_cot',)
+ranking_sum (173,)
+all_count (55,)
+
+eval_type ('0shot_direct',)
+ranking_sum (142,)
+all_count (55,)
+
+
+# eval
+eval_type ('nshot_cot',)
+ranking_sum (382,)
+all_count (55,)
+
+eval_type ('nshot_direct',)
+ranking_sum (956,)
+all_count (55,)
+
+eval_type ('0shot_cot',)
+ranking_sum (421,)
+all_count (55,)
+
+eval_type ('0shot_direct',)
+ranking_sum (263,)
+all_count (55,)
