@@ -19,7 +19,7 @@ chars = list(set(encoded))
 vocab_size = len(chars)
 
 batch_size = 4 if COMMONALITY_LABEL_ENABLED else 18
-block_size = 1024 * 2 if COMMONALITY_LABEL_ENABLED else 1024
+block_size = 512 * 2 if COMMONALITY_LABEL_ENABLED else 512
 checkpoint1_sec = 11700
 total_train_sec = 23400
 num_embeddings = 512

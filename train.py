@@ -25,7 +25,7 @@ label_size = len(labels_set_list)
 print('label_size', label_size)
 
 batch_size = 18
-block_size = 1024
+block_size = 512
 checkpoint1_sec = 11700
 total_train_sec = 23400
 num_embeddings = 512
