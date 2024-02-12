@@ -173,19 +173,28 @@ class BigramLanguageModel(nn.Module):
             loss = F.cross_entropy(logits, targets)
         return logits, loss
 
-    def generate(self, idx, max_new_tokens):
+    def generate(self, idx, max_new_tokens, expected_token):
         # this is an array for the generated tokens
         # we'll keep appending to it as we generate more tokens
         # we'll stop when we reach max_new_tokens
+
+        from toker_decode import decode_one_token
+
         self.eval()
         for _ in range(max_new_tokens):
             logits, _ = self(idx, targets=None)
             logits = logits[:, -1, :]
             probs = F.softmax(logits, dim=-1)
+            sorted_tensor, sorted_indices = torch.sort(probs, descending=True)
+            expected_token_ranking = sorted_indices[0].tolist().index(expected_token)
+
             # idx_next = torch.multinomial(probs, num_samples=1)
             idx_next = torch.argmax(probs, dim=-1, keepdim=True)
             values, indices = torch.topk(probs, 5)
-            yield idx_next[0][0].item()
+            # print ('indices', [decode_one_token(tok) for tok in indices[0].tolist()], 'values', values[0].tolist())
+            # print('expected_token_ranking', expected_token_ranking)
+            return expected_token_ranking
+            # yield idx_next[0][0].item()
             idx = torch.cat([idx, idx_next], dim=-1)
             # clip idx to block_size so that we're not feeding the model tokens past it's context window
             idx = idx[:, -block_size:]

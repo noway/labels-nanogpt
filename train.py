@@ -192,7 +192,7 @@ class BigramLanguageModel(nn.Module):
             loss = F.cross_entropy(logits, targets)
         return logits, loss
 
-    def generate(self, idx, idx_labels, max_new_tokens):
+    def generate(self, idx, idx_labels, max_new_tokens, expected_token):
         # this is an array for the generated tokens
         # we'll keep appending to it as we generate more tokens
         # we'll stop when we reach max_new_tokens
@@ -200,11 +200,22 @@ class BigramLanguageModel(nn.Module):
         from toker import special_token_to_label_mapper
 
         self.eval()
+        isFirst = True
         for _ in range(max_new_tokens):
             logits, _ = self(idx, idx_labels, targets=None)
             logits = logits[:, -1, :]
             probs = F.softmax(logits, dim=-1)
             # idx_next = torch.multinomial(probs, num_samples=1)
+            # print ('probs', probs[0].tolist())
+            # expected_token_probability = probs[0][expected_token].item()
+            sorted_tensor, sorted_indices = torch.sort(probs, descending=True)
+            expected_token_ranking = sorted_indices[0].tolist().index(expected_token)
+            # print('expected_token_ranking', expected_token_ranking)
+            return expected_token_ranking
+            # if isFirst:
+            #     # print ('expected_token_probability', expected_token_probability)
+            #     yield expected_token_ranking
+            isFirst = False
             idx_next = torch.argmax(probs, dim=-1, keepdim=True)
             label_str = special_token_to_label_mapper(
                 decode_one_token(idx_next[0][0].item())
@@ -213,7 +224,8 @@ class BigramLanguageModel(nn.Module):
                 return False  # labeler for non-special tokens is not implemented
             idx_label_next = vectorize_label_with_map(label_str)
             values, indices = torch.topk(probs, 5)
-            yield idx_next[0][0].item()
+            # print ('indices', [decode_one_token(tok) for tok in indices[0].tolist()], 'values', values[0].tolist())
+            # yield idx_next[0][0].item()
             idx = torch.cat([idx, idx_next], dim=-1)
             idx_labels = torch.cat(
                 [
