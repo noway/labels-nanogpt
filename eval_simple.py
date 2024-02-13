@@ -2,6 +2,7 @@ from train_simple import m
 from toker_simple import tokenize, tokens_to_array_of_numbers_without_full_vocab
 from toker_decode_simple import decode_one_token
 import torch
+import json
 import yaml
 import re
 import sys
@@ -74,6 +75,7 @@ if __name__ == '__main__':
     all_count = 0
     eval_type = ''
     ranking_sum = 0
+    ranking_dict = {}
     for num1 in range(10):
         for num2 in range(10):
             if num1 < num2:
@@ -82,6 +84,7 @@ if __name__ == '__main__':
             # print('file_path', (file_path,))
             the_ranking, eval_type = check_one_eval(file_path)
             ranking_sum += the_ranking
+            ranking_dict[file_path] = the_ranking
             # if is_correct:
             #     correct_count += 1
             all_count += 1
@@ -89,3 +92,13 @@ if __name__ == '__main__':
     print('eval_type', (eval_type,))
     print('ranking_sum', (ranking_sum,))
     print('all_count', (all_count,))
+
+    with open(f'eval_results{suffix}-{eval_type}.txt', 'w') as f:
+        json_of_all_above = {
+            'eval_type': eval_type,
+            'ranking_sum': ranking_sum,
+            'all_count': all_count,
+            'ranking_dict': ranking_dict,
+        }
+        json_str = json.dumps(json_of_all_above)
+        f.write(json_str)
