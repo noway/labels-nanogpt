@@ -2,6 +2,7 @@ from train import m
 from toker import tokenize, tokens_to_array_of_numbers_without_full_vocab
 from toker_decode import decode_one_token, vectorize_labels_with_map
 import torch
+import json
 import yaml
 import re
 
@@ -92,12 +93,13 @@ if __name__ == '__main__':
     print('eval_type', (eval_type,))
     print('ranking_sum', (ranking_sum,))
     print('all_count', (all_count,))
-    print('ranking_dict', ranking_dict)
 
-
-    # save results to file
-    with open('eval_results.txt', 'w') as f:
-        f.write(f'eval_type: {eval_type}\n')
-        f.write(f'ranking_sum: {ranking_sum}\n')
-        f.write(f'all_count: {all_count}\n')
-        f.write(f'ranking_dict: {ranking_dict}\n')
+    with open(f'eval_results{suffix}-{eval_type}.txt', 'w') as f:
+        json_of_all_above = {
+            'eval_type': eval_type,
+            'ranking_sum': ranking_sum,
+            'all_count': all_count,
+            'ranking_dict': ranking_dict,
+        }
+        json_str = json.dumps(json_of_all_above)
+        f.write(json_str)
