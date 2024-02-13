@@ -94,7 +94,7 @@ if __name__ == '__main__':
     print('ranking_sum', (ranking_sum,))
     print('all_count', (all_count,))
 
-    with open(f'eval_results{suffix}-{eval_type}.txt', 'w') as f:
+    with open(f'eval_results{suffix}-{eval_type}.json', 'w') as f:
         json_of_all_above = {
             'eval_type': eval_type,
             'ranking_sum': ranking_sum,

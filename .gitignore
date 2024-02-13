@@ -15,3 +15,4 @@ commonality_map-*.json
 exercises*.yml
 labels-*.json
 labels_map-*.json
+eval_results-*.json
