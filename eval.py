@@ -75,6 +75,7 @@ if __name__ == '__main__':
     all_count = 0
     eval_type = ''
     ranking_sum = 0
+    ranking_dict = {}
     for num1 in range(10):
         for num2 in range(10):
             if num1 < num2:
@@ -83,6 +84,7 @@ if __name__ == '__main__':
             # print('file_path', (file_path,))
             the_ranking, eval_type = check_one_eval(file_path)
             ranking_sum += the_ranking
+            ranking_dict[file_path] = the_ranking
             # if the_ranking:
             #     correct_count += 1
             all_count += 1
@@ -90,3 +92,12 @@ if __name__ == '__main__':
     print('eval_type', (eval_type,))
     print('ranking_sum', (ranking_sum,))
     print('all_count', (all_count,))
+    print('ranking_dict', ranking_dict)
+
+
+    # save results to file
+    with open('eval_results.txt', 'w') as f:
+        f.write(f'eval_type: {eval_type}\n')
+        f.write(f'ranking_sum: {ranking_sum}\n')
+        f.write(f'all_count: {all_count}\n')
+        f.write(f'ranking_dict: {ranking_dict}\n')
