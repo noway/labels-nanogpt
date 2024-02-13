@@ -1,11 +1,11 @@
-# nanogpt with label embeddings
+# nanogpt with labels
 
-Nanogpt with label embeddings implemented. Performance on the task of subtracting two single-digit numbers is increased for the comparable hyperparameters.
+Nanogpt with labels implemented. Performance on the task of subtracting two single-digit numbers is increased for the comparable hyperparameters.
 
 ## subtraction task results
 
 ### no labels
-39M parameter model, 1024 context window
+39M parameter model, 512 context window
 | eval_type     | correct_count  | all_count  |
 | ------------- |:--------------:| ----------:|
 | nshot_cot     | 9              | 55         |
@@ -15,7 +15,7 @@ Nanogpt with label embeddings implemented. Performance on the task of subtractin
 
 
 ### labels (every second token)
-39M parameter model, 1024 (effective) context window
+39M parameter model, 512 (effective) context window
 | eval_type     | correct_count  | all_count  |
 | ------------- |:--------------:| ----------:|
 | nshot_cot     | 9              | 55         |
@@ -24,7 +24,7 @@ Nanogpt with label embeddings implemented. Performance on the task of subtractin
 | 0shot_direct  | 13             | 55         |
 
 ### label embeddings
-39M parameter model, 1024 context window, 
+39M parameter model, 512 context window, 
 | eval_type     | correct_count  | all_count  |
 | ------------- |:--------------:| ----------:|
 | nshot_cot     | 7              | 55         |
@@ -34,8 +34,8 @@ Nanogpt with label embeddings implemented. Performance on the task of subtractin
 
 ## training
 
-- 40000 iterations on 1 H100
-- 18 batch_size for 1024 context window, 4 batch_size for 2048 context window
+- 6.5 hours iterations on 1 H100
+- 132 batch_size for 512 context window, 38 batch_size for 1048 context window
 
 ## tokenizer & labeler
 
