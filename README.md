@@ -4,33 +4,26 @@ Nanogpt with labels implemented. Performance on the task of subtracting two sing
 
 ## subtraction task results
 
-### no labels
+# no_labels
 39M parameter model, 512 context window
-| eval_type     | correct_count  | all_count  |
-| ------------- |:--------------:| ----------:|
-| nshot_cot     | 9              | 55         |
-| nshot_direct  | 10             | 55         |
-| 0shot_cot     | 10             | 55         |
-| 0shot_direct  | 12             | 55         |
+   0shot_cot: 373
+0shot_direct: 294
+   nshot_cot: 453
+nshot_direct: 376
 
-
-### labels (every second token)
+# with_labels
 39M parameter model, 512 (effective) context window
-| eval_type     | correct_count  | all_count  |
-| ------------- |:--------------:| ----------:|
-| nshot_cot     | 9              | 55         |
-| nshot_direct  | 12             | 55         |
-| 0shot_cot     | 14             | 55         |
-| 0shot_direct  | 13             | 55         |
+   0shot_cot: 173
+0shot_direct: 142
+   nshot_cot: 178
+nshot_direct: 193
 
-### label embeddings
+# label_embeddings
 39M parameter model, 512 context window, 
-| eval_type     | correct_count  | all_count  |
-| ------------- |:--------------:| ----------:|
-| nshot_cot     | 7              | 55         |
-| nshot_direct  | 10             | 55         |
-| 0shot_cot     | 10             | 55         |
-| 0shot_direct  | 13             | 55         |
+   0shot_cot: 421
+0shot_direct: 263
+   nshot_cot: 382
+nshot_direct: 956
 
 ## training
 
