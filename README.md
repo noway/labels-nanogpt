@@ -6,7 +6,7 @@ Nanogpt with labels implemented. Performance on the task of subtracting two sing
 
 ranking sum, lower is better
 
-### no_labels
+### `no_labels`
 39M parameter model, 512 context window
 | eval_type    | sum |
 | ------------ |-----|
@@ -15,7 +15,7 @@ ranking sum, lower is better
 |    nshot_cot | 453 |
 | nshot_direct | 376 |
 
-### with_labels
+### `with_labels`
 39M parameter model, 512 (effective) context window
 | eval_type    | sum |
 | ------------ |-----|
@@ -24,7 +24,7 @@ ranking sum, lower is better
 |    nshot_cot | 178 |
 | nshot_direct | 193 |
 
-### label_embeddings
+### `label_embeddings`
 39M parameter model, 512 context window, 
 | eval_type    | sum |
 | ------------ |-----|
