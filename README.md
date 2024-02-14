@@ -52,5 +52,3 @@ The original hypothesis is that the label embedding model must increase eval per
 ## caveats
 
 - the model may be memorizing the substraction result from the dataset, thus becoming more of a recall test rather than calculation test.
-
-- we put in digit token label for eval, so not fully sure if eval is "fair". may need to measure the ranking by letting the model guess the label, that'd be more fair i guess
