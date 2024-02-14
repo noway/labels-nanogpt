@@ -44,9 +44,9 @@ def check_one_eval(eval_file):
     the_answer = ''
     expected_token = tokens_to_array_of_numbers_without_full_vocab(tokenize(str(answer), splits, commonality_map)[0], full_vocab)[1 if COMMONALITY_LABEL_ENABLED else 0]
     # print ('expected_token', (expected_token,))
-    the_ranking = 0
+    the_probability = 0
     with torch.no_grad():
-        the_ranking = m.module.generate(idx, 1000, expected_token)
+        the_probability = m.module.generate(idx, 1000, expected_token)
         # for token in m.module.generate(idx, 1000):
         #     token_str = decode_one_token(token)
         #     if (
@@ -67,38 +67,38 @@ def check_one_eval(eval_file):
     is_correct = the_answer == str(answer)
     # print('is_correct', (is_correct,))
     print('.', end='', flush=True)
-    return the_ranking, eval_type
+    return the_probability, eval_type
 
 
 if __name__ == '__main__':
     # correct_count = 0
     all_count = 0
     eval_type = ''
-    ranking_sum = 0
-    ranking_dict = {}
+    probability_sum = 0
+    probability_dict = {}
     for num1 in range(10):
         for num2 in range(10):
             if num1 < num2:
                 continue
             file_path = f'exercises{num1}_{num2}.yml'
             # print('file_path', (file_path,))
-            the_ranking, eval_type = check_one_eval(file_path)
-            ranking_sum += the_ranking
-            ranking_dict[file_path] = the_ranking
+            the_probability, eval_type = check_one_eval(file_path)
+            probability_sum += the_probability
+            probability_dict[file_path] = the_probability
             # if is_correct:
             #     correct_count += 1
             all_count += 1
     print()
     print('eval_type', (eval_type,))
-    print('ranking_sum', (ranking_sum,))
+    print('probability_sum', (probability_sum,))
     print('all_count', (all_count,))
 
     with open(f'eval_results{suffix}-{eval_type}.json', 'w') as f:
         json_of_all_above = {
             'eval_type': eval_type,
-            'ranking_sum': ranking_sum,
+            'probability_sum': probability_sum,
             'all_count': all_count,
-            'ranking_dict': ranking_dict,
+            'probability_dict': probability_dict,
         }
         json_str = json.dumps(json_of_all_above)
         f.write(json_str)

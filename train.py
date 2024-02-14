@@ -207,11 +207,13 @@ class BigramLanguageModel(nn.Module):
             probs = F.softmax(logits, dim=-1)
             # idx_next = torch.multinomial(probs, num_samples=1)
             # print ('probs', probs[0].tolist())
-            # expected_token_probability = probs[0][expected_token].item()
+            expected_token_probability = probs[0][expected_token].item()
             sorted_tensor, sorted_indices = torch.sort(probs, descending=True)
             expected_token_ranking = sorted_indices[0].tolist().index(expected_token)
             # print('expected_token_ranking', expected_token_ranking)
-            return expected_token_ranking
+            # return expected_token_ranking
+            print ('expected_token_probability', expected_token_probability)
+            return expected_token_probability
             # if isFirst:
             #     # print ('expected_token_probability', expected_token_probability)
             #     yield expected_token_ranking
