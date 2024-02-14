@@ -14,7 +14,7 @@ generate advanced problem sets
 - look for "the student" or "student"
 - might have to regenerate the review chapter or delete
 - should learn on the dataset sequentially [done]
-- 10% from the end of the dataset is actually not very representative of the whole dataset.
+- 10% from the end of the dataset is actually not very representative of the whole dataset. [done]
 - render md -> html -> elinks (would this work for highlighting bold?) (maybe convert terminal seqs back to md-light?) [done]
 - render latex somehow? [done]
 - start token for every section/chapter [done]
