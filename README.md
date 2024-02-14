@@ -35,7 +35,7 @@ ranking sum, lower is better
 
 ## training
 
-- 6.5 hours compute budget on 1 H100
+- 6.5 hours compute budget on 1 H100 for each model
 - 132 batch_size for 512 context window, 38 batch_size for 1048 context window
 
 ## tokenizer & labeler
@@ -43,10 +43,11 @@ ranking sum, lower is better
 - BPE-like tokenizer, vocab_size 1024
 - labels are word commonality based + character "type" ([digit, typography, emoji, special, etc](toker.py#L249))
 
-## original hypothesis
+## original hypothesis & findings
 
-The original hypothesis is that the label embedding model must increase eval performance over no labels. This has been proven false - label embedding model has slightly better/worse eval performance, overall mixed. On the other hand, having a label on every second token does increase eval performance. The intuition here is that the extra token is a chance for the model to "think".
+The original hypothesis was that the label embedding model must increase eval performance over no labels. This has been proven false - label embedding model has slightly better/worse eval performance, overall mixed. On the other hand, having a label on every second token (`with_labels`) does increase eval performance for the comparable hyperparameters. The intuition here is that the extra token is a chance for the model to "think".
 
 ## caveats
 
-The model may be memorizing the substraction result from the dataset, thus becoming more of a recall test rather than calculation test. Although there are instances where the model gets the result right that is not in the dataset.
+- The model may be memorizing the substraction result from the dataset, thus becoming more of a recall test rather than calculation test. Although there are instances where the model gets the result right that's not in the dataset.
+- No optimal hyperparameter search was done.
