@@ -8,21 +8,27 @@ def interpret(file_name):
     rankin_sum = 0
     for key in ranking_dict:
         rankin_sum += ranking_dict[key]
-    print (f'{eval_type.rjust(12," ")}: {rankin_sum}')
+    print (f'| {eval_type.rjust(12," ")} | {rankin_sum} |')
     
-print("\n# no_labels")
+print("\n### no_labels")
+print("| eval_type    | sum |")
+print("| ------------ |-----|")
 interpret('eval_results-no_labels-0shot_cot.json')
 interpret('eval_results-no_labels-0shot_direct.json')
 interpret('eval_results-no_labels-nshot_cot.json')
 interpret('eval_results-no_labels-nshot_direct.json')
 
-print("\n# with_labels")
+print("\n### with_labels")
+print("| eval_type    | sum |")
+print("| ------------ |-----|")
 interpret('eval_results-with_labels-0shot_cot.json')
 interpret('eval_results-with_labels-0shot_direct.json')
 interpret('eval_results-with_labels-nshot_cot.json')
 interpret('eval_results-with_labels-nshot_direct.json')
 
-print("\n# label_embeddings")
+print("\n### label_embeddings")
+print("| eval_type    | sum |")
+print("| ------------ |-----|")
 interpret('eval_results-label_embeddings-0shot_cot.json')
 interpret('eval_results-label_embeddings-0shot_direct.json')
 interpret('eval_results-label_embeddings-nshot_cot.json')
