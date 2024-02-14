@@ -45,7 +45,7 @@ ranking sum, lower is better
 
 ## original hypothesis & findings
 
-The original hypothesis was that the label embedding model must increase eval performance over no labels. This has been proven false - label embedding model has slightly better/worse eval performance, overall mixed. On the other hand, having a label on every second token (`with_labels`) does increase eval performance for the comparable hyperparameters. The intuition here is that the extra token is a chance for the model to "think".
+The original hypothesis was that the label embedding model must increase eval performance over no labels. This has been proven false - label embedding model has slightly better/worse eval performance, overall mixed. On the other hand, having a label on every second token (`with_labels` model) does increase eval performance for the comparable hyperparameters. The intuition here is that the extra token is a chance for the model to "think".
 
 ## caveats
 
