@@ -185,7 +185,6 @@ class BigramLanguageModel(nn.Module):
             logits, _ = self(idx, targets=None)
             logits = logits[:, -1, :]
             probs = F.softmax(logits, dim=-1)
-            expected_token_probability = probs[0][expected_token].item()
             sorted_tensor, sorted_indices = torch.sort(probs, descending=True)
             expected_token_ranking = sorted_indices[0].tolist().index(expected_token)
 
@@ -194,9 +193,7 @@ class BigramLanguageModel(nn.Module):
             values, indices = torch.topk(probs, 5)
             # print ('indices', [decode_one_token(tok) for tok in indices[0].tolist()], 'values', values[0].tolist())
             # print('expected_token_ranking', expected_token_ranking)
-            print ('expected_token_probability', expected_token_probability)
-            return expected_token_probability
-            # return expected_token_ranking
+            return expected_token_ranking
             # yield idx_next[0][0].item()
             idx = torch.cat([idx, idx_next], dim=-1)
             # clip idx to block_size so that we're not feeding the model tokens past it's context window

@@ -4,11 +4,11 @@ def interpret(file_name):
         data = json.load(f)
     eval_type = data['eval_type']
     all_count = data['all_count']
-    probability_dict = data['probability_dict']
-    probability_sum = 0
-    for key in probability_dict:
-        probability_sum += probability_dict[key]
-    print (f'{eval_type.rjust(12," ")}: {probability_sum}')
+    ranking_dict = data['ranking_dict']
+    rankin_sum = 0
+    for key in ranking_dict:
+        rankin_sum += ranking_dict[key]
+    print (f'{eval_type.rjust(12," ")}: {rankin_sum}')
     
 print("\n# no_labels")
 interpret('eval_results-no_labels-0shot_cot.json')

@@ -44,11 +44,11 @@ def check_one_eval(eval_file):
     the_answer = ''
     expected_token = tokens_to_array_of_numbers_without_full_vocab(tokenize(str(answer), splits, commonality_map)[0], full_vocab)[0]
     # print ('expected_token', (expected_token,), 'answer', (answer,))
-    the_probability = 0
+    the_ranking = 0
     with torch.no_grad():
-        the_probability = m.module.generate(idx, idx_labels, 1000, expected_token)
+        the_ranking = m.module.generate(idx, idx_labels, 1000, expected_token)
         # for ranking in m.module.generate(idx, idx_labels, 1000, expected_token):
-        #     the_probability = ranking
+        #     the_ranking = ranking
             # token_str = decode_one_token(token)
             # if (
             #     token_str == '\n'
@@ -68,36 +68,38 @@ def check_one_eval(eval_file):
     is_correct = the_answer == str(answer)
     # print('is_correct', (is_correct,))
     print('.', end='', flush=True)
-    return the_probability, eval_type
+    return the_ranking, eval_type
 
 
 if __name__ == '__main__':
     # correct_count = 0
     all_count = 0
     eval_type = ''
-    probability_sum = 0
-    probability_dict = {}
+    ranking_sum = 0
+    ranking_dict = {}
     for num1 in range(10):
         for num2 in range(10):
             if num1 < num2:
                 continue
             file_path = f'exercises{num1}_{num2}.yml'
             # print('file_path', (file_path,))
-            the_probability, eval_type = check_one_eval(file_path)
-            probability_sum += the_probability
-            probability_dict[file_path] = the_probability
+            the_ranking, eval_type = check_one_eval(file_path)
+            ranking_sum += the_ranking
+            ranking_dict[file_path] = the_ranking
+            # if the_ranking:
+            #     correct_count += 1
             all_count += 1
     print()
     print('eval_type', (eval_type,))
-    print('probability_sum', (probability_sum,))
+    print('ranking_sum', (ranking_sum,))
     print('all_count', (all_count,))
 
     with open(f'eval_results{suffix}-{eval_type}.json', 'w') as f:
         json_of_all_above = {
             'eval_type': eval_type,
-            'probability_sum': probability_sum,
+            'ranking_sum': ranking_sum,
             'all_count': all_count,
-            'probability_dict': probability_dict,
+            'ranking_dict': ranking_dict,
         }
         json_str = json.dumps(json_of_all_above)
         f.write(json_str)
