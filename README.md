@@ -46,4 +46,4 @@ The original hypothesis is that the label embedding model must increase eval per
 
 ## caveats
 
-- the model may be memorizing the substraction result from the dataset, thus becoming more of a recall test rather than calculation test.
+The model may be memorizing the substraction result from the dataset, thus becoming more of a recall test rather than calculation test. Although there are instances where the model gets the result right that is not in the dataset.

@@ -7,6 +7,8 @@ def interpret(file_name):
     ranking_dict = data['ranking_dict']
     rankin_sum = 0
     for key in ranking_dict:
+        # if ranking_dict[key] == 0:
+        #     print (f'ranking_dict[{key}] == 0 yay, its for {eval_type}')
         rankin_sum += ranking_dict[key]
     print (f'| {eval_type.rjust(12," ")} | {rankin_sum} |')
     
