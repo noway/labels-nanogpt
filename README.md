@@ -52,3 +52,7 @@ The original hypothesis was that the label embedding model must increase eval pe
 - The model may be memorizing the substraction result from the dataset, thus becoming more of a recall test rather than calculation test. Although there are instances where the model gets the right result that's not in the dataset.
 - No optimal hyperparameter search was done.
 - `main` branch is for evals, training is in `real_run`
+
+## weights
+
+[See here](WEIGHTS.md)
